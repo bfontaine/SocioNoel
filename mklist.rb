@@ -16,7 +16,7 @@ days = YAML.load_file("books.yml")
 
 book_template = <<-EOS
 <article class="book">
-  <h1><span class="title"><%= title.strip %></span>, par <span class="author"><%= author.strip %></h1>
+  <h1><span class="title"><%= title.strip %></span>, par <span class="author"><%= author.strip %></span></h1>
   <% if source %>
   <p class="from">Recommandé par <a class="handle" href="<%= source %>">@<%= source.split("/")[3] %></a>&nbsp;:</p>
   <blockquote class="comment"><%= comment.strip.sub('\n', "<br/>") %></blockquote>
