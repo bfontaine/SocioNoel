@@ -11,10 +11,8 @@ plusieurs livres le même jour (bouuuuh !).
 Il n’y a pas d’ordre particulier.
 
 Accès direct à un jour :<br/>
-<ol id="days">
-  <li><a href="#dec15-1">1er Décembre</a></li>
-<li><a href="#dec15-2">2 Décembre</a></li>
-</ol>
+1. <a href="#dec15-1">1er Décembre</a>
+2. <a href="#dec15-2">2 Décembre</a>
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
   <h1><span class="title">La misère du monde</span>, par <span class="author">Pierre Bourdieu</span></h1>
