@@ -5,12 +5,17 @@ layout: default
 <img src="./assets/banner.png" id="banner" alt="Un ouvrage de socio par jour du 1er au 24 décembre" />
 
 <b>#SocioNoel</b> est une idée originale de [@CobbleAndFrame](https://twitter.com/CobbleAndFrame/status/671360041136558081), qui a également créé l’image ci-dessus (utilisée sans aucune permission).
-La liste ci-dessous est compilée à la main à partir des tweets qui ont ce hashtag ([voir sur Twitter](https://twitter.com/search?f=tweets&vertical=default&q=socionoel)).
-Certaines personnes apparaissent plusieurs fois parce qu’elles ont mentionné 
+La liste ci-dessous est compilée à la main à partir des tweets qui ont le hashtag [#SocioNoel](https://twitter.com/search?f=tweets&vertical=default&q=socionoel).
+Certaines personnes apparaissent plusieurs fois parce qu’elles ont mentionné
 plusieurs livres le même jour (bouuuuh !).
 Il n’y a pas d’ordre particulier.
 
-## 1er Décembre
+Accès direct à un jour :<br/>
+<ol id="days">
+  <li><a href="#dec15-1">1er Décembre</a></li>
+<li><a href="#dec15-2">2 Décembre</a></li>
+</ol>
+<h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
   <h1><span class="title">La misère du monde</span>, par <span class="author">Pierre Bourdieu</span></h1>
   <div class="sources">
@@ -689,7 +694,7 @@ Il n’y a pas d’ordre particulier.
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Basses Oeuvres. Une ethnologie du travail dans les égouts.</span>, par <span class="author">Agnès Jeanjean</span>&nbsp;(<a href="https://lhomme.revues.org/13182">lien</a>)</h1>
+  <h1><span class="title">Basses Oeuvres. Une ethnologie du travail dans les égouts</span>, par <span class="author">Agnès Jeanjean</span>&nbsp;(<a href="https://lhomme.revues.org/13182">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -699,3 +704,5 @@ Il n’y a pas d’ordre particulier.
   
   </div>
 </article>
+<h2 id="dec15-2">2 Décembre</h2>
+<p class="notice">Il n’y a pas encore de livres pour ce jour.</p>

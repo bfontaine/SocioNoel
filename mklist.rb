@@ -12,6 +12,10 @@ class Hash
   end
 end
 
+def day_title(day)
+  "#{day == 1 ? "1er" : day} Décembre"
+end
+
 days = YAML.load_file("books.yml")
 
 book_template = <<-EOS
@@ -46,18 +50,24 @@ layout: default
 <img src="./assets/banner.png" id="banner" alt="Un ouvrage de socio par jour du 1er au 24 décembre" />
 
 <b>#SocioNoel</b> est une idée originale de [@CobbleAndFrame](https://twitter.com/CobbleAndFrame/status/671360041136558081), qui a également créé l’image ci-dessus (utilisée sans aucune permission).
-La liste ci-dessous est compilée à la main à partir des tweets qui ont ce hashtag ([voir sur Twitter](https://twitter.com/search?f=tweets&vertical=default&q=socionoel)).
-Certaines personnes apparaissent plusieurs fois parce qu’elles ont mentionné 
+La liste ci-dessous est compilée à la main à partir des tweets qui ont le hashtag [#SocioNoel](https://twitter.com/search?f=tweets&vertical=default&q=socionoel).
+Certaines personnes apparaissent plusieurs fois parce qu’elles ont mentionné
 plusieurs livres le même jour (bouuuuh !).
 Il n’y a pas d’ordre particulier.
 
+Accès direct à un jour :<br/>
+<ol id="days">
+  #{days.map { |day, _| %{<li><a href="#dec15-#{day}">#{day_title day}</a></li>} } * "\n"}
+</ol>
   EOS
 
-
   days.each do |day, books|
-    day = "1er" if day == 1
+    f.write %{<h2 id="dec15-#{day}">#{day_title day}</h2>\n}
 
-    f.write "## #{day} Décembre\n"
+    if books.nil? or books.empty?
+      f.write %(<p class="notice">Il n’y a pas encore de livres pour ce jour.</p>\n)
+      next
+    end
 
     books.each do |book|
       f.write renderer.result(book.to_binding)

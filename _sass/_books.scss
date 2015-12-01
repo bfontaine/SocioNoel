@@ -1,7 +1,25 @@
 .page-content .wrapper > h2 {
   text-align: center;
+  margin-top: 50px;
   margin-bottom: 40px;
   font-size: 2rem;
+}
+
+#days {
+  list-style-type: none;
+  margin-left: 0;
+
+  // get a nicely-aligned list, e.g.:
+  //
+  //   9 December
+  //  10 December
+  //
+  // instead of:
+  //
+  //  9 December
+  //  10 December
+  text-align: right;
+  width: 7em;
 }
 
 .book {
@@ -23,4 +41,9 @@
   }
 
   margin-bottom: 25px;
+}
+
+.notice {
+  font-style: italic;
+  text-align: center;
 }
