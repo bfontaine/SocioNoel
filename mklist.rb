@@ -56,14 +56,17 @@ plusieurs livres le même jour (bouuuuh !).
 Il n’y a pas d’ordre particulier.
 
 Accès direct à un jour :<br/>
+
   EOS
 
   # we have to cheat here because GitHub doesn't seem to like <ol id="something">
   idx = 0
   days.each do |day, _|
     idx += 1
-    f.write %{#{idx}. <a href="#dec15-#{day}">#{day_title day}</a>\n}
+    f.write %{#{idx}. [#{day_title day}](#dec15-#{day})\n}
   end
+
+  f.write "\n"
 
   days.each do |day, books|
     f.write %{<h2 id="dec15-#{day}">#{day_title day}</h2>\n}
