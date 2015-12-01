@@ -104,10 +104,15 @@
       Michel Offerlé, François Ploux
   - title: Voyage de classes
     author: Nicolas Jounin
-    source: https://twitter.com/Lil_RoXaNe/status/671593708479975424
-    comment: >
-      J1, livre sympa et accessible. Des étudiants en socio de St Denis
-      enquêtent dans le 8ème arrondissement.
+    sources:
+      - link: https://twitter.com/Lil_RoXaNe/status/671593708479975424
+        comment: >
+          J1, livre sympa et accessible. Des étudiants en socio de St Denis
+          enquêtent dans le 8ème arrondissement.
+      - link: https://twitter.com/thefugitive_/status/671826770610552832
+        comment: >
+          Excellente vulgarisation des méthodes d'enquête.
+          <a href="https://twitter.com/thefugitive_/status/660802831918587904">Déroulez là</a>
   - title: Le monde privé des ouvriers
     author: Olivier Schwartz
     source: https://twitter.com/mquijoux/status/671707874180128768
@@ -351,4 +356,10 @@
     comment: >
       Basses Oeuvres. Une ethnologie du travail dans les égouts. Agnès Jeanjean.
     link: https://lhomme.revues.org/13182
+  - title: L’idéologie raciste
+    author: Colette Guillaumin
+    source: https://twitter.com/LionnelleMakaya/status/671828567135776768
+    comment: >
+      il fracasse les struc soc du sexisme, racisme et montre leurs capacités
+      de transformation
 2:

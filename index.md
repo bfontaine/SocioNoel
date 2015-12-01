@@ -222,10 +222,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">Voyage de classes</span>, par <span class="author">Nicolas Jounin</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      J1, livre sympa et accessible. Des étudiants en socio de St Denis enquêtent dans le 8ème arrondissement.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/671593708479975424">@Lil_RoXaNe</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        J1, livre sympa et accessible. Des étudiants en socio de St Denis enquêtent dans le 8ème arrondissement.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/671593708479975424">@Lil_RoXaNe</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Excellente vulgarisation des méthodes d'enquête. <a href="https://twitter.com/thefugitive_/status/660802831918587904">Déroulez là</a><br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/671826770610552832">@thefugitive_</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -700,6 +707,17 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Basses Oeuvres. Une ethnologie du travail dans les égouts. Agnès Jeanjean.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/TaniaLaura03/status/671821492150263809">@TaniaLaura03</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L’idéologie raciste</span>, par <span class="author">Colette Guillaumin</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      il fracasse les struc soc du sexisme, racisme et montre leurs capacités de transformation<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/671828567135776768">@LionnelleMakaya</a></span>
     </blockquote>
   
   </div>
