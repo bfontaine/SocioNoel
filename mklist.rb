@@ -17,15 +17,17 @@ days = YAML.load_file("books.yml")
 book_template = <<-EOS
 <article class="book">
   <h1><span class="title"><%= title.strip %></span>, par <span class="author"><%= author.strip %></span></h1>
+  <div class="sources">
   <% if source %>
-  <p class="from">Recommandé par <a class="handle" href="<%= source %>">@<%= source.split("/")[3] %></a>&nbsp;:</p>
-  <blockquote class="comment"><%= comment.strip.sub('\n', "<br/>") %></blockquote>
+    <p class="from">Recommandé par <a class="handle" href="<%= source %>">@<%= source.split("/")[3] %></a>&nbsp;:</p>
+    <blockquote class="comment"><%= comment.strip.sub('\n', "<br/>") %></blockquote>
   <% elsif sources %>
     <% for s in sources %>
-      <p class="from">Recommandé par <a class="handle" href="<%= s["link"] %>">@<%= s["link"].split("/")[3] %></a>&nbsp;:</p>
-      <blockquote class="comment"><%= s["comment"].strip.sub('\n', "<br/>") %></blockquote>
+    <p class="from">Recommandé par <a class="handle" href="<%= s["link"] %>">@<%= s["link"].split("/")[3] %></a>&nbsp;:</p>
+    <blockquote class="comment"><%= s["comment"].strip.sub('\n', "<br/>") %></blockquote>
     <% end %>
   <% end %>
+  </div>
   <% if link %>
     <p>&rarr;&nbsp;<a href="<%= link %>">Lien</a></p>
   <% end %>
@@ -39,6 +41,8 @@ File.open("index.md", "w") do |f|
 ---
 layout: default
 ---
+
+<img src="./assets/banner.png" id="banner" alt="Un ouvrage de socio par jour du 1er au 24 décembre" />
   EOS
 
 
