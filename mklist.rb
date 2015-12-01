@@ -55,6 +55,8 @@ Il n’y a pas d’ordre particulier.
 
 
   days.each do |day, books|
+    day = "1er" if day == 1
+
     f.write "## #{day} Décembre\n"
 
     books.each do |book|
