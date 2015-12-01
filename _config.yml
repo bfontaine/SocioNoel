@@ -1,6 +1,6 @@
 # Site settings
 title: "#SocioNoël"
-baseurl: "/socionoel" # the subpath of your site, e.g. /blog/
+baseurl: "/SocioNoel" # the subpath of your site, e.g. /blog/
 url: "http://bfontaine.github.io" # the base hostname & protocol for your site
 
 # Build settings
