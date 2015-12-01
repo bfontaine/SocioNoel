@@ -5,7 +5,9 @@
   font-size: 2rem;
 }
 
-#days {
+// we can't directly refer to the ToC; GitHub doesn’t like us adding an id on
+// a list (<ol id="something"> doesn’t render).
+.page-content ol {
   list-style-type: none;
   margin-left: 0;
 
