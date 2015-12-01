@@ -59,7 +59,7 @@ Il n’y a pas d’ordre particulier.
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Beyond 'Identity'</span>, par <span class="author">Rogers Brubaker & Frederick Cooper</span>&nbsp;(<a href="http://works.bepress.com/cgi/viewcontent.cgi?article=1001&context=wrb">lien</a>)</h1>
+  <h1><span class="title">Beyond 'Identity'</span>, par <span class="author">Rogers Brubaker et Frederick Cooper</span>&nbsp;(<a href="http://works.bepress.com/cgi/viewcontent.cgi?article=1001&context=wrb">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -271,7 +271,7 @@ Il n’y a pas d’ordre particulier.
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Allez les filles !</span>, par <span class="author">Christian Baudelot & Roger Establet</span></h1>
+  <h1><span class="title">Allez les filles !</span>, par <span class="author">Christian Baudelot et Roger Establet</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
