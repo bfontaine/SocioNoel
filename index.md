@@ -677,3 +677,25 @@ Il n’y a pas d’ordre particulier.
   
   </div>
 </article>
+<article class="book">
+  <h1><span class="title">La double absence</span>, par <span class="author">Abdelmalek Sayad</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Allez, moi aussi je joue! J1: le livre qui m'a convaincu de faire de la socio "La double absence" de Sayad. La base.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/671821166114312193">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Basses Oeuvres. Une ethnologie du travail dans les égouts.</span>, par <span class="author">Agnès Jeanjean</span>&nbsp;(<a href="https://lhomme.revues.org/13182">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Basses Oeuvres. Une ethnologie du travail dans les égouts. Agnès Jeanjean.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/TaniaLaura03/status/671821492150263809">@TaniaLaura03</a></span>
+    </blockquote>
+  
+  </div>
+</article>
