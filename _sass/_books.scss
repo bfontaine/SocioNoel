@@ -5,6 +5,10 @@
 }
 
 .book {
+  h1 {
+    margin-bottom: 10px;
+  }
+
   .title {
     font-style: italic;
     font-weight: bold;
@@ -17,4 +21,6 @@
       font-style: normal;
     }
   }
+
+  margin-bottom: 25px;
 }

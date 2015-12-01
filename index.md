@@ -83,6 +83,11 @@ Il n’y a pas d’ordre particulier.
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Blinis/status/671709437745340417">@Blinis</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Une lecture qui t'oblige à prendre du recul sur la catégorisation. Et t'apprends à fumer du shit<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ianonim/status/671724354707828737">@Ianonim</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -293,6 +298,83 @@ Il n’y a pas d’ordre particulier.
     <blockquote class="comment">
       C'était lors de ma première année à l'université. Je l'avais dévoré.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Dheltaa/status/671711835633156096">@Dheltaa</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Sister Outsider: Essays and Speeches</span>, par <span class="author">Audre Lorde</span>&nbsp;(<a href="https://books.google.fr/books?id=kE3ek_-FGWgC&printsec=frontcover&dq=Audre+Lorde&hl=fr&sa=X&ved=0ahUKEwjFjtThjrvJAhUFig8KHbGGAnIQ6AEIIjAA#v=onepage&q=Audre%20Lorde&f=false">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Bon, comme @ThisisKiyemis me tane avec #SocioNoel, si ce n'est pas encore fait, lisez ça. C'est plutôt petit en +<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AudVoo/status/671733263069814784">@AudVoo</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Sense and Security - A Comparative View on Access Control at Airports</span>, par <span class="author">Jörg Potthast</span>&nbsp;(<a href="http://www.sti-studies.de/ojs/index.php/sti/article/viewArticle/55">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Potthast: comment la sécurité aéroportuaire légitima le durcissement de la politique migratoire #attentat<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/671733240886087681">@F__Casta</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Faire du bruit sans faire de vagues</span>, par <span class="author">Jean-Baptiste Comby</span>&nbsp;(<a href="http://communication.revues.org/4439">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une analyse sociologique de la communication de l’État sur les questions climatiques - Comby<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/671732792720539653">@Phangere</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Journalistes précaires, journalistes au quotidien</span>, par <span class="author">Alain Accardo</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Gros pavé, côté "envers du décor" des précaires de l'info. Passionnant.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Aleskih/status/671715127759151105">@Aleskih</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La cause animale</span>, par <span class="author">Christophe Traïni</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une bien belle enquête socio-historique pour commencer<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Politriste/status/671718846131281920">@Politriste</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">The Saami Languages: the present and the future</span>, par <span class="author">Magga, Ole Henrik; Skutnabb-Kangas, Tove</span>&nbsp;(<a href="https://www.culturalsurvival.org/publications/cultural-survival-quarterly/saami-languages-present-and-future">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      The Saami Languages: the present and the future<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sassypuff/status/671720134243930112">@sassypuff</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">C'est du propre !</span>, par <span class="author">Cristina Nizzoli</span>&nbsp;(<a href="http://www.puf.com/Autres_Collections:C%27est_du_propre">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      1er décembre : @CristinaNizzoli - C'est du propre !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/671722049338015745">@Laboratoire_CMH</a></span>
     </blockquote>
   
   </div>
