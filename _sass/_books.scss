@@ -1,4 +1,4 @@
-.wrapper > h2 {
+.page-content .wrapper > h2 {
   text-align: center;
   margin-bottom: 40px;
   font-size: 2rem;
@@ -8,5 +8,13 @@
   .title {
     font-style: italic;
     font-weight: bold;
+  }
+
+  .sources {
+    padding-left: 20px;
+
+    .comment-author {
+      font-style: normal;
+    }
   }
 }
