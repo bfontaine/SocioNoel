@@ -5,10 +5,54 @@ require "erb"
 require "ostruct"
 require "yaml"
 
-class Hash
+class Book
+  def initialize(hash, day, idx)
+    @attrs = hash
+    @day = day
+    @idx = idx
+  end
+
   def to_binding
     # https://bugs.ruby-lang.org/issues/8643
-    OpenStruct.new(self).instance_eval { binding }
+    OpenStruct.new(@attrs).instance_eval { binding }
+  end
+
+  def has?(k)
+    @attrs.has_key?(k) && !@attrs[k].nil?
+  end
+
+  def [](k)
+    @attrs[k]
+  end
+
+  def validate!
+    must "have a title" unless has? "title"
+    must "have an author" unless has? "author"
+    if has? "sources"
+      sources = self["sources"]
+      must "have sources" if sources.nil? || sources.empty?
+      sources.each_with_index do |s, i|
+        %w[link comment].each do |attr|
+          must "have a #{attr} for its source #{i}" unless s.has_key? attr
+        end
+      end
+    elsif !has? "source"
+      must "have a source"
+    else
+      must "use 'sources' instead of 'source'" if self["source"].is_a? Array
+      must "have a comment" unless has? "comment"
+    end
+  end
+
+  def to_s
+    title = has?("title") ? self["title"] : "<unknown title>"
+    "#{title} (day #{@day}, ##{@idx})"
+  end
+
+  private
+
+  def must(s)
+    raise "Book '#{self}' must #{s}"
   end
 end
 
@@ -76,7 +120,9 @@ Accès direct à un jour :<br/>
       next
     end
 
-    books.each do |book|
+    books.each_with_index do |hash, i|
+      book = Book.new(hash, day, i)
+      book.validate!
       f.write renderer.result(book.to_binding)
     end
   end
