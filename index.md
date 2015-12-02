@@ -14,6 +14,7 @@ Accès direct à un jour :<br/>
 
 1. [1er Décembre](#dec15-1)
 2. [2 Décembre](#dec15-2)
+3. [3 Décembre](#dec15-3)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -224,7 +225,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        J1, livre sympa et accessible. Des étudiants en socio de St Denis enquêtent dans le 8ème arrondissement.<br/>
+        livre sympa et accessible. Des étudiants en socio de St Denis enquêtent dans le 8ème arrondissement.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/671593708479975424">@Lil_RoXaNe</a></span>
       </blockquote>
     
@@ -304,7 +305,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        J2: Je crois que quelqu'un l'a déjà cité mais l'article de Crenshaw sur l'intersectionnalité<br/>
+        Je crois que quelqu'un l'a déjà cité mais l'article de Crenshaw sur l'intersectionnalité<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/672066008606187520">@Silmalia</a></span>
       </blockquote>
     
@@ -701,7 +702,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Allez, moi aussi je joue! J1: le livre qui m'a convaincu de faire de la socio "La double absence" de Sayad. La base.<br/>
+      le livre qui m'a convaincu de faire de la socio "La double absence" de Sayad. La base.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/671821166114312193">@PaillardSimon</a></span>
     </blockquote>
   
@@ -719,18 +720,23 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L’idéologie raciste</span>, par <span class="author">Colette Guillaumin</span></h1>
+  <h1><span class="title">L’idéologie raciste</span>, par <span class="author">Colette Guillaumin</span>&nbsp;(<a href="http://www.persee.fr/doc/homso_0018-4306_1973_num_27_1_1800">lien</a>)</h1>
   <div class="sources">
   
     
       <blockquote class="comment">
-        il fracasse les struc soc du sexisme, racisme et montre leurs capacités de transformation<br/>
+        il fracasse les structures sociales du sexisme, racisme et montre leurs capacités de transformation<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/671828567135776768">@LionnelleMakaya</a></span>
       </blockquote>
     
       <blockquote class="comment">
-        J1: L'idéologie raciste - Colette Guillaumin<br/>
+        L'idéologie raciste - Colette Guillaumin<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AurelieLeLievre/status/672018248448217088">@AurelieLeLievre</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Classique parmi les classiques<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/672100862098042880">@CamilleGinger</a></span>
       </blockquote>
     
   
@@ -852,7 +858,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      J2: La sociologie appliquée à l'amour il faut le faire non ?<br/>
+      La sociologie appliquée à l'amour il faut le faire non ?<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ClaraMordra/status/671969184297918464">@ClaraMordra</a></span>
     </blockquote>
   
@@ -918,7 +924,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      J2. On reste sur notre lancée #genre avec « Le pédé, la pute et l’ordre hétérosexue » d’Isabelle Clair<br/>
+      On reste sur notre lancée #genre avec « Le pédé, la pute et l’ordre hétérosexuel » d’Isabelle Clair<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Melusine_2/status/671974976837320704">@Melusine_2</a></span>
     </blockquote>
   
@@ -1005,10 +1011,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">Stigmate</span>, par <span class="author">Erving Goffman</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      je reste sur mes classiques de licence avec la découverte de la socio du handicap<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/671992320296927232">@balleverte</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        je reste sur mes classiques de licence avec la découverte de la socio du handicap<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/671992320296927232">@balleverte</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Un basique de l'interactionnisme, qui parle d'une expérience qu'on connaît tous<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Distolo/status/672097528658206721">@Distolo</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1310,7 +1323,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      J2: Le père Noël supplicié - Claude Lévi-Strauss<br/>
+      Le père Noël supplicié - Claude Lévi-Strauss<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AurelieLeLievre/status/672019936613695488">@AurelieLeLievre</a></span>
     </blockquote>
   
@@ -1433,6 +1446,73 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Les rites d'interaction de Goffman (!)<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Dolores_Charles/status/672087610253266948">@Dolores_Charles</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La vie au guichet</span>, par <span class="author">Vincent Dubois</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      C'est parti pour le #day2 de #SocioNoel avec une récente réédition. #streetlevelgifts #noelauguichet<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/672089630423011328">@ruggeroparis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Petit traité des émotions, sentiments et passions politiques</span>, par <span class="author">Philippe Braud</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      ça suffit la violence, d'autres sentiments?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/672091413698519040">@ruggeroparis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La construction sociale de la réalité</span>, par <span class="author">Peter Berger et Thomas Luckmann</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      on reste dans le classique. Berger & Luckmann sur la construction sociale de la réalité<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/672106120396279808">@F_Bally</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Beautés imaginaires</span>, par <span class="author">Pierre-Joseph Laurent</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Aride, mais parler de beauté fallait oser !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/joliraton/status/672119426343428097">@joliraton</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La sociologie des sciences</span>, par <span class="author">Yves Gringas</span>&nbsp;(<a href="http://www.uqam.ca/entrevues/entrevue.php?id=1237">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "La sociologie des sciences" de @y_gingras aux @editions_PUF (2013) ♡<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/gcabanac/status/672120337992167424">@gcabanac</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-3">3 Décembre</h2>
+<article class="book">
+  <h1><span class="title">Le champ littéraire</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Très dense, un peu compliqué, mais un vrai must read.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/672130381429256193">@Phangere</a></span>
     </blockquote>
   
   </div>

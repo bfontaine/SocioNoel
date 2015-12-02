@@ -107,7 +107,7 @@
     sources:
       - link: https://twitter.com/Lil_RoXaNe/status/671593708479975424
         comment: >
-          J1, livre sympa et accessible. Des étudiants en socio de St Denis
+          livre sympa et accessible. Des étudiants en socio de St Denis
           enquêtent dans le 8ème arrondissement.
       - link: https://twitter.com/thefugitive_/status/671826770610552832
         comment: >
@@ -155,8 +155,8 @@
           Cela ne surprendra personne, on va commencer par Kimberlé Crenshaw.
       - link: https://twitter.com/Silmalia/status/672066008606187520
         comment: >
-          J2: Je crois que quelqu'un l'a déjà cité mais l'article de Crenshaw
-          sur l'intersectionnalité
+          Je crois que quelqu'un l'a déjà cité mais l'article de Crenshaw sur
+          l'intersectionnalité
   - title: Les héritiers
     author: Pierre Bourdieu et Jean-Clause Passeron
     source: https://twitter.com/Dheltaa/status/671711835633156096
@@ -353,8 +353,8 @@
     author: Abdelmalek Sayad
     source: https://twitter.com/PaillardSimon/status/671821166114312193
     comment: >
-      Allez, moi aussi je joue! J1: le livre qui m'a convaincu de faire de la
-      socio "La double absence" de Sayad. La base.
+      le livre qui m'a convaincu de faire de la socio "La double absence" de
+      Sayad. La base.
   - title: Basses Oeuvres. Une ethnologie du travail dans les égouts
     author: Agnès Jeanjean
     source: https://twitter.com/TaniaLaura03/status/671821492150263809
@@ -366,11 +366,15 @@
     sources:
       - link: https://twitter.com/LionnelleMakaya/status/671828567135776768
         comment: >
-          il fracasse les struc soc du sexisme, racisme et montre leurs capacités
-          de transformation
+          il fracasse les structures sociales du sexisme, racisme et montre
+          leurs capacités de transformation
       - link: https://twitter.com/AurelieLeLievre/status/672018248448217088
         comment: >
-          J1: L'idéologie raciste - Colette Guillaumin
+          L'idéologie raciste - Colette Guillaumin
+      - link: https://twitter.com/CamilleGinger/status/672100862098042880
+        comment: >
+          Classique parmi les classiques
+    link: http://www.persee.fr/doc/homso_0018-4306_1973_num_27_1_1800
   - title: Des femmes respectables
     author: Beverley Skeggs
     source: https://twitter.com/extatiq/status/671835100196245504
@@ -431,7 +435,7 @@
     author: Eva Illouz
     source: https://twitter.com/ClaraMordra/status/671969184297918464
     comment: >
-      J2: La sociologie appliquée à l'amour il faut le faire non ?
+      La sociologie appliquée à l'amour il faut le faire non ?
   - title: La mémoire collective
     author: Maurice Halbwachs
     source: https://twitter.com/CobbleAndFrame/status/671969908922667009
@@ -468,8 +472,8 @@
     author: Isabelle Clair
     source: https://twitter.com/Melusine_2/status/671974976837320704
     comment: >
-      J2. On reste sur notre lancée #genre avec « Le pédé, la pute et l’ordre
-      hétérosexue » d’Isabelle Clair
+      On reste sur notre lancée #genre avec « Le pédé, la pute et l’ordre
+      hétérosexuel » d’Isabelle Clair
     link: https://www.cairn.info/resume.php?ID_ARTICLE=AGORA_060_0067
   - title: Identité et cultures 2
     author: Stuart Hall
@@ -509,9 +513,15 @@
       une suggestion de jour 1
   - title: Stigmate
     author: Erving Goffman
-    source: https://twitter.com/balleverte/status/671992320296927232
-    comment: >
-      je reste sur mes classiques de licence avec la découverte de la socio du handicap
+    sources:
+      - link: https://twitter.com/balleverte/status/671992320296927232
+        comment: >
+          je reste sur mes classiques de licence avec la découverte de la socio
+          du handicap
+      - link: https://twitter.com/Distolo/status/672097528658206721
+        comment: >
+          Un basique de l'interactionnisme, qui parle d'une expérience qu'on
+          connaît tous
   - title: Imperium
     author: Frédéric Lordon
     source: https://twitter.com/Blogageco/status/671992624325242881
@@ -671,7 +681,7 @@
     author: Claude Lévi-Strauss
     source: https://twitter.com/AurelieLeLievre/status/672019936613695488
     comment: >
-      J2: Le père Noël supplicié - Claude Lévi-Strauss
+      Le père Noël supplicié - Claude Lévi-Strauss
   - title: 80% au bac… et après ?
     author: Stéphane Beaud
     source: https://twitter.com/sociosauvage/status/672027008482869248
@@ -727,3 +737,37 @@
     author: Erving Goffman
     source: https://twitter.com/Dolores_Charles/status/672087610253266948
     comment: "Les rites d'interaction de Goffman (!)"
+  - title: La vie au guichet
+    author: Vincent Dubois
+    source: https://twitter.com/ruggeroparis/status/672089630423011328
+    comment: >
+      C'est parti pour le #day2 de #SocioNoel avec une récente réédition.
+      #streetlevelgifts #noelauguichet
+  - title: Petit traité des émotions, sentiments et passions politiques
+    author: Philippe Braud
+    source: https://twitter.com/ruggeroparis/status/672091413698519040
+    comment: "ça suffit la violence, d'autres sentiments?"
+  - title: La construction sociale de la réalité
+    author: Peter Berger et Thomas Luckmann
+    source: https://twitter.com/F_Bally/status/672106120396279808
+    comment: >
+      on reste dans le classique. Berger & Luckmann sur la construction sociale
+      de la réalité
+  - title: Beautés imaginaires
+    author: Pierre-Joseph Laurent
+    source: https://twitter.com/joliraton/status/672119426343428097
+    comment: >
+      Aride, mais parler de beauté fallait oser !
+  - title: La sociologie des sciences
+    author: Yves Gringas
+    source: https://twitter.com/gcabanac/status/672120337992167424
+    comment: >
+      "La sociologie des sciences" de @y_gingras aux @editions_PUF
+      (2013) ♡
+    link: http://www.uqam.ca/entrevues/entrevue.php?id=1237
+3:
+  - title: Le champ littéraire
+    author: Pierre Bourdieu
+    source: https://twitter.com/Phangere/status/672130381429256193
+    comment: >
+      Très dense, un peu compliqué, mais un vrai must read.
