@@ -723,4 +723,91 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <h2 id="dec15-2">2 Décembre</h2>
-<p class="notice">Il n’y a pas encore de livres pour ce jour.</p>
+<article class="book">
+  <h1><span class="title">Les réseaux sociaux</span>, par <span class="author">Michel Forsé et Alain Degenne</span>&nbsp;(<a href="http://www.armand-colin.com/les-reseaux-sociaux-9782200266622">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      2 décembre : Michel Forsé, Alain Degenne - Les réseaux sociaux<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/671934591335317504">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les prisons de la misère</span>, par <span class="author">Loïc Wacquant</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Jour 2. Loïc Wacquant "A l'atrophie délibérée de l'Etat social correspond l'hypertrophie de l'Etat pénal"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/671954466254532608">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Signes d’identité</span>, par <span class="author">David Le Breton</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Jour 2 - On a dit socio ou sciences sociales : donc mon choix se porte sur un autre livre d'anthropologie<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ylloPytterP/status/671963062891651072">@ylloPytterP</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les ghettos du gotha</span>, par <span class="author">Michel Pinçon et Monique Pinçon-Charlot</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      J-2  La base !!!!!! Un peu complexe mais super instructif.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ThisisKiyemis/status/671964593607036928">@ThisisKiyemis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L’Établi</span>, par <span class="author">Robert Linhart</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      se lit comme un témoignage :)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/caro_ligne/status/671966892547010560">@caro_ligne</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La raison graphique</span>, par <span class="author">Jack Goody</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Comment l'écriture structure nos modes de pensée<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/671967708297240576">@NuteluCaine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Essais sur la violence</span>, par <span class="author">Michel Maffesoli</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Parce que lire de la bullshit sociology est formateur.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/671968226100838400">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La prohibition de l’inceste et ses origines</span>, par <span class="author">Émile Durkheim</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Back to the roots dans ce 2e jour de #SocioNoel avec “La prohibition de l’inceste et ses origines” d’Émile Durkheim, très intéressant<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/671968354496811008">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
