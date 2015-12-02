@@ -722,6 +722,28 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1><span class="title">Des femmes respectables</span>, par <span class="author">Beverley Skeggs</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Participation nocturne à #SocioNoël : Des femmes respectables de Beverley Skeggs . (meilleur livre lu cette année)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/extatiq/status/671835100196245504">@extatiq</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Devenir anorexique</span>, par <span class="author">Muriel Darmon</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      le premier bouquin de socio que je me rappelle avoir lu en entier !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AAulagnier/status/671998090891665408">@AAulagnier</a></span>
+    </blockquote>
+  
+  </div>
+</article>
 <h2 id="dec15-2">2 Décembre</h2>
 <article class="book">
   <h1><span class="title">Les réseaux sociaux</span>, par <span class="author">Michel Forsé et Alain Degenne</span>&nbsp;(<a href="http://www.armand-colin.com/les-reseaux-sociaux-9782200266622">lien</a>)</h1>
@@ -807,6 +829,424 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Back to the roots dans ce 2e jour de #SocioNoel avec “La prohibition de l’inceste et ses origines” d’Émile Durkheim, très intéressant<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/671968354496811008">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Pourquoi l'amour fait mal ?</span>, par <span class="author">Eva Illouz</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      J2: La sociologie appliquée à l'amour il faut le faire non ?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ClaraMordra/status/671969184297918464">@ClaraMordra</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La mémoire collective</span>, par <span class="author">Maurice Halbwachs</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      un "classique" souvent mal connu des étudiants<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/671969908922667009">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La Cérémonie du Naven</span>, par <span class="author">Gregory Bateson</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      On commence donc ma liste #SocioNoel  100% subjective par le grand; l'immense, le maitre.... (oui je suis fan)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/671971334428184576">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Violences politiques</span>, par <span class="author">Philippe Braud</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      C'est aussi #SocioNoel pour les étudiants qui auront un cours de conclusion sur les usages politiques des violences.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Politriste/status/671971541417086976">@Politriste</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">De l’usage des catégories de « droite » et de « gauche » dans le champ littéraire </span>, par <span class="author">Gisèle Sapiro</span>&nbsp;(<a href="https://www.cairn.info/revue-societes-et-representations-2001-1-page-19.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Article passionnant sur l'historique de l'importation des catégories du politique dans le littéraire.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/671973545912725504">@Phangere</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L’invention de la culture</span>, par <span class="author">Roy Wagner</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      40 ans pour traduire ce monument ! INDISPENSABLE pour penser la notion de #culture  #SocioNoel #mustread<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/671973897626066944">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Le pédé, la pute et l’ordre hétérosexuel</span>, par <span class="author">Isabelle Clair</span>&nbsp;(<a href="https://www.cairn.info/resume.php?ID_ARTICLE=AGORA_060_0067">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      J2. On reste sur notre lancée #genre avec « Le pédé, la pute et l’ordre hétérosexue » d’Isabelle Clair<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Melusine_2/status/671974976837320704">@Melusine_2</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Identité et cultures 2</span>, par <span class="author">Stuart Hall</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Arme politique massive et source inépuisable de questions vibrantes. #culturalstudies<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/671975980685242368">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Où trouver les moyens de penser ?</span>, par <span class="author">Wilfried Lignier et Nicolas Mariot</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Où trouver les moyens de penser ?, W. Lignier, N. Mariot, 2013<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Garion_RDK/status/671976662251274240">@Garion_RDK</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Voyage en grande bourgeoisie : journal d'enquête</span>, par <span class="author">Monique Pinçon-Charlot et Michel Pinçon</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour la méthodo et les questionnements<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/TookyTsuki/status/671977683157413888">@TookyTsuki</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L’Identité au travail</span>, par <span class="author">Renaud Sainsaulieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "L'Identité au travail"sur les effets culturels de l'organisation se lit comme un roman-de sociologue<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/EditionsScpo/status/671978317352992768">@EditionsScpo</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Can the Subaltern Speak</span>, par <span class="author">Gayatri Chakravorty Spivak</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      La base.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/HeWasAThief/status/671979718464417792">@HeWasAThief</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Le fromage et les vers</span>, par <span class="author">Carlo Ginzburg</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Original et passionnant pour son objet & sa méthode<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/671990210339696640">@M_Iz_6</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Méditations pascaliennes</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Grande tristesse d'avoir raté le début de #SocioNoël ! Pour me rattraper une suggestion de jour 1<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Comtesse_Leia/status/671991338313900032">@Comtesse_Leia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Stigmate</span>, par <span class="author">Erving Goffman</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      je reste sur mes classiques de licence avec la découverte de la socio du handicap<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/671992320296927232">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Imperium</span>, par <span class="author">Frédéric Lordon</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Parce kil est plus socio qu'éco, #socionoel c forcément Imperium de F Lordon!<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Blogageco/status/671992624325242881">@Blogageco</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Statistique et Expérience</span>, par <span class="author">François Simiand</span>&nbsp;(<a href="http://gallica.bnf.fr/ark:/12148/bpt6k111338p/f6.image.r=Statistique%20et%20exp%C3%A9rience">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Et du coup mon jour 2 de #SocioNoel<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Comtesse_Leia/status/671992745158922240">@Comtesse_Leia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Oralité et écriture</span>, par <span class="author">Walter J. Ong</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      dans la ligné de mon <a href="https://twitter.com/NuteluCaine/status/671967708297240576">#lrt</a><br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/671995218040913920">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">À chacun son Bambara</span>, par <span class="author">Jean Bazin</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Au_coeur_de_l_ethnie-9782707146229.html">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Allez, #SocioNoel jour 2 : "A chacun son Bambara" de Jean Bazin que vous trouverez dans <a href="http://www.editionsladecouverte.fr/catalogue/index-Au_coeur_de_l_ethnie-9782707146229.html">ce bouquin</a><br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/672001961957400576">@Uneheuredepeine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Surveiller et Punir</span>, par <span class="author">Michel Foucault</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Analyse chirurgicale qui fait surgir les lieux de pouvoir et de contrôle d'une société.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ianonim/status/672003600294535168">@Ianonim</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Branchements</span>, par <span class="author">Jean-Loup Amselle</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Amselle a tout changer dans ma maniere d'utiliser la notion de #culture<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/672003637078532096">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Sur le processus de civilisation</span>, par <span class="author">Norbert Elias</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      un ouvrage fondateur de la sociologie historique<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/672004705531351040">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L’Amour et la Justice comme compétences</span>, par <span class="author">Luc Boltanski</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Bien des années plus tard... stimulant, magnifique.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/m_lallouet/status/672005229265711104">@m_lallouet</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La Crise commence où finit le langage</span>, par <span class="author">Éric Chauvier</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      TOUT Chauvier chez @EditionsAllia  Mention spéciale pour la notion de fiction thérorique !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/672005810768203776">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Que du bonheur</span>, par <span class="author">Éric Chauvier</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      TOUT Chauvier chez @EditionsAllia  Mention spéciale pour la notion de fiction thérorique !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/672005810768203776">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les mots sans les choses</span>, par <span class="author">Éric Chauvier</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      TOUT Chauvier chez @EditionsAllia  Mention spéciale pour la notion de fiction thérorique !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/672005810768203776">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Somaland</span>, par <span class="author">Éric Chauvier</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      TOUT Chauvier chez @EditionsAllia  Mention spéciale pour la notion de fiction thérorique !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/672005810768203776">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Ne suis-je pas une femme ?</span>, par <span class="author">Bell Hooks</span>&nbsp;(<a href="http://www.cambourakis.com/spip.php?article625">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un livre majeur du black feminism enfin traduit en français<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CristinaNizzoli/status/672006095653728256">@CristinaNizzoli</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Si l’enfant ne réagit pas</span>, par <span class="author">Éric Chauvier</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      toujours le même mais spécial educspé Devrait etre obligatoire dans toutes les ecoles de travail social<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/672006250767495169">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L'objectivité de la connaissance dans les sciences et la politique sociales</span>, par <span class="author">Max Weber</span>&nbsp;(<a href="http://classiques.uqac.ca/classiques/Weber/essais_theorie_science/Essais_science_1.pdf">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Mise au point sur la notion d'idéaltype : le premier Essai sur la théorie de la science de Weber !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AAulagnier/status/671995341995159555">@AAulagnier</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Accueillir ou reconduire</span>, par <span class="author">Alexis Spire</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un (petit) bouquin d'Alexis Spire sur les guichets de l'immigration: "Accueillir ou reconduire."<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/671995616231350272">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La fin de l’exotisme</span>, par <span class="author">Alban Bensa</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Bensa pour combattre notre orientalisme<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/671996330861010944">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Mœurs et sexualité en Océanie</span>, par <span class="author">Margaret Mead</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Des extraits de "Mœurs et sexualité en Océanie" de Margaret Mead : j'en ai retenu l'importance du culturel, les rôles genrés...<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ms_BethGreene/status/671996925382696960">@Ms_BethGreene</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Naissance de la Biopolitique</span>, par <span class="author">Michel Foucault</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Puisqu'on parle de sciences sociales et pas que de socio, mon #SocioNoel d'aujourd'hui est Naissance de la Biopolitique, cours de Foucault.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Blinis/status/671998569126060035">@Blinis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Black feminism</span>, par <span class="author">Combahee River Collective</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une anthologie sur le féminisme noir par @elsdor, Bonne intro à ce mouv et à l'intersectionnalité<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/671998880653946880">@RaphCann</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Sociological Insight</span>, par <span class="author">Randall Collins</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Captivant et original !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/672001228549832704">@Gerome_Truc</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Invitation à la sociologie</span>, par <span class="author">Peter L. Berger</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un excellent ouvrage pour donner envie de découvrir la #sociologie !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/672008792347951105">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Bonheur privé, action publique</span>, par <span class="author">Albert O. Hirschman</span>&nbsp;(<a href="http://www.fayard.fr/sites/default/files/images/livres/9782818503690-X_0.jpg">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Vous aussi vous ressentez un besoin de repli sur la sphère privée? Des clés pour comprendre dans ce livre<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/elsaaa_f/status/672009496311537664">@elsaaa_f</a></span>
     </blockquote>
   
   </div>
