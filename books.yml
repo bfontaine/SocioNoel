@@ -358,10 +358,14 @@
     link: https://lhomme.revues.org/13182
   - title: L’idéologie raciste
     author: Colette Guillaumin
-    source: https://twitter.com/LionnelleMakaya/status/671828567135776768
-    comment: >
-      il fracasse les struc soc du sexisme, racisme et montre leurs capacités
-      de transformation
+    sources:
+      - link: https://twitter.com/LionnelleMakaya/status/671828567135776768
+        comment: >
+          il fracasse les struc soc du sexisme, racisme et montre leurs capacités
+          de transformation
+      - link: https://twitter.com/AurelieLeLievre/status/672018248448217088
+        comment: >
+          J1: L'idéologie raciste - Colette Guillaumin
   - title: Des femmes respectables
     author: Beverley Skeggs
     source: https://twitter.com/extatiq/status/671835100196245504
@@ -530,9 +534,12 @@
     link: http://www.editionsladecouverte.fr/catalogue/index-Au_coeur_de_l_ethnie-9782707146229.html
   - title: Surveiller et Punir
     author: Michel Foucault
-    source: https://twitter.com/Ianonim/status/672003600294535168
-    comment: >
-      Analyse chirurgicale qui fait surgir les lieux de pouvoir et de contrôle d'une société.
+    sources:
+      - link: https://twitter.com/Ianonim/status/672003600294535168
+        comment: >
+          Analyse chirurgicale qui fait surgir les lieux de pouvoir et de contrôle d'une société.
+      - link: https://twitter.com/Bad_Sociologist/status/672034418983333888
+        comment: "sic un M1 AES je m'en remet toujours pas"
   - title: Branchements
     author: Jean-Loup Amselle
     source: https://twitter.com/dan_maku/status/672003637078532096
@@ -637,3 +644,41 @@
       Vous aussi vous ressentez un besoin de repli sur la sphère privée? Des
       clés pour comprendre dans ce livre
     link: http://www.fayard.fr/sites/default/files/images/livres/9782818503690-X_0.jpg
+  - title: La double absence
+    author: Abdelmalek Sayad
+    source: https://twitter.com/JohnGoodMalik/status/672023768139567106
+    comment: >
+      la double absence de Sayad, qui m'a foutu les larmes aux yeux tant les
+      drames de l'immigré/émigré y sont décrits avec justesse
+  - title: Black feminism
+    author: Elsa Dorlin
+    source: https://twitter.com/LionnelleMakaya/status/672021556776804352
+    comment: >
+      Un avant-goût "brutal", n'émanant pas des noires et soucis de traduction
+      (je pense) mais c'était trop la joie
+  - title: Reprise
+    author: Hervé Le Roux
+    source: https://twitter.com/mel_picard/status/672013618616115200
+    comment: >
+      pas que des livres, un doc qui est aussi une perle en terme de montage
+      d'entretiens
+  - title: Le père Noël supplicié
+    author: Claude Lévi-Strauss
+    source: https://twitter.com/AurelieLeLievre/status/672019936613695488
+    comment: >
+      J2: Le père Noël supplicié - Claude Lévi-Strauss
+  - title: 80% au bac… et après ?
+    author: Stéphane Beaud
+    source: https://twitter.com/sociosauvage/status/672027008482869248
+    comment: >
+      Je continue tranquillement avec le deuxième bouquin lu en socio
+  - title: La construction sociale de l’inégalité des sexes
+    author: Paola Tabet
+    source: https://twitter.com/pa_prika_m/status/672028491882373121
+    comment: >
+      Paola Tabet, énorme claque!!
+  - title: Sociologie de la gestion
+    author: Valérie Boussard
+    source: https://twitter.com/Bad_Sociologist/status/672034531608801280
+    comment: >
+      Sociologie de la gestion de Valérie Boussard

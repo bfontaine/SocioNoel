@@ -715,10 +715,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">L’idéologie raciste</span>, par <span class="author">Colette Guillaumin</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      il fracasse les struc soc du sexisme, racisme et montre leurs capacités de transformation<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/671828567135776768">@LionnelleMakaya</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        il fracasse les struc soc du sexisme, racisme et montre leurs capacités de transformation<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/671828567135776768">@LionnelleMakaya</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        J1: L'idéologie raciste - Colette Guillaumin<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AurelieLeLievre/status/672018248448217088">@AurelieLeLievre</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1046,10 +1053,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">Surveiller et Punir</span>, par <span class="author">Michel Foucault</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Analyse chirurgicale qui fait surgir les lieux de pouvoir et de contrôle d'une société.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ianonim/status/672003600294535168">@Ianonim</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Analyse chirurgicale qui fait surgir les lieux de pouvoir et de contrôle d'une société.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ianonim/status/672003600294535168">@Ianonim</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        sic un M1 AES je m'en remet toujours pas<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Bad_Sociologist/status/672034418983333888">@Bad_Sociologist</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1247,6 +1261,83 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Vous aussi vous ressentez un besoin de repli sur la sphère privée? Des clés pour comprendre dans ce livre<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/elsaaa_f/status/672009496311537664">@elsaaa_f</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La double absence</span>, par <span class="author">Abdelmalek Sayad</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      la double absence de Sayad, qui m'a foutu les larmes aux yeux tant les drames de l'immigré/émigré y sont décrits avec justesse<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/672023768139567106">@JohnGoodMalik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Black feminism</span>, par <span class="author">Elsa Dorlin</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un avant-goût "brutal", n'émanant pas des noires et soucis de traduction (je pense) mais c'était trop la joie<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/672021556776804352">@LionnelleMakaya</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Reprise</span>, par <span class="author">Hervé Le Roux</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      pas que des livres, un doc qui est aussi une perle en terme de montage d'entretiens<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mel_picard/status/672013618616115200">@mel_picard</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Le père Noël supplicié</span>, par <span class="author">Claude Lévi-Strauss</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      J2: Le père Noël supplicié - Claude Lévi-Strauss<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AurelieLeLievre/status/672019936613695488">@AurelieLeLievre</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">80% au bac… et après ?</span>, par <span class="author">Stéphane Beaud</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Je continue tranquillement avec le deuxième bouquin lu en socio<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/672027008482869248">@sociosauvage</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La construction sociale de l’inégalité des sexes</span>, par <span class="author">Paola Tabet</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Paola Tabet, énorme claque!!<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/672028491882373121">@pa_prika_m</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Sociologie de la gestion</span>, par <span class="author">Valérie Boussard</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sociologie de la gestion de Valérie Boussard<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Bad_Sociologist/status/672034531608801280">@Bad_Sociologist</a></span>
     </blockquote>
   
   </div>
