@@ -149,9 +149,14 @@
       Cartographies des marges : intersectionnalité, politique de l’identité et
       violences contre les femmes de couleur
     author: Kimberlé Crenshaw, Oristelle Bonis
-    source: https://twitter.com/ThisisKiyemis/status/671710000876822528
-    comment: >
-      Cela ne surprendra personne, on va commencer par Kimberlé Crenshaw.
+    sources:
+      - link: https://twitter.com/ThisisKiyemis/status/671710000876822528
+        comment: >
+          Cela ne surprendra personne, on va commencer par Kimberlé Crenshaw.
+      - link: https://twitter.com/Silmalia/status/672066008606187520
+        comment: >
+          J2: Je crois que quelqu'un l'a déjà cité mais l'article de Crenshaw
+          sur l'intersectionnalité
   - title: Les héritiers
     author: Pierre Bourdieu et Jean-Clause Passeron
     source: https://twitter.com/Dheltaa/status/671711835633156096
@@ -682,3 +687,43 @@
     source: https://twitter.com/Bad_Sociologist/status/672034531608801280
     comment: >
       Sociologie de la gestion de Valérie Boussard
+  - title: The meaning of style
+    author: Dick Hebdige
+    source: https://twitter.com/Aurigami/status/672036292394356737
+    comment: >
+      Un des livres que j'ai le plus utilisé dans mon cursus #culturalstudies
+  - title: L’Esprit Cosmopolite
+    author: Vincenzo Cicchelli
+    source: https://twitter.com/Bad_Sociologist/status/672045457493860352
+    comment: >
+      L'Esprit Cosmopolite de Vincenzo Cicchelli
+  - title: L’imagination sociologique
+    author: Charles Wright Mills
+    source: https://twitter.com/F__Casta/status/672047269353553920
+    comment: >
+      beau classique contre la suprême-théorie et l'empirisme abstrait
+  - title: La Culture du pauvre
+    author: Richard Hoggart
+    source: https://twitter.com/Pyrate_Jenni/status/672047331517317120
+    comment: >
+      parce que de ce qu'on m'en a dit je *-*
+  - title: Forgé par l’épreuve
+    author: Danilo Martuccelli
+    source: https://twitter.com/IdealTyp/status/672065257985155072
+    comment: >
+      Pour comprendre l’individu dans toute sa complexité
+  - title: La mise en scène de la vie quotidienne
+    author: Erving Goffman
+    source: https://twitter.com/PierreM/status/672066434340663296
+    comment: >
+      J'ai raté le #day1, tant pis on commence au #day2 avec Erving bien sûr,
+      je l'ai pas encore vu passer. #SocioNoel !
+  - title: Identité et Contrôle
+    author: Harrison C. White
+    source: https://twitter.com/EmilienSchultz/status/672072215945433089
+    comment: >
+      attention, à consommer à dose modérée
+  - title: Les rites d'interaction
+    author: Erving Goffman
+    source: https://twitter.com/Dolores_Charles/status/672087610253266948
+    comment: "Les rites d'interaction de Goffman (!)"

@@ -297,10 +297,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">Cartographies des marges : intersectionnalité, politique de l’identité et violences contre les femmes de couleur</span>, par <span class="author">Kimberlé Crenshaw, Oristelle Bonis</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Cela ne surprendra personne, on va commencer par Kimberlé Crenshaw.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ThisisKiyemis/status/671710000876822528">@ThisisKiyemis</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Cela ne surprendra personne, on va commencer par Kimberlé Crenshaw.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ThisisKiyemis/status/671710000876822528">@ThisisKiyemis</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        J2: Je crois que quelqu'un l'a déjà cité mais l'article de Crenshaw sur l'intersectionnalité<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/672066008606187520">@Silmalia</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1338,6 +1345,94 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Sociologie de la gestion de Valérie Boussard<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Bad_Sociologist/status/672034531608801280">@Bad_Sociologist</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">The meaning of style</span>, par <span class="author">Dick Hebdige</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un des livres que j'ai le plus utilisé dans mon cursus #culturalstudies<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Aurigami/status/672036292394356737">@Aurigami</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L’Esprit Cosmopolite</span>, par <span class="author">Vincenzo Cicchelli</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      L'Esprit Cosmopolite de Vincenzo Cicchelli<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Bad_Sociologist/status/672045457493860352">@Bad_Sociologist</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L’imagination sociologique</span>, par <span class="author">Charles Wright Mills</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      beau classique contre la suprême-théorie et l'empirisme abstrait<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/672047269353553920">@F__Casta</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La Culture du pauvre</span>, par <span class="author">Richard Hoggart</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      parce que de ce qu'on m'en a dit je *-*<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/672047331517317120">@Pyrate_Jenni</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Forgé par l’épreuve</span>, par <span class="author">Danilo Martuccelli</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour comprendre l’individu dans toute sa complexité<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/IdealTyp/status/672065257985155072">@IdealTyp</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La mise en scène de la vie quotidienne</span>, par <span class="author">Erving Goffman</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      J'ai raté le #day1, tant pis on commence au #day2 avec Erving bien sûr, je l'ai pas encore vu passer. #SocioNoel !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PierreM/status/672066434340663296">@PierreM</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Identité et Contrôle</span>, par <span class="author">Harrison C. White</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      attention, à consommer à dose modérée<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/EmilienSchultz/status/672072215945433089">@EmilienSchultz</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les rites d'interaction</span>, par <span class="author">Erving Goffman</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Les rites d'interaction de Goffman (!)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Dolores_Charles/status/672087610253266948">@Dolores_Charles</a></span>
     </blockquote>
   
   </div>
