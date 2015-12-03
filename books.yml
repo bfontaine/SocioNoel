@@ -200,8 +200,11 @@
     link: https://www.culturalsurvival.org/publications/cultural-survival-quarterly/saami-languages-present-and-future
   - title: C'est du propre !
     author: Cristina Nizzoli
-    source: https://twitter.com/Laboratoire_CMH/status/671722049338015745
-    comment: "1er décembre : @CristinaNizzoli - C'est du propre !"
+    sources:
+      - link: https://twitter.com/Laboratoire_CMH/status/671722049338015745
+        comment: "1er décembre : @CristinaNizzoli - C'est du propre !"
+      - link: https://twitter.com/f_cavermed/status/672413169193742336
+        comment: Un livre engagé, de terrain, qui regarde à l'avenir du syndicat
     link: http://www.puf.com/Autres_Collections:C%27est_du_propre
   - title: On the Shoulders of Giants
     author: Robert K. Merton
@@ -991,3 +994,47 @@
     comment: >
       10 ans de marche des beurs. Parce que #BOUAMAMA n'a rien lâché et nous a
       instruit au passage. Gros big up.
+  - title: Jeunesses françaises
+    author: Fabien Truong
+    source: https://twitter.com/Gerome_Truc/status/672409916464881664
+    comment: >
+      LE livre de socio à offrir autour de vous pour Noël, qui se lit comme un
+      roman
+  - title: >
+      Carrières militantes, et vocation à la morale : les militants de la Ligue
+      des droits de l'homme dans les années 1980
+    author: Éric Agrikoliansky
+    source: https://twitter.com/Pyrate_Jenni/status/672408360667492352
+    comment: >
+      c'est très intéressant, et assez court, donc go :) (thème : les carrières
+      militantes)
+    link: http://www.persee.fr/doc/rfsp_0035-2950_2001_num_51_1_403606
+  - title: L'anatomie politique. Catégorisations et idéologies du sexe
+    author: Nicole-Claude Mathieu
+    source: https://twitter.com/Comtesse_Leia/status/672403705174597632
+    comment: >
+      Pour le jour 3 de #SocioNoel : L'anatomie politique. Catégorisations et
+      idéologies du sexe - Nicole-Claude Mathieu
+  - title: Corps infirmes et sociétés
+    author: Henri-Jacques Stiker
+    source: https://twitter.com/balleverte/status/672384719670157312
+    comment: >
+      en accord avec mon cours de l'après-midi. Une socio-histoire du handicap.
+  - title: La France invisible
+    author: Stéphane Beaud, Joseph Confavreux, Jade Lindgaard
+    source: https://twitter.com/PierreM/status/672370523347750912
+    comment: >
+      J4 le 3/12 c'est interdit dans le règlement #SocioNoel :-) si c'est comme
+      ça j’en mets un autre du même thème
+  - title: L’enracinement
+    author: Simone Weil
+    source: https://twitter.com/AnthCasanova2/status/672365017778405376
+    comment: >
+      Pour #SocioNoel je voudrais decouvrir des femmes écrivains. Simone Weil,
+      < L’enracinement > . Des autres ?
+  - title: Théories de l’ethnicité
+    author: Philippe Poutignat et Jocelyne Streiff-Fenart
+    source: https://twitter.com/dan_maku/status/672364999873069056
+    comment: >
+      belle mise en perspective des façons de penser l'ethnie : phenotypique,
+      dynamique, performative

@@ -393,10 +393,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">C'est du propre !</span>, par <span class="author">Cristina Nizzoli</span>&nbsp;(<a href="http://www.puf.com/Autres_Collections:C%27est_du_propre">lien</a>)</h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      1er décembre : @CristinaNizzoli - C'est du propre !<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/671722049338015745">@Laboratoire_CMH</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        1er décembre : @CristinaNizzoli - C'est du propre !<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/671722049338015745">@Laboratoire_CMH</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Un livre engagé, de terrain, qui regarde à l'avenir du syndicat<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/f_cavermed/status/672413169193742336">@f_cavermed</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1920,6 +1927,83 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       10 ans de marche des beurs. Parce que #BOUAMAMA n'a rien lâché et nous a instruit au passage. Gros big up.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/672363693875818497">@LionnelleMakaya</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Jeunesses françaises</span>, par <span class="author">Fabien Truong</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      LE livre de socio à offrir autour de vous pour Noël, qui se lit comme un roman<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/672409916464881664">@Gerome_Truc</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Carrières militantes, et vocation à la morale : les militants de la Ligue des droits de l'homme dans les années 1980</span>, par <span class="author">Éric Agrikoliansky</span>&nbsp;(<a href="http://www.persee.fr/doc/rfsp_0035-2950_2001_num_51_1_403606">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      c'est très intéressant, et assez court, donc go :) (thème : les carrières militantes)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/672408360667492352">@Pyrate_Jenni</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L'anatomie politique. Catégorisations et idéologies du sexe</span>, par <span class="author">Nicole-Claude Mathieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour le jour 3 de #SocioNoel : L'anatomie politique. Catégorisations et idéologies du sexe - Nicole-Claude Mathieu<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Comtesse_Leia/status/672403705174597632">@Comtesse_Leia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Corps infirmes et sociétés</span>, par <span class="author">Henri-Jacques Stiker</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      en accord avec mon cours de l'après-midi. Une socio-histoire du handicap.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/672384719670157312">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La France invisible</span>, par <span class="author">Stéphane Beaud, Joseph Confavreux, Jade Lindgaard</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      J4 le 3/12 c'est interdit dans le règlement #SocioNoel :-) si c'est comme ça j’en mets un autre du même thème<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PierreM/status/672370523347750912">@PierreM</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L’enracinement</span>, par <span class="author">Simone Weil</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour #SocioNoel je voudrais decouvrir des femmes écrivains. Simone Weil, < L’enracinement > . Des autres ?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AnthCasanova2/status/672365017778405376">@AnthCasanova2</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Théories de l’ethnicité</span>, par <span class="author">Philippe Poutignat et Jocelyne Streiff-Fenart</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      belle mise en perspective des façons de penser l'ethnie : phenotypique, dynamique, performative<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/672364999873069056">@dan_maku</a></span>
     </blockquote>
   
   </div>
