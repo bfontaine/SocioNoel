@@ -2008,3 +2008,58 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1><span class="title">Accélération</span>, par <span class="author">Hartmut Rosa</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pas tout à fait de la socio mais passionnante analyse de l'effet du temps sur nos pratiques ...<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/leblognoteur/status/672424810660630529">@leblognoteur</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Peau noire, masques blancs</span>, par <span class="author">Frantz Fanon</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Ça marche ça ?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ThisisKiyemis/status/672425289457250305">@ThisisKiyemis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Sociologie du Lycée professionnel</span>, par <span class="author">Aziz Jellab</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      sociologie des professeurs et des élèves d'une institution assez négligée par la sociologie de l'école en général<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/extatiq/status/672427577760444416">@extatiq</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">En quête de respect. Le crack à New York</span>, par <span class="author">Philippe Bourgois</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Si je devais conseiller un bouquin : "En quête de respect. Le crack à New York". Philippe Bourgois. Se lit comme un roman !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MyleneSantana/status/672429349212168197">@MyleneSantana</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La contre démocratie</span>, par <span class="author">Pierre Rosanvallon</span>&nbsp;(<a href="http://www.seuil.com/livre-9782020884433.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      La Contre Démocratie de Pierre Rosanvallon, sur la défiance du peuple.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AgentOnAMission/status/672433240607744000">@AgentOnAMission</a></span>
+    </blockquote>
+  
+  </div>
+</article>
