@@ -746,6 +746,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/672100862098042880">@CamilleGinger</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Mon livre de chevet ces derniers temps, pour le J3 de #SocioNoël. La reine Guillaumin, avec L’idéologie raciste.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Melusine_2/status/672359083870191616">@Melusine_2</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1241,10 +1246,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">Naissance de la Biopolitique</span>, par <span class="author">Michel Foucault</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Puisqu'on parle de sciences sociales et pas que de socio, mon #SocioNoel d'aujourd'hui est Naissance de la Biopolitique, cours de Foucault.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Blinis/status/671998569126060035">@Blinis</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Puisqu'on parle de sciences sociales et pas que de socio, mon #SocioNoel d'aujourd'hui est Naissance de la Biopolitique, cours de Foucault.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Blinis/status/671998569126060035">@Blinis</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        un cours devenu livre, une réflexion rafraîchissante et plus utile que jamais sur le libéralisme<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AAulagnier/status/672360945079951360">@AAulagnier</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1519,6 +1531,61 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1><span class="title">Le travail : une valeur en voie de disparition ?</span>, par <span class="author">Dominique Méda</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Biblio très classique mais très utile. Pour ce jour, la fin du travail de Dominique Méda :)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lulle1/status/672146978923483136">@Lulle1</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Noblesse d'État</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      parce que la thèse, premier bouquin de mon projet, grosse claque<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/672151124489715713">@MorganeMdt</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Femmes, race et classe</span>, par <span class="author">Angela Davis</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Magistral par sa méthode d'analyse et sa clarté.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/672154638578249728">@thefugitive_</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Co-construction et processus d’étiquetage de la déviance en milieu scolaire</span>, par <span class="author">Séverine Depoilly</span>&nbsp;(<a href="http://www.cairn.info/resume.php?ID_ARTICLE=DS_372_0207">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un article, découvert récemment, pour mêler Becker et Ayral (ou autrement dit, déviance et genre)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/fivepastfive/status/672171053267972096">@fivepastfive</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Écologie et inégalités</span>, par <span class="author">Éloi Laurent</span>&nbsp;(<a href="http://www.cairn.info/revue-de-l-ofce-2009-2-page-33.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      spécial #COP21 : pourquoi social et environnement sont souvent les deux faces d'une même monnaie<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/elsaaa_f/status/672192650120994816">@elsaaa_f</a></span>
+    </blockquote>
+  
+  </div>
+</article>
 <h2 id="dec15-3">3 Décembre</h2>
 <article class="book">
   <h1><span class="title">Le champ littéraire</span>, par <span class="author">Pierre Bourdieu</span></h1>
@@ -1568,10 +1635,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">Pays de malheur !</span>, par <span class="author">Younes Amrani et Stéphane Beaud</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      un clin d'oeil à l' #EcoleDeJourdan pour #SocioNoel #Day3 : objt sociologique de 2004, juste qlq mois avant émeutes.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PierreM/status/672340477010714624">@PierreM</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        un clin d'oeil à l' #EcoleDeJourdan pour #SocioNoel #Day3 : objt sociologique de 2004, juste quelques mois avant les émeutes.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PierreM/status/672340477010714624">@PierreM</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Quand la #sociologie aide à la réflexivité et s'approche des techniques de #coaching...<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/672316749057011712">@bbarbusse</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1670,6 +1744,182 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Un peu de socio du travail et du genre avec "Une relation enchantée" de Josiane Pinto. Une analyse du travail de secrétaire où l'on voit comment la performance de genre est constituée en compétence professionnelle et où l'on peut donc comprendre l'attachement au genre quand celui-ci est la principale condition d'accès au marché du travail.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/672352629490630656">@Uneheuredepeine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Time Matters: On Theory and Method</span>, par <span class="author">Andrew Abbott</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Andrew Abbott, "Time Matters: On Theory and Method", 2001, ft. le stimulant chap. "Things of Boundaries".<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/672334830969991168">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Behavior in public places</span>, par <span class="author">Sylvain Bourmeau et Daniel Cefaï</span>&nbsp;(<a href="http://www.dailymotion.com/video/x2s9tim">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      conf de @bourmeau et D. Cefaï sur E. Goffman, "Behavior in public places".<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/672334742151430145">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">El porque de los que van</span>, par <span class="author">Julieta Quiros</span>&nbsp;(<a href="http://www.antropofagia.com.ar/catalogo/product_info.php?products_id=136">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Parce qu'on est vraiment trop occidentalo-centrés<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/672332793515380736">@mquijoux</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les inaudibles, sociologie politique des précaires</span>, par <span class="author">Céline Braconnier et Nonna Mayer</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Les inaudibles, sociologie politique des précaires" de N. MAYER et C. BRACONNIER.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/672332777422004224">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Défataliser le monde social</span>, par <span class="author">Sylvain Bourmeau</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      interview à P Bourdieu "Défataliser le monde social" sur @lesinrocks en 2002 par @bourmeau (où le retrouver par ailleurs ?)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/672332065489231873">@ruggeroparis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Sport et civilisation</span>, par <span class="author">Norbert Elias et Eric Dunning</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Hoggart ayant été cité, mon #SocioNoel de ce jour va à Elias & Dunning, pour leur travail fondateur sur le sport<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/672324782260690944">@lestrelin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Histoire du viol</span>, par <span class="author">Georges Vigarello</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Personellement, j'adore Vigarello. #AhiiiCestdelHistoire<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Politriste/status/672321754703003648">@Politriste</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les classes moyennes à la dérive</span>, par <span class="author">Louis Chauvel</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      de quoi réfléchir sur la notion fuyante de "classe moyenne"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/672320479022157824">@JohnGoodMalik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La Souffrance à distance</span>, par <span class="author">Luc Boltanski</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Boltanski, La Souffrance à distance<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lasimoneditnon/status/672316832095805440">@Lasimoneditnon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La haine de l’Occident</span>, par <span class="author">Jean Ziegler</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      J'ai oublié #SocioNoel hier,pour me faire pardonner,je mets le livre qui m'a poussé à m'intéresser à la sociologie<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ostpolitik/status/672313375012069376">@Ostpolitik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Slow Violence and the Environmentalism of the poor</span>, par <span class="author">Rob Nixon</span>&nbsp;(<a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674072343">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Rob Nixon Slow Violence and the Environmentalism of the poor<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/nathalie_jas/status/672298589738110976">@nathalie_jas</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Asiles</span>, par <span class="author">Erving Goffman</span>&nbsp;(<a href="http://bib.b-a-m.org/opac_css/index.php?lvl=author_see&id=3746">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Bon ben pour #SocioNoel je vais pas mettre un livre qui parle de djendeur mais Asyles de Goffman<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/anchalabha/status/672362933213634560">@anchalabha</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Sociologie des crises politiques</span>, par <span class="author">Michel Dobry</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Et oublier "Sociologie des crises politiques" de Michel Dobry ?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/EditionsScpo/status/672360817107607554">@EditionsScpo</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Un si fragile vernis d'humanité</span>, par <span class="author">Michel Terestchenko</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      M. Terestchenko - Un si fragile vernis d'humanité<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/672355392823951360">@Silmalia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Sur la télévision</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      le toujours d’actualité « Sur la télévision » de Bourdieu<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/672363344230264832">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Dix ans de marche des Beurs</span>, par <span class="author">Saïd Bouamama</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      10 ans de marche des beurs. Parce que #BOUAMAMA n'a rien lâché et nous a instruit au passage. Gros big up.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/672363693875818497">@LionnelleMakaya</a></span>
     </blockquote>
   
   </div>
