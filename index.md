@@ -635,10 +635,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">La domination masculine</span>, par <span class="author">Pierre Bourdieu</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      J'étais comme <a href="https://pbs.twimg.com/media/CVKaA7lXAAAY0fq.jpg">ça</a> en lisant<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/merriousftw/status/671768636533645313">@merriousftw</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        J'étais comme <a href="https://pbs.twimg.com/media/CVKaA7lXAAAY0fq.jpg">ça</a> en lisant<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/merriousftw/status/671768636533645313">@merriousftw</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        y a pas mieux pour découvrir la socio voire la vie....<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ClaraMordra/status/672339788238856193">@ClaraMordra</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1421,10 +1428,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">La mise en scène de la vie quotidienne</span>, par <span class="author">Erving Goffman</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      J'ai raté le #day1, tant pis on commence au #day2 avec Erving bien sûr, je l'ai pas encore vu passer. #SocioNoel !<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PierreM/status/672066434340663296">@PierreM</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        J'ai raté le #day1, tant pis on commence au #day2 avec Erving bien sûr, je l'ai pas encore vu passer. #SocioNoel !<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PierreM/status/672066434340663296">@PierreM</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        mon premier avant même Becker & les Outsiders<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Letagere/status/672354885589966849">@Letagere</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1513,6 +1527,149 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Très dense, un peu compliqué, mais un vrai must read.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/672130381429256193">@Phangere</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La trame conjugale</span>, par <span class="author">Jean-Claude Kaufmann</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sociologie du couple. (Je vous conseille tous ses ouvrage d'ailleurs)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/TookyTsuki/status/672335844942958593">@TookyTsuki</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Des hommes ordinaires</span>, par <span class="author">Christopher R. Browning</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une lecture d'actualité<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/672335992867672068">@M_Iz_6</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Islamophobie</span>, par <span class="author">Abdellali Hajjat et Marwan Mohammed</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Islamophobie Comment les élites françaises fabriquent le « problème musulman »<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/672339885118889984">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Pays de malheur !</span>, par <span class="author">Younes Amrani et Stéphane Beaud</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      un clin d'oeil à l' #EcoleDeJourdan pour #SocioNoel #Day3 : objt sociologique de 2004, juste qlq mois avant émeutes.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PierreM/status/672340477010714624">@PierreM</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Politiques du squat. Scènes de la vie d’un quartier populaire</span>, par <span class="author">Isabelle Coutant</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Premier livre de socio lu. Son immersion m'a passionné, et son analyse introduit à Becker. J'avais rencontré l'auteure pour mon dossier. Merci à elle !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ianonim/status/672341049411522560">@Ianonim</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La formation des bandes</span>, par <span class="author">Marwan Mohammed</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Excellent du début à la fin. Un beau livre de socio.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/672342599450144770">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La Domination</span>, par <span class="author">Max Weber</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Max Weber, La Domination, tiré d'Economie & Société, traduit sur la base de l'édition de réf allemande<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/672344244871405568">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">33 Newport Street</span>, par <span class="author">Richard Hoggart</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Autobiographie d'un intellectuel issu des classes populaires anglaises.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ludemain/status/672346022790701056">@ludemain</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La cause des armes au Mozambique</span>, par <span class="author">Christian Geffray</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Geffray "si tu veux la paix, prépare l'anthropologie de la guerre" écrivait Copans à propos de ce livre.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jacobo_Grajales/status/672349474715512832">@Jacobo_Grajales</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les trois types purs de la domination légitime</span>, par <span class="author">Max Weber</span>&nbsp;(<a href="http://www.cairn.info/revue-sociologie-2014-3-page-291.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      <a href="https://twitter.com/SamuelHayat/status/672344244871405568">LT</a> A compléter avec "Les trois types purs de la domination légitime", suivi d'intéressantes analyses<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/672350485911871488">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L'ordinaire de la guerre</span>, par <span class="author">François Buton, André Loez, Nicolas Mariot et Philippe Olivera (coord.)</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour #SocioNoel un peu de socio-histoire et de controverse<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mel_picard/status/672351458445103104">@mel_picard</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La politique des grands nombres</span>, par <span class="author">Alain Desrosières</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Les statistiques, entre connaissance et politique.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/672352531092238336">@NuteluCaine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Une relation enchantée</span>, par <span class="author">Josiane Pinto</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un peu de socio du travail et du genre avec "Une relation enchantée" de Josiane Pinto. Une analyse du travail de secrétaire où l'on voit comment la performance de genre est constituée en compétence professionnelle et où l'on peut donc comprendre l'attachement au genre quand celui-ci est la principale condition d'accès au marché du travail.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/672352629490630656">@Uneheuredepeine</a></span>
     </blockquote>
   
   </div>

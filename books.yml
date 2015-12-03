@@ -319,9 +319,13 @@
       et donc je propose Carbon Democracy, de Tim Mitchell.
   - title: La domination masculine
     author: Pierre Bourdieu
-    source: https://twitter.com/merriousftw/status/671768636533645313
-    comment: >
-      J'étais comme <a href="https://pbs.twimg.com/media/CVKaA7lXAAAY0fq.jpg">ça</a> en lisant
+    sources:
+      - link: https://twitter.com/merriousftw/status/671768636533645313
+        comment: >
+          J'étais comme <a href="https://pbs.twimg.com/media/CVKaA7lXAAAY0fq.jpg">ça</a> en lisant
+      - link: https://twitter.com/ClaraMordra/status/672339788238856193
+        comment: >
+          y a pas mieux pour découvrir la socio voire la vie....
   - title: Politiques au guichet, politiques du guichet
     author: Vincent Dubois
     source: https://twitter.com/Ostpolitik/status/671774446135455745
@@ -724,10 +728,14 @@
       Pour comprendre l’individu dans toute sa complexité
   - title: La mise en scène de la vie quotidienne
     author: Erving Goffman
-    source: https://twitter.com/PierreM/status/672066434340663296
-    comment: >
-      J'ai raté le #day1, tant pis on commence au #day2 avec Erving bien sûr,
-      je l'ai pas encore vu passer. #SocioNoel !
+    sources:
+      - link: https://twitter.com/PierreM/status/672066434340663296
+        comment: >
+          J'ai raté le #day1, tant pis on commence au #day2 avec Erving bien sûr,
+          je l'ai pas encore vu passer. #SocioNoel !
+      - link: https://twitter.com/Letagere/status/672354885589966849
+        comment: >
+          mon premier avant même Becker & les Outsiders
   - title: Identité et Contrôle
     author: Harrison C. White
     source: https://twitter.com/EmilienSchultz/status/672072215945433089
@@ -771,3 +779,79 @@
     source: https://twitter.com/Phangere/status/672130381429256193
     comment: >
       Très dense, un peu compliqué, mais un vrai must read.
+  - title: La trame conjugale
+    author: Jean-Claude Kaufmann
+    source: https://twitter.com/TookyTsuki/status/672335844942958593
+    comment: >
+      Sociologie du couple. (Je vous conseille tous ses ouvrage d'ailleurs)
+  - title: Des hommes ordinaires
+    author: Christopher R. Browning
+    source: https://twitter.com/M_Iz_6/status/672335992867672068
+    comment: "Une lecture d'actualité"
+  - title: Islamophobie
+    author: Abdellali Hajjat et Marwan Mohammed
+    source: https://twitter.com/Laboratoire_CMH/status/672339885118889984
+    comment: >
+      Islamophobie Comment les élites françaises fabriquent le « problème
+      musulman »
+  - title: Pays de malheur !
+    author: Younes Amrani et Stéphane Beaud
+    source: https://twitter.com/PierreM/status/672340477010714624
+    comment: >
+      un clin d'oeil à l' #EcoleDeJourdan pour #SocioNoel #Day3 : objt
+      sociologique de 2004, juste qlq mois avant émeutes.
+  - title: Politiques du squat. Scènes de la vie d’un quartier populaire
+    author: Isabelle Coutant
+    source: https://twitter.com/Ianonim/status/672341049411522560
+    comment: >
+      Premier livre de socio lu. Son immersion m'a passionné, et son analyse
+      introduit à Becker. J'avais rencontré l'auteure pour mon dossier. Merci à
+      elle !
+  - title: La formation des bandes
+    author: Marwan Mohammed
+    source: https://twitter.com/PaillardSimon/status/672342599450144770
+    comment: "Excellent du début à la fin. Un beau livre de socio."
+  - title: La Domination
+    author: Max Weber
+    source: https://twitter.com/SamuelHayat/status/672344244871405568
+    comment: >
+      Max Weber, La Domination, tiré d'Economie & Société, traduit sur la base
+      de l'édition de réf allemande
+  - title: "33 Newport Street"
+    author: Richard Hoggart
+    source: https://twitter.com/ludemain/status/672346022790701056
+    comment: >
+      Autobiographie d'un intellectuel issu des classes populaires anglaises.
+  - title: La cause des armes au Mozambique
+    author: Christian Geffray
+    source: https://twitter.com/Jacobo_Grajales/status/672349474715512832
+    comment: >
+      Geffray "si tu veux la paix, prépare l'anthropologie de la guerre"
+      écrivait Copans à propos de ce livre.
+  - title: Les trois types purs de la domination légitime
+    author: Max Weber
+    source: https://twitter.com/SamuelHayat/status/672350485911871488
+    comment: >
+      <a href="https://twitter.com/SamuelHayat/status/672344244871405568">LT</a>
+      A compléter avec "Les trois types purs de la domination légitime", suivi
+      d'intéressantes analyses
+    link: http://www.cairn.info/revue-sociologie-2014-3-page-291.htm
+  - title: L'ordinaire de la guerre
+    author: François Buton, André Loez, Nicolas Mariot et Philippe Olivera (coord.)
+    source: https://twitter.com/mel_picard/status/672351458445103104
+    comment: >
+      Pour #SocioNoel un peu de socio-histoire et de controverse
+  - title: La politique des grands nombres
+    author: Alain Desrosières
+    source: https://twitter.com/NuteluCaine/status/672352531092238336
+    comment: >
+      Les statistiques, entre connaissance et politique.
+  - title: Une relation enchantée
+    author: Josiane Pinto
+    source: https://twitter.com/Uneheuredepeine/status/672352629490630656
+    comment: >
+      Un peu de socio du travail et du genre avec "Une relation enchantée" de
+      Josiane Pinto. Une analyse du travail de secrétaire où l'on voit comment
+      la performance de genre est constituée en compétence professionnelle et
+      où l'on peut donc comprendre l'attachement au genre quand celui-ci est la
+      principale condition d'accès au marché du travail.
