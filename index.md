@@ -2136,3 +2136,25 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1><span class="title">Mémoires du Sida</span>, par <span class="author">Philippe Artières et Janine Pierret</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un régal de lire Janine Pierret (et Philippe Artières) revenir sur ses enquêtes années 80 #VIH #SCsocial<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/IdealTyp/status/672519477192466432">@IdealTyp</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Invitation à la sociologie</span>, par <span class="author">Peter L. Berger</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Invitation hilarante & percutante (presque) pour tous.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/672511628689211392">@thefugitive_</a></span>
+    </blockquote>
+  
+  </div>
+</article>
