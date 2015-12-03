@@ -798,9 +798,13 @@
       parce que la thèse, premier bouquin de mon projet, grosse claque
   - title: Femmes, race et classe
     author: Angela Davis
-    source: https://twitter.com/thefugitive_/status/672154638578249728
-    comment: >
-      Magistral par sa méthode d'analyse et sa clarté.
+    sources:
+      - link: https://twitter.com/thefugitive_/status/672154638578249728
+        comment: >
+          Magistral par sa méthode d'analyse et sa clarté.
+      - link: https://twitter.com/pa_prika_m/status/672471136723189760
+        comment: >
+          La patronne. Le bouquin qui a révolutionné ma conception du féminisme.
   - title: Co-construction et processus d’étiquetage de la déviance en milieu scolaire
     author: Séverine Depoilly
     source: https://twitter.com/fivepastfive/status/672171053267972096
@@ -1032,6 +1036,7 @@
     comment: >
       Pour #SocioNoel je voudrais decouvrir des femmes écrivains. Simone Weil,
       < L’enracinement > . Des autres ?
+    link: http://classiques.uqac.ca/classiques/weil_simone/enracinement/weil_Enracinement.pdf
   - title: Théories de l’ethnicité
     author: Philippe Poutignat et Jocelyne Streiff-Fenart
     source: https://twitter.com/dan_maku/status/672364999873069056
@@ -1066,3 +1071,39 @@
     comment: >
       La Contre Démocratie de Pierre Rosanvallon, sur la défiance du peuple.
     link: http://www.seuil.com/livre-9782020884433.htm
+  - title: "Football : Sociologie de la haine"
+    author: Camille Dal et Ronan David
+    source: https://twitter.com/ValGuery/status/672479279029030912
+    comment: >
+      Bouquin qui va un peu loin à coups de critiques permanentes mais approche
+      intéressante
+  - title: Le Principe de Peter
+    author: Laurence J. Peter et Raymond Hull
+    source: https://twitter.com/ylloPytterP/status/672465704277397504
+    comment: >
+      « Avec le temps, tout poste sera occupé par un employé incapable d'en
+      assumer la responsabilité »
+  - title: Le soi, le couple et la famille
+    author: François de Singly
+    source: https://twitter.com/F_Bally/status/672464941480321024
+    comment: >
+      un peu de sociologie de la famille avec De Singly "Le soi, le couple et
+      la famille" (mon premier lu)
+  - title: Le livre des violences
+    author: William T. Vollmann
+    source: https://twitter.com/leblognoteur/status/672461530655547392
+    comment: >
+      Tiens allez #SocioNoel un objet (de valeur) improbable
+  - title: La sociologie de Robert K. Merton
+    author: Arnaud Saint-Martin
+    source: https://twitter.com/gcabanac/status/672458566515752960
+    comment: >
+      "La sociologie de Robert K. Merton" par @ArSaintMartin (2013) aux
+      @Ed_LaDecouverte #SocioNoël de 2013 au pied du 🎄!
+  - title: À quoi rêvent les algorithmes
+    author: Dominique Cardon
+    source: https://twitter.com/F__Casta/status/672451555388473345
+    comment: >
+      Tout frais : "A quoi rêvent les algorithmes" de @Karmacoma. Sous les
+      calculs, le politique.
+    link: http://www.seuil.com/livre-9782021279962.htm

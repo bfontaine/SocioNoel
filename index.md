@@ -1564,10 +1564,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">Femmes, race et classe</span>, par <span class="author">Angela Davis</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Magistral par sa méthode d'analyse et sa clarté.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/672154638578249728">@thefugitive_</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Magistral par sa méthode d'analyse et sa clarté.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/672154638578249728">@thefugitive_</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        La patronne. Le bouquin qui a révolutionné ma conception du féminisme.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/672471136723189760">@pa_prika_m</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1987,7 +1994,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L’enracinement</span>, par <span class="author">Simone Weil</span></h1>
+  <h1><span class="title">L’enracinement</span>, par <span class="author">Simone Weil</span>&nbsp;(<a href="http://classiques.uqac.ca/classiques/weil_simone/enracinement/weil_Enracinement.pdf">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2059,6 +2066,72 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       La Contre Démocratie de Pierre Rosanvallon, sur la défiance du peuple.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AgentOnAMission/status/672433240607744000">@AgentOnAMission</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Football : Sociologie de la haine</span>, par <span class="author">Camille Dal et Ronan David</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Bouquin qui va un peu loin à coups de critiques permanentes mais approche intéressante<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ValGuery/status/672479279029030912">@ValGuery</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Le Principe de Peter</span>, par <span class="author">Laurence J. Peter et Raymond Hull</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      « Avec le temps, tout poste sera occupé par un employé incapable d'en assumer la responsabilité »<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ylloPytterP/status/672465704277397504">@ylloPytterP</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Le soi, le couple et la famille</span>, par <span class="author">François de Singly</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      un peu de sociologie de la famille avec De Singly "Le soi, le couple et la famille" (mon premier lu)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/672464941480321024">@F_Bally</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Le livre des violences</span>, par <span class="author">William T. Vollmann</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Tiens allez #SocioNoel un objet (de valeur) improbable<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/leblognoteur/status/672461530655547392">@leblognoteur</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La sociologie de Robert K. Merton</span>, par <span class="author">Arnaud Saint-Martin</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "La sociologie de Robert K. Merton" par @ArSaintMartin (2013) aux @Ed_LaDecouverte #SocioNoël de 2013 au pied du 🎄!<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/gcabanac/status/672458566515752960">@gcabanac</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">À quoi rêvent les algorithmes</span>, par <span class="author">Dominique Cardon</span>&nbsp;(<a href="http://www.seuil.com/livre-9782021279962.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Tout frais : "A quoi rêvent les algorithmes" de @Karmacoma. Sous les calculs, le politique.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/672451555388473345">@F__Casta</a></span>
     </blockquote>
   
   </div>
