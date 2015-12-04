@@ -15,6 +15,7 @@ Accès direct à un jour :<br/>
 1. [1er Décembre](#dec15-1)
 2. [2 Décembre](#dec15-2)
 3. [3 Décembre](#dec15-3)
+4. [4 Décembre](#dec15-4)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -651,6 +652,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         y a pas mieux pour découvrir la socio voire la vie....<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ClaraMordra/status/672339788238856193">@ClaraMordra</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Parce que c'est mon 1er Bourdieu et le seul que j'ai réussi à finir jusqu'à présent.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/fivepastfive/status/672563064940724224">@fivepastfive</a></span>
       </blockquote>
     
   
@@ -2154,6 +2160,84 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Invitation hilarante & percutante (presque) pour tous.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/672511628689211392">@thefugitive_</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-4">4 Décembre</h2>
+<article class="book">
+  <h1><span class="title">Appropriations des idées féministes et transformation de soi par la lecture</span>, par <span class="author">Viviane Albenga et Laurence Bachmann</span>&nbsp;(<a href="http://www.cairn.info/resume.php?ID_ARTICLE=POX_109_0069">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Article très intéressant, je recommande aussi de lire l'ensemble du numéro<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/672526708424187905">@RaphCann</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Recherches en ethnométhodologie</span>, par <span class="author">Harold Garfinkel</span>&nbsp;(<a href="http://lettre.ehess.fr/index.php?9383">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Relire l'histoire d'Agnès et les "good organisational reasons for bad records"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jrmdns/status/672540216255754246">@jrmdns</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">De la souillure</span>, par <span class="author">Mary Douglas</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      C'est beau...<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/joliraton/status/672658899326083073">@joliraton</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Éléments de théorie et de méthode sociologique</span>, par <span class="author">Robert K. Merton</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un incontournable !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/672666742389407744">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Homo Academicus</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      un outil de travail, un objet en soi et une lecture réflexive<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mel_picard/status/672677574468874240">@mel_picard</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L’expérience concentrationnaire</span>, par <span class="author">Michael Pollak</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pas très Noël spirit mais le génial M.Pollak avec L'expérience concentrationnaire, publi récente en poche<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/persovinz/status/672681003056545792">@persovinz</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les âmes du peuple noir</span>, par <span class="author">W.E.B Du Bois</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un des plus grands sociologues US et pour la #doubleconscience. Ses observations et analyses de la population noire en milieu rural période post-esclavage OMG. Traduction TROP tardive en français.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/672681402584969217">@LionnelleMakaya</a></span>
     </blockquote>
   
   </div>
