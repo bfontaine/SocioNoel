@@ -81,10 +81,15 @@
       objet d'étude que pour sa méthode
   - title: La Grande Transformation
     author: Karl Polanyi
-    source: https://twitter.com/Uneheuredepeine/status/671617680080814080
-    comment: >
-      So, let's begin. Le bouquin que vous devriez lire en ce moment, c'est
-      évidemment La Grande Transformation de Karl Polanyi
+    sources:
+      - link: https://twitter.com/Uneheuredepeine/status/671617680080814080
+        comment: >
+          So, let's begin. Le bouquin que vous devriez lire en ce moment, c'est
+          évidemment La Grande Transformation de Karl Polanyi
+      - link: https://twitter.com/marvinrouge/status/672752939581198337
+        comment: >
+          le livre qui t'explique la crise financière et la crise écologique en
+          même temps. Not bad.
   - title: Tristes tropiques
     author: Claude Lévi-Strauss
     source: https://twitter.com/ylloPytterP/status/671602324436099072
@@ -92,10 +97,17 @@
       Le premier livre que j'ai lu en arrivant en fac d'anthropologie
   - title: "Les nounous sortent enfin de l'ombre : Qui gardera nos enfants ?"
     author: Caroline Ibos
-    source: https://twitter.com/ClaraMordra/status/671597385227878400
-    comment: >
-      Les nounous sortent enfin de l'ombre : Qui gardera nos enfants? par
-      Caroline Ibos.
+    sources:
+      - link: https://twitter.com/ClaraMordra/status/671597385227878400
+        comment: >
+          Les nounous sortent enfin de l'ombre : Qui gardera nos enfants? par
+          Caroline Ibos.
+      - link: https://twitter.com/extatiq/status/672784675329482757
+        comment: >
+          sur les rapports de race/classe/genre entre nourrices racisées et
+          patron.ne.s blanches. L'auteur donne beaucoup la parole aux nourrices
+          (c'est une enquête quali), et c'est une parole qu'on entend
+          extrêmement peu.
   - title: La politique sans en avoir l'air
     author: Laurent Le Gall, Michel Offerlé, François Ploux
     source: https://twitter.com/CobbleAndFrame/status/671596321116131328
@@ -113,6 +125,10 @@
         comment: >
           Excellente vulgarisation des méthodes d'enquête.
           <a href="https://twitter.com/thefugitive_/status/660802831918587904">Déroulez là</a>
+      - link: https://twitter.com/MorganeMdt/status/672813548930785281
+        comment: >
+          parce que cool pour la recherche et pour l'enseignement, surtout avec
+          des podcasts à côté
   - title: Le monde privé des ouvriers
     author: Olivier Schwartz
     source: https://twitter.com/mquijoux/status/671707874180128768
@@ -570,6 +586,10 @@
           Analyse chirurgicale qui fait surgir les lieux de pouvoir et de contrôle d'une société.
       - link: https://twitter.com/Bad_Sociologist/status/672034418983333888
         comment: "sic un M1 AES je m'en remet toujours pas"
+      - link: https://twitter.com/Politriste/status/672687173888565248
+        comment: >
+          C'est ni de la socio, ni de la science po, ni de l'histoire, ni de la
+          philo, mais c'est Michel Foucault
   - title: Branchements
     author: Jean-Loup Amselle
     source: https://twitter.com/dan_maku/status/672003637078532096
@@ -993,9 +1013,14 @@
       M. Terestchenko - Un si fragile vernis d'humanité
   - title: Sur la télévision
     author: Pierre Bourdieu
-    source: https://twitter.com/bfontn/status/672363344230264832
-    comment: >
-      le toujours d’actualité « Sur la télévision » de Bourdieu
+    sources:
+      - link: https://twitter.com/bfontn/status/672363344230264832
+        comment: >
+          le toujours d’actualité « Sur la télévision » de Bourdieu
+      - link: https://twitter.com/M_Iz_6/status/672682252694851584
+        comment: >
+          Pour le #jour4 de #SocioNoel les deux branches d'un dévoilement
+          (personnel) : Bourdieu et Neveu @Ed_LaDecouverte
   - title: Dix ans de marche des Beurs
     author: Saïd Bouamama
     source: https://twitter.com/LionnelleMakaya/status/672363693875818497
@@ -1122,6 +1147,11 @@
     source: https://twitter.com/thefugitive_/status/672511628689211392
     comment: >
       Invitation hilarante & percutante (presque) pour tous.
+  - title: Le monde vécu des universitaires
+    author: Laurence Viry
+    source: https://twitter.com/MorganeMdt/status/672687010105139202
+    comment: >
+      Lu juste avt le début du doctorat, histoire de se mettre dans le bain...
 4:
   - title: Appropriations des idées féministes et transformation de soi par la lecture
     author: Viviane Albenga et Laurence Bachmann
@@ -1163,3 +1193,237 @@
       Un des plus grands sociologues US et pour la #doubleconscience.
       Ses observations et analyses de la population noire en milieu rural
       période post-esclavage OMG. Traduction TROP tardive en français.
+  - title: L’enquête sociologique
+    author: Serge Paugam
+    source: https://twitter.com/balleverte/status/672681972242767872
+    comment: >
+      on continue d'illustrer les cours. Ce matin, c'est méthode d'enquête.
+  - title: Sociologie du journalisme
+    author: Érik Neveu
+    source: https://twitter.com/M_Iz_6/status/672682252694851584
+    comment: >
+      Pour le #jour4 de #SocioNoel les deux branches d'un dévoilement
+      (personnel) : Bourdieu et Neveu @Ed_LaDecouverte
+  - title: Calmer le jobard
+    author: Erving Goffman
+    source: https://twitter.com/Uneheuredepeine/status/672683582918418433
+    comment: >
+      Sans doute le meilleur article d'introduction à Goffman. Partant de
+      l'analyse des arnaques, il y construit un cadre général pour penser le
+      travail de changement d'identité. Ou comment on nous conduit à nous
+      calmer et à accepter les coups/coûts symboliques. Goffman, c'est le mec
+      que tu lis en te disant "Ouais, c'est évident en fait", et puis un jour
+      ça te revient en tête et PAF EPIPHANIE. Cet article nous rappelle que le
+      "blaming the victim" n'est pas qu'une stratégie utile : c'est un métier.
+      Comme pour d'autres, j'en ai parlé dans un billet,
+      <a href="http://uneheuredepeine.blogspot.fr/2011/10/portrait-de-la-crise-en-arnaque.html">ici,
+      à propos de la crise financière</a>
+    link: http://www.tau.ac.il/~algazi/mat/Goffman--Cooling.htm
+  - title: Street Corner Society
+    author: William Foote Whyte
+    sources:
+      - link: https://twitter.com/lestrelin/status/672683672353513472
+        comment: >
+          Mon #socionoel du 4 décembre : Street Corner Society, de William Foote
+          Whyte.
+      - link: https://twitter.com/CamilleGinger/status/672798998672089088
+        comment: >
+          Du Scorsese version observation participante
+    link: http://www.editionsladecouverte.fr/catalogue/index-Street_Corner_Society-9782707152879.html
+  - title: L’économie morale des sciences modernes
+    author: Lorraine Daston
+    source: https://twitter.com/dan_maku/status/672686710191431680
+    comment: >
+      Oubliez tout ce que vous croyez savoir sur la notion d'objectivité !
+  - title: "Sociologie générale, volume 1. Cours au Collège de France 1981-1983"
+    author: Pierre Bourdieu
+    source: https://twitter.com/Blogageco/status/672688356820713472
+    comment: >
+      en gros un sociologue ça lit surtout Bourdieu ;), heureusement qu’il
+      vient de sortir un nouveau bouquin
+    link: http://www.lemonde.fr/livres/article/2015/12/03/pierre-bourdieu-fondations_4822781_3260.html
+  - title: Nations et nationalismes
+    author: Éric Hobsbawn
+    source: https://twitter.com/Ianonim/status/672689478260162560
+    comment: >
+      Lu en plein débat sur l’identité nationale. Lumineux pour comprendre
+      l’inanité de ce débat
+  - title: Le Fil rouge. Sociologie de la mémoire communiste
+    author: Marie-Claire Lavabre
+    source: https://twitter.com/EditionsScpo/status/672694951197728768
+    comment: >
+      Parlant de grand texte : Marie-Claire Lavabre "Le Fil rouge. Sociologie
+      de la mémoire communiste"
+  - title: Le travail pornographique
+    author: Mathieu Trachman
+    source: https://twitter.com/mquijoux/status/672697326524358656
+    comment: >
+      place à la nouvelle génération avec Mathieu Trachman et son ouvrage sur
+      le travail pornographique
+    link: http://www.editionsladecouverte.fr/catalogue/index-Le_travail_pornographique-9782707175441.html
+  - title: No such thing as a free gift
+    author: Linsey McGoey
+    source: https://twitter.com/NuteluCaine/status/672697358208081921
+    comment: >
+      Avec #SocioNoel, je crois que nous sommes entrés dans une logique de don
+      agonistique. À propos : Linsey McGoey, No such thing as a free gift.
+      Fondations philanthropique et capitalisme
+  - title: Le « Populisme du FN, » un dangereux contresens
+    author: Annie Collovald
+    source: https://twitter.com/ruggeroparis/status/672698650854846464
+    comment: >
+      Annie Collovald et son analyse du "populisme" #FN
+  - title: Les étapes de la pensée sociologique
+    author: Raymond Aron
+    source: https://twitter.com/SamuelHayat/status/672703374299672576
+    comment: >
+      Ok c'est Aron, ok c'est un manuel, mais c'est mon 1er :)
+  - title: A Society of Young Women
+    author: Amélie Le Renard
+    source: https://twitter.com/Laboratoire_CMH/status/672705378191343618
+    comment: >
+      Amélie Le Renard A Society of Young Women.....
+    link: http://sf.oxfordjournals.org/content/early/2015/04/21/sf.sov067.extract
+  - title: Le prisme de la prostitution
+    author: Gail Pheterson
+    source: https://twitter.com/pa_prika_m/status/672707575067099136
+    comment: >
+      Gail Pheterson, livre incontournable, notamment sur le stigmate de
+      putain.
+  - title: Columbo, la lutte des classes ce soir à la télé
+    author: Lilian Mathieu
+    source: https://twitter.com/Silmalia/status/672712369865424896
+    comment: >
+      Columbo, la lutte des classes ce soir à la télé - L. Mathieu
+    link: http://www.contretemps.eu/lectures/lire-extrait-columbo-lutte-classes-ce-soir-t%C3%A9l%C3%A9-lilian-mathieu
+  - title: L'invention de la violence
+    author: Laurent Mucchielli
+    source: https://twitter.com/PaillardSimon/status/672718198911930369
+    comment: >
+      Un des premiers livre que j'ai lu en socio: "L'invention de la violence"
+      de Mucchielli. Eclairant.
+  - title: La mesure de l'Etat
+    author: Eric Brian
+    source: https://twitter.com/Comtesse_Leia/status/672720585164738560
+    comment: >
+      Sur la genèse de la statistique et les rapports entre sciences et
+      administration à la fin du XVIIIème siècle
+  - title: Le racisme
+    author: Albert Memmi
+    source: https://twitter.com/ylloPytterP/status/672722000582868992
+    comment: >
+      Je crois, malheureusement, que ce mot nécessite encore en 2015 une
+      explication
+  - title: Le désenchantement de l’État
+    author: Catherine Colliot-Thélène
+    source: https://twitter.com/m_lallouet/status/672726069628289025
+    comment: "#SocioNoel"
+  - title: Jeunes dangereux, jeunes en danger
+    author: Thomas Sauvadet
+    source: https://twitter.com/Lil_RoXaNe/status/672726507861708800
+    comment: >
+      un sociologue en sweat à capuche sur le 4eme de couv.
+  - title: Éléments pour une approche interactionniste de la politisation
+    author: Camille Hamidi
+    source: https://twitter.com/CobbleAndFrame/status/672727426120687616
+    comment: >
+      Pourquoi cet article : parce que Hamidi remet calmement à sa place l'une
+      des théories les plus fumeuses et les plus diffusées en science politique
+      des années 2000 (les fameux "capitaux sociaux" de Putnam), déjà. Parce
+      que l'article est somptueusement bien écrit et clair, elle a un argument,
+      elle le présente clairement, elle réussit à être à la fois limpide et
+      complexe, bref c'est vraiment bien écrit. Et ensuite, vous l'aurez
+      remarqué, parce qu'il commence à y avoir une petite tendance "sociologie
+      politique" dans cette séquence, et que cet article est franchement dans
+      le haut du panier en ce qui concerne ce domaine. Enfin, petite astuce :
+      elle parle d'association issues de l'immigration, mais elle ne se réduit
+      pas aux questions d'"intégration", de race, d'"ethnicité", et bla bla bli
+      et bla bla bla. Il y a presque un refus de l'exceptionalisme qui me plaît
+      bien dans ce papier.
+    link: https://www.cairn.info/revue-francaise-de-science-politique-2006-1-page-5.htm
+  - title: Capitalisme, désir et servitude
+    author: Frédéric Lordon
+    source: https://twitter.com/IsawaGreg/status/672753088449613824
+    comment: "Hâte de le lire !"
+  - title: Écrire les sciences sociales
+    author: Howard Becker
+    source: https://twitter.com/F_Bally/status/672754907838070786
+    comment: >
+      un peu de méthodologie (surtout d'excellents conseils) avec Becker
+      "Ecrire les sciences sociales"
+  - title: "Entre science et réalité: La construction sociale de quoi ?"
+    author: Ian Hacking
+    source: https://twitter.com/AAulagnier/status/672756691482648576
+    comment: >
+      une belle réflexion sur la tension réalisme/constructivisme. Très
+      nécessaire !
+  - title: The art of Social Theory
+    author: Richard Swedberg
+    source: https://twitter.com/JPatarinJossec/status/672757827543408640
+    comment: >
+      Un peu plus de méthodologie ft. social theory
+    link: http://press.princeton.edu/titles/10264.html
+  - title: Résister à la chaîne
+    author: Christian Corouge et Michel Pialoux
+    source: https://twitter.com/sociosauvage/status/672763243425890305
+    comment: >
+      Un autre bouquin d'entretien, cette fois entre un sociologue et un
+      syndicaliste.
+  - title: Les mondes de l'art
+    author: Howard Becker
+    source: http://www.monoskop.org/images/1/17/Becker_Howard_S_Art_Worlds.pdf
+    comment: >
+      Petit cadeau avant l'heure, "Les mondes de l'art" en anglais
+  - title: Phénomènes sociaux totaux et dynamique sociale
+    author: George Balandier
+    source: https://twitter.com/Bad_Sociologist/status/672777630790328320
+    comment: >
+      Phénomènes sociaux totaux et dynamique sociale de George Balandier
+  - title: La gauche et le périurbain
+    author: Anne Lambert
+    source: https://twitter.com/Ostpolitik/status/672782319137234944
+    comment: >
+      Pour ce jour 4 de #SocioNoel Je vous propose "La gauche et le périurbain"
+      sur les politiques de "mixité sociale".
+    link: https://www.cairn.info/revue-politix-2013-1-page-105.htm
+  - title: Accélération. Une sociologie de la vitesse
+    author: Barry Allen
+    source: https://twitter.com/Batman_Socio/status/672799389660938242
+    comment: >
+      Un peu post-moderniste, mais marrant à lire.
+  - title: Gouverner par accommodements. Stratégies autour de la carte scolaire
+    author: Lorenzo Barrault
+    source: https://twitter.com/CamilleGinger/status/672802508998340608
+    comment: >
+      Et 4déc, rien à voir : L. Barrault, Gouverner par accommodements.
+      Stratégies autour de la carte scolaire
+    link: https://lectures.revues.org/12419
+  - title: Trouble dans le genre
+    author: Judith Butler
+    source: https://twitter.com/bfontn/status/672807231088381954
+    comment: >
+      Je vois des amateurs de #djendeur sur #SocioNoel alors hop, “Trouble dans
+      le genre” de Judith Butler
+  - title: Culture d’en haut, culture d’en bas
+    author: Lawrence W. Levine
+    source: https://twitter.com/RaphCann/status/672810025610539009
+    comment: >
+      Merci @Uneheuredepeine pour la référence, coucou #SocioNoel
+  - title: Les règles de l'Art
+    author: Pierre Bourdieu
+    source: https://twitter.com/JohnGoodMalik/status/672817146725052416
+    comment: >
+      Ceux qui disent que Bourdieu est incapable de penser le changement social
+      devraient plancher sur "les règles de l'Art"
+  - title: "Rouge est la terre : Dans les coulisses de Roland Garros"
+    author: Bertrand Pulman
+    source: https://twitter.com/ValGuery/status/672811610197618693
+    comment: >
+      Le livre qui m'a donné envie de m'intéresser à la sociologie du sport.
+      L'un des rares consacrés au tennis
+  - title: La grande arnaque
+    author: Paola Tanet
+    source: https://twitter.com/RaphCann/status/672815608761876480
+    comment: >
+      La grande arnaque de Paola Tanet, avec le concept d'un continuum de
+      l'échange économico-sexuel

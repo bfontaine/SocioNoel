@@ -180,10 +180,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">La Grande Transformation</span>, par <span class="author">Karl Polanyi</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      So, let's begin. Le bouquin que vous devriez lire en ce moment, c'est évidemment La Grande Transformation de Karl Polanyi<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/671617680080814080">@Uneheuredepeine</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        So, let's begin. Le bouquin que vous devriez lire en ce moment, c'est évidemment La Grande Transformation de Karl Polanyi<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/671617680080814080">@Uneheuredepeine</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        le livre qui t'explique la crise financière et la crise écologique en même temps. Not bad.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/marvinrouge/status/672752939581198337">@marvinrouge</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -202,10 +209,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">Les nounous sortent enfin de l'ombre : Qui gardera nos enfants ?</span>, par <span class="author">Caroline Ibos</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Les nounous sortent enfin de l'ombre : Qui gardera nos enfants? par Caroline Ibos.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ClaraMordra/status/671597385227878400">@ClaraMordra</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Les nounous sortent enfin de l'ombre : Qui gardera nos enfants? par Caroline Ibos.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ClaraMordra/status/671597385227878400">@ClaraMordra</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        sur les rapports de race/classe/genre entre nourrices racisées et patron.ne.s blanches. L'auteur donne beaucoup la parole aux nourrices (c'est une enquête quali), et c'est une parole qu'on entend extrêmement peu.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/extatiq/status/672784675329482757">@extatiq</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -233,6 +247,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Excellente vulgarisation des méthodes d'enquête. <a href="https://twitter.com/thefugitive_/status/660802831918587904">Déroulez là</a><br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/671826770610552832">@thefugitive_</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        parce que cool pour la recherche et pour l'enseignement, surtout avec des podcasts à côté<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/672813548930785281">@MorganeMdt</a></span>
       </blockquote>
     
   
@@ -1109,6 +1128,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Bad_Sociologist/status/672034418983333888">@Bad_Sociologist</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        C'est ni de la socio, ni de la science po, ni de l'histoire, ni de la philo, mais c'est Michel Foucault<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Politriste/status/672687173888565248">@Politriste</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1926,10 +1950,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">Sur la télévision</span>, par <span class="author">Pierre Bourdieu</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      le toujours d’actualité « Sur la télévision » de Bourdieu<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/672363344230264832">@bfontn</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        le toujours d’actualité « Sur la télévision » de Bourdieu<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/672363344230264832">@bfontn</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Pour le #jour4 de #SocioNoel les deux branches d'un dévoilement (personnel) : Bourdieu et Neveu @Ed_LaDecouverte<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/672682252694851584">@M_Iz_6</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2164,6 +2195,17 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1><span class="title">Le monde vécu des universitaires</span>, par <span class="author">Laurence Viry</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Lu juste avt le début du doctorat, histoire de se mettre dans le bain...<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/672687010105139202">@MorganeMdt</a></span>
+    </blockquote>
+  
+  </div>
+</article>
 <h2 id="dec15-4">4 Décembre</h2>
 <article class="book">
   <h1><span class="title">Appropriations des idées féministes et transformation de soi par la lecture</span>, par <span class="author">Viviane Albenga et Laurence Bachmann</span>&nbsp;(<a href="http://www.cairn.info/resume.php?ID_ARTICLE=POX_109_0069">lien</a>)</h1>
@@ -2238,6 +2280,409 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Un des plus grands sociologues US et pour la #doubleconscience. Ses observations et analyses de la population noire en milieu rural période post-esclavage OMG. Traduction TROP tardive en français.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/672681402584969217">@LionnelleMakaya</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L’enquête sociologique</span>, par <span class="author">Serge Paugam</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      on continue d'illustrer les cours. Ce matin, c'est méthode d'enquête.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/672681972242767872">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Sociologie du journalisme</span>, par <span class="author">Érik Neveu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour le #jour4 de #SocioNoel les deux branches d'un dévoilement (personnel) : Bourdieu et Neveu @Ed_LaDecouverte<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/672682252694851584">@M_Iz_6</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Calmer le jobard</span>, par <span class="author">Erving Goffman</span>&nbsp;(<a href="http://www.tau.ac.il/~algazi/mat/Goffman--Cooling.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sans doute le meilleur article d'introduction à Goffman. Partant de l'analyse des arnaques, il y construit un cadre général pour penser le travail de changement d'identité. Ou comment on nous conduit à nous calmer et à accepter les coups/coûts symboliques. Goffman, c'est le mec que tu lis en te disant "Ouais, c'est évident en fait", et puis un jour ça te revient en tête et PAF EPIPHANIE. Cet article nous rappelle que le "blaming the victim" n'est pas qu'une stratégie utile : c'est un métier. Comme pour d'autres, j'en ai parlé dans un billet, <a href="http://uneheuredepeine.blogspot.fr/2011/10/portrait-de-la-crise-en-arnaque.html">ici, à propos de la crise financière</a><br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/672683582918418433">@Uneheuredepeine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Street Corner Society</span>, par <span class="author">William Foote Whyte</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Street_Corner_Society-9782707152879.html">lien</a>)</h1>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Mon #socionoel du 4 décembre : Street Corner Society, de William Foote Whyte.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/672683672353513472">@lestrelin</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Du Scorsese version observation participante<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/672798998672089088">@CamilleGinger</a></span>
+      </blockquote>
+    
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L’économie morale des sciences modernes</span>, par <span class="author">Lorraine Daston</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Oubliez tout ce que vous croyez savoir sur la notion d'objectivité !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/672686710191431680">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Sociologie générale, volume 1. Cours au Collège de France 1981-1983</span>, par <span class="author">Pierre Bourdieu</span>&nbsp;(<a href="http://www.lemonde.fr/livres/article/2015/12/03/pierre-bourdieu-fondations_4822781_3260.html">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      en gros un sociologue ça lit surtout Bourdieu ;), heureusement qu’il vient de sortir un nouveau bouquin<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Blogageco/status/672688356820713472">@Blogageco</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Nations et nationalismes</span>, par <span class="author">Éric Hobsbawn</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Lu en plein débat sur l’identité nationale. Lumineux pour comprendre l’inanité de ce débat<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ianonim/status/672689478260162560">@Ianonim</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Le Fil rouge. Sociologie de la mémoire communiste</span>, par <span class="author">Marie-Claire Lavabre</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Parlant de grand texte : Marie-Claire Lavabre "Le Fil rouge. Sociologie de la mémoire communiste"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/EditionsScpo/status/672694951197728768">@EditionsScpo</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Le travail pornographique</span>, par <span class="author">Mathieu Trachman</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Le_travail_pornographique-9782707175441.html">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      place à la nouvelle génération avec Mathieu Trachman et son ouvrage sur le travail pornographique<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/672697326524358656">@mquijoux</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">No such thing as a free gift</span>, par <span class="author">Linsey McGoey</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Avec #SocioNoel, je crois que nous sommes entrés dans une logique de don agonistique. À propos : Linsey McGoey, No such thing as a free gift. Fondations philanthropique et capitalisme<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/672697358208081921">@NuteluCaine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Le « Populisme du FN, » un dangereux contresens</span>, par <span class="author">Annie Collovald</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Annie Collovald et son analyse du "populisme" #FN<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/672698650854846464">@ruggeroparis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les étapes de la pensée sociologique</span>, par <span class="author">Raymond Aron</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Ok c'est Aron, ok c'est un manuel, mais c'est mon 1er :)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/672703374299672576">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">A Society of Young Women</span>, par <span class="author">Amélie Le Renard</span>&nbsp;(<a href="http://sf.oxfordjournals.org/content/early/2015/04/21/sf.sov067.extract">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Amélie Le Renard A Society of Young Women.....<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/672705378191343618">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Le prisme de la prostitution</span>, par <span class="author">Gail Pheterson</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Gail Pheterson, livre incontournable, notamment sur le stigmate de putain.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/672707575067099136">@pa_prika_m</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Columbo, la lutte des classes ce soir à la télé</span>, par <span class="author">Lilian Mathieu</span>&nbsp;(<a href="http://www.contretemps.eu/lectures/lire-extrait-columbo-lutte-classes-ce-soir-t%C3%A9l%C3%A9-lilian-mathieu">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Columbo, la lutte des classes ce soir à la télé - L. Mathieu<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/672712369865424896">@Silmalia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L'invention de la violence</span>, par <span class="author">Laurent Mucchielli</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un des premiers livre que j'ai lu en socio: "L'invention de la violence" de Mucchielli. Eclairant.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/672718198911930369">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La mesure de l'Etat</span>, par <span class="author">Eric Brian</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sur la genèse de la statistique et les rapports entre sciences et administration à la fin du XVIIIème siècle<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Comtesse_Leia/status/672720585164738560">@Comtesse_Leia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Le racisme</span>, par <span class="author">Albert Memmi</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Je crois, malheureusement, que ce mot nécessite encore en 2015 une explication<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ylloPytterP/status/672722000582868992">@ylloPytterP</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Le désenchantement de l’État</span>, par <span class="author">Catherine Colliot-Thélène</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      #SocioNoel<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/m_lallouet/status/672726069628289025">@m_lallouet</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Jeunes dangereux, jeunes en danger</span>, par <span class="author">Thomas Sauvadet</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      un sociologue en sweat à capuche sur le 4eme de couv.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/672726507861708800">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Éléments pour une approche interactionniste de la politisation</span>, par <span class="author">Camille Hamidi</span>&nbsp;(<a href="https://www.cairn.info/revue-francaise-de-science-politique-2006-1-page-5.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pourquoi cet article : parce que Hamidi remet calmement à sa place l'une des théories les plus fumeuses et les plus diffusées en science politique des années 2000 (les fameux "capitaux sociaux" de Putnam), déjà. Parce que l'article est somptueusement bien écrit et clair, elle a un argument, elle le présente clairement, elle réussit à être à la fois limpide et complexe, bref c'est vraiment bien écrit. Et ensuite, vous l'aurez remarqué, parce qu'il commence à y avoir une petite tendance "sociologie politique" dans cette séquence, et que cet article est franchement dans le haut du panier en ce qui concerne ce domaine. Enfin, petite astuce : elle parle d'association issues de l'immigration, mais elle ne se réduit pas aux questions d'"intégration", de race, d'"ethnicité", et bla bla bli et bla bla bla. Il y a presque un refus de l'exceptionalisme qui me plaît bien dans ce papier.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/672727426120687616">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Capitalisme, désir et servitude</span>, par <span class="author">Frédéric Lordon</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Hâte de le lire !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/IsawaGreg/status/672753088449613824">@IsawaGreg</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Écrire les sciences sociales</span>, par <span class="author">Howard Becker</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      un peu de méthodologie (surtout d'excellents conseils) avec Becker "Ecrire les sciences sociales"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/672754907838070786">@F_Bally</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Entre science et réalité: La construction sociale de quoi ?</span>, par <span class="author">Ian Hacking</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      une belle réflexion sur la tension réalisme/constructivisme. Très nécessaire !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AAulagnier/status/672756691482648576">@AAulagnier</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">The art of Social Theory</span>, par <span class="author">Richard Swedberg</span>&nbsp;(<a href="http://press.princeton.edu/titles/10264.html">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un peu plus de méthodologie ft. social theory<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JPatarinJossec/status/672757827543408640">@JPatarinJossec</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Résister à la chaîne</span>, par <span class="author">Christian Corouge et Michel Pialoux</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un autre bouquin d'entretien, cette fois entre un sociologue et un syndicaliste.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/672763243425890305">@sociosauvage</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les mondes de l'art</span>, par <span class="author">Howard Becker</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Petit cadeau avant l'heure, "Les mondes de l'art" en anglais<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="http://www.monoskop.org/images/1/17/Becker_Howard_S_Art_Worlds.pdf">@images</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Phénomènes sociaux totaux et dynamique sociale</span>, par <span class="author">George Balandier</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Phénomènes sociaux totaux et dynamique sociale de George Balandier<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Bad_Sociologist/status/672777630790328320">@Bad_Sociologist</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La gauche et le périurbain</span>, par <span class="author">Anne Lambert</span>&nbsp;(<a href="https://www.cairn.info/revue-politix-2013-1-page-105.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour ce jour 4 de #SocioNoel Je vous propose "La gauche et le périurbain" sur les politiques de "mixité sociale".<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ostpolitik/status/672782319137234944">@Ostpolitik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Accélération. Une sociologie de la vitesse</span>, par <span class="author">Barry Allen</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un peu post-moderniste, mais marrant à lire.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Batman_Socio/status/672799389660938242">@Batman_Socio</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Gouverner par accommodements. Stratégies autour de la carte scolaire</span>, par <span class="author">Lorenzo Barrault</span>&nbsp;(<a href="https://lectures.revues.org/12419">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Et 4déc, rien à voir : L. Barrault, Gouverner par accommodements. Stratégies autour de la carte scolaire<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/672802508998340608">@CamilleGinger</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Trouble dans le genre</span>, par <span class="author">Judith Butler</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Je vois des amateurs de #djendeur sur #SocioNoel alors hop, “Trouble dans le genre” de Judith Butler<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/672807231088381954">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Culture d’en haut, culture d’en bas</span>, par <span class="author">Lawrence W. Levine</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Merci @Uneheuredepeine pour la référence, coucou #SocioNoel<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/672810025610539009">@RaphCann</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les règles de l'Art</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Ceux qui disent que Bourdieu est incapable de penser le changement social devraient plancher sur "les règles de l'Art"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/672817146725052416">@JohnGoodMalik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Rouge est la terre : Dans les coulisses de Roland Garros</span>, par <span class="author">Bertrand Pulman</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Le livre qui m'a donné envie de m'intéresser à la sociologie du sport. L'un des rares consacrés au tennis<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ValGuery/status/672811610197618693">@ValGuery</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La grande arnaque</span>, par <span class="author">Paola Tanet</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      La grande arnaque de Paola Tanet, avec le concept d'un continuum de l'échange économico-sexuel<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/672815608761876480">@RaphCann</a></span>
     </blockquote>
   
   </div>
