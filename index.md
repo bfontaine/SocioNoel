@@ -2784,3 +2784,25 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1><span class="title">Anticapitalistes : une sociologie historique de l’engagement</span>, par <span class="author">Florence Johsua</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Lecture de train.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/673046836589019136">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Le Suicide</span>, par <span class="author">Émile Durkheim</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un peu long mais très documenté.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/673047619711668224">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
