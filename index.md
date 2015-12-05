@@ -708,10 +708,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">La Production des Grands Hommes</span>, par <span class="author">Maurice Godelier</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      #SocioNoel même si en fait c'est #AnthropoNoel<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/joliraton/status/671784170708975617">@joliraton</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        #SocioNoel même si en fait c'est #AnthropoNoel<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/joliraton/status/671784170708975617">@joliraton</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Un classique de l'ethno, et plein d'anecdotes pour briller en société en bonus.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/marvinrouge/status/673071153548759040">@marvinrouge</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2857,6 +2864,116 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Très utile pour bien démarrer un mémoire avec les conseils d'un grand<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/673066913132605441">@Jo14Hernandez</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les anonymes à la radio</span>, par <span class="author">Christophe Deleu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour le jour 5 de #SocioNoel je vais mettre ce livre sur les auditeurs de radio et leur rapport aux animateurs. Un livre qui a été d'une grande aide pour mon mémoire sur l'aspect démocratique et participatif des radios locales.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ostpolitik/status/673068257260212224">@Ostpolitik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">À contre-pente</span>, par <span class="author">Philippe Mangeot et Pierre Bourdieu</span>&nbsp;(<a href="http://www.vacarme.org/article224.html">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un entretien, que je trouve génial, de Bourdieu en 2001 dans @_Vacarme_<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/673068357478948864">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les forges de la fiction</span>, par <span class="author">Olivier Caïra</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Les forges de la fiction, de O. Caïra, pour découvrir les jeux de rôle avec les outils des sciences sociales (ex : Goffman)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/673073302647250945">@JohnGoodMalik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La logique de l’honneur : Gestion des entreprises et traditions nationales</span>, par <span class="author">Philippe d’Iribarne</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour comprendre combien les différences culturelles s'immiscent dans les comportements organisationnels<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/673077771921432576">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les métamorphoses de la légitimité. Classes sociales et goût musical en France</span>, par <span class="author">Philippe Coulangeon</span>&nbsp;(<a href="http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2010-1-page-88.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Coulangeon - Les métamorphoses de la légitimité. Classes sociales et goût musical en France<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/673109384738770944">@Phangere</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La construction sociale du corps</span>, par <span class="author">Christine Détrez</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Souvenir marquant de licence: "la socio, là aussi !…"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jbiaudet/status/673119234277433344">@jbiaudet</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">La raison humanitaire</span>, par <span class="author">Didier Fassin</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Qui et comment jugeons nous digne de charité, d’égalité, d’existence ?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/673120467532840960">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Des hommes sur le fil, construction de l'identité masculine en milieu précaire</span>, par <span class="author">Pascale Jamoulle</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Des hommes sur le fil, construction de l'identité masculine en milieu précaire de P. JAMOULLE<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/673125168395460608">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Sociologie de la musique</span>, par <span class="author">Max Weber</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour foutre le bordel dans la tête d'un copain, offrez lui: Max Weber, Sociologie de la musique.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/673125851412586496">@NuteluCaine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L’apartheid scolaire</span>, par <span class="author">Georges Felouzis, Françoise Liot, Joëlle Perroton</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un des derniers livres que j'ai lu pour mon boulot, très éclairant sur la ségrégation ethnique à l'école<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/673133020182929410">@pa_prika_m</a></span>
     </blockquote>
   
   </div>

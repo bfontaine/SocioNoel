@@ -363,8 +363,13 @@
     comment: "Bon allez j'essaie. Après une journée de cours donc plutôt light"
   - title: La Production des Grands Hommes
     author: Maurice Godelier
-    source: https://twitter.com/joliraton/status/671784170708975617
-    comment: "#SocioNoel même si en fait c'est #AnthropoNoel"
+    sources:
+      - link: https://twitter.com/joliraton/status/671784170708975617
+        comment: "#SocioNoel même si en fait c'est #AnthropoNoel"
+      - link: https://twitter.com/marvinrouge/status/673071153548759040
+        comment: >
+          Un classique de l'ethno, et plein d'anecdotes pour briller en société
+          en bonus.
   - title: De Caligari à Hitler
     author: Siegfried Kracauer
     source: https://twitter.com/ValentinGrmd/status/671795520051027970
@@ -1517,3 +1522,64 @@
     source: https://twitter.com/Jo14Hernandez/status/673066913132605441
     comment: >
       Très utile pour bien démarrer un mémoire avec les conseils d'un grand
+  - title: Les anonymes à la radio
+    author: Christophe Deleu
+    source: https://twitter.com/Ostpolitik/status/673068257260212224
+    comment: >
+      Pour le jour 5 de #SocioNoel je vais mettre ce livre sur les auditeurs de
+      radio et leur rapport aux animateurs. Un livre qui a été d'une grande
+      aide pour mon mémoire sur l'aspect démocratique et participatif des
+      radios locales.
+  - title: À contre-pente
+    author: Philippe Mangeot et Pierre Bourdieu
+    source: https://twitter.com/PaillardSimon/status/673068357478948864
+    comment: >
+      Un entretien, que je trouve génial, de Bourdieu en 2001 dans @_Vacarme_
+    link: http://www.vacarme.org/article224.html
+  - title: Les forges de la fiction
+    author: Olivier Caïra
+    source: https://twitter.com/JohnGoodMalik/status/673073302647250945
+    comment: >
+      Les forges de la fiction, de O. Caïra, pour découvrir les jeux de rôle
+      avec les outils des sciences sociales (ex : Goffman)
+  - title: "La logique de l’honneur : Gestion des entreprises et traditions nationales"
+    author: Philippe d’Iribarne
+    source: https://twitter.com/bbarbusse/status/673077771921432576
+    comment: >
+      Pour comprendre combien les différences culturelles s'immiscent dans les
+      comportements organisationnels
+  - title: "Les métamorphoses de la légitimité. Classes sociales et goût musical en France"
+    author: Philippe Coulangeon
+    source: https://twitter.com/Phangere/status/673109384738770944
+    comment: >
+      Coulangeon - Les métamorphoses de la légitimité. Classes sociales et goût
+      musical en France
+    link: http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2010-1-page-88.htm
+  - title: La construction sociale du corps
+    author: Christine Détrez
+    source: https://twitter.com/jbiaudet/status/673119234277433344
+    comment: >
+      Souvenir marquant de licence: "la socio, là aussi !…"
+  - title: La raison humanitaire
+    author: Didier Fassin
+    source: https://twitter.com/dan_maku/status/673120467532840960
+    comment: >
+      Qui et comment jugeons nous digne de charité, d’égalité, d’existence ?
+  - title: "Des hommes sur le fil, construction de l'identité masculine en milieu précaire"
+    author: Pascale Jamoulle
+    source: https://twitter.com/Lil_RoXaNe/status/673125168395460608
+    comment: >
+      Des hommes sur le fil, construction de l'identité masculine en milieu
+      précaire de P. JAMOULLE
+  - title: Sociologie de la musique
+    author: Max Weber
+    source: https://twitter.com/NuteluCaine/status/673125851412586496
+    comment: >
+      Pour foutre le bordel dans la tête d'un copain, offrez lui: Max Weber,
+      Sociologie de la musique.
+  - title: L’apartheid scolaire
+    author: Georges Felouzis, Françoise Liot, Joëlle Perroton
+    source: https://twitter.com/pa_prika_m/status/673133020182929410
+    comment: >
+      Un des derniers livres que j'ai lu pour mon boulot, très éclairant sur la
+      ségrégation ethnique à l'école
