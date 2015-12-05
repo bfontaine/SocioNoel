@@ -138,7 +138,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      1/12: L'un des premiers articles de socio que j'ai lu en arrivant en licence<br/>
+      L'un des premiers articles de socio que j'ai lu en arrivant en licence<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/671638604855291904">@RaphCann</a></span>
     </blockquote>
   
@@ -188,7 +188,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        le livre qui t'explique la crise financière et la crise écologique en même temps. Not bad.<br/>
+        Le livre qui t'explique la crise financière et la crise écologique en même temps. Not bad.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/marvinrouge/status/672752939581198337">@marvinrouge</a></span>
       </blockquote>
     
@@ -217,7 +217,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        sur les rapports de race/classe/genre entre nourrices racisées et patron.ne.s blanches. L'auteur donne beaucoup la parole aux nourrices (c'est une enquête quali), et c'est une parole qu'on entend extrêmement peu.<br/>
+        Sur les rapports de race/classe/genre entre nourrices racisées et patron.ne.s blanches. L'auteur donne beaucoup la parole aux nourrices (c'est une enquête quali), et c'est une parole qu'on entend extrêmement peu.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/extatiq/status/672784675329482757">@extatiq</a></span>
       </blockquote>
     
@@ -225,11 +225,11 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La politique sans en avoir l'air</span>, par <span class="author">Laurent Le Gall, Michel Offerlé, François Ploux</span></h1>
+  <h1><span class="title">La politique sans en avoir l'air</span>, par <span class="author">Laurent Le Gall, Michel Offerlé, et François Ploux</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
-      1er décembre : "La politique sans en avoir l'air", Laurent Le Gall, Michel Offerlé, François Ploux<br/>
+      "La politique sans en avoir l'air", Laurent Le Gall, Michel Offerlé, François Ploux<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/671596321116131328">@CobbleAndFrame</a></span>
     </blockquote>
   
@@ -241,7 +241,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        livre sympa et accessible. Des étudiants en socio de St Denis enquêtent dans le 8ème arrondissement.<br/>
+        Livre sympa et accessible. Des étudiants en socio de St Denis enquêtent dans le 8ème arrondissement.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/671593708479975424">@Lil_RoXaNe</a></span>
       </blockquote>
     
@@ -251,7 +251,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        parce que cool pour la recherche et pour l'enseignement, surtout avec des podcasts à côté<br/>
+        Parce que cool pour la recherche et pour l'enseignement, surtout avec des podcasts à côté<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/672813548930785281">@MorganeMdt</a></span>
       </blockquote>
     
@@ -360,7 +360,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Potthast: comment la sécurité aéroportuaire légitima le durcissement de la politique migratoire #attentat<br/>
+      Potthast : comment la sécurité aéroportuaire légitima le durcissement de la politique migratoire #attentat<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/671733240886087681">@F__Casta</a></span>
     </blockquote>
   
@@ -455,7 +455,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      excellente initiative! Mon livre choix pour le J1 : Boltanski/ Thévenot et le concept des cités<br/>
+      Excellente initiative! Mon livre choix pour le J1 : Boltanski/ Thévenot et le concept des cités<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/671740566409977856">@F_Bally</a></span>
     </blockquote>
   
@@ -521,7 +521,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Gouverner la ville: ves voies urbaines de la démocratie moderne de Thierry Oblet.<br/>
+      Gouverner la ville : ves voies urbaines de la démocratie moderne de Thierry Oblet.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Angiviller/status/671741699635458049">@Angiviller</a></span>
     </blockquote>
   
@@ -532,7 +532,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Le premier article de Sc Po qui m'a marqué: O.Ihl "Vote et forclusion de la violence en France" avec qui j'ai découvert les SHS !<br/>
+      Le premier article de Sc Po qui m'a marqué : O.Ihl "Vote et forclusion de la violence en France" avec qui j'ai découvert les SHS !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Temuchyn/status/671742071112380416">@Temuchyn</a></span>
     </blockquote>
   
@@ -565,7 +565,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      pour déplacer le point de vue: Annick Madec "Chronique familiale en quartier impopulaire"<br/>
+      Pour déplacer le point de vue : Annick Madec "Chronique familiale en quartier impopulaire"<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mel_picard/status/671743664268386305">@mel_picard</a></span>
     </blockquote>
   
@@ -587,7 +587,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      sur un internat (nv collège/lycée) pour très riches aux US, fini hier, grosse baffe<br/>
+      Sur un internat (nv collège/lycée) pour très riches aux US, fini hier, grosse baffe<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/serizy/status/671746292368998401">@serizy</a></span>
     </blockquote>
   
@@ -609,7 +609,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      pour le #socionoël vraie proposition (Anthropologie / Cosmologie) sur notamment les cosmogonies<br/>
+      Pour le #socionoël vraie proposition (Anthropologie / Cosmologie) sur notamment les cosmogonies<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/x_AcidRain/status/671748321007042561">@x_AcidRain</a></span>
     </blockquote>
   
@@ -653,7 +653,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      et donc je propose Carbon Democracy, de Tim Mitchell.<br/>
+      Et donc je propose Carbon Democracy, de Tim Mitchell.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/marvinrouge/status/671766475171041286">@marvinrouge</a></span>
     </blockquote>
   
@@ -670,7 +670,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        y a pas mieux pour découvrir la socio voire la vie....<br/>
+        Y a pas mieux pour découvrir la socio voire la vie....<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ClaraMordra/status/672339788238856193">@ClaraMordra</a></span>
       </blockquote>
     
@@ -731,7 +731,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      s'il ne faut lire qu'un livre sur l'intégrisme, c'est celui la<br/>
+      S'il ne faut lire qu'un livre sur l'intégrisme, c'est celui la<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/elsaaa_f/status/671811354827874305">@elsaaa_f</a></span>
     </blockquote>
   
@@ -742,7 +742,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      le livre qui m'a convaincu de faire de la socio "La double absence" de Sayad. La base.<br/>
+      Le livre qui m'a convaincu de faire de la socio "La double absence" de Sayad. La base.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/671821166114312193">@PaillardSimon</a></span>
     </blockquote>
   
@@ -765,7 +765,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        il fracasse les structures sociales du sexisme, racisme et montre leurs capacités de transformation<br/>
+        Il fracasse les structures sociales du sexisme, racisme et montre leurs capacités de transformation<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/671828567135776768">@LionnelleMakaya</a></span>
       </blockquote>
     
@@ -803,7 +803,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      le premier bouquin de socio que je me rappelle avoir lu en entier !<br/>
+      Le premier bouquin de socio que je me rappelle avoir lu en entier !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AAulagnier/status/671998090891665408">@AAulagnier</a></span>
     </blockquote>
   
@@ -815,7 +815,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      2 décembre : Michel Forsé, Alain Degenne - Les réseaux sociaux<br/>
+      Michel Forsé, Alain Degenne - Les réseaux sociaux<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/671934591335317504">@Laboratoire_CMH</a></span>
     </blockquote>
   
@@ -826,7 +826,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Jour 2. Loïc Wacquant "A l'atrophie délibérée de l'Etat social correspond l'hypertrophie de l'Etat pénal"<br/>
+      Loïc Wacquant "A l'atrophie délibérée de l'Etat social correspond l'hypertrophie de l'Etat pénal"<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/671954466254532608">@Lil_RoXaNe</a></span>
     </blockquote>
   
@@ -837,7 +837,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Jour 2 - On a dit socio ou sciences sociales : donc mon choix se porte sur un autre livre d'anthropologie<br/>
+      On a dit socio ou sciences sociales : donc mon choix se porte sur un autre livre d'anthropologie<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ylloPytterP/status/671963062891651072">@ylloPytterP</a></span>
     </blockquote>
   
@@ -848,7 +848,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      J-2  La base !!!!!! Un peu complexe mais super instructif.<br/>
+      La base !!!!!! Un peu complexe mais super instructif.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ThisisKiyemis/status/671964593607036928">@ThisisKiyemis</a></span>
     </blockquote>
   
@@ -859,7 +859,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      se lit comme un témoignage :)<br/>
+      Se lit comme un témoignage :)<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/caro_ligne/status/671966892547010560">@caro_ligne</a></span>
     </blockquote>
   
@@ -914,7 +914,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      un "classique" souvent mal connu des étudiants<br/>
+      Un "classique" souvent mal connu des étudiants<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/671969908922667009">@CobbleAndFrame</a></span>
     </blockquote>
   
@@ -1058,7 +1058,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        je reste sur mes classiques de licence avec la découverte de la socio du handicap<br/>
+        Je reste sur mes classiques de licence avec la découverte de la socio du handicap<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/671992320296927232">@balleverte</a></span>
       </blockquote>
     
@@ -1075,7 +1075,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Parce kil est plus socio qu'éco, #socionoel c forcément Imperium de F Lordon!<br/>
+      Parce qu’il est plus socio qu'éco, #socionoel c’est forcément Imperium de F Lordon !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Blogageco/status/671992624325242881">@Blogageco</a></span>
     </blockquote>
   
@@ -1097,7 +1097,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      dans la ligné de mon <a href="https://twitter.com/NuteluCaine/status/671967708297240576">#lrt</a><br/>
+      Dans la lignée de mon <a href="https://twitter.com/NuteluCaine/status/671967708297240576">#lrt</a><br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/671995218040913920">@dan_maku</a></span>
     </blockquote>
   
@@ -1153,7 +1153,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      un ouvrage fondateur de la sociologie historique<br/>
+      Un ouvrage fondateur de la sociologie historique<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/672004705531351040">@SamuelHayat</a></span>
     </blockquote>
   
@@ -1175,7 +1175,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      TOUT Chauvier chez @EditionsAllia  Mention spéciale pour la notion de fiction thérorique !<br/>
+      TOUT Chauvier chez @EditionsAllia Mention spéciale pour la notion de fiction thérorique !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/672005810768203776">@dan_maku</a></span>
     </blockquote>
   
@@ -1186,7 +1186,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      TOUT Chauvier chez @EditionsAllia  Mention spéciale pour la notion de fiction thérorique !<br/>
+      TOUT Chauvier chez @EditionsAllia Mention spéciale pour la notion de fiction thérorique !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/672005810768203776">@dan_maku</a></span>
     </blockquote>
   
@@ -1197,7 +1197,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      TOUT Chauvier chez @EditionsAllia  Mention spéciale pour la notion de fiction thérorique !<br/>
+      TOUT Chauvier chez @EditionsAllia Mention spéciale pour la notion de fiction thérorique !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/672005810768203776">@dan_maku</a></span>
     </blockquote>
   
@@ -1208,7 +1208,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      TOUT Chauvier chez @EditionsAllia  Mention spéciale pour la notion de fiction thérorique !<br/>
+      TOUT Chauvier chez @EditionsAllia Mention spéciale pour la notion de fiction thérorique !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/672005810768203776">@dan_maku</a></span>
     </blockquote>
   
@@ -1230,7 +1230,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      toujours le même mais spécial educspé Devrait etre obligatoire dans toutes les ecoles de travail social<br/>
+      Toujours le même mais spécial educspé. Devrait etre obligatoire dans toutes les ecoles de travail social<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/672006250767495169">@dan_maku</a></span>
     </blockquote>
   
@@ -1252,7 +1252,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Un (petit) bouquin d'Alexis Spire sur les guichets de l'immigration: "Accueillir ou reconduire."<br/>
+      Un (petit) bouquin d'Alexis Spire sur les guichets de l'immigration : "Accueillir ou reconduire."<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/671995616231350272">@PaillardSimon</a></span>
     </blockquote>
   
@@ -1291,7 +1291,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        un cours devenu livre, une réflexion rafraîchissante et plus utile que jamais sur le libéralisme<br/>
+        Un cours devenu livre, une réflexion rafraîchissante et plus utile que jamais sur le libéralisme<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AAulagnier/status/672360945079951360">@AAulagnier</a></span>
       </blockquote>
     
@@ -1354,7 +1354,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      la double absence de Sayad, qui m'a foutu les larmes aux yeux tant les drames de l'immigré/émigré y sont décrits avec justesse<br/>
+      La double absence de Sayad, qui m'a foutu les larmes aux yeux tant les drames de l'immigré/émigré y sont décrits avec justesse<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/672023768139567106">@JohnGoodMalik</a></span>
     </blockquote>
   
@@ -1376,7 +1376,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      pas que des livres, un doc qui est aussi une perle en terme de montage d'entretiens<br/>
+      Pas que des livres, un doc qui est aussi une perle en terme de montage d'entretiens<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mel_picard/status/672013618616115200">@mel_picard</a></span>
     </blockquote>
   
@@ -1453,7 +1453,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      beau classique contre la suprême-théorie et l'empirisme abstrait<br/>
+      Beau classique contre la suprême-théorie et l'empirisme abstrait<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/672047269353553920">@F__Casta</a></span>
     </blockquote>
   
@@ -1464,7 +1464,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      parce que de ce qu'on m'en a dit je *-*<br/>
+      Parce que de ce qu'on m'en a dit je *-*<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/672047331517317120">@Pyrate_Jenni</a></span>
     </blockquote>
   
@@ -1492,7 +1492,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        mon premier avant même Becker & les Outsiders<br/>
+        Mon premier avant même Becker & les Outsiders<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Letagere/status/672354885589966849">@Letagere</a></span>
       </blockquote>
     
@@ -1504,7 +1504,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      attention, à consommer à dose modérée<br/>
+      Attention, à consommer à dose modérée<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/EmilienSchultz/status/672072215945433089">@EmilienSchultz</a></span>
     </blockquote>
   
@@ -1537,7 +1537,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      ça suffit la violence, d'autres sentiments?<br/>
+      Ça suffit la violence, d'autres sentiments?<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/672091413698519040">@ruggeroparis</a></span>
     </blockquote>
   
@@ -1548,7 +1548,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      on reste dans le classique. Berger & Luckmann sur la construction sociale de la réalité<br/>
+      On reste dans le classique. Berger & Luckmann sur la construction sociale de la réalité<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/672106120396279808">@F_Bally</a></span>
     </blockquote>
   
@@ -1592,7 +1592,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      parce que la thèse, premier bouquin de mon projet, grosse claque<br/>
+      Parce que la thèse, premier bouquin de mon projet, grosse claque<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/672151124489715713">@MorganeMdt</a></span>
     </blockquote>
   
@@ -1632,7 +1632,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      spécial #COP21 : pourquoi social et environnement sont souvent les deux faces d'une même monnaie<br/>
+      Spécial #COP21 : pourquoi social et environnement sont souvent les deux faces d'une même monnaie<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/elsaaa_f/status/672192650120994816">@elsaaa_f</a></span>
     </blockquote>
   
@@ -1689,7 +1689,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        un clin d'oeil à l' #EcoleDeJourdan pour #SocioNoel #Day3 : objt sociologique de 2004, juste quelques mois avant les émeutes.<br/>
+        Un clin d'oeil à l' #EcoleDeJourdan pour #SocioNoel #Day3 : objet sociologique de 2004, juste quelques mois avant les émeutes.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PierreM/status/672340477010714624">@PierreM</a></span>
       </blockquote>
     
@@ -1816,7 +1816,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      conf de @bourmeau et D. Cefaï sur E. Goffman, "Behavior in public places".<br/>
+      Conf de @bourmeau et D. Cefaï sur E. Goffman, "Behavior in public places".<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/672334742151430145">@CobbleAndFrame</a></span>
     </blockquote>
   
@@ -1849,7 +1849,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      interview à P Bourdieu "Défataliser le monde social" sur @lesinrocks en 2002 par @bourmeau (où le retrouver par ailleurs ?)<br/>
+      Interview à P Bourdieu "Défataliser le monde social" sur @lesinrocks en 2002 par @bourmeau (où le retrouver par ailleurs ?)<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/672332065489231873">@ruggeroparis</a></span>
     </blockquote>
   
@@ -1882,7 +1882,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      de quoi réfléchir sur la notion fuyante de "classe moyenne"<br/>
+      De quoi réfléchir sur la notion fuyante de "classe moyenne"<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/672320479022157824">@JohnGoodMalik</a></span>
     </blockquote>
   
@@ -1960,7 +1960,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        le toujours d’actualité « Sur la télévision » de Bourdieu<br/>
+        Le toujours d’actualité « Sur la télévision » de Bourdieu<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/672363344230264832">@bfontn</a></span>
       </blockquote>
     
@@ -1999,7 +1999,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      c'est très intéressant, et assez court, donc go :) (thème : les carrières militantes)<br/>
+      C'est très intéressant, et assez court, donc go :) (thème : les carrières militantes)<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/672408360667492352">@Pyrate_Jenni</a></span>
     </blockquote>
   
@@ -2021,7 +2021,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      en accord avec mon cours de l'après-midi. Une socio-histoire du handicap.<br/>
+      En accord avec mon cours de l'après-midi. Une socio-histoire du handicap.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/672384719670157312">@balleverte</a></span>
     </blockquote>
   
@@ -2054,7 +2054,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      belle mise en perspective des façons de penser l'ethnie : phenotypique, dynamique, performative<br/>
+      Belle mise en perspective des façons de penser l'ethnie : phenotypique, dynamique, performative<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/672364999873069056">@dan_maku</a></span>
     </blockquote>
   
@@ -2087,7 +2087,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      sociologie des professeurs et des élèves d'une institution assez négligée par la sociologie de l'école en général<br/>
+      Sociologie des professeurs et des élèves d'une institution assez négligée par la sociologie de l'école en général<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/extatiq/status/672427577760444416">@extatiq</a></span>
     </blockquote>
   
@@ -2142,7 +2142,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      un peu de sociologie de la famille avec De Singly "Le soi, le couple et la famille" (mon premier lu)<br/>
+      Un peu de sociologie de la famille avec De Singly "Le soi, le couple et la famille" (mon premier lu)<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/672464941480321024">@F_Bally</a></span>
     </blockquote>
   
@@ -2297,7 +2297,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      on continue d'illustrer les cours. Ce matin, c'est méthode d'enquête.<br/>
+      On continue d'illustrer les cours. Ce matin, c'est méthode d'enquête.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/672681972242767872">@balleverte</a></span>
     </blockquote>
   
@@ -2359,7 +2359,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      en gros un sociologue ça lit surtout Bourdieu ;), heureusement qu’il vient de sortir un nouveau bouquin<br/>
+      En gros un sociologue ça lit surtout Bourdieu ;), heureusement qu’il vient de sortir un nouveau bouquin<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Blogageco/status/672688356820713472">@Blogageco</a></span>
     </blockquote>
   
@@ -2392,7 +2392,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      place à la nouvelle génération avec Mathieu Trachman et son ouvrage sur le travail pornographique<br/>
+      Place à la nouvelle génération avec Mathieu Trachman et son ouvrage sur le travail pornographique<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/672697326524358656">@mquijoux</a></span>
     </blockquote>
   
@@ -2513,7 +2513,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      un sociologue en sweat à capuche sur le 4eme de couv.<br/>
+      Un sociologue en sweat à capuche sur le 4eme de couv.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/672726507861708800">@Lil_RoXaNe</a></span>
     </blockquote>
   
@@ -2546,7 +2546,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      un peu de méthodologie (surtout d'excellents conseils) avec Becker "Ecrire les sciences sociales"<br/>
+      Un peu de méthodologie (surtout d'excellents conseils) avec Becker "Ecrire les sciences sociales"<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/672754907838070786">@F_Bally</a></span>
     </blockquote>
   
@@ -2557,7 +2557,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      une belle réflexion sur la tension réalisme/constructivisme. Très nécessaire !<br/>
+      Une belle réflexion sur la tension réalisme/constructivisme. Très nécessaire !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AAulagnier/status/672756691482648576">@AAulagnier</a></span>
     </blockquote>
   
@@ -2811,8 +2811,52 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      après les classiques, place à la socio politique! 1er livre lu, 1er choc, Daniel Gaxie, Le Cens caché<br/>
+      Après les classiques, place à la socio politique! 1er livre lu, 1er choc, Daniel Gaxie, Le Cens caché<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/673062279789809664">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Le raisonnement sociologique</span>, par <span class="author">Jean-Claude Passeron</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Indispensable manuel de survie socio-épistémologique.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/673065481755037697">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Interventions, 1961-2001</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      J’ai redécouvert Pierre Bourdieu et découvert sa pensée en action. Sociologie, humanisme et lutte.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ianonim/status/673065648361070592">@Ianonim</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Le vote et la vertu, comment les Français sont devenus électeurs</span>, par <span class="author">Alain Garrigou</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Alain Garrigou, "Le vote et la vertu, comment les Français sont devenus électeurs"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/673066587084181504">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les ficelles du métier</span>, par <span class="author">Howard Becker</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Très utile pour bien démarrer un mémoire avec les conseils d'un grand<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/673066913132605441">@Jo14Hernandez</a></span>
     </blockquote>
   
   </div>
