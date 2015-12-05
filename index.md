@@ -23,7 +23,7 @@ Accès direct à un jour :<br/>
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
-  <h1><span class="title">La misère du monde</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <h1 id="dec15-1-La-mis-re-du-monde-Pierre-Bourdieu"><span class="title">La misère du monde</span>, par <span class="author">Pierre Bourdieu</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -34,7 +34,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les mots, la mort, les sorts</span>, par <span class="author">Jeanne Favret-Saada</span></h1>
+  <h1 id="dec15-1-Les-mots-la-mort-les-sorts-Jeanne-Favret-Saada"><span class="title">Les mots, la mort, les sorts</span>, par <span class="author">Jeanne Favret-Saada</span></h1>
   <div class="sources">
   
     
@@ -52,7 +52,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Questions de sociologie</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <h1 id="dec15-1-Questions-de-sociologie-Pierre-Bourdieu"><span class="title">Questions de sociologie</span>, par <span class="author">Pierre Bourdieu</span></h1>
   <div class="sources">
   
     
@@ -70,7 +70,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Beyond 'Identity'</span>, par <span class="author">Rogers Brubaker et Frederick Cooper</span>&nbsp;(<a href="http://works.bepress.com/cgi/viewcontent.cgi?article=1001&context=wrb">lien</a>)</h1>
+  <h1 id="dec15-1-Beyond-Identity-Rogers-Brubaker-et-Frederick-Cooper"><span class="title">Beyond 'Identity'</span>, par <span class="author">Rogers Brubaker et Frederick Cooper</span>&nbsp;(<a href="http://works.bepress.com/cgi/viewcontent.cgi?article=1001&context=wrb">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -81,7 +81,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Outsiders</span>, par <span class="author">Howard Becker</span></h1>
+  <h1 id="dec15-1-Outsiders-Howard-Becker"><span class="title">Outsiders</span>, par <span class="author">Howard Becker</span></h1>
   <div class="sources">
   
     
@@ -104,7 +104,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La reproduction</span>, par <span class="author">Pierre Bourdieu et Jean-Clause Passeron</span></h1>
+  <h1 id="dec15-1-La-reproduction-Pierre-Bourdieu-et-Jean-Clause-Passeron"><span class="title">La reproduction</span>, par <span class="author">Pierre Bourdieu et Jean-Clause Passeron</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -115,7 +115,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Nos amis et nous. Les fondements cachés de quelques discours pseudo-féministes</span>, par <span class="author">Christine Delphy</span>&nbsp;(<a href="http://www.feministes-radicales.org/wp-content/uploads/2010/11/Christine-Delphy-Nos-amis-et-nous.-Les-fondements-cach%C3%A9s-de-quelques-discours-pseudo-f%C3%A9ministes-1977.pdf">lien</a>)</h1>
+  <h1 id="dec15-1-Nos-amis-et-nous-Les-fondements-cach-s-de-quelques-discours-pseudo-f-ministes-Christine-Delphy"><span class="title">Nos amis et nous. Les fondements cachés de quelques discours pseudo-féministes</span>, par <span class="author">Christine Delphy</span>&nbsp;(<a href="http://www.feministes-radicales.org/wp-content/uploads/2010/11/Christine-Delphy-Nos-amis-et-nous.-Les-fondements-cach%C3%A9s-de-quelques-discours-pseudo-f%C3%A9ministes-1977.pdf">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -126,7 +126,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Love Between Women</span>, par <span class="author">Charlotte Wolff</span></h1>
+  <h1 id="dec15-1-Love-Between-Women-Charlotte-Wolff"><span class="title">Love Between Women</span>, par <span class="author">Charlotte Wolff</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -137,7 +137,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les classes dominantes à l’épreuve de la mondialisation</span>, par <span class="author">Anne-Catherine Wagner</span>&nbsp;(<a href="https://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2011-5-page-4.htm">lien</a>)</h1>
+  <h1 id="dec15-1-Les-classes-dominantes-l-preuve-de-la-mondialisation-Anne-Catherine-Wagner"><span class="title">Les classes dominantes à l’épreuve de la mondialisation</span>, par <span class="author">Anne-Catherine Wagner</span>&nbsp;(<a href="https://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2011-5-page-4.htm">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -148,7 +148,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L'illusion identitaire</span>, par <span class="author">Jean-François Bayart</span></h1>
+  <h1 id="dec15-1-L-illusion-identitaire-Jean-Fran-ois-Bayart"><span class="title">L'illusion identitaire</span>, par <span class="author">Jean-François Bayart</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -159,7 +159,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le pardon est le recours ultime</span>, par <span class="author">Vladimir Jankélévitch</span>&nbsp;(<a href="http://www.philo.be/jankelevitch/index.php?page=pardon">lien</a>)</h1>
+  <h1 id="dec15-1-Le-pardon-est-le-recours-ultime-Vladimir-Jank-l-vitch"><span class="title">Le pardon est le recours ultime</span>, par <span class="author">Vladimir Jankélévitch</span>&nbsp;(<a href="http://www.philo.be/jankelevitch/index.php?page=pardon">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -170,7 +170,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Painting & experience in fifteenth-century Italy</span>, par <span class="author">Michael Baxandall</span></h1>
+  <h1 id="dec15-1-Painting-experience-in-fifteenth-century-Italy-Michael-Baxandall"><span class="title">Painting & experience in fifteenth-century Italy</span>, par <span class="author">Michael Baxandall</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -181,7 +181,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La Grande Transformation</span>, par <span class="author">Karl Polanyi</span></h1>
+  <h1 id="dec15-1-La-Grande-Transformation-Karl-Polanyi"><span class="title">La Grande Transformation</span>, par <span class="author">Karl Polanyi</span></h1>
   <div class="sources">
   
     
@@ -199,7 +199,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Tristes tropiques</span>, par <span class="author">Claude Lévi-Strauss</span></h1>
+  <h1 id="dec15-1-Tristes-tropiques-Claude-L-vi-Strauss"><span class="title">Tristes tropiques</span>, par <span class="author">Claude Lévi-Strauss</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -210,7 +210,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les nounous sortent enfin de l'ombre : Qui gardera nos enfants ?</span>, par <span class="author">Caroline Ibos</span></h1>
+  <h1 id="dec15-1-Les-nounous-sortent-enfin-de-l-ombre-Qui-gardera-nos-enfants-Caroline-Ibos"><span class="title">Les nounous sortent enfin de l'ombre : Qui gardera nos enfants ?</span>, par <span class="author">Caroline Ibos</span></h1>
   <div class="sources">
   
     
@@ -228,7 +228,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La politique sans en avoir l'air</span>, par <span class="author">Laurent Le Gall, Michel Offerlé, et François Ploux</span></h1>
+  <h1 id="dec15-1-La-politique-sans-en-avoir-l-air-Laurent-Le-Gall-Michel-Offerl-et-Fran-ois-Ploux"><span class="title">La politique sans en avoir l'air</span>, par <span class="author">Laurent Le Gall, Michel Offerlé, et François Ploux</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -239,7 +239,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Voyage de classes</span>, par <span class="author">Nicolas Jounin</span></h1>
+  <h1 id="dec15-1-Voyage-de-classes-Nicolas-Jounin"><span class="title">Voyage de classes</span>, par <span class="author">Nicolas Jounin</span></h1>
   <div class="sources">
   
     
@@ -262,7 +262,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le monde privé des ouvriers</span>, par <span class="author">Olivier Schwartz</span></h1>
+  <h1 id="dec15-1-Le-monde-priv-des-ouvriers-Olivier-Schwartz"><span class="title">Le monde privé des ouvriers</span>, par <span class="author">Olivier Schwartz</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -274,7 +274,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La culture du pauvre</span>, par <span class="author">Richard Hoggart</span></h1>
+  <h1 id="dec15-1-La-culture-du-pauvre-Richard-Hoggart"><span class="title">La culture du pauvre</span>, par <span class="author">Richard Hoggart</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -286,7 +286,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La fabrique des garçons</span>, par <span class="author">Sylvie Ayral</span>&nbsp;(<a href="http://gc.revues.org/2107">lien</a>)</h1>
+  <h1 id="dec15-1-La-fabrique-des-gar-ons-Sylvie-Ayral"><span class="title">La fabrique des garçons</span>, par <span class="author">Sylvie Ayral</span>&nbsp;(<a href="http://gc.revues.org/2107">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -297,7 +297,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L'Ecole des filles. Quelle formation pour quels rôles sociaux ?</span>, par <span class="author">Marie Duru-Bellat</span></h1>
+  <h1 id="dec15-1-L-Ecole-des-filles-Quelle-formation-pour-quels-r-les-sociaux-Marie-Duru-Bellat"><span class="title">L'Ecole des filles. Quelle formation pour quels rôles sociaux ?</span>, par <span class="author">Marie Duru-Bellat</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -308,7 +308,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Allez les filles !</span>, par <span class="author">Christian Baudelot et Roger Establet</span></h1>
+  <h1 id="dec15-1-Allez-les-filles-Christian-Baudelot-et-Roger-Establet"><span class="title">Allez les filles !</span>, par <span class="author">Christian Baudelot et Roger Establet</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -319,7 +319,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Cartographies des marges : intersectionnalité, politique de l’identité et violences contre les femmes de couleur</span>, par <span class="author">Kimberlé Crenshaw, Oristelle Bonis</span></h1>
+  <h1 id="dec15-1-Cartographies-des-marges-intersectionnalit-politique-de-l-identit-et-violences-contre-les-femmes-de-couleur-Kimberl-Crenshaw-Oristelle-Bonis"><span class="title">Cartographies des marges : intersectionnalité, politique de l’identité et violences contre les femmes de couleur</span>, par <span class="author">Kimberlé Crenshaw, Oristelle Bonis</span></h1>
   <div class="sources">
   
     
@@ -337,7 +337,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les héritiers</span>, par <span class="author">Pierre Bourdieu et Jean-Clause Passeron</span></h1>
+  <h1 id="dec15-1-Les-h-ritiers-Pierre-Bourdieu-et-Jean-Clause-Passeron"><span class="title">Les héritiers</span>, par <span class="author">Pierre Bourdieu et Jean-Clause Passeron</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -348,7 +348,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Sister Outsider: Essays and Speeches</span>, par <span class="author">Audre Lorde</span>&nbsp;(<a href="https://books.google.fr/books?id=kE3ek_-FGWgC&printsec=frontcover&dq=Audre+Lorde&hl=fr&sa=X&ved=0ahUKEwjFjtThjrvJAhUFig8KHbGGAnIQ6AEIIjAA#v=onepage&q=Audre%20Lorde&f=false">lien</a>)</h1>
+  <h1 id="dec15-1-Sister-Outsider-Essays-and-Speeches-Audre-Lorde"><span class="title">Sister Outsider: Essays and Speeches</span>, par <span class="author">Audre Lorde</span>&nbsp;(<a href="https://books.google.fr/books?id=kE3ek_-FGWgC&printsec=frontcover&dq=Audre+Lorde&hl=fr&sa=X&ved=0ahUKEwjFjtThjrvJAhUFig8KHbGGAnIQ6AEIIjAA#v=onepage&q=Audre%20Lorde&f=false">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -359,7 +359,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Sense and Security - A Comparative View on Access Control at Airports</span>, par <span class="author">Jörg Potthast</span>&nbsp;(<a href="http://www.sti-studies.de/ojs/index.php/sti/article/viewArticle/55">lien</a>)</h1>
+  <h1 id="dec15-1-Sense-and-Security-A-Comparative-View-on-Access-Control-at-Airports-J-rg-Potthast"><span class="title">Sense and Security - A Comparative View on Access Control at Airports</span>, par <span class="author">Jörg Potthast</span>&nbsp;(<a href="http://www.sti-studies.de/ojs/index.php/sti/article/viewArticle/55">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -370,7 +370,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Faire du bruit sans faire de vagues</span>, par <span class="author">Jean-Baptiste Comby</span>&nbsp;(<a href="http://communication.revues.org/4439">lien</a>)</h1>
+  <h1 id="dec15-1-Faire-du-bruit-sans-faire-de-vagues-Jean-Baptiste-Comby"><span class="title">Faire du bruit sans faire de vagues</span>, par <span class="author">Jean-Baptiste Comby</span>&nbsp;(<a href="http://communication.revues.org/4439">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -381,7 +381,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Journalistes précaires, journalistes au quotidien</span>, par <span class="author">Alain Accardo</span></h1>
+  <h1 id="dec15-1-Journalistes-pr-caires-journalistes-au-quotidien-Alain-Accardo"><span class="title">Journalistes précaires, journalistes au quotidien</span>, par <span class="author">Alain Accardo</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -392,7 +392,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La cause animale</span>, par <span class="author">Christophe Traïni</span></h1>
+  <h1 id="dec15-1-La-cause-animale-Christophe-Tra-ni"><span class="title">La cause animale</span>, par <span class="author">Christophe Traïni</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -403,7 +403,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">The Saami Languages: the present and the future</span>, par <span class="author">Magga, Ole Henrik; Skutnabb-Kangas, Tove</span>&nbsp;(<a href="https://www.culturalsurvival.org/publications/cultural-survival-quarterly/saami-languages-present-and-future">lien</a>)</h1>
+  <h1 id="dec15-1-The-Saami-Languages-the-present-and-the-future-Magga-Ole-Henrik-Skutnabb-Kangas-Tove"><span class="title">The Saami Languages: the present and the future</span>, par <span class="author">Magga, Ole Henrik; Skutnabb-Kangas, Tove</span>&nbsp;(<a href="https://www.culturalsurvival.org/publications/cultural-survival-quarterly/saami-languages-present-and-future">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -414,7 +414,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">C'est du propre !</span>, par <span class="author">Cristina Nizzoli</span>&nbsp;(<a href="http://www.puf.com/Autres_Collections:C%27est_du_propre">lien</a>)</h1>
+  <h1 id="dec15-1-C-est-du-propre-Cristina-Nizzoli"><span class="title">C'est du propre !</span>, par <span class="author">Cristina Nizzoli</span>&nbsp;(<a href="http://www.puf.com/Autres_Collections:C%27est_du_propre">lien</a>)</h1>
   <div class="sources">
   
     
@@ -432,7 +432,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">On the Shoulders of Giants</span>, par <span class="author">Robert K. Merton</span></h1>
+  <h1 id="dec15-1-On-the-Shoulders-of-Giants-Robert-K-Merton"><span class="title">On the Shoulders of Giants</span>, par <span class="author">Robert K. Merton</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -443,7 +443,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Désoccidentaliser la sociologie - L'Europe au miroir de la Chine</span>, par <span class="author">Laurence Roulleau Berger</span></h1>
+  <h1 id="dec15-1-D-soccidentaliser-la-sociologie-L-Europe-au-miroir-de-la-Chine-Laurence-Roulleau-Berger"><span class="title">Désoccidentaliser la sociologie - L'Europe au miroir de la Chine</span>, par <span class="author">Laurence Roulleau Berger</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -454,7 +454,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">De la justification</span>, par <span class="author">Luc Boltanski et Laurent Thévenot</span></h1>
+  <h1 id="dec15-1-De-la-justification-Luc-Boltanski-et-Laurent-Th-venot"><span class="title">De la justification</span>, par <span class="author">Luc Boltanski et Laurent Thévenot</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -465,7 +465,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">The global City</span>, par <span class="author">Saskia Sassen</span></h1>
+  <h1 id="dec15-1-The-global-City-Saskia-Sassen"><span class="title">The global City</span>, par <span class="author">Saskia Sassen</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -476,7 +476,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Provincialiser l'Europe : La pensée postcoloniale et la différence historique</span>, par <span class="author">Dipesh Chakrabarty</span></h1>
+  <h1 id="dec15-1-Provincialiser-l-Europe-La-pens-e-postcoloniale-et-la-diff-rence-historique-Dipesh-Chakrabarty"><span class="title">Provincialiser l'Europe : La pensée postcoloniale et la différence historique</span>, par <span class="author">Dipesh Chakrabarty</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -487,7 +487,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le Don</span>, par <span class="author">Marcel Mauss</span></h1>
+  <h1 id="dec15-1-Le-Don-Marcel-Mauss"><span class="title">Le Don</span>, par <span class="author">Marcel Mauss</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -498,7 +498,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Condition de l'Homme Global</span>, par <span class="author">Arjun Appadurai</span></h1>
+  <h1 id="dec15-1-Condition-de-l-Homme-Global-Arjun-Appadurai"><span class="title">Condition de l'Homme Global</span>, par <span class="author">Arjun Appadurai</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -509,7 +509,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La Sociologie de Bourdieu</span>, par <span class="author">Alain Accardo et Philippe Corcuff</span></h1>
+  <h1 id="dec15-1-La-Sociologie-de-Bourdieu-Alain-Accardo-et-Philippe-Corcuff"><span class="title">La Sociologie de Bourdieu</span>, par <span class="author">Alain Accardo et Philippe Corcuff</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -520,7 +520,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Gouverner la ville: des voies urbaines de la démocratie moderne</span>, par <span class="author">Thierry Oblet</span></h1>
+  <h1 id="dec15-1-Gouverner-la-ville-des-voies-urbaines-de-la-d-mocratie-moderne-Thierry-Oblet"><span class="title">Gouverner la ville: des voies urbaines de la démocratie moderne</span>, par <span class="author">Thierry Oblet</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -531,7 +531,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Vote et forclusion de la violence en France</span>, par <span class="author">Olivier Ihl</span></h1>
+  <h1 id="dec15-1-Vote-et-forclusion-de-la-violence-en-France-Olivier-Ihl"><span class="title">Vote et forclusion de la violence en France</span>, par <span class="author">Olivier Ihl</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -542,7 +542,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le mythe de la popularité de Reagan</span>, par <span class="author">Michael Shudson et Elliot King</span>&nbsp;(<a href="http://www.persee.fr/doc/polix_0295-2319_1997_num_10_37_1651">lien</a>)</h1>
+  <h1 id="dec15-1-Le-mythe-de-la-popularit-de-Reagan-Michael-Shudson-et-Elliot-King"><span class="title">Le mythe de la popularité de Reagan</span>, par <span class="author">Michael Shudson et Elliot King</span>&nbsp;(<a href="http://www.persee.fr/doc/polix_0295-2319_1997_num_10_37_1651">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -553,7 +553,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Military Orientalism</span>, par <span class="author">Patrick Porter</span></h1>
+  <h1 id="dec15-1-Military-Orientalism-Patrick-Porter"><span class="title">Military Orientalism</span>, par <span class="author">Patrick Porter</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -564,7 +564,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Chronique familiale en quartier impopulaire</span>, par <span class="author">Annick Madec</span></h1>
+  <h1 id="dec15-1-Chronique-familiale-en-quartier-impopulaire-Annick-Madec"><span class="title">Chronique familiale en quartier impopulaire</span>, par <span class="author">Annick Madec</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -575,7 +575,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Corps et âme</span>, par <span class="author">Loïc Wacquant</span></h1>
+  <h1 id="dec15-1-Corps-et-me-Lo-c-Wacquant"><span class="title">Corps et âme</span>, par <span class="author">Loïc Wacquant</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -586,7 +586,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La nouvelle école des élites</span>, par <span class="author">Shamus Khan</span></h1>
+  <h1 id="dec15-1-La-nouvelle-cole-des-lites-Shamus-Khan"><span class="title">La nouvelle école des élites</span>, par <span class="author">Shamus Khan</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -597,7 +597,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">I delfini</span>, par <span class="author">Pierre Bourdieu et Jean-Claude Passeron</span></h1>
+  <h1 id="dec15-1-I-delfini-Pierre-Bourdieu-et-Jean-Claude-Passeron"><span class="title">I delfini</span>, par <span class="author">Pierre Bourdieu et Jean-Claude Passeron</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -608,7 +608,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Discours sur l’origine de l’univers</span>, par <span class="author">Étienne Klein</span></h1>
+  <h1 id="dec15-1-Discours-sur-l-origine-de-l-univers-tienne-Klein"><span class="title">Discours sur l’origine de l’univers</span>, par <span class="author">Étienne Klein</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -619,7 +619,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L'Éthique protestante et l'esprit du capitalisme</span>, par <span class="author">Max Weber</span></h1>
+  <h1 id="dec15-1-L-thique-protestante-et-l-esprit-du-capitalisme-Max-Weber"><span class="title">L'Éthique protestante et l'esprit du capitalisme</span>, par <span class="author">Max Weber</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -630,7 +630,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La Guerre des Ecrivains</span>, par <span class="author">Gisèle Sapiro</span></h1>
+  <h1 id="dec15-1-La-Guerre-des-Ecrivains-Gis-le-Sapiro"><span class="title">La Guerre des Ecrivains</span>, par <span class="author">Gisèle Sapiro</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -641,7 +641,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Pourquoi les pauvres votent à droite</span>, par <span class="author">Thomas Frank</span></h1>
+  <h1 id="dec15-1-Pourquoi-les-pauvres-votent-droite-Thomas-Frank"><span class="title">Pourquoi les pauvres votent à droite</span>, par <span class="author">Thomas Frank</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -652,7 +652,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Carbon Democracy</span>, par <span class="author">Tim Mitchell</span></h1>
+  <h1 id="dec15-1-Carbon-Democracy-Tim-Mitchell"><span class="title">Carbon Democracy</span>, par <span class="author">Tim Mitchell</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -663,7 +663,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La domination masculine</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <h1 id="dec15-1-La-domination-masculine-Pierre-Bourdieu"><span class="title">La domination masculine</span>, par <span class="author">Pierre Bourdieu</span></h1>
   <div class="sources">
   
     
@@ -686,7 +686,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Politiques au guichet, politiques du guichet</span>, par <span class="author">Vincent Dubois</span>&nbsp;(<a href="https://www.cairn.info/article.php?ID_ARTICLE=SCPO_BORRA_2010_01_0265&DocId=385730">lien</a>)</h1>
+  <h1 id="dec15-1-Politiques-au-guichet-politiques-du-guichet-Vincent-Dubois"><span class="title">Politiques au guichet, politiques du guichet</span>, par <span class="author">Vincent Dubois</span>&nbsp;(<a href="https://www.cairn.info/article.php?ID_ARTICLE=SCPO_BORRA_2010_01_0265&DocId=385730">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -697,7 +697,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Riche, pourquoi pas toi ?</span>, par <span class="author">Michel Pinçon, Monique Pinçon-Charlot et Marion Montaigne</span></h1>
+  <h1 id="dec15-1-Riche-pourquoi-pas-toi-Michel-Pin-on-Monique-Pin-on-Charlot-et-Marion-Montaigne"><span class="title">Riche, pourquoi pas toi ?</span>, par <span class="author">Michel Pinçon, Monique Pinçon-Charlot et Marion Montaigne</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -708,7 +708,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La Production des Grands Hommes</span>, par <span class="author">Maurice Godelier</span></h1>
+  <h1 id="dec15-1-La-Production-des-Grands-Hommes-Maurice-Godelier"><span class="title">La Production des Grands Hommes</span>, par <span class="author">Maurice Godelier</span></h1>
   <div class="sources">
   
     
@@ -726,7 +726,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">De Caligari à Hitler</span>, par <span class="author">Siegfried Kracauer</span></h1>
+  <h1 id="dec15-1-De-Caligari-Hitler-Siegfried-Kracauer"><span class="title">De Caligari à Hitler</span>, par <span class="author">Siegfried Kracauer</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -737,7 +737,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La Sainte ignorance</span>, par <span class="author">Olivier Roy</span>&nbsp;(<a href="http://www.seuil.com/livre-9782757826232.htm">lien</a>)</h1>
+  <h1 id="dec15-1-La-Sainte-ignorance-Olivier-Roy"><span class="title">La Sainte ignorance</span>, par <span class="author">Olivier Roy</span>&nbsp;(<a href="http://www.seuil.com/livre-9782757826232.htm">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -748,7 +748,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La double absence</span>, par <span class="author">Abdelmalek Sayad</span></h1>
+  <h1 id="dec15-1-La-double-absence-Abdelmalek-Sayad"><span class="title">La double absence</span>, par <span class="author">Abdelmalek Sayad</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -759,7 +759,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Basses Oeuvres. Une ethnologie du travail dans les égouts</span>, par <span class="author">Agnès Jeanjean</span>&nbsp;(<a href="https://lhomme.revues.org/13182">lien</a>)</h1>
+  <h1 id="dec15-1-Basses-Oeuvres-Une-ethnologie-du-travail-dans-les-gouts-Agn-s-Jeanjean"><span class="title">Basses Oeuvres. Une ethnologie du travail dans les égouts</span>, par <span class="author">Agnès Jeanjean</span>&nbsp;(<a href="https://lhomme.revues.org/13182">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -770,7 +770,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L’idéologie raciste</span>, par <span class="author">Colette Guillaumin</span>&nbsp;(<a href="http://www.persee.fr/doc/homso_0018-4306_1973_num_27_1_1800">lien</a>)</h1>
+  <h1 id="dec15-1-L-id-ologie-raciste-Colette-Guillaumin"><span class="title">L’idéologie raciste</span>, par <span class="author">Colette Guillaumin</span>&nbsp;(<a href="http://www.persee.fr/doc/homso_0018-4306_1973_num_27_1_1800">lien</a>)</h1>
   <div class="sources">
   
     
@@ -798,7 +798,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Des femmes respectables</span>, par <span class="author">Beverley Skeggs</span></h1>
+  <h1 id="dec15-1-Des-femmes-respectables-Beverley-Skeggs"><span class="title">Des femmes respectables</span>, par <span class="author">Beverley Skeggs</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -809,7 +809,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Devenir anorexique</span>, par <span class="author">Muriel Darmon</span></h1>
+  <h1 id="dec15-1-Devenir-anorexique-Muriel-Darmon"><span class="title">Devenir anorexique</span>, par <span class="author">Muriel Darmon</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -821,7 +821,7 @@ Accès direct à un jour :<br/>
 </article>
 <h2 id="dec15-2">2 Décembre</h2>
 <article class="book">
-  <h1><span class="title">Les réseaux sociaux</span>, par <span class="author">Michel Forsé et Alain Degenne</span>&nbsp;(<a href="http://www.armand-colin.com/les-reseaux-sociaux-9782200266622">lien</a>)</h1>
+  <h1 id="dec15-2-Les-r-seaux-sociaux-Michel-Fors-et-Alain-Degenne"><span class="title">Les réseaux sociaux</span>, par <span class="author">Michel Forsé et Alain Degenne</span>&nbsp;(<a href="http://www.armand-colin.com/les-reseaux-sociaux-9782200266622">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -832,7 +832,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les prisons de la misère</span>, par <span class="author">Loïc Wacquant</span></h1>
+  <h1 id="dec15-2-Les-prisons-de-la-mis-re-Lo-c-Wacquant"><span class="title">Les prisons de la misère</span>, par <span class="author">Loïc Wacquant</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -843,7 +843,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Signes d’identité</span>, par <span class="author">David Le Breton</span></h1>
+  <h1 id="dec15-2-Signes-d-identit-David-Le-Breton"><span class="title">Signes d’identité</span>, par <span class="author">David Le Breton</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -854,7 +854,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les ghettos du gotha</span>, par <span class="author">Michel Pinçon et Monique Pinçon-Charlot</span></h1>
+  <h1 id="dec15-2-Les-ghettos-du-gotha-Michel-Pin-on-et-Monique-Pin-on-Charlot"><span class="title">Les ghettos du gotha</span>, par <span class="author">Michel Pinçon et Monique Pinçon-Charlot</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -865,7 +865,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L’Établi</span>, par <span class="author">Robert Linhart</span></h1>
+  <h1 id="dec15-2-L-tabli-Robert-Linhart"><span class="title">L’Établi</span>, par <span class="author">Robert Linhart</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -876,7 +876,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La raison graphique</span>, par <span class="author">Jack Goody</span></h1>
+  <h1 id="dec15-2-La-raison-graphique-Jack-Goody"><span class="title">La raison graphique</span>, par <span class="author">Jack Goody</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -887,7 +887,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Essais sur la violence</span>, par <span class="author">Michel Maffesoli</span></h1>
+  <h1 id="dec15-2-Essais-sur-la-violence-Michel-Maffesoli"><span class="title">Essais sur la violence</span>, par <span class="author">Michel Maffesoli</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -898,7 +898,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La prohibition de l’inceste et ses origines</span>, par <span class="author">Émile Durkheim</span></h1>
+  <h1 id="dec15-2-La-prohibition-de-l-inceste-et-ses-origines-mile-Durkheim"><span class="title">La prohibition de l’inceste et ses origines</span>, par <span class="author">Émile Durkheim</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -909,7 +909,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Pourquoi l'amour fait mal ?</span>, par <span class="author">Eva Illouz</span></h1>
+  <h1 id="dec15-2-Pourquoi-l-amour-fait-mal-Eva-Illouz"><span class="title">Pourquoi l'amour fait mal ?</span>, par <span class="author">Eva Illouz</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -920,7 +920,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La mémoire collective</span>, par <span class="author">Maurice Halbwachs</span></h1>
+  <h1 id="dec15-2-La-m-moire-collective-Maurice-Halbwachs"><span class="title">La mémoire collective</span>, par <span class="author">Maurice Halbwachs</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -931,7 +931,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La Cérémonie du Naven</span>, par <span class="author">Gregory Bateson</span></h1>
+  <h1 id="dec15-2-La-C-r-monie-du-Naven-Gregory-Bateson"><span class="title">La Cérémonie du Naven</span>, par <span class="author">Gregory Bateson</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -942,7 +942,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Violences politiques</span>, par <span class="author">Philippe Braud</span></h1>
+  <h1 id="dec15-2-Violences-politiques-Philippe-Braud"><span class="title">Violences politiques</span>, par <span class="author">Philippe Braud</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -953,7 +953,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">De l’usage des catégories de « droite » et de « gauche » dans le champ littéraire </span>, par <span class="author">Gisèle Sapiro</span>&nbsp;(<a href="https://www.cairn.info/revue-societes-et-representations-2001-1-page-19.htm">lien</a>)</h1>
+  <h1 id="dec15-2-De-l-usage-des-cat-gories-de-droite-et-de-gauche-dans-le-champ-litt-raire-Gis-le-Sapiro"><span class="title">De l’usage des catégories de « droite » et de « gauche » dans le champ littéraire </span>, par <span class="author">Gisèle Sapiro</span>&nbsp;(<a href="https://www.cairn.info/revue-societes-et-representations-2001-1-page-19.htm">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -964,7 +964,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L’invention de la culture</span>, par <span class="author">Roy Wagner</span></h1>
+  <h1 id="dec15-2-L-invention-de-la-culture-Roy-Wagner"><span class="title">L’invention de la culture</span>, par <span class="author">Roy Wagner</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -975,7 +975,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le pédé, la pute et l’ordre hétérosexuel</span>, par <span class="author">Isabelle Clair</span>&nbsp;(<a href="https://www.cairn.info/resume.php?ID_ARTICLE=AGORA_060_0067">lien</a>)</h1>
+  <h1 id="dec15-2-Le-p-d-la-pute-et-l-ordre-h-t-rosexuel-Isabelle-Clair"><span class="title">Le pédé, la pute et l’ordre hétérosexuel</span>, par <span class="author">Isabelle Clair</span>&nbsp;(<a href="https://www.cairn.info/resume.php?ID_ARTICLE=AGORA_060_0067">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -986,7 +986,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Identité et cultures 2</span>, par <span class="author">Stuart Hall</span></h1>
+  <h1 id="dec15-2-Identit-et-cultures-2-Stuart-Hall"><span class="title">Identité et cultures 2</span>, par <span class="author">Stuart Hall</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -997,7 +997,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Où trouver les moyens de penser ?</span>, par <span class="author">Wilfried Lignier et Nicolas Mariot</span></h1>
+  <h1 id="dec15-2-O-trouver-les-moyens-de-penser-Wilfried-Lignier-et-Nicolas-Mariot"><span class="title">Où trouver les moyens de penser ?</span>, par <span class="author">Wilfried Lignier et Nicolas Mariot</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1008,7 +1008,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Voyage en grande bourgeoisie : journal d'enquête</span>, par <span class="author">Monique Pinçon-Charlot et Michel Pinçon</span></h1>
+  <h1 id="dec15-2-Voyage-en-grande-bourgeoisie-journal-d-enqu-te-Monique-Pin-on-Charlot-et-Michel-Pin-on"><span class="title">Voyage en grande bourgeoisie : journal d'enquête</span>, par <span class="author">Monique Pinçon-Charlot et Michel Pinçon</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1019,7 +1019,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L’Identité au travail</span>, par <span class="author">Renaud Sainsaulieu</span></h1>
+  <h1 id="dec15-2-L-Identit-au-travail-Renaud-Sainsaulieu"><span class="title">L’Identité au travail</span>, par <span class="author">Renaud Sainsaulieu</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1030,7 +1030,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Can the Subaltern Speak</span>, par <span class="author">Gayatri Chakravorty Spivak</span></h1>
+  <h1 id="dec15-2-Can-the-Subaltern-Speak-Gayatri-Chakravorty-Spivak"><span class="title">Can the Subaltern Speak</span>, par <span class="author">Gayatri Chakravorty Spivak</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1041,7 +1041,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le fromage et les vers</span>, par <span class="author">Carlo Ginzburg</span></h1>
+  <h1 id="dec15-2-Le-fromage-et-les-vers-Carlo-Ginzburg"><span class="title">Le fromage et les vers</span>, par <span class="author">Carlo Ginzburg</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1052,7 +1052,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Méditations pascaliennes</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <h1 id="dec15-2-M-ditations-pascaliennes-Pierre-Bourdieu"><span class="title">Méditations pascaliennes</span>, par <span class="author">Pierre Bourdieu</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1063,7 +1063,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Stigmate</span>, par <span class="author">Erving Goffman</span></h1>
+  <h1 id="dec15-2-Stigmate-Erving-Goffman"><span class="title">Stigmate</span>, par <span class="author">Erving Goffman</span></h1>
   <div class="sources">
   
     
@@ -1081,7 +1081,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Imperium</span>, par <span class="author">Frédéric Lordon</span></h1>
+  <h1 id="dec15-2-Imperium-Fr-d-ric-Lordon"><span class="title">Imperium</span>, par <span class="author">Frédéric Lordon</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1092,7 +1092,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Statistique et Expérience</span>, par <span class="author">François Simiand</span>&nbsp;(<a href="http://gallica.bnf.fr/ark:/12148/bpt6k111338p/f6.image.r=Statistique%20et%20exp%C3%A9rience">lien</a>)</h1>
+  <h1 id="dec15-2-Statistique-et-Exp-rience-Fran-ois-Simiand"><span class="title">Statistique et Expérience</span>, par <span class="author">François Simiand</span>&nbsp;(<a href="http://gallica.bnf.fr/ark:/12148/bpt6k111338p/f6.image.r=Statistique%20et%20exp%C3%A9rience">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1103,7 +1103,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Oralité et écriture</span>, par <span class="author">Walter J. Ong</span></h1>
+  <h1 id="dec15-2-Oralit-et-criture-Walter-J-Ong"><span class="title">Oralité et écriture</span>, par <span class="author">Walter J. Ong</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1114,7 +1114,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">À chacun son Bambara</span>, par <span class="author">Jean Bazin</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Au_coeur_de_l_ethnie-9782707146229.html">lien</a>)</h1>
+  <h1 id="dec15-2--chacun-son-Bambara-Jean-Bazin"><span class="title">À chacun son Bambara</span>, par <span class="author">Jean Bazin</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Au_coeur_de_l_ethnie-9782707146229.html">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1125,7 +1125,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Surveiller et Punir</span>, par <span class="author">Michel Foucault</span></h1>
+  <h1 id="dec15-2-Surveiller-et-Punir-Michel-Foucault"><span class="title">Surveiller et Punir</span>, par <span class="author">Michel Foucault</span></h1>
   <div class="sources">
   
     
@@ -1148,7 +1148,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Branchements</span>, par <span class="author">Jean-Loup Amselle</span></h1>
+  <h1 id="dec15-2-Branchements-Jean-Loup-Amselle"><span class="title">Branchements</span>, par <span class="author">Jean-Loup Amselle</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1159,7 +1159,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Sur le processus de civilisation</span>, par <span class="author">Norbert Elias</span></h1>
+  <h1 id="dec15-2-Sur-le-processus-de-civilisation-Norbert-Elias"><span class="title">Sur le processus de civilisation</span>, par <span class="author">Norbert Elias</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1170,7 +1170,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L’Amour et la Justice comme compétences</span>, par <span class="author">Luc Boltanski</span></h1>
+  <h1 id="dec15-2-L-Amour-et-la-Justice-comme-comp-tences-Luc-Boltanski"><span class="title">L’Amour et la Justice comme compétences</span>, par <span class="author">Luc Boltanski</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1181,7 +1181,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La Crise commence où finit le langage</span>, par <span class="author">Éric Chauvier</span></h1>
+  <h1 id="dec15-2-La-Crise-commence-o-finit-le-langage-ric-Chauvier"><span class="title">La Crise commence où finit le langage</span>, par <span class="author">Éric Chauvier</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1192,7 +1192,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Que du bonheur</span>, par <span class="author">Éric Chauvier</span></h1>
+  <h1 id="dec15-2-Que-du-bonheur-ric-Chauvier"><span class="title">Que du bonheur</span>, par <span class="author">Éric Chauvier</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1203,7 +1203,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les mots sans les choses</span>, par <span class="author">Éric Chauvier</span></h1>
+  <h1 id="dec15-2-Les-mots-sans-les-choses-ric-Chauvier"><span class="title">Les mots sans les choses</span>, par <span class="author">Éric Chauvier</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1214,7 +1214,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Somaland</span>, par <span class="author">Éric Chauvier</span></h1>
+  <h1 id="dec15-2-Somaland-ric-Chauvier"><span class="title">Somaland</span>, par <span class="author">Éric Chauvier</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1225,7 +1225,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Ne suis-je pas une femme ?</span>, par <span class="author">Bell Hooks</span>&nbsp;(<a href="http://www.cambourakis.com/spip.php?article625">lien</a>)</h1>
+  <h1 id="dec15-2-Ne-suis-je-pas-une-femme-Bell-Hooks"><span class="title">Ne suis-je pas une femme ?</span>, par <span class="author">Bell Hooks</span>&nbsp;(<a href="http://www.cambourakis.com/spip.php?article625">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1236,7 +1236,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Si l’enfant ne réagit pas</span>, par <span class="author">Éric Chauvier</span></h1>
+  <h1 id="dec15-2-Si-l-enfant-ne-r-agit-pas-ric-Chauvier"><span class="title">Si l’enfant ne réagit pas</span>, par <span class="author">Éric Chauvier</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1247,7 +1247,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L'objectivité de la connaissance dans les sciences et la politique sociales</span>, par <span class="author">Max Weber</span>&nbsp;(<a href="http://classiques.uqac.ca/classiques/Weber/essais_theorie_science/Essais_science_1.pdf">lien</a>)</h1>
+  <h1 id="dec15-2-L-objectivit-de-la-connaissance-dans-les-sciences-et-la-politique-sociales-Max-Weber"><span class="title">L'objectivité de la connaissance dans les sciences et la politique sociales</span>, par <span class="author">Max Weber</span>&nbsp;(<a href="http://classiques.uqac.ca/classiques/Weber/essais_theorie_science/Essais_science_1.pdf">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1258,7 +1258,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Accueillir ou reconduire</span>, par <span class="author">Alexis Spire</span></h1>
+  <h1 id="dec15-2-Accueillir-ou-reconduire-Alexis-Spire"><span class="title">Accueillir ou reconduire</span>, par <span class="author">Alexis Spire</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1269,7 +1269,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La fin de l’exotisme</span>, par <span class="author">Alban Bensa</span></h1>
+  <h1 id="dec15-2-La-fin-de-l-exotisme-Alban-Bensa"><span class="title">La fin de l’exotisme</span>, par <span class="author">Alban Bensa</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1280,7 +1280,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Mœurs et sexualité en Océanie</span>, par <span class="author">Margaret Mead</span></h1>
+  <h1 id="dec15-2-M-urs-et-sexualit-en-Oc-anie-Margaret-Mead"><span class="title">Mœurs et sexualité en Océanie</span>, par <span class="author">Margaret Mead</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1291,7 +1291,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Naissance de la Biopolitique</span>, par <span class="author">Michel Foucault</span></h1>
+  <h1 id="dec15-2-Naissance-de-la-Biopolitique-Michel-Foucault"><span class="title">Naissance de la Biopolitique</span>, par <span class="author">Michel Foucault</span></h1>
   <div class="sources">
   
     
@@ -1309,7 +1309,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Black feminism</span>, par <span class="author">Combahee River Collective</span></h1>
+  <h1 id="dec15-2-Black-feminism-Combahee-River-Collective"><span class="title">Black feminism</span>, par <span class="author">Combahee River Collective</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1320,7 +1320,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Sociological Insight</span>, par <span class="author">Randall Collins</span></h1>
+  <h1 id="dec15-2-Sociological-Insight-Randall-Collins"><span class="title">Sociological Insight</span>, par <span class="author">Randall Collins</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1331,7 +1331,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Invitation à la sociologie</span>, par <span class="author">Peter L. Berger</span></h1>
+  <h1 id="dec15-2-Invitation-la-sociologie-Peter-L-Berger"><span class="title">Invitation à la sociologie</span>, par <span class="author">Peter L. Berger</span></h1>
   <div class="sources">
   
     
@@ -1349,7 +1349,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Bonheur privé, action publique</span>, par <span class="author">Albert O. Hirschman</span>&nbsp;(<a href="http://www.fayard.fr/sites/default/files/images/livres/9782818503690-X_0.jpg">lien</a>)</h1>
+  <h1 id="dec15-2-Bonheur-priv-action-publique-Albert-O-Hirschman"><span class="title">Bonheur privé, action publique</span>, par <span class="author">Albert O. Hirschman</span>&nbsp;(<a href="http://www.fayard.fr/sites/default/files/images/livres/9782818503690-X_0.jpg">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1360,7 +1360,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La double absence</span>, par <span class="author">Abdelmalek Sayad</span></h1>
+  <h1 id="dec15-2-La-double-absence-Abdelmalek-Sayad"><span class="title">La double absence</span>, par <span class="author">Abdelmalek Sayad</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1371,7 +1371,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Black feminism</span>, par <span class="author">Elsa Dorlin</span></h1>
+  <h1 id="dec15-2-Black-feminism-Elsa-Dorlin"><span class="title">Black feminism</span>, par <span class="author">Elsa Dorlin</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1382,7 +1382,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Reprise</span>, par <span class="author">Hervé Le Roux</span></h1>
+  <h1 id="dec15-2-Reprise-Herv-Le-Roux"><span class="title">Reprise</span>, par <span class="author">Hervé Le Roux</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1393,7 +1393,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le père Noël supplicié</span>, par <span class="author">Claude Lévi-Strauss</span></h1>
+  <h1 id="dec15-2-Le-p-re-No-l-supplici-Claude-L-vi-Strauss"><span class="title">Le père Noël supplicié</span>, par <span class="author">Claude Lévi-Strauss</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1404,7 +1404,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">80% au bac… et après ?</span>, par <span class="author">Stéphane Beaud</span></h1>
+  <h1 id="dec15-2-80-au-bac-et-apr-s-St-phane-Beaud"><span class="title">80% au bac… et après ?</span>, par <span class="author">Stéphane Beaud</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1415,7 +1415,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La construction sociale de l’inégalité des sexes</span>, par <span class="author">Paola Tabet</span></h1>
+  <h1 id="dec15-2-La-construction-sociale-de-l-in-galit-des-sexes-Paola-Tabet"><span class="title">La construction sociale de l’inégalité des sexes</span>, par <span class="author">Paola Tabet</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1426,7 +1426,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Sociologie de la gestion</span>, par <span class="author">Valérie Boussard</span></h1>
+  <h1 id="dec15-2-Sociologie-de-la-gestion-Val-rie-Boussard"><span class="title">Sociologie de la gestion</span>, par <span class="author">Valérie Boussard</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1437,7 +1437,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">The meaning of style</span>, par <span class="author">Dick Hebdige</span></h1>
+  <h1 id="dec15-2-The-meaning-of-style-Dick-Hebdige"><span class="title">The meaning of style</span>, par <span class="author">Dick Hebdige</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1448,7 +1448,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L’Esprit Cosmopolite</span>, par <span class="author">Vincenzo Cicchelli</span></h1>
+  <h1 id="dec15-2-L-Esprit-Cosmopolite-Vincenzo-Cicchelli"><span class="title">L’Esprit Cosmopolite</span>, par <span class="author">Vincenzo Cicchelli</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1459,7 +1459,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L’imagination sociologique</span>, par <span class="author">Charles Wright Mills</span></h1>
+  <h1 id="dec15-2-L-imagination-sociologique-Charles-Wright-Mills"><span class="title">L’imagination sociologique</span>, par <span class="author">Charles Wright Mills</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1470,7 +1470,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La Culture du pauvre</span>, par <span class="author">Richard Hoggart</span></h1>
+  <h1 id="dec15-2-La-Culture-du-pauvre-Richard-Hoggart"><span class="title">La Culture du pauvre</span>, par <span class="author">Richard Hoggart</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1481,7 +1481,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Forgé par l’épreuve</span>, par <span class="author">Danilo Martuccelli</span></h1>
+  <h1 id="dec15-2-Forg-par-l-preuve-Danilo-Martuccelli"><span class="title">Forgé par l’épreuve</span>, par <span class="author">Danilo Martuccelli</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1492,7 +1492,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La mise en scène de la vie quotidienne</span>, par <span class="author">Erving Goffman</span></h1>
+  <h1 id="dec15-2-La-mise-en-sc-ne-de-la-vie-quotidienne-Erving-Goffman"><span class="title">La mise en scène de la vie quotidienne</span>, par <span class="author">Erving Goffman</span></h1>
   <div class="sources">
   
     
@@ -1510,7 +1510,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Identité et Contrôle</span>, par <span class="author">Harrison C. White</span></h1>
+  <h1 id="dec15-2-Identit-et-Contr-le-Harrison-C-White"><span class="title">Identité et Contrôle</span>, par <span class="author">Harrison C. White</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1521,7 +1521,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les rites d'interaction</span>, par <span class="author">Erving Goffman</span></h1>
+  <h1 id="dec15-2-Les-rites-d-interaction-Erving-Goffman"><span class="title">Les rites d'interaction</span>, par <span class="author">Erving Goffman</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1532,7 +1532,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La vie au guichet</span>, par <span class="author">Vincent Dubois</span></h1>
+  <h1 id="dec15-2-La-vie-au-guichet-Vincent-Dubois"><span class="title">La vie au guichet</span>, par <span class="author">Vincent Dubois</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1543,7 +1543,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Petit traité des émotions, sentiments et passions politiques</span>, par <span class="author">Philippe Braud</span></h1>
+  <h1 id="dec15-2-Petit-trait-des-motions-sentiments-et-passions-politiques-Philippe-Braud"><span class="title">Petit traité des émotions, sentiments et passions politiques</span>, par <span class="author">Philippe Braud</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1554,7 +1554,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La construction sociale de la réalité</span>, par <span class="author">Peter Berger et Thomas Luckmann</span></h1>
+  <h1 id="dec15-2-La-construction-sociale-de-la-r-alit-Peter-Berger-et-Thomas-Luckmann"><span class="title">La construction sociale de la réalité</span>, par <span class="author">Peter Berger et Thomas Luckmann</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1565,7 +1565,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Beautés imaginaires</span>, par <span class="author">Pierre-Joseph Laurent</span></h1>
+  <h1 id="dec15-2-Beaut-s-imaginaires-Pierre-Joseph-Laurent"><span class="title">Beautés imaginaires</span>, par <span class="author">Pierre-Joseph Laurent</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1576,7 +1576,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La sociologie des sciences</span>, par <span class="author">Yves Gringas</span>&nbsp;(<a href="http://www.uqam.ca/entrevues/entrevue.php?id=1237">lien</a>)</h1>
+  <h1 id="dec15-2-La-sociologie-des-sciences-Yves-Gringas"><span class="title">La sociologie des sciences</span>, par <span class="author">Yves Gringas</span>&nbsp;(<a href="http://www.uqam.ca/entrevues/entrevue.php?id=1237">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1587,7 +1587,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le travail : une valeur en voie de disparition ?</span>, par <span class="author">Dominique Méda</span></h1>
+  <h1 id="dec15-2-Le-travail-une-valeur-en-voie-de-disparition-Dominique-M-da"><span class="title">Le travail : une valeur en voie de disparition ?</span>, par <span class="author">Dominique Méda</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1598,7 +1598,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Noblesse d'État</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <h1 id="dec15-2-Noblesse-d-tat-Pierre-Bourdieu"><span class="title">Noblesse d'État</span>, par <span class="author">Pierre Bourdieu</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1609,7 +1609,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Femmes, race et classe</span>, par <span class="author">Angela Davis</span></h1>
+  <h1 id="dec15-2-Femmes-race-et-classe-Angela-Davis"><span class="title">Femmes, race et classe</span>, par <span class="author">Angela Davis</span></h1>
   <div class="sources">
   
     
@@ -1627,7 +1627,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Co-construction et processus d’étiquetage de la déviance en milieu scolaire</span>, par <span class="author">Séverine Depoilly</span>&nbsp;(<a href="http://www.cairn.info/resume.php?ID_ARTICLE=DS_372_0207">lien</a>)</h1>
+  <h1 id="dec15-2-Co-construction-et-processus-d-tiquetage-de-la-d-viance-en-milieu-scolaire-S-verine-Depoilly"><span class="title">Co-construction et processus d’étiquetage de la déviance en milieu scolaire</span>, par <span class="author">Séverine Depoilly</span>&nbsp;(<a href="http://www.cairn.info/resume.php?ID_ARTICLE=DS_372_0207">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1638,7 +1638,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Écologie et inégalités</span>, par <span class="author">Éloi Laurent</span>&nbsp;(<a href="http://www.cairn.info/revue-de-l-ofce-2009-2-page-33.htm">lien</a>)</h1>
+  <h1 id="dec15-2--cologie-et-in-galit-s-loi-Laurent"><span class="title">Écologie et inégalités</span>, par <span class="author">Éloi Laurent</span>&nbsp;(<a href="http://www.cairn.info/revue-de-l-ofce-2009-2-page-33.htm">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1650,7 +1650,7 @@ Accès direct à un jour :<br/>
 </article>
 <h2 id="dec15-3">3 Décembre</h2>
 <article class="book">
-  <h1><span class="title">Le champ littéraire</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <h1 id="dec15-3-Le-champ-litt-raire-Pierre-Bourdieu"><span class="title">Le champ littéraire</span>, par <span class="author">Pierre Bourdieu</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1661,7 +1661,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La trame conjugale</span>, par <span class="author">Jean-Claude Kaufmann</span></h1>
+  <h1 id="dec15-3-La-trame-conjugale-Jean-Claude-Kaufmann"><span class="title">La trame conjugale</span>, par <span class="author">Jean-Claude Kaufmann</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1672,7 +1672,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Des hommes ordinaires</span>, par <span class="author">Christopher R. Browning</span></h1>
+  <h1 id="dec15-3-Des-hommes-ordinaires-Christopher-R-Browning"><span class="title">Des hommes ordinaires</span>, par <span class="author">Christopher R. Browning</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1683,7 +1683,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Islamophobie</span>, par <span class="author">Abdellali Hajjat et Marwan Mohammed</span></h1>
+  <h1 id="dec15-3-Islamophobie-Abdellali-Hajjat-et-Marwan-Mohammed"><span class="title">Islamophobie</span>, par <span class="author">Abdellali Hajjat et Marwan Mohammed</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1694,7 +1694,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Pays de malheur !</span>, par <span class="author">Younes Amrani et Stéphane Beaud</span></h1>
+  <h1 id="dec15-3-Pays-de-malheur-Younes-Amrani-et-St-phane-Beaud"><span class="title">Pays de malheur !</span>, par <span class="author">Younes Amrani et Stéphane Beaud</span></h1>
   <div class="sources">
   
     
@@ -1712,7 +1712,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Politiques du squat. Scènes de la vie d’un quartier populaire</span>, par <span class="author">Isabelle Coutant</span></h1>
+  <h1 id="dec15-3-Politiques-du-squat-Sc-nes-de-la-vie-d-un-quartier-populaire-Isabelle-Coutant"><span class="title">Politiques du squat. Scènes de la vie d’un quartier populaire</span>, par <span class="author">Isabelle Coutant</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1723,7 +1723,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La formation des bandes</span>, par <span class="author">Marwan Mohammed</span></h1>
+  <h1 id="dec15-3-La-formation-des-bandes-Marwan-Mohammed"><span class="title">La formation des bandes</span>, par <span class="author">Marwan Mohammed</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1734,7 +1734,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La Domination</span>, par <span class="author">Max Weber</span></h1>
+  <h1 id="dec15-3-La-Domination-Max-Weber"><span class="title">La Domination</span>, par <span class="author">Max Weber</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1745,7 +1745,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">33 Newport Street</span>, par <span class="author">Richard Hoggart</span></h1>
+  <h1 id="dec15-3-33-Newport-Street-Richard-Hoggart"><span class="title">33 Newport Street</span>, par <span class="author">Richard Hoggart</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1756,7 +1756,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La cause des armes au Mozambique</span>, par <span class="author">Christian Geffray</span></h1>
+  <h1 id="dec15-3-La-cause-des-armes-au-Mozambique-Christian-Geffray"><span class="title">La cause des armes au Mozambique</span>, par <span class="author">Christian Geffray</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1767,7 +1767,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les trois types purs de la domination légitime</span>, par <span class="author">Max Weber</span>&nbsp;(<a href="http://www.cairn.info/revue-sociologie-2014-3-page-291.htm">lien</a>)</h1>
+  <h1 id="dec15-3-Les-trois-types-purs-de-la-domination-l-gitime-Max-Weber"><span class="title">Les trois types purs de la domination légitime</span>, par <span class="author">Max Weber</span>&nbsp;(<a href="http://www.cairn.info/revue-sociologie-2014-3-page-291.htm">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1778,7 +1778,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L'ordinaire de la guerre</span>, par <span class="author">François Buton, André Loez, Nicolas Mariot et Philippe Olivera (coord.)</span></h1>
+  <h1 id="dec15-3-L-ordinaire-de-la-guerre-Fran-ois-Buton-Andr-Loez-Nicolas-Mariot-et-Philippe-Olivera-coord-"><span class="title">L'ordinaire de la guerre</span>, par <span class="author">François Buton, André Loez, Nicolas Mariot et Philippe Olivera (coord.)</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1789,7 +1789,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La politique des grands nombres</span>, par <span class="author">Alain Desrosières</span></h1>
+  <h1 id="dec15-3-La-politique-des-grands-nombres-Alain-Desrosi-res"><span class="title">La politique des grands nombres</span>, par <span class="author">Alain Desrosières</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1800,7 +1800,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Une relation enchantée</span>, par <span class="author">Josiane Pinto</span></h1>
+  <h1 id="dec15-3-Une-relation-enchant-e-Josiane-Pinto"><span class="title">Une relation enchantée</span>, par <span class="author">Josiane Pinto</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1811,7 +1811,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Time Matters: On Theory and Method</span>, par <span class="author">Andrew Abbott</span></h1>
+  <h1 id="dec15-3-Time-Matters-On-Theory-and-Method-Andrew-Abbott"><span class="title">Time Matters: On Theory and Method</span>, par <span class="author">Andrew Abbott</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1822,7 +1822,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Behavior in public places</span>, par <span class="author">Sylvain Bourmeau et Daniel Cefaï</span>&nbsp;(<a href="http://www.dailymotion.com/video/x2s9tim">lien</a>)</h1>
+  <h1 id="dec15-3-Behavior-in-public-places-Sylvain-Bourmeau-et-Daniel-Cefa-"><span class="title">Behavior in public places</span>, par <span class="author">Sylvain Bourmeau et Daniel Cefaï</span>&nbsp;(<a href="http://www.dailymotion.com/video/x2s9tim">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1833,7 +1833,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">El porque de los que van</span>, par <span class="author">Julieta Quiros</span>&nbsp;(<a href="http://www.antropofagia.com.ar/catalogo/product_info.php?products_id=136">lien</a>)</h1>
+  <h1 id="dec15-3-El-porque-de-los-que-van-Julieta-Quiros"><span class="title">El porque de los que van</span>, par <span class="author">Julieta Quiros</span>&nbsp;(<a href="http://www.antropofagia.com.ar/catalogo/product_info.php?products_id=136">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1844,7 +1844,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les inaudibles, sociologie politique des précaires</span>, par <span class="author">Céline Braconnier et Nonna Mayer</span></h1>
+  <h1 id="dec15-3-Les-inaudibles-sociologie-politique-des-pr-caires-C-line-Braconnier-et-Nonna-Mayer"><span class="title">Les inaudibles, sociologie politique des précaires</span>, par <span class="author">Céline Braconnier et Nonna Mayer</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1855,7 +1855,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Défataliser le monde social</span>, par <span class="author">Sylvain Bourmeau</span></h1>
+  <h1 id="dec15-3-D-fataliser-le-monde-social-Sylvain-Bourmeau"><span class="title">Défataliser le monde social</span>, par <span class="author">Sylvain Bourmeau</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1866,7 +1866,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Sport et civilisation</span>, par <span class="author">Norbert Elias et Eric Dunning</span></h1>
+  <h1 id="dec15-3-Sport-et-civilisation-Norbert-Elias-et-Eric-Dunning"><span class="title">Sport et civilisation</span>, par <span class="author">Norbert Elias et Eric Dunning</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1877,7 +1877,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Histoire du viol</span>, par <span class="author">Georges Vigarello</span></h1>
+  <h1 id="dec15-3-Histoire-du-viol-Georges-Vigarello"><span class="title">Histoire du viol</span>, par <span class="author">Georges Vigarello</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1888,7 +1888,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les classes moyennes à la dérive</span>, par <span class="author">Louis Chauvel</span></h1>
+  <h1 id="dec15-3-Les-classes-moyennes-la-d-rive-Louis-Chauvel"><span class="title">Les classes moyennes à la dérive</span>, par <span class="author">Louis Chauvel</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1899,7 +1899,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La Souffrance à distance</span>, par <span class="author">Luc Boltanski</span></h1>
+  <h1 id="dec15-3-La-Souffrance-distance-Luc-Boltanski"><span class="title">La Souffrance à distance</span>, par <span class="author">Luc Boltanski</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1910,7 +1910,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La haine de l’Occident</span>, par <span class="author">Jean Ziegler</span></h1>
+  <h1 id="dec15-3-La-haine-de-l-Occident-Jean-Ziegler"><span class="title">La haine de l’Occident</span>, par <span class="author">Jean Ziegler</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1921,7 +1921,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Slow Violence and the Environmentalism of the poor</span>, par <span class="author">Rob Nixon</span>&nbsp;(<a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674072343">lien</a>)</h1>
+  <h1 id="dec15-3-Slow-Violence-and-the-Environmentalism-of-the-poor-Rob-Nixon"><span class="title">Slow Violence and the Environmentalism of the poor</span>, par <span class="author">Rob Nixon</span>&nbsp;(<a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674072343">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1932,7 +1932,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Asiles</span>, par <span class="author">Erving Goffman</span>&nbsp;(<a href="http://bib.b-a-m.org/opac_css/index.php?lvl=author_see&id=3746">lien</a>)</h1>
+  <h1 id="dec15-3-Asiles-Erving-Goffman"><span class="title">Asiles</span>, par <span class="author">Erving Goffman</span>&nbsp;(<a href="http://bib.b-a-m.org/opac_css/index.php?lvl=author_see&id=3746">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1943,7 +1943,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Sociologie des crises politiques</span>, par <span class="author">Michel Dobry</span></h1>
+  <h1 id="dec15-3-Sociologie-des-crises-politiques-Michel-Dobry"><span class="title">Sociologie des crises politiques</span>, par <span class="author">Michel Dobry</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1954,7 +1954,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Un si fragile vernis d'humanité</span>, par <span class="author">Michel Terestchenko</span></h1>
+  <h1 id="dec15-3-Un-si-fragile-vernis-d-humanit-Michel-Terestchenko"><span class="title">Un si fragile vernis d'humanité</span>, par <span class="author">Michel Terestchenko</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1965,7 +1965,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Sur la télévision</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <h1 id="dec15-3-Sur-la-t-l-vision-Pierre-Bourdieu"><span class="title">Sur la télévision</span>, par <span class="author">Pierre Bourdieu</span></h1>
   <div class="sources">
   
     
@@ -1983,7 +1983,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Dix ans de marche des Beurs</span>, par <span class="author">Saïd Bouamama</span></h1>
+  <h1 id="dec15-3-Dix-ans-de-marche-des-Beurs-Sa-d-Bouamama"><span class="title">Dix ans de marche des Beurs</span>, par <span class="author">Saïd Bouamama</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1994,7 +1994,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Jeunesses françaises</span>, par <span class="author">Fabien Truong</span></h1>
+  <h1 id="dec15-3-Jeunesses-fran-aises-Fabien-Truong"><span class="title">Jeunesses françaises</span>, par <span class="author">Fabien Truong</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2005,7 +2005,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Carrières militantes, et vocation à la morale : les militants de la Ligue des droits de l'homme dans les années 1980</span>, par <span class="author">Éric Agrikoliansky</span>&nbsp;(<a href="http://www.persee.fr/doc/rfsp_0035-2950_2001_num_51_1_403606">lien</a>)</h1>
+  <h1 id="dec15-3-Carri-res-militantes-et-vocation-la-morale-les-militants-de-la-Ligue-des-droits-de-l-homme-dans-les-ann-es-1980-ric-Agrikoliansky"><span class="title">Carrières militantes, et vocation à la morale : les militants de la Ligue des droits de l'homme dans les années 1980</span>, par <span class="author">Éric Agrikoliansky</span>&nbsp;(<a href="http://www.persee.fr/doc/rfsp_0035-2950_2001_num_51_1_403606">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2016,7 +2016,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L'anatomie politique. Catégorisations et idéologies du sexe</span>, par <span class="author">Nicole-Claude Mathieu</span></h1>
+  <h1 id="dec15-3-L-anatomie-politique-Cat-gorisations-et-id-ologies-du-sexe-Nicole-Claude-Mathieu"><span class="title">L'anatomie politique. Catégorisations et idéologies du sexe</span>, par <span class="author">Nicole-Claude Mathieu</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2027,7 +2027,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Corps infirmes et sociétés</span>, par <span class="author">Henri-Jacques Stiker</span></h1>
+  <h1 id="dec15-3-Corps-infirmes-et-soci-t-s-Henri-Jacques-Stiker"><span class="title">Corps infirmes et sociétés</span>, par <span class="author">Henri-Jacques Stiker</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2038,7 +2038,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La France invisible</span>, par <span class="author">Stéphane Beaud, Joseph Confavreux, Jade Lindgaard</span></h1>
+  <h1 id="dec15-3-La-France-invisible-St-phane-Beaud-Joseph-Confavreux-Jade-Lindgaard"><span class="title">La France invisible</span>, par <span class="author">Stéphane Beaud, Joseph Confavreux, Jade Lindgaard</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2049,7 +2049,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L’enracinement</span>, par <span class="author">Simone Weil</span>&nbsp;(<a href="http://classiques.uqac.ca/classiques/weil_simone/enracinement/weil_Enracinement.pdf">lien</a>)</h1>
+  <h1 id="dec15-3-L-enracinement-Simone-Weil"><span class="title">L’enracinement</span>, par <span class="author">Simone Weil</span>&nbsp;(<a href="http://classiques.uqac.ca/classiques/weil_simone/enracinement/weil_Enracinement.pdf">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2060,7 +2060,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Théories de l’ethnicité</span>, par <span class="author">Philippe Poutignat et Jocelyne Streiff-Fenart</span></h1>
+  <h1 id="dec15-3-Th-ories-de-l-ethnicit-Philippe-Poutignat-et-Jocelyne-Streiff-Fenart"><span class="title">Théories de l’ethnicité</span>, par <span class="author">Philippe Poutignat et Jocelyne Streiff-Fenart</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2071,7 +2071,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Accélération</span>, par <span class="author">Hartmut Rosa</span></h1>
+  <h1 id="dec15-3-Acc-l-ration-Hartmut-Rosa"><span class="title">Accélération</span>, par <span class="author">Hartmut Rosa</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2082,7 +2082,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Peau noire, masques blancs</span>, par <span class="author">Frantz Fanon</span></h1>
+  <h1 id="dec15-3-Peau-noire-masques-blancs-Frantz-Fanon"><span class="title">Peau noire, masques blancs</span>, par <span class="author">Frantz Fanon</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2093,7 +2093,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Sociologie du Lycée professionnel</span>, par <span class="author">Aziz Jellab</span></h1>
+  <h1 id="dec15-3-Sociologie-du-Lyc-e-professionnel-Aziz-Jellab"><span class="title">Sociologie du Lycée professionnel</span>, par <span class="author">Aziz Jellab</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2104,7 +2104,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">En quête de respect. Le crack à New York</span>, par <span class="author">Philippe Bourgois</span></h1>
+  <h1 id="dec15-3-En-qu-te-de-respect-Le-crack-New-York-Philippe-Bourgois"><span class="title">En quête de respect. Le crack à New York</span>, par <span class="author">Philippe Bourgois</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2115,7 +2115,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La contre démocratie</span>, par <span class="author">Pierre Rosanvallon</span>&nbsp;(<a href="http://www.seuil.com/livre-9782020884433.htm">lien</a>)</h1>
+  <h1 id="dec15-3-La-contre-d-mocratie-Pierre-Rosanvallon"><span class="title">La contre démocratie</span>, par <span class="author">Pierre Rosanvallon</span>&nbsp;(<a href="http://www.seuil.com/livre-9782020884433.htm">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2126,7 +2126,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Football : Sociologie de la haine</span>, par <span class="author">Camille Dal et Ronan David</span></h1>
+  <h1 id="dec15-3-Football-Sociologie-de-la-haine-Camille-Dal-et-Ronan-David"><span class="title">Football : Sociologie de la haine</span>, par <span class="author">Camille Dal et Ronan David</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2137,7 +2137,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le Principe de Peter</span>, par <span class="author">Laurence J. Peter et Raymond Hull</span></h1>
+  <h1 id="dec15-3-Le-Principe-de-Peter-Laurence-J-Peter-et-Raymond-Hull"><span class="title">Le Principe de Peter</span>, par <span class="author">Laurence J. Peter et Raymond Hull</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2148,7 +2148,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le soi, le couple et la famille</span>, par <span class="author">François de Singly</span></h1>
+  <h1 id="dec15-3-Le-soi-le-couple-et-la-famille-Fran-ois-de-Singly"><span class="title">Le soi, le couple et la famille</span>, par <span class="author">François de Singly</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2159,7 +2159,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le livre des violences</span>, par <span class="author">William T. Vollmann</span></h1>
+  <h1 id="dec15-3-Le-livre-des-violences-William-T-Vollmann"><span class="title">Le livre des violences</span>, par <span class="author">William T. Vollmann</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2170,7 +2170,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La sociologie de Robert K. Merton</span>, par <span class="author">Arnaud Saint-Martin</span></h1>
+  <h1 id="dec15-3-La-sociologie-de-Robert-K-Merton-Arnaud-Saint-Martin"><span class="title">La sociologie de Robert K. Merton</span>, par <span class="author">Arnaud Saint-Martin</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2181,7 +2181,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">À quoi rêvent les algorithmes</span>, par <span class="author">Dominique Cardon</span>&nbsp;(<a href="http://www.seuil.com/livre-9782021279962.htm">lien</a>)</h1>
+  <h1 id="dec15-3--quoi-r-vent-les-algorithmes-Dominique-Cardon"><span class="title">À quoi rêvent les algorithmes</span>, par <span class="author">Dominique Cardon</span>&nbsp;(<a href="http://www.seuil.com/livre-9782021279962.htm">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2192,7 +2192,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Mémoires du Sida</span>, par <span class="author">Philippe Artières et Janine Pierret</span></h1>
+  <h1 id="dec15-3-M-moires-du-Sida-Philippe-Arti-res-et-Janine-Pierret"><span class="title">Mémoires du Sida</span>, par <span class="author">Philippe Artières et Janine Pierret</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2203,7 +2203,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Invitation à la sociologie</span>, par <span class="author">Peter L. Berger</span></h1>
+  <h1 id="dec15-3-Invitation-la-sociologie-Peter-L-Berger"><span class="title">Invitation à la sociologie</span>, par <span class="author">Peter L. Berger</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2214,7 +2214,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le monde vécu des universitaires</span>, par <span class="author">Laurence Viry</span></h1>
+  <h1 id="dec15-3-Le-monde-v-cu-des-universitaires-Laurence-Viry"><span class="title">Le monde vécu des universitaires</span>, par <span class="author">Laurence Viry</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2226,7 +2226,7 @@ Accès direct à un jour :<br/>
 </article>
 <h2 id="dec15-4">4 Décembre</h2>
 <article class="book">
-  <h1><span class="title">Appropriations des idées féministes et transformation de soi par la lecture</span>, par <span class="author">Viviane Albenga et Laurence Bachmann</span>&nbsp;(<a href="http://www.cairn.info/resume.php?ID_ARTICLE=POX_109_0069">lien</a>)</h1>
+  <h1 id="dec15-4-Appropriations-des-id-es-f-ministes-et-transformation-de-soi-par-la-lecture-Viviane-Albenga-et-Laurence-Bachmann"><span class="title">Appropriations des idées féministes et transformation de soi par la lecture</span>, par <span class="author">Viviane Albenga et Laurence Bachmann</span>&nbsp;(<a href="http://www.cairn.info/resume.php?ID_ARTICLE=POX_109_0069">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2237,7 +2237,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Recherches en ethnométhodologie</span>, par <span class="author">Harold Garfinkel</span>&nbsp;(<a href="http://lettre.ehess.fr/index.php?9383">lien</a>)</h1>
+  <h1 id="dec15-4-Recherches-en-ethnom-thodologie-Harold-Garfinkel"><span class="title">Recherches en ethnométhodologie</span>, par <span class="author">Harold Garfinkel</span>&nbsp;(<a href="http://lettre.ehess.fr/index.php?9383">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2248,7 +2248,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">De la souillure</span>, par <span class="author">Mary Douglas</span></h1>
+  <h1 id="dec15-4-De-la-souillure-Mary-Douglas"><span class="title">De la souillure</span>, par <span class="author">Mary Douglas</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2259,7 +2259,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Éléments de théorie et de méthode sociologique</span>, par <span class="author">Robert K. Merton</span></h1>
+  <h1 id="dec15-4--l-ments-de-th-orie-et-de-m-thode-sociologique-Robert-K-Merton"><span class="title">Éléments de théorie et de méthode sociologique</span>, par <span class="author">Robert K. Merton</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2270,7 +2270,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Homo Academicus</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <h1 id="dec15-4-Homo-Academicus-Pierre-Bourdieu"><span class="title">Homo Academicus</span>, par <span class="author">Pierre Bourdieu</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2281,7 +2281,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L’expérience concentrationnaire</span>, par <span class="author">Michael Pollak</span></h1>
+  <h1 id="dec15-4-L-exp-rience-concentrationnaire-Michael-Pollak"><span class="title">L’expérience concentrationnaire</span>, par <span class="author">Michael Pollak</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2292,7 +2292,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les âmes du peuple noir</span>, par <span class="author">W.E.B Du Bois</span></h1>
+  <h1 id="dec15-4-Les-mes-du-peuple-noir-W-E-B-Du-Bois"><span class="title">Les âmes du peuple noir</span>, par <span class="author">W.E.B Du Bois</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2303,7 +2303,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L’enquête sociologique</span>, par <span class="author">Serge Paugam</span></h1>
+  <h1 id="dec15-4-L-enqu-te-sociologique-Serge-Paugam"><span class="title">L’enquête sociologique</span>, par <span class="author">Serge Paugam</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2314,7 +2314,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Sociologie du journalisme</span>, par <span class="author">Érik Neveu</span></h1>
+  <h1 id="dec15-4-Sociologie-du-journalisme-rik-Neveu"><span class="title">Sociologie du journalisme</span>, par <span class="author">Érik Neveu</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2325,7 +2325,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Calmer le jobard</span>, par <span class="author">Erving Goffman</span>&nbsp;(<a href="http://www.tau.ac.il/~algazi/mat/Goffman--Cooling.htm">lien</a>)</h1>
+  <h1 id="dec15-4-Calmer-le-jobard-Erving-Goffman"><span class="title">Calmer le jobard</span>, par <span class="author">Erving Goffman</span>&nbsp;(<a href="http://www.tau.ac.il/~algazi/mat/Goffman--Cooling.htm">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2336,7 +2336,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Street Corner Society</span>, par <span class="author">William Foote Whyte</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Street_Corner_Society-9782707152879.html">lien</a>)</h1>
+  <h1 id="dec15-4-Street-Corner-Society-William-Foote-Whyte"><span class="title">Street Corner Society</span>, par <span class="author">William Foote Whyte</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Street_Corner_Society-9782707152879.html">lien</a>)</h1>
   <div class="sources">
   
     
@@ -2354,7 +2354,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L’économie morale des sciences modernes</span>, par <span class="author">Lorraine Daston</span></h1>
+  <h1 id="dec15-4-L-conomie-morale-des-sciences-modernes-Lorraine-Daston"><span class="title">L’économie morale des sciences modernes</span>, par <span class="author">Lorraine Daston</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2365,7 +2365,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Sociologie générale, volume 1. Cours au Collège de France 1981-1983</span>, par <span class="author">Pierre Bourdieu</span>&nbsp;(<a href="http://www.lemonde.fr/livres/article/2015/12/03/pierre-bourdieu-fondations_4822781_3260.html">lien</a>)</h1>
+  <h1 id="dec15-4-Sociologie-g-n-rale-volume-1-Cours-au-Coll-ge-de-France-1981-1983-Pierre-Bourdieu"><span class="title">Sociologie générale, volume 1. Cours au Collège de France 1981-1983</span>, par <span class="author">Pierre Bourdieu</span>&nbsp;(<a href="http://www.lemonde.fr/livres/article/2015/12/03/pierre-bourdieu-fondations_4822781_3260.html">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2376,7 +2376,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Nations et nationalismes</span>, par <span class="author">Éric Hobsbawn</span></h1>
+  <h1 id="dec15-4-Nations-et-nationalismes-ric-Hobsbawn"><span class="title">Nations et nationalismes</span>, par <span class="author">Éric Hobsbawn</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2387,7 +2387,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le Fil rouge. Sociologie de la mémoire communiste</span>, par <span class="author">Marie-Claire Lavabre</span></h1>
+  <h1 id="dec15-4-Le-Fil-rouge-Sociologie-de-la-m-moire-communiste-Marie-Claire-Lavabre"><span class="title">Le Fil rouge. Sociologie de la mémoire communiste</span>, par <span class="author">Marie-Claire Lavabre</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2398,7 +2398,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le travail pornographique</span>, par <span class="author">Mathieu Trachman</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Le_travail_pornographique-9782707175441.html">lien</a>)</h1>
+  <h1 id="dec15-4-Le-travail-pornographique-Mathieu-Trachman"><span class="title">Le travail pornographique</span>, par <span class="author">Mathieu Trachman</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Le_travail_pornographique-9782707175441.html">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2409,7 +2409,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">No such thing as a free gift</span>, par <span class="author">Linsey McGoey</span></h1>
+  <h1 id="dec15-4-No-such-thing-as-a-free-gift-Linsey-McGoey"><span class="title">No such thing as a free gift</span>, par <span class="author">Linsey McGoey</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2420,7 +2420,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le « Populisme du FN, » un dangereux contresens</span>, par <span class="author">Annie Collovald</span></h1>
+  <h1 id="dec15-4-Le-Populisme-du-FN-un-dangereux-contresens-Annie-Collovald"><span class="title">Le « Populisme du FN, » un dangereux contresens</span>, par <span class="author">Annie Collovald</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2431,7 +2431,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les étapes de la pensée sociologique</span>, par <span class="author">Raymond Aron</span></h1>
+  <h1 id="dec15-4-Les-tapes-de-la-pens-e-sociologique-Raymond-Aron"><span class="title">Les étapes de la pensée sociologique</span>, par <span class="author">Raymond Aron</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2442,7 +2442,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">A Society of Young Women</span>, par <span class="author">Amélie Le Renard</span>&nbsp;(<a href="http://sf.oxfordjournals.org/content/early/2015/04/21/sf.sov067.extract">lien</a>)</h1>
+  <h1 id="dec15-4-A-Society-of-Young-Women-Am-lie-Le-Renard"><span class="title">A Society of Young Women</span>, par <span class="author">Amélie Le Renard</span>&nbsp;(<a href="http://sf.oxfordjournals.org/content/early/2015/04/21/sf.sov067.extract">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2453,7 +2453,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le prisme de la prostitution</span>, par <span class="author">Gail Pheterson</span></h1>
+  <h1 id="dec15-4-Le-prisme-de-la-prostitution-Gail-Pheterson"><span class="title">Le prisme de la prostitution</span>, par <span class="author">Gail Pheterson</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2464,7 +2464,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Columbo, la lutte des classes ce soir à la télé</span>, par <span class="author">Lilian Mathieu</span>&nbsp;(<a href="http://www.contretemps.eu/lectures/lire-extrait-columbo-lutte-classes-ce-soir-t%C3%A9l%C3%A9-lilian-mathieu">lien</a>)</h1>
+  <h1 id="dec15-4-Columbo-la-lutte-des-classes-ce-soir-la-t-l-Lilian-Mathieu"><span class="title">Columbo, la lutte des classes ce soir à la télé</span>, par <span class="author">Lilian Mathieu</span>&nbsp;(<a href="http://www.contretemps.eu/lectures/lire-extrait-columbo-lutte-classes-ce-soir-t%C3%A9l%C3%A9-lilian-mathieu">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2475,7 +2475,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L'invention de la violence</span>, par <span class="author">Laurent Mucchielli</span></h1>
+  <h1 id="dec15-4-L-invention-de-la-violence-Laurent-Mucchielli"><span class="title">L'invention de la violence</span>, par <span class="author">Laurent Mucchielli</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2486,7 +2486,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La mesure de l'Etat</span>, par <span class="author">Eric Brian</span></h1>
+  <h1 id="dec15-4-La-mesure-de-l-Etat-Eric-Brian"><span class="title">La mesure de l'Etat</span>, par <span class="author">Eric Brian</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2497,7 +2497,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le racisme</span>, par <span class="author">Albert Memmi</span></h1>
+  <h1 id="dec15-4-Le-racisme-Albert-Memmi"><span class="title">Le racisme</span>, par <span class="author">Albert Memmi</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2508,7 +2508,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le désenchantement de l’État</span>, par <span class="author">Catherine Colliot-Thélène</span></h1>
+  <h1 id="dec15-4-Le-d-senchantement-de-l-tat-Catherine-Colliot-Th-l-ne"><span class="title">Le désenchantement de l’État</span>, par <span class="author">Catherine Colliot-Thélène</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2519,7 +2519,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Jeunes dangereux, jeunes en danger</span>, par <span class="author">Thomas Sauvadet</span></h1>
+  <h1 id="dec15-4-Jeunes-dangereux-jeunes-en-danger-Thomas-Sauvadet"><span class="title">Jeunes dangereux, jeunes en danger</span>, par <span class="author">Thomas Sauvadet</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2530,7 +2530,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Éléments pour une approche interactionniste de la politisation</span>, par <span class="author">Camille Hamidi</span>&nbsp;(<a href="https://www.cairn.info/revue-francaise-de-science-politique-2006-1-page-5.htm">lien</a>)</h1>
+  <h1 id="dec15-4--l-ments-pour-une-approche-interactionniste-de-la-politisation-Camille-Hamidi"><span class="title">Éléments pour une approche interactionniste de la politisation</span>, par <span class="author">Camille Hamidi</span>&nbsp;(<a href="https://www.cairn.info/revue-francaise-de-science-politique-2006-1-page-5.htm">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2541,7 +2541,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Capitalisme, désir et servitude</span>, par <span class="author">Frédéric Lordon</span></h1>
+  <h1 id="dec15-4-Capitalisme-d-sir-et-servitude-Fr-d-ric-Lordon"><span class="title">Capitalisme, désir et servitude</span>, par <span class="author">Frédéric Lordon</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2552,7 +2552,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Écrire les sciences sociales</span>, par <span class="author">Howard Becker</span></h1>
+  <h1 id="dec15-4--crire-les-sciences-sociales-Howard-Becker"><span class="title">Écrire les sciences sociales</span>, par <span class="author">Howard Becker</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2563,7 +2563,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Entre science et réalité: La construction sociale de quoi ?</span>, par <span class="author">Ian Hacking</span></h1>
+  <h1 id="dec15-4-Entre-science-et-r-alit-La-construction-sociale-de-quoi-Ian-Hacking"><span class="title">Entre science et réalité: La construction sociale de quoi ?</span>, par <span class="author">Ian Hacking</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2574,7 +2574,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">The art of Social Theory</span>, par <span class="author">Richard Swedberg</span>&nbsp;(<a href="http://press.princeton.edu/titles/10264.html">lien</a>)</h1>
+  <h1 id="dec15-4-The-art-of-Social-Theory-Richard-Swedberg"><span class="title">The art of Social Theory</span>, par <span class="author">Richard Swedberg</span>&nbsp;(<a href="http://press.princeton.edu/titles/10264.html">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2585,7 +2585,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Résister à la chaîne</span>, par <span class="author">Christian Corouge et Michel Pialoux</span></h1>
+  <h1 id="dec15-4-R-sister-la-cha-ne-Christian-Corouge-et-Michel-Pialoux"><span class="title">Résister à la chaîne</span>, par <span class="author">Christian Corouge et Michel Pialoux</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2596,7 +2596,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les mondes de l'art</span>, par <span class="author">Howard Becker</span></h1>
+  <h1 id="dec15-4-Les-mondes-de-l-art-Howard-Becker"><span class="title">Les mondes de l'art</span>, par <span class="author">Howard Becker</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2607,7 +2607,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Phénomènes sociaux totaux et dynamique sociale</span>, par <span class="author">George Balandier</span></h1>
+  <h1 id="dec15-4-Ph-nom-nes-sociaux-totaux-et-dynamique-sociale-George-Balandier"><span class="title">Phénomènes sociaux totaux et dynamique sociale</span>, par <span class="author">George Balandier</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2618,7 +2618,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La gauche et le périurbain</span>, par <span class="author">Anne Lambert</span>&nbsp;(<a href="https://www.cairn.info/revue-politix-2013-1-page-105.htm">lien</a>)</h1>
+  <h1 id="dec15-4-La-gauche-et-le-p-riurbain-Anne-Lambert"><span class="title">La gauche et le périurbain</span>, par <span class="author">Anne Lambert</span>&nbsp;(<a href="https://www.cairn.info/revue-politix-2013-1-page-105.htm">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2629,7 +2629,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Accélération. Une sociologie de la vitesse</span>, par <span class="author">Barry Allen</span></h1>
+  <h1 id="dec15-4-Acc-l-ration-Une-sociologie-de-la-vitesse-Barry-Allen"><span class="title">Accélération. Une sociologie de la vitesse</span>, par <span class="author">Barry Allen</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2640,7 +2640,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Gouverner par accommodements. Stratégies autour de la carte scolaire</span>, par <span class="author">Lorenzo Barrault</span>&nbsp;(<a href="https://lectures.revues.org/12419">lien</a>)</h1>
+  <h1 id="dec15-4-Gouverner-par-accommodements-Strat-gies-autour-de-la-carte-scolaire-Lorenzo-Barrault"><span class="title">Gouverner par accommodements. Stratégies autour de la carte scolaire</span>, par <span class="author">Lorenzo Barrault</span>&nbsp;(<a href="https://lectures.revues.org/12419">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2651,7 +2651,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Trouble dans le genre</span>, par <span class="author">Judith Butler</span></h1>
+  <h1 id="dec15-4-Trouble-dans-le-genre-Judith-Butler"><span class="title">Trouble dans le genre</span>, par <span class="author">Judith Butler</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2662,7 +2662,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Culture d’en haut, culture d’en bas</span>, par <span class="author">Lawrence W. Levine</span></h1>
+  <h1 id="dec15-4-Culture-d-en-haut-culture-d-en-bas-Lawrence-W-Levine"><span class="title">Culture d’en haut, culture d’en bas</span>, par <span class="author">Lawrence W. Levine</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2673,7 +2673,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les règles de l'Art</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <h1 id="dec15-4-Les-r-gles-de-l-Art-Pierre-Bourdieu"><span class="title">Les règles de l'Art</span>, par <span class="author">Pierre Bourdieu</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2684,7 +2684,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Rouge est la terre : Dans les coulisses de Roland Garros</span>, par <span class="author">Bertrand Pulman</span></h1>
+  <h1 id="dec15-4-Rouge-est-la-terre-Dans-les-coulisses-de-Roland-Garros-Bertrand-Pulman"><span class="title">Rouge est la terre : Dans les coulisses de Roland Garros</span>, par <span class="author">Bertrand Pulman</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2695,7 +2695,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La grande arnaque</span>, par <span class="author">Paola Tanet</span></h1>
+  <h1 id="dec15-4-La-grande-arnaque-Paola-Tanet"><span class="title">La grande arnaque</span>, par <span class="author">Paola Tanet</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2706,7 +2706,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Méthodes historiques et méthodes littéraires, pour un usage croisé</span>, par <span class="author">Christophe Charle</span>&nbsp;(<a href="https://www.cairn.info/revue-romantisme-2009-1-page-13.htm">lien</a>)</h1>
+  <h1 id="dec15-4-M-thodes-historiques-et-m-thodes-litt-raires-pour-un-usage-crois-Christophe-Charle"><span class="title">Méthodes historiques et méthodes littéraires, pour un usage croisé</span>, par <span class="author">Christophe Charle</span>&nbsp;(<a href="https://www.cairn.info/revue-romantisme-2009-1-page-13.htm">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2717,7 +2717,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L’opinion publique n'existe pas</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <h1 id="dec15-4-L-opinion-publique-n-existe-pas-Pierre-Bourdieu"><span class="title">L’opinion publique n'existe pas</span>, par <span class="author">Pierre Bourdieu</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2728,7 +2728,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Classer, dominer : Qui sont les « autres » ?</span>, par <span class="author">Christine Delphy</span>&nbsp;(<a href="https://infinit.io/_/wNQ8amE">lien</a>)</h1>
+  <h1 id="dec15-4-Classer-dominer-Qui-sont-les-autres-Christine-Delphy"><span class="title">Classer, dominer : Qui sont les « autres » ?</span>, par <span class="author">Christine Delphy</span>&nbsp;(<a href="https://infinit.io/_/wNQ8amE">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2739,7 +2739,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Entrer dans l'élite</span>, par <span class="author">Jules Naudet</span></h1>
+  <h1 id="dec15-4-Entrer-dans-l-lite-Jules-Naudet"><span class="title">Entrer dans l'élite</span>, par <span class="author">Jules Naudet</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2750,7 +2750,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les pronoms cosmologique et le perspectivisme amérindien</span>, par <span class="author">Eduardo Viveiro de Castro</span></h1>
+  <h1 id="dec15-4-Les-pronoms-cosmologique-et-le-perspectivisme-am-rindien-Eduardo-Viveiro-de-Castro"><span class="title">Les pronoms cosmologique et le perspectivisme amérindien</span>, par <span class="author">Eduardo Viveiro de Castro</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2761,7 +2761,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Féminismes décoloniaux, genre et développement : Mouvements féministes en Afrique</span>, par <span class="author">Christine Verschuur et Blandine Destremau</span></h1>
+  <h1 id="dec15-4-F-minismes-d-coloniaux-genre-et-d-veloppement-Mouvements-f-ministes-en-Afrique-Christine-Verschuur-et-Blandine-Destremau"><span class="title">Féminismes décoloniaux, genre et développement : Mouvements féministes en Afrique</span>, par <span class="author">Christine Verschuur et Blandine Destremau</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2773,7 +2773,7 @@ Accès direct à un jour :<br/>
 </article>
 <h2 id="dec15-5">5 Décembre</h2>
 <article class="book">
-  <h1><span class="title">Surveiller et jouir : Anthropologie politique du sexe</span>, par <span class="author">Gayle Rubin</span></h1>
+  <h1 id="dec15-5-Surveiller-et-jouir-Anthropologie-politique-du-sexe-Gayle-Rubin"><span class="title">Surveiller et jouir : Anthropologie politique du sexe</span>, par <span class="author">Gayle Rubin</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2784,7 +2784,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Allez les filles !</span>, par <span class="author">Christian Beaudelot et Roger Establet</span>&nbsp;(<a href="http://www.seuil.com/livre-9782020146197.htm">lien</a>)</h1>
+  <h1 id="dec15-5-Allez-les-filles-Christian-Beaudelot-et-Roger-Establet"><span class="title">Allez les filles !</span>, par <span class="author">Christian Beaudelot et Roger Establet</span>&nbsp;(<a href="http://www.seuil.com/livre-9782020146197.htm">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2795,7 +2795,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Anticapitalistes : une sociologie historique de l’engagement</span>, par <span class="author">Florence Johsua</span></h1>
+  <h1 id="dec15-5-Anticapitalistes-une-sociologie-historique-de-l-engagement-Florence-Johsua"><span class="title">Anticapitalistes : une sociologie historique de l’engagement</span>, par <span class="author">Florence Johsua</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2806,7 +2806,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le Suicide</span>, par <span class="author">Émile Durkheim</span></h1>
+  <h1 id="dec15-5-Le-Suicide-mile-Durkheim"><span class="title">Le Suicide</span>, par <span class="author">Émile Durkheim</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2817,7 +2817,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le cens caché : Inégalités culturelles et ségrégation politique</span>, par <span class="author">Daniel Gaxie</span></h1>
+  <h1 id="dec15-5-Le-cens-cach-In-galit-s-culturelles-et-s-gr-gation-politique-Daniel-Gaxie"><span class="title">Le cens caché : Inégalités culturelles et ségrégation politique</span>, par <span class="author">Daniel Gaxie</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2828,7 +2828,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le raisonnement sociologique</span>, par <span class="author">Jean-Claude Passeron</span></h1>
+  <h1 id="dec15-5-Le-raisonnement-sociologique-Jean-Claude-Passeron"><span class="title">Le raisonnement sociologique</span>, par <span class="author">Jean-Claude Passeron</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2839,7 +2839,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Interventions, 1961-2001</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <h1 id="dec15-5-Interventions-1961-2001-Pierre-Bourdieu"><span class="title">Interventions, 1961-2001</span>, par <span class="author">Pierre Bourdieu</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2850,7 +2850,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Le vote et la vertu, comment les Français sont devenus électeurs</span>, par <span class="author">Alain Garrigou</span></h1>
+  <h1 id="dec15-5-Le-vote-et-la-vertu-comment-les-Fran-ais-sont-devenus-lecteurs-Alain-Garrigou"><span class="title">Le vote et la vertu, comment les Français sont devenus électeurs</span>, par <span class="author">Alain Garrigou</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2861,7 +2861,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les ficelles du métier</span>, par <span class="author">Howard Becker</span></h1>
+  <h1 id="dec15-5-Les-ficelles-du-m-tier-Howard-Becker"><span class="title">Les ficelles du métier</span>, par <span class="author">Howard Becker</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2872,7 +2872,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les anonymes à la radio</span>, par <span class="author">Christophe Deleu</span></h1>
+  <h1 id="dec15-5-Les-anonymes-la-radio-Christophe-Deleu"><span class="title">Les anonymes à la radio</span>, par <span class="author">Christophe Deleu</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2883,7 +2883,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">À contre-pente</span>, par <span class="author">Philippe Mangeot et Pierre Bourdieu</span>&nbsp;(<a href="http://www.vacarme.org/article224.html">lien</a>)</h1>
+  <h1 id="dec15-5--contre-pente-Philippe-Mangeot-et-Pierre-Bourdieu"><span class="title">À contre-pente</span>, par <span class="author">Philippe Mangeot et Pierre Bourdieu</span>&nbsp;(<a href="http://www.vacarme.org/article224.html">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2894,7 +2894,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les forges de la fiction</span>, par <span class="author">Olivier Caïra</span></h1>
+  <h1 id="dec15-5-Les-forges-de-la-fiction-Olivier-Ca-ra"><span class="title">Les forges de la fiction</span>, par <span class="author">Olivier Caïra</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2905,7 +2905,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La logique de l’honneur : Gestion des entreprises et traditions nationales</span>, par <span class="author">Philippe d’Iribarne</span></h1>
+  <h1 id="dec15-5-La-logique-de-l-honneur-Gestion-des-entreprises-et-traditions-nationales-Philippe-d-Iribarne"><span class="title">La logique de l’honneur : Gestion des entreprises et traditions nationales</span>, par <span class="author">Philippe d’Iribarne</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2916,7 +2916,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Les métamorphoses de la légitimité. Classes sociales et goût musical en France</span>, par <span class="author">Philippe Coulangeon</span>&nbsp;(<a href="http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2010-1-page-88.htm">lien</a>)</h1>
+  <h1 id="dec15-5-Les-m-tamorphoses-de-la-l-gitimit-Classes-sociales-et-go-t-musical-en-France-Philippe-Coulangeon"><span class="title">Les métamorphoses de la légitimité. Classes sociales et goût musical en France</span>, par <span class="author">Philippe Coulangeon</span>&nbsp;(<a href="http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2010-1-page-88.htm">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2927,7 +2927,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La construction sociale du corps</span>, par <span class="author">Christine Détrez</span></h1>
+  <h1 id="dec15-5-La-construction-sociale-du-corps-Christine-D-trez"><span class="title">La construction sociale du corps</span>, par <span class="author">Christine Détrez</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2938,7 +2938,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">La raison humanitaire</span>, par <span class="author">Didier Fassin</span></h1>
+  <h1 id="dec15-5-La-raison-humanitaire-Didier-Fassin"><span class="title">La raison humanitaire</span>, par <span class="author">Didier Fassin</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2949,7 +2949,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Des hommes sur le fil, construction de l'identité masculine en milieu précaire</span>, par <span class="author">Pascale Jamoulle</span></h1>
+  <h1 id="dec15-5-Des-hommes-sur-le-fil-construction-de-l-identit-masculine-en-milieu-pr-caire-Pascale-Jamoulle"><span class="title">Des hommes sur le fil, construction de l'identité masculine en milieu précaire</span>, par <span class="author">Pascale Jamoulle</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2960,7 +2960,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">Sociologie de la musique</span>, par <span class="author">Max Weber</span></h1>
+  <h1 id="dec15-5-Sociologie-de-la-musique-Max-Weber"><span class="title">Sociologie de la musique</span>, par <span class="author">Max Weber</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2971,7 +2971,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1><span class="title">L’apartheid scolaire</span>, par <span class="author">Georges Felouzis, Françoise Liot, Joëlle Perroton</span></h1>
+  <h1 id="dec15-5-L-apartheid-scolaire-Georges-Felouzis-Fran-oise-Liot-Jo-lle-Perroton"><span class="title">L’apartheid scolaire</span>, par <span class="author">Georges Felouzis, Françoise Liot, Joëlle Perroton</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
