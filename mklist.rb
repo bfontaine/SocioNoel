@@ -35,16 +35,48 @@ class Book
 </article>
   EOS
 
+  @@renderer = ERB.new(TEMPLATE, 3)
+
   def initialize(hash, day, idx)
     @attrs = hash
     @day = day
     @idx = idx
 
-    if has?("title") && has?("author")
-      id = "#{@attrs["title"]} #{@attrs["author"]}".gsub(/[^A-Za-z0-9]+/, "-")
-      @attrs["anchor"] = "#{day_anchor day}-#{id}"
+    validate!
+
+    id = "#{@attrs["title"]} #{@attrs["author"]}".gsub(/[^A-Za-z0-9]+/, "-")
+    @attrs["anchor"] = "#{day_anchor day}-#{id}"
+  end
+
+  def validate!
+    must "have a title" unless has? "title"
+    must "have an author" unless has? "author"
+    if has? "sources"
+      sources = @attrs["sources"]
+      must "have sources" if sources.nil? || sources.empty?
+      sources.each_with_index do |s, i|
+        %w[link comment].each do |attr|
+          must "have a #{attr} for its source #{i}" unless s.has_key? attr
+        end
+      end
+    elsif !has? "source"
+      must "have a source"
+    else
+      must "use 'sources' instead of 'source'" if @attrs["source"].is_a? Array
+      must "have a comment" unless has? "comment"
     end
   end
+
+  def to_s
+    title = has?("title") ? @attrs["title"] : "<unknown title>"
+    "#{title} (day #{@day}, ##{@idx})"
+  end
+
+  def to_html
+    @@renderer.result to_binding
+  end
+
+  private
 
   def to_binding
     # ERB wants bindings; not hashs. See https://bugs.ruby-lang.org/issues/8643
@@ -55,44 +87,10 @@ class Book
     @attrs.has_key?(k) && !@attrs[k].nil?
   end
 
-  def [](k)
-    @attrs[k]
-  end
-
-  def validate!
-    must "have a title" unless has? "title"
-    must "have an author" unless has? "author"
-    if has? "sources"
-      sources = self["sources"]
-      must "have sources" if sources.nil? || sources.empty?
-      sources.each_with_index do |s, i|
-        %w[link comment].each do |attr|
-          must "have a #{attr} for its source #{i}" unless s.has_key? attr
-        end
-      end
-    elsif !has? "source"
-      must "have a source"
-    else
-      must "use 'sources' instead of 'source'" if self["source"].is_a? Array
-      must "have a comment" unless has? "comment"
-    end
-  end
-
-  def to_s
-    title = has?("title") ? self["title"] : "<unknown title>"
-    "#{title} (day #{@day}, ##{@idx})"
-  end
-
-  private
-
   def must(s)
     raise "Book '#{self}' must #{s}"
   end
 end
-
-days = YAML.load_file("books.yml")
-
-renderer = ERB.new(Book::TEMPLATE, 3)
 
 File.open("index.md", "w") do |f|
   f.write <<-EOS
@@ -115,11 +113,12 @@ Accès direct à un jour :<br/>
 
   EOS
 
+  days = YAML.load_file("books.yml")
+
   # we have to cheat here because GitHub doesn't seem to like <ol id="something">
-  idx = 0
-  days.each do |day, _|
-    idx += 1
-    f.write %{#{idx}. [#{day_title day}](##{day_anchor day})\n}
+  days.each_with_index do |p, i|
+    day = p[0]
+    f.write %{#{i + 1}. [#{day_title day}](##{day_anchor day})\n}
   end
 
   f.write "\n"
@@ -134,8 +133,7 @@ Accès direct à un jour :<br/>
 
     books.each_with_index do |hash, i|
       book = Book.new(hash, day, i)
-      book.validate!
-      f.write renderer.result(book.to_binding)
+      f.write book.to_html
     end
   end
 end
