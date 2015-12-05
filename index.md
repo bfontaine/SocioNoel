@@ -2806,3 +2806,14 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1><span class="title">Le cens caché : Inégalités culturelles et ségrégation politique</span>, par <span class="author">Daniel Gaxie</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      après les classiques, place à la socio politique! 1er livre lu, 1er choc, Daniel Gaxie, Le Cens caché<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/673062279789809664">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
