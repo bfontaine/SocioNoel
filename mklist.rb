@@ -99,6 +99,9 @@ Certaines personnes apparaissent plusieurs fois parce qu’elles ont mentionné
 plusieurs livres le même jour (bouuuuh !).
 Il n’y a pas d’ordre particulier.
 
+Le <a href="https://github.com/bfontaine/SocioNoel">code de cette page</a> est libre et la liste est dans le domaine public.
+Contactez-moi sur Twitter (<a href="https://twitter.com/bfontn">@bfontn</a>) si vous la voulez dans un autre format (CSV/Excel, PDF, etc).
+
 Accès direct à un jour :<br/>
 
   EOS
