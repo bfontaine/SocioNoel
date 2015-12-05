@@ -16,6 +16,7 @@ Accès direct à un jour :<br/>
 2. [2 Décembre](#dec15-2)
 3. [3 Décembre](#dec15-3)
 4. [4 Décembre](#dec15-4)
+5. [5 Décembre](#dec15-5)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -1323,10 +1324,17 @@ Accès direct à un jour :<br/>
   <h1><span class="title">Invitation à la sociologie</span>, par <span class="author">Peter L. Berger</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Un excellent ouvrage pour donner envie de découvrir la #sociologie !<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/672008792347951105">@bbarbusse</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Un excellent ouvrage pour donner envie de découvrir la #sociologie !<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/672008792347951105">@bbarbusse</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Un livre que j'ai découvert sur le tard mais recommande chaudement !<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/672875118666870784">@Gerome_Truc</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2683,6 +2691,95 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       La grande arnaque de Paola Tanet, avec le concept d'un continuum de l'échange économico-sexuel<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/672815608761876480">@RaphCann</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Méthodes historiques et méthodes littéraires, pour un usage croisé</span>, par <span class="author">Christophe Charle</span>&nbsp;(<a href="https://www.cairn.info/revue-romantisme-2009-1-page-13.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Charle est l'un de ceux qui depuis un certain nombre d'années poussent à adopter cette double approche (ou plutôt, une approche mêlée) entre les disciplines de l'histoire et de la littérature, tout en argumentant et illustrant ce qu'on peut en faire ; très convaincant.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/672835578178740229">@Phangere</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">L’opinion publique n'existe pas</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Les sondages, les sondages, lisons tous "L'opinion Publique n'existe pas" de Pierre Bourdieu, ok ?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Alisxtp/status/672853666513207296">@Alisxtp</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Classer, dominer : Qui sont les « autres » ?</span>, par <span class="author">Christine Delphy</span>&nbsp;(<a href="https://infinit.io/_/wNQ8amE">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Essai d'excellente qualité.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/672875188120326144">@thefugitive_</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Entrer dans l'élite</span>, par <span class="author">Jules Naudet</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Jules Naudet, Entrer dans l'élite, 2012 avec de bons portraits !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/fivepastfive/status/672891116908343297">@fivepastfive</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Les pronoms cosmologique et le perspectivisme amérindien</span>, par <span class="author">Eduardo Viveiro de Castro</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une claque !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/joliraton/status/672898029662445568">@joliraton</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Féminismes décoloniaux, genre et développement : Mouvements féministes en Afrique</span>, par <span class="author">Christine Verschuur et Blandine Destremau</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Du coup, mon #SocioNoel d'aujourd'hui c'est ceci<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ThisisKiyemis/status/672904355461390336">@ThisisKiyemis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-5">5 Décembre</h2>
+<article class="book">
+  <h1><span class="title">Surveiller et jouir : Anthropologie politique du sexe</span>, par <span class="author">Gayle Rubin</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Souvenir d'avant l'interdiction officielle de tous les titres pastiches de Michel Foucault<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Politriste/status/673024386694299648">@Politriste</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1><span class="title">Allez les filles !</span>, par <span class="author">Christian Beaudelot et Roger Establet</span>&nbsp;(<a href="http://www.seuil.com/livre-9782020146197.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Christian Beaudelot Roger Establet - Allez les filles<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/673030122543439872">@Laboratoire_CMH</a></span>
     </blockquote>
   
   </div>

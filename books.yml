@@ -689,9 +689,13 @@
       Captivant et original !
   - title: Invitation à la sociologie
     author: Peter L. Berger
-    source: https://twitter.com/bbarbusse/status/672008792347951105
-    comment: >
-      Un excellent ouvrage pour donner envie de découvrir la #sociologie !
+    sources:
+      - link: https://twitter.com/bbarbusse/status/672008792347951105
+        comment: >
+          Un excellent ouvrage pour donner envie de découvrir la #sociologie !
+      - link: https://twitter.com/Gerome_Truc/status/672875118666870784
+        comment: >
+          Un livre que j'ai découvert sur le tard mais recommande chaudement !
   - title: Bonheur privé, action publique
     author: Albert O. Hirschman
     source: https://twitter.com/elsaaa_f/status/672009496311537664
@@ -1427,3 +1431,51 @@
     comment: >
       La grande arnaque de Paola Tanet, avec le concept d'un continuum de
       l'échange économico-sexuel
+  - title: Méthodes historiques et méthodes littéraires, pour un usage croisé
+    author: Christophe Charle
+    source: https://twitter.com/Phangere/status/672835578178740229
+    comment: >
+      Charle est l'un de ceux qui depuis un certain nombre d'années poussent à
+      adopter cette double approche (ou plutôt, une approche mêlée) entre les
+      disciplines de l'histoire et de la littérature, tout en argumentant et
+      illustrant ce qu'on peut en faire ; très convaincant.
+    link: https://www.cairn.info/revue-romantisme-2009-1-page-13.htm
+  - title: L’opinion publique n'existe pas
+    author: Pierre Bourdieu
+    source: https://twitter.com/Alisxtp/status/672853666513207296
+    comment: >
+      Les sondages, les sondages, lisons tous "L'opinion Publique n'existe pas"
+      de Pierre Bourdieu, ok ?
+  - title: "Classer, dominer : Qui sont les « autres » ?"
+    author: Christine Delphy
+    source: https://twitter.com/thefugitive_/status/672875188120326144
+    comment: >
+      Essai d'excellente qualité.
+    link: https://infinit.io/_/wNQ8amE
+  - title: Entrer dans l'élite
+    author: Jules Naudet
+    source: https://twitter.com/fivepastfive/status/672891116908343297
+    comment: >
+      Jules Naudet, Entrer dans l'élite, 2012 avec de bons portraits !
+  - title: Les pronoms cosmologique et le perspectivisme amérindien
+    author: Eduardo Viveiro de Castro
+    source: https://twitter.com/joliraton/status/672898029662445568
+    comment: "Une claque !"
+  - title: "Féminismes décoloniaux, genre et développement : Mouvements féministes en Afrique"
+    author: Christine Verschuur et Blandine Destremau
+    source: https://twitter.com/ThisisKiyemis/status/672904355461390336
+    comment: >
+      Du coup, mon #SocioNoel d'aujourd'hui c'est ceci
+5:
+  - title: "Surveiller et jouir : Anthropologie politique du sexe"
+    author: Gayle Rubin
+    source: https://twitter.com/Politriste/status/673024386694299648
+    comment: >
+      Souvenir d'avant l'interdiction officielle de tous les titres pastiches
+      de Michel Foucault
+  - title: "Allez les filles !"
+    author: Christian Beaudelot et Roger Establet
+    source: https://twitter.com/Laboratoire_CMH/status/673030122543439872
+    comment: >
+      Christian Beaudelot Roger Establet - Allez les filles
+    link: http://www.seuil.com/livre-9782020146197.htm
