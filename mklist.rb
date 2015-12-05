@@ -9,10 +9,14 @@ def day_title(day)
   "#{day == 1 ? "1er" : day} Décembre"
 end
 
+def day_anchor(day)
+  "dec15-#{day}"
+end
+
 class Book
   TEMPLATE = <<-EOS
 <article class="book">
-  <h1><span class="title"><%= title.strip %></span>, par <span class="author"><%= author.strip %></span><% if link %>&nbsp;(<a href="<%= link %>">lien</a>)<% end %></h1>
+  <h1<% if anchor %> id="<%= anchor %>"<% end %>><span class="title"><%= title.strip %></span>, par <span class="author"><%= author.strip %></span><% if link %>&nbsp;(<a href="<%= link %>">lien</a>)<% end %></h1>
   <div class="sources">
   <% if source %>
     <blockquote class="comment">
@@ -35,6 +39,11 @@ class Book
     @attrs = hash
     @day = day
     @idx = idx
+
+    if has?("title") && has?("author")
+      id = "#{@attrs["title"]} #{@attrs["author"]}".gsub(/[^A-Za-z0-9]+/, "-")
+      @attrs["anchor"] = "#{day_anchor day}-#{id}"
+    end
   end
 
   def to_binding
@@ -110,13 +119,13 @@ Accès direct à un jour :<br/>
   idx = 0
   days.each do |day, _|
     idx += 1
-    f.write %{#{idx}. [#{day_title day}](#dec15-#{day})\n}
+    f.write %{#{idx}. [#{day_title day}](##{day_anchor day})\n}
   end
 
   f.write "\n"
 
   days.each do |day, books|
-    f.write %{<h2 id="dec15-#{day}">#{day_title day}</h2>\n}
+    f.write %{<h2 id="#{day_anchor day}">#{day_title day}</h2>\n}
 
     if books.nil? or books.empty?
       f.write %(<p class="notice">Il n’y a pas encore de livres pour ce jour.</p>\n)
