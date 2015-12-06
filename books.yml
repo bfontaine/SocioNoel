@@ -1518,10 +1518,14 @@
         comment: Car nous devons commencer par le commencement.
   - title: "Le cens caché : Inégalités culturelles et ségrégation politique"
     author: Daniel Gaxie
-    source: https://twitter.com/SamuelHayat/status/673062279789809664
-    comment: >
-      Après les classiques, place à la socio politique! 1er livre lu, 1er choc,
-      Daniel Gaxie, Le Cens caché
+    sources:
+      - link: https://twitter.com/SamuelHayat/status/673062279789809664
+        comment: >
+          Après les classiques, place à la socio politique! 1er livre lu, 1er
+          choc, Daniel Gaxie, Le Cens caché
+      - link: https://twitter.com/Jo14Hernandez/status/673421662071758848
+        comment: >
+          La sociologie politique comme on l'aime.
   - title: Le raisonnement sociologique
     author: Jean-Claude Passeron
     sources:
@@ -1677,6 +1681,18 @@
     source: https://twitter.com/Jacobo_Grajales/status/673262327651790848
     comment: >
       Utile lecture par ces temps de panique
+  - title: "Les féministes et le garçon arabe"
+    author: Nacira Guénif Souilamas et Eric Macé
+    source: https://twitter.com/LionnelleMakaya/status/673412482971602944
+    comment: >
+      Nacéra GUENIF-SOUILAMAS pour TOUTE son œuvre (ps finie) son engagement &
+      son puissant concept #antisexismepatriarcal
+  - title: "La tradition sociologique de Chicago"
+    author: Jean-Michel Chapoulie
+    source: https://twitter.com/lestrelin/status/673426483050881024
+    comment: >
+      La tradition sociologique de Chicago, par JM Chapoulie
+    link: http://www.seuil.com/livre-9782020419208.htm
 6:
   - title: "Ce qui nous rend méchants (Spécimen)"
     author: Radio Télévision Suisse
@@ -1685,3 +1701,35 @@
       (même si c'est plus de la psychologie sociale), ce documentaire sur la
       méchanceté, super intéressant
     link: https://www.youtube.com/watch?v=_2apUh0FlHk
+  - title: Le juste et l’inacceptable
+    author: Caroline Guibet Lafaye
+    source: https://twitter.com/Laboratoire_CMH/status/673402665808871425
+    comment: >
+      Caroline Guibet Lafaye : Le juste et l'inacceptable
+    link: http://www.pups.paris-sorbonne.fr/catalogue/philosophie-et-sciences-sociales/lintelligence-du-social/le-juste-et-linacceptable
+  - title: "Les métamorphoses de la question sociale. Une chronique du salariat"
+    author: Robert Castel
+    source: https://twitter.com/NuteluCaine/status/673405463829078016
+    comment: "La société salariale et après"
+  - title: "Sportifs en danger. La condition des travailleurs sportifs"
+    author: Sébastien Fleuriel et Manuel Schotté
+    source: https://twitter.com/bbarbusse/status/673418335883829249
+    comment: >
+      Un peu de sociologie du #sport #RH ! Un livre méconnu et néanmoins
+      éclairant.
+  - title: Les Vertus de l'incertitude
+    author: Jean-Michel Berthelot
+    source: https://twitter.com/ArSaintMartin/status/673428884877131776
+    comment: >
+      Pour s’équiper à raison contre le dogmatisme
+  - title: L’islamisme en face
+    author: François Burgat
+    source: https://twitter.com/JohnGoodMalik/status/673413245886210048
+    comment: >
+      Même si ne suit pas F.Burgat jusqu'au bout, lire "L'islamisme en face"
+      met un bout coup de pied à nos préjugés
+  - title: Mozart, sociologie d'un génie
+    author: Norbert Elias
+    source: https://twitter.com/lestrelin/status/673427557438627840
+    comment: >
+      Elias objective la singularité,explore structure sociales & psychiques

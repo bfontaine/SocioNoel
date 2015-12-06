@@ -2856,10 +2856,17 @@ Accès direct à un jour :<br/>
   <h1 id="dec15-5-Le-cens-cach-In-galit-s-culturelles-et-s-gr-gation-politique-Daniel-Gaxie"><span class="title">Le cens caché : Inégalités culturelles et ségrégation politique</span>, par <span class="author">Daniel Gaxie</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Après les classiques, place à la socio politique! 1er livre lu, 1er choc, Daniel Gaxie, Le Cens caché<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/673062279789809664">@SamuelHayat</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Après les classiques, place à la socio politique! 1er livre lu, 1er choc, Daniel Gaxie, Le Cens caché<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/673062279789809664">@SamuelHayat</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        La sociologie politique comme on l'aime.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/673421662071758848">@Jo14Hernandez</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -3145,6 +3152,28 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1 id="dec15-5-Les-f-ministes-et-le-gar-on-arabe-Nacira-Gu-nif-Souilamas-et-Eric-Mac-"><span class="title">Les féministes et le garçon arabe</span>, par <span class="author">Nacira Guénif Souilamas et Eric Macé</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Nacéra GUENIF-SOUILAMAS pour TOUTE son œuvre (ps finie) son engagement & son puissant concept #antisexismepatriarcal<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/673412482971602944">@LionnelleMakaya</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-5-La-tradition-sociologique-de-Chicago-Jean-Michel-Chapoulie"><span class="title">La tradition sociologique de Chicago</span>, par <span class="author">Jean-Michel Chapoulie</span>&nbsp;(<a href="http://www.seuil.com/livre-9782020419208.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      La tradition sociologique de Chicago, par JM Chapoulie<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/673426483050881024">@lestrelin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
 <h2 id="dec15-6">6 Décembre</h2>
 <article class="book">
   <h1 id="dec15-6-Ce-qui-nous-rend-m-chants-Sp-cimen-Radio-T-l-vision-Suisse"><span class="title">Ce qui nous rend méchants (Spécimen)</span>, par <span class="author">Radio Télévision Suisse</span>&nbsp;(<a href="https://www.youtube.com/watch?v=_2apUh0FlHk">lien</a>)</h1>
@@ -3153,6 +3182,72 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       (même si c'est plus de la psychologie sociale), ce documentaire sur la méchanceté, super intéressant<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/673278375507697664">@Pyrate_Jenni</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Le-juste-et-l-inacceptable-Caroline-Guibet-Lafaye"><span class="title">Le juste et l’inacceptable</span>, par <span class="author">Caroline Guibet Lafaye</span>&nbsp;(<a href="http://www.pups.paris-sorbonne.fr/catalogue/philosophie-et-sciences-sociales/lintelligence-du-social/le-juste-et-linacceptable">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Caroline Guibet Lafaye : Le juste et l'inacceptable<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/673402665808871425">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Les-m-tamorphoses-de-la-question-sociale-Une-chronique-du-salariat-Robert-Castel"><span class="title">Les métamorphoses de la question sociale. Une chronique du salariat</span>, par <span class="author">Robert Castel</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      La société salariale et après<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/673405463829078016">@NuteluCaine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Sportifs-en-danger-La-condition-des-travailleurs-sportifs-S-bastien-Fleuriel-et-Manuel-Schott-"><span class="title">Sportifs en danger. La condition des travailleurs sportifs</span>, par <span class="author">Sébastien Fleuriel et Manuel Schotté</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un peu de sociologie du #sport #RH ! Un livre méconnu et néanmoins éclairant.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/673418335883829249">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Les-Vertus-de-l-incertitude-Jean-Michel-Berthelot"><span class="title">Les Vertus de l'incertitude</span>, par <span class="author">Jean-Michel Berthelot</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour s’équiper à raison contre le dogmatisme<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/673428884877131776">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-L-islamisme-en-face-Fran-ois-Burgat"><span class="title">L’islamisme en face</span>, par <span class="author">François Burgat</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Même si ne suit pas F.Burgat jusqu'au bout, lire "L'islamisme en face" met un bout coup de pied à nos préjugés<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/673413245886210048">@JohnGoodMalik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Mozart-sociologie-d-un-g-nie-Norbert-Elias"><span class="title">Mozart, sociologie d'un génie</span>, par <span class="author">Norbert Elias</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Elias objective la singularité,explore structure sociales & psychiques<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/673427557438627840">@lestrelin</a></span>
     </blockquote>
   
   </div>
