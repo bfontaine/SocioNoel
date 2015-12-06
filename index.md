@@ -3354,3 +3354,14 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1 id="dec15-6-De-la-division-du-travail-social-mile-Durkheim"><span class="title">De la division du travail social</span>, par <span class="author">Émile Durkheim</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Le livre de socio que j'ai le plus lu et relu<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/673473115192717312">@Gerome_Truc</a></span>
+    </blockquote>
+  
+  </div>
+</article>
