@@ -2735,13 +2735,20 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-4-L-opinion-publique-n-existe-pas-Pierre-Bourdieu"><span class="title">L’opinion publique n'existe pas</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <h1 id="dec15-4-L-opinion-publique-n-existe-pas-Pierre-Bourdieu"><span class="title">L’opinion publique n'existe pas</span>, par <span class="author">Pierre Bourdieu</span>&nbsp;(<a href="http://www.homme-moderne.org/societe/socio/bourdieu/questions/opinionpub.html">lien</a>)</h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Les sondages, les sondages, lisons tous "L'opinion Publique n'existe pas" de Pierre Bourdieu, ok ?<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Alisxtp/status/672853666513207296">@Alisxtp</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Les sondages, les sondages, lisons tous "L'opinion Publique n'existe pas" de Pierre Bourdieu, ok ?<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Alisxtp/status/672853666513207296">@Alisxtp</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Déconstruire les sondages pour mieux les appréhender<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ianonim/status/673438719647612928">@Ianonim</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -3123,10 +3130,17 @@ Accès direct à un jour :<br/>
   <h1 id="dec15-5-La-force-de-l-ordre-Anthropologie-de-la-police-des-quartiers-Didier-Fassin"><span class="title">La force de l'ordre. Anthropologie de la police des quartiers</span>, par <span class="author">Didier Fassin</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Adapté au &lt;climat> actuel.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/673217472980459520">@thefugitive_</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Adapté au &lt;climat> actuel.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/673217472980459520">@thefugitive_</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Déjà cité mais c'est vraiment trés bien<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/673462406882926592">@PaillardSimon</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -3259,6 +3273,83 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Recueil d’articles dont celui sur les liens faibles. Indispensable.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/673438550432550912">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-L-imaginaire-touristique-Rachid-Amirou"><span class="title">L’imaginaire touristique</span>, par <span class="author">Rachid Amirou</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      On croit voyager. Réflexions sur la quête frénétique d'exotisme, cet espace d’illusions<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/DavidLaMars/status/673443524734533632">@DavidLaMars</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Le-ghetto-fran-ais-enqu-te-sur-le-s-paratisme-social-ric-Maurin"><span class="title">Le ghetto français, enquête sur le séparatisme social</span>, par <span class="author">Éric Maurin</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Oui, la socio urbaine c'est mon truc.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/673453342933327872">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Le-savant-et-le-politique-Max-Weber"><span class="title">Le savant et le politique</span>, par <span class="author">Max Weber</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      ZE classique de sociologie politique, Max Weber, "la vocation de politique", nouvelle traduction de Colliot-Thélène<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/673459243958312961">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Qu-est-ce-qu-une-nation-Ernest-Renan"><span class="title">Qu’est-ce qu’une nation ?</span>, par <span class="author">Ernest Renan</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Je sais que c'est pas de la socio, mais je le mets quand même<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ostpolitik/status/673459469376966656">@Ostpolitik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-L-abstention-d-ficit-d-mocratique-ou-vitalit-politique-Anne-Muxel"><span class="title">L’abstention : déficit démocratique ou vitalité politique ?</span>, par <span class="author">Anne Muxel</span>&nbsp;(<a href="https://www.cairn.info/revue-pouvoirs-2007-1-page-43.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Oh je sais pour le #SocioNoel du jour : "L’abstention : déficit démocratique ou vitalité politique ?" Anne Muxel<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Temuchyn/status/673463779364089856">@Temuchyn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-M-decine-maladie-et-soci-t-Claudine-Herzlich"><span class="title">Médecine, maladie et société</span>, par <span class="author">Claudine Herzlich</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Médecine maladie et société - Recueil de 19 textes introduits par C. Herzlich<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jbiaudet/status/673467423656386560">@jbiaudet</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-La-Terre-sans-Mal-Emmanuel-Lepage-et-Anne-Sibran"><span class="title">La Terre sans Mal</span>, par <span class="author">Emmanuel Lepage et Anne Sibran</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Lepage et Sibran, "La Terre sans Mal"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/673468762583117824">@CobbleAndFrame</a></span>
     </blockquote>
   
   </div>

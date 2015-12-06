@@ -1463,10 +1463,15 @@
     link: https://www.cairn.info/revue-romantisme-2009-1-page-13.htm
   - title: L’opinion publique n'existe pas
     author: Pierre Bourdieu
-    source: https://twitter.com/Alisxtp/status/672853666513207296
-    comment: >
-      Les sondages, les sondages, lisons tous "L'opinion Publique n'existe pas"
-      de Pierre Bourdieu, ok ?
+    sources:
+      - link: https://twitter.com/Alisxtp/status/672853666513207296
+        comment: >
+          Les sondages, les sondages, lisons tous "L'opinion Publique n'existe pas"
+          de Pierre Bourdieu, ok ?
+      - link: https://twitter.com/Ianonim/status/673438719647612928
+        comment: >
+          Déconstruire les sondages pour mieux les appréhender
+    link: http://www.homme-moderne.org/societe/socio/bourdieu/questions/opinionpub.html
   - title: "Classer, dominer : Qui sont les « autres » ?"
     author: Christine Delphy
     source: https://twitter.com/thefugitive_/status/672875188120326144
@@ -1667,9 +1672,13 @@
       Samedi : Un ouvrage riche et (trop) peu sollicité
   - title: "La force de l'ordre. Anthropologie de la police des quartiers"
     author: Didier Fassin
-    source: https://twitter.com/thefugitive_/status/673217472980459520
-    comment: >
-      Adapté au &lt;climat> actuel.
+    sources:
+      - link: https://twitter.com/thefugitive_/status/673217472980459520
+        comment: >
+          Adapté au &lt;climat> actuel.
+      - link: https://twitter.com/PaillardSimon/status/673462406882926592
+        comment: >
+          Déjà cité mais c'est vraiment trés bien
   - title: "Casseroles, amour et crises, ce que cuisiner veut dire"
     author: Jean-Claude Kaufmann
     source: https://twitter.com/F_Bally/status/673225944082063360
@@ -1738,3 +1747,43 @@
     source: https://twitter.com/bfontn/status/673438550432550912
     comment: >
       Recueil d’articles dont celui sur les liens faibles. Indispensable.
+  - title: L’imaginaire touristique
+    author: Rachid Amirou
+    source: https://twitter.com/DavidLaMars/status/673443524734533632
+    comment: >
+      On croit voyager. Réflexions sur la quête frénétique d'exotisme, cet
+      espace d’illusions
+  - title: "Le ghetto français, enquête sur le séparatisme social"
+    author: Éric Maurin
+    source: https://twitter.com/Lil_RoXaNe/status/673453342933327872
+    comment: >
+      Oui, la socio urbaine c'est mon truc.
+  - title: Le savant et le politique
+    author: Max Weber
+    source: https://twitter.com/SamuelHayat/status/673459243958312961
+    comment: >
+      ZE classique de sociologie politique, Max Weber, "la vocation de
+      politique", nouvelle traduction de Colliot-Thélène
+  - title: Qu’est-ce qu’une nation ?
+    author: Ernest Renan
+    source: https://twitter.com/Ostpolitik/status/673459469376966656
+    comment: >
+      Je sais que c'est pas de la socio, mais je le mets quand même
+  - title: "L’abstention : déficit démocratique ou vitalité politique ?"
+    author: Anne Muxel
+    source: https://twitter.com/Temuchyn/status/673463779364089856
+    comment: >
+      Oh je sais pour le #SocioNoel du jour : "L’abstention : déficit
+      démocratique ou vitalité politique ?" Anne Muxel
+    link: https://www.cairn.info/revue-pouvoirs-2007-1-page-43.htm
+  - title: Médecine, maladie et société
+    author: Claudine Herzlich
+    source: https://twitter.com/jbiaudet/status/673467423656386560
+    comment: >
+      Médecine maladie et société - Recueil de 19 textes introduits par C.
+      Herzlich
+  - title: La Terre sans Mal
+    author: Emmanuel Lepage et Anne Sibran
+    source: https://twitter.com/CobbleAndFrame/status/673468762583117824
+    comment: >
+      Lepage et Sibran, "La Terre sans Mal"
