@@ -735,9 +735,17 @@
       Le père Noël supplicié - Claude Lévi-Strauss
   - title: 80% au bac… et après ?
     author: Stéphane Beaud
-    source: https://twitter.com/sociosauvage/status/672027008482869248
-    comment: >
-      Je continue tranquillement avec le deuxième bouquin lu en socio
+    sources:
+      - link: https://twitter.com/sociosauvage/status/672027008482869248
+        comment: >
+          Je continue tranquillement avec le deuxième bouquin lu en socio
+      - link: https://twitter.com/Uneheuredepeine/status/673178768421224448
+        comment: >
+          Beaucoup ont cité "Pays de Malheur!". Je préfère quand même le 1er
+          tome, lecture nécessaire pour tous les profs sans me faire
+          d'illusions sur la capacité de certains collègues à saisir quoique ce
+          soit à ce bouquin
+    link: http://www.editionsladecouverte.fr/catalogue/index-80___au_bac____et_apr__s__-9782707141514.html
   - title: La construction sociale de l’inégalité des sexes
     author: Paola Tabet
     source: https://twitter.com/pa_prika_m/status/672028491882373121
@@ -1032,6 +1040,9 @@
         comment: >
           Pour le #jour4 de #SocioNoel les deux branches d'un dévoilement
           (personnel) : Bourdieu et Neveu @Ed_LaDecouverte
+      - link: https://twitter.com/ValGuery/status/673204751354503168
+        comment: >
+          Pas de sport aujourd'hui. Le premier livre que j'ai lu de Bourdieu.
   - title: Dix ans de marche des Beurs
     author: Saïd Bouamama
     source: https://twitter.com/LionnelleMakaya/status/672363693875818497
@@ -1180,8 +1191,11 @@
     link: http://lettre.ehess.fr/index.php?9383
   - title: De la souillure
     author: Mary Douglas
-    source: https://twitter.com/joliraton/status/672658899326083073
-    comment: "C'est beau..."
+    sources:
+      - link: https://twitter.com/joliraton/status/672658899326083073
+        comment: "C'est beau..."
+      - link: https://twitter.com/HybridaTabulat/status/673184985004777472
+        comment: Pour la réflexion sur ce qui est acceptable.
   - title: Éléments de théorie et de méthode sociologique
     author: Robert K. Merton
     source: https://twitter.com/bbarbusse/status/672666742389407744
@@ -1473,6 +1487,11 @@
     source: https://twitter.com/ThisisKiyemis/status/672904355461390336
     comment: >
       Du coup, mon #SocioNoel d'aujourd'hui c'est ceci
+  - title: Comment sont reçues les oeuvres
+    author: Isabelle Charpentier
+    source: https://twitter.com/HybridaTabulat/status/673185623826632704
+    comment: >
+      Car la sociologie de la réception c'est mon truc.
 5:
   - title: "Surveiller et jouir : Anthropologie politique du sexe"
     author: Gayle Rubin
@@ -1492,8 +1511,11 @@
     comment: "Lecture de train."
   - title: Le Suicide
     author: Émile Durkheim
-    source: https://twitter.com/bfontn/status/673047619711668224
-    comment: "Un peu long mais très documenté."
+    sources:
+      - link: https://twitter.com/bfontn/status/673047619711668224
+        comment: "Un peu long mais très documenté."
+      - link: https://twitter.com/HybridaTabulat/status/673183608757186560
+        comment: Car nous devons commencer par le commencement.
   - title: "Le cens caché : Inégalités culturelles et ségrégation politique"
     author: Daniel Gaxie
     source: https://twitter.com/SamuelHayat/status/673062279789809664
@@ -1502,9 +1524,14 @@
       Daniel Gaxie, Le Cens caché
   - title: Le raisonnement sociologique
     author: Jean-Claude Passeron
-    source: https://twitter.com/ArSaintMartin/status/673065481755037697
-    comment: >
-      Indispensable manuel de survie socio-épistémologique.
+    sources:
+      - link: https://twitter.com/ArSaintMartin/status/673065481755037697
+        comment: >
+          Indispensable manuel de survie socio-épistémologique.
+      - link: https://twitter.com/HybridaTabulat/status/673184733052993536
+        comment: >
+          Le Raisonnement sociologique. L'espace non-poppérien du raisonnement
+          naturel. King Passeron
   - title: Interventions, 1961-2001
     author: Pierre Bourdieu
     source: https://twitter.com/Ianonim/status/673065648361070592
@@ -1583,3 +1610,78 @@
     comment: >
       Un des derniers livres que j'ai lu pour mon boulot, très éclairant sur la
       ségrégation ethnique à l'école
+  - title: À l’école du salariat. Les étudiants et leurs « petits boulots »
+    author: Vanessa Pinto
+    source: https://twitter.com/Silmalia/status/673176550049783808
+    comment: >
+      Voir aussi l'<a href="http://www.humanite.fr/vanessa-pinto-les-jobs-etudiants-un-apprentissage-de-la-precarite-555047">interview
+      de l'auteure Vanessa Pinto dans l'Huma sur le livre</a> : "Les «petits
+      boulots» [...] sont aussi le lieu où les jeunes issus des classes
+      populaires intériorisent leur place dans l’échelle sociale". C'est
+      quelque chose que je remarque beaucoup chez moi aussi : plus je bosse à
+      côté moins je me sens à ma place à la fac
+    link: http://www.laviedesidees.fr/Des-etudiants-entre-etudes-et.html
+  - title: "Marginalité contraceptive et figures du féminin : une expérience de la contraception injectable hormonale en France"
+    author: Hélène Bretin
+    source: https://twitter.com/extatiq/status/673180834921390081
+    comment: >
+      Ça parle de maltraitances gynécologiques et obstétriques racistes. On est
+      là encore à l’intersection race/classe/genre
+    link: http://www.persee.fr/doc/sosan_0294-0337_2004_num_22_3_1628
+  - title: "Le temps donné aux tableaux: compte rendu d'une enquête au Musée Granet"
+    author: Jean-Claude Passeron et Emmanuel Pedler
+    source: https://twitter.com/HybridaTabulat/status/673186240162889728
+    comment: >
+      Pour le génie de la méthode
+  - title: Adolescence en exil
+    author: Pascale Jamoulle et Jacinthe Mazzocchetti
+    source: https://twitter.com/joliraton/status/673187229733421056
+    comment: >
+      Pour voir #Bruxelles autrement, sur l'immigration et l'intégration...
+  - title: "L’autre enseignement supérieur : Les BTS et la gestion des aspirations scolaires"
+    author: Sophie Orange
+    source: https://twitter.com/ruggeroparis/status/673187168802742272
+    comment: >
+      Une invitation au voyage dans la galaxie BTS #autresuperieur
+  - title: "Les Intermittents du spectacle : Enjeux d’un siècle de luttes"
+    author: Mathieu Grégoire
+    source: https://twitter.com/ylloPytterP/status/673192146560765952
+    comment: >
+      Rien n'existe sans les intermittents, il serait peut-être temps de
+      prendre le temps de les connaître
+  - title: L’homme Pluriel
+    author: Bernard Lahire
+    source: https://twitter.com/RaphCann/status/673197174772101120
+    comment: >
+      En attendant le prochain livre de Lahire, "L'homme Pluriel" pour
+      comprendre sa théorie de l'acteur
+  - title: Les formes de l’activité politique
+    author: Antonin Cohen, Bernard Lacroix, et Philippe Riutort
+    source: https://twitter.com/M_Iz_6/status/673198468182237184
+    comment: |
+      Le week-end sera "corporate"...
+      Samedi : Un ouvrage riche et (trop) peu sollicité
+  - title: "La force de l'ordre. Anthropologie de la police des quartiers"
+    author: Didier Fassin
+    source: https://twitter.com/thefugitive_/status/673217472980459520
+    comment: >
+      Adapté au <climat> actuel.
+  - title: "Casseroles, amour et crises, ce que cuisiner veut dire"
+    author: Jean-Claude Kaufmann
+    source: https://twitter.com/F_Bally/status/673225944082063360
+    comment: >
+      De la socio du couple avec J.C Kaufmann "Casseroles, amour et crises, ce
+      que cuisiner veut dire"
+  - title: "La France a peur : Une histoire sociale de l’« insécurité »"
+    author: Laurent Bonelli
+    source: https://twitter.com/Jacobo_Grajales/status/673262327651790848
+    comment: >
+      Utile lecture par ces temps de panique
+6:
+  - title: "Ce qui nous rend méchants (Spécimen)"
+    author: Radio Télévision Suisse
+    source: https://twitter.com/Pyrate_Jenni/status/673278375507697664
+    comment: >
+      (même si c'est plus de la psychologie sociale), ce documentaire sur la
+      méchanceté, super intéressant
+    link: https://www.youtube.com/watch?v=_2apUh0FlHk

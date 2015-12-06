@@ -20,6 +20,7 @@ Accès direct à un jour :<br/>
 3. [3 Décembre](#dec15-3)
 4. [4 Décembre](#dec15-4)
 5. [5 Décembre](#dec15-5)
+6. [6 Décembre](#dec15-6)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -163,7 +164,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      < Le pardon est le recours ultime > Vladimir Jankélévitch<br/>
+      &lt; Le pardon est le recours ultime > Vladimir Jankélévitch<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AnthCasanova2/status/671626343419801600">@AnthCasanova2</a></span>
     </blockquote>
   
@@ -249,7 +250,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Excellente vulgarisation des méthodes d'enquête. <a href="https://twitter.com/thefugitive_/status/660802831918587904">Déroulez là</a><br/>
+        Excellente vulgarisation des méthodes d'enquête. &lt;a href="https://twitter.com/thefugitive_/status/660802831918587904">Déroulez là&lt;/a><br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/671826770610552832">@thefugitive_</a></span>
       </blockquote>
     
@@ -266,8 +267,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Pour moi, incontestablement deux livres:<br/>-"le monde privé des ouvriers" d'O. Schwartz
--"la culture du pauvre" de R Hoggart.<br/>
+      Pour moi, incontestablement deux livres:<br/>-"le monde privé des ouvriers" d'O. Schwartz<br/>-"la culture du pauvre" de R Hoggart.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/671707874180128768">@mquijoux</a></span>
     </blockquote>
   
@@ -278,8 +278,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Pour moi, incontestablement deux livres:<br/>-"le monde privé des ouvriers" d'O. Schwartz
--"la culture du pauvre" de R Hoggart.<br/>
+      Pour moi, incontestablement deux livres:<br/>-"le monde privé des ouvriers" d'O. Schwartz<br/>-"la culture du pauvre" de R Hoggart.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/671707874180128768">@mquijoux</a></span>
     </blockquote>
   
@@ -668,7 +667,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        J'étais comme <a href="https://pbs.twimg.com/media/CVKaA7lXAAAY0fq.jpg">ça</a> en lisant<br/>
+        J'étais comme &lt;a href="https://pbs.twimg.com/media/CVKaA7lXAAAY0fq.jpg">ça&lt;/a> en lisant<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/merriousftw/status/671768636533645313">@merriousftw</a></span>
       </blockquote>
     
@@ -1107,7 +1106,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Dans la lignée de mon <a href="https://twitter.com/NuteluCaine/status/671967708297240576">#lrt</a><br/>
+      Dans la lignée de mon &lt;a href="https://twitter.com/NuteluCaine/status/671967708297240576">#lrt&lt;/a><br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/671995218040913920">@dan_maku</a></span>
     </blockquote>
   
@@ -1118,7 +1117,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Allez, #SocioNoel jour 2 : "A chacun son Bambara" de Jean Bazin que vous trouverez dans <a href="http://www.editionsladecouverte.fr/catalogue/index-Au_coeur_de_l_ethnie-9782707146229.html">ce bouquin</a><br/>
+      Allez, #SocioNoel jour 2 : "A chacun son Bambara" de Jean Bazin que vous trouverez dans &lt;a href="http://www.editionsladecouverte.fr/catalogue/index-Au_coeur_de_l_ethnie-9782707146229.html">ce bouquin&lt;/a><br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/672001961957400576">@Uneheuredepeine</a></span>
     </blockquote>
   
@@ -1404,13 +1403,20 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-2-80-au-bac-et-apr-s-St-phane-Beaud"><span class="title">80% au bac… et après ?</span>, par <span class="author">Stéphane Beaud</span></h1>
+  <h1 id="dec15-2-80-au-bac-et-apr-s-St-phane-Beaud"><span class="title">80% au bac… et après ?</span>, par <span class="author">Stéphane Beaud</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-80___au_bac____et_apr__s__-9782707141514.html">lien</a>)</h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Je continue tranquillement avec le deuxième bouquin lu en socio<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/672027008482869248">@sociosauvage</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Je continue tranquillement avec le deuxième bouquin lu en socio<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/672027008482869248">@sociosauvage</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Beaucoup ont cité "Pays de Malheur!". Je préfère quand même le 1er tome, lecture nécessaire pour tous les profs sans me faire d'illusions sur la capacité de certains collègues à saisir quoique ce soit à ce bouquin<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/673178768421224448">@Uneheuredepeine</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1771,7 +1777,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      <a href="https://twitter.com/SamuelHayat/status/672344244871405568">LT</a> A compléter avec "Les trois types purs de la domination légitime", suivi d'intéressantes analyses<br/>
+      &lt;a href="https://twitter.com/SamuelHayat/status/672344244871405568">LT&lt;/a> A compléter avec "Les trois types purs de la domination légitime", suivi d'intéressantes analyses<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/672350485911871488">@SamuelHayat</a></span>
     </blockquote>
   
@@ -1979,6 +1985,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/672682252694851584">@M_Iz_6</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Pas de sport aujourd'hui. Le premier livre que j'ai lu de Bourdieu.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ValGuery/status/673204751354503168">@ValGuery</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2053,7 +2064,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Pour #SocioNoel je voudrais decouvrir des femmes écrivains. Simone Weil, < L’enracinement > . Des autres ?<br/>
+      Pour #SocioNoel je voudrais decouvrir des femmes écrivains. Simone Weil, &lt; L’enracinement > . Des autres ?<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AnthCasanova2/status/672365017778405376">@AnthCasanova2</a></span>
     </blockquote>
   
@@ -2251,10 +2262,17 @@ Accès direct à un jour :<br/>
   <h1 id="dec15-4-De-la-souillure-Mary-Douglas"><span class="title">De la souillure</span>, par <span class="author">Mary Douglas</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      C'est beau...<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/joliraton/status/672658899326083073">@joliraton</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        C'est beau...<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/joliraton/status/672658899326083073">@joliraton</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Pour la réflexion sur ce qui est acceptable.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/HybridaTabulat/status/673184985004777472">@HybridaTabulat</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2329,7 +2347,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Sans doute le meilleur article d'introduction à Goffman. Partant de l'analyse des arnaques, il y construit un cadre général pour penser le travail de changement d'identité. Ou comment on nous conduit à nous calmer et à accepter les coups/coûts symboliques. Goffman, c'est le mec que tu lis en te disant "Ouais, c'est évident en fait", et puis un jour ça te revient en tête et PAF EPIPHANIE. Cet article nous rappelle que le "blaming the victim" n'est pas qu'une stratégie utile : c'est un métier. Comme pour d'autres, j'en ai parlé dans un billet, <a href="http://uneheuredepeine.blogspot.fr/2011/10/portrait-de-la-crise-en-arnaque.html">ici, à propos de la crise financière</a><br/>
+      Sans doute le meilleur article d'introduction à Goffman. Partant de l'analyse des arnaques, il y construit un cadre général pour penser le travail de changement d'identité. Ou comment on nous conduit à nous calmer et à accepter les coups/coûts symboliques. Goffman, c'est le mec que tu lis en te disant "Ouais, c'est évident en fait", et puis un jour ça te revient en tête et PAF EPIPHANIE. Cet article nous rappelle que le "blaming the victim" n'est pas qu'une stratégie utile : c'est un métier. Comme pour d'autres, j'en ai parlé dans un billet, &lt;a href="http://uneheuredepeine.blogspot.fr/2011/10/portrait-de-la-crise-en-arnaque.html">ici, à propos de la crise financière&lt;/a><br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/672683582918418433">@Uneheuredepeine</a></span>
     </blockquote>
   
@@ -2771,6 +2789,17 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1 id="dec15-4-Comment-sont-re-ues-les-oeuvres-Isabelle-Charpentier"><span class="title">Comment sont reçues les oeuvres</span>, par <span class="author">Isabelle Charpentier</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Car la sociologie de la réception c'est mon truc.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/HybridaTabulat/status/673185623826632704">@HybridaTabulat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
 <h2 id="dec15-5">5 Décembre</h2>
 <article class="book">
   <h1 id="dec15-5-Surveiller-et-jouir-Anthropologie-politique-du-sexe-Gayle-Rubin"><span class="title">Surveiller et jouir : Anthropologie politique du sexe</span>, par <span class="author">Gayle Rubin</span></h1>
@@ -2809,10 +2838,17 @@ Accès direct à un jour :<br/>
   <h1 id="dec15-5-Le-Suicide-mile-Durkheim"><span class="title">Le Suicide</span>, par <span class="author">Émile Durkheim</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Un peu long mais très documenté.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/673047619711668224">@bfontn</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Un peu long mais très documenté.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/673047619711668224">@bfontn</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Car nous devons commencer par le commencement.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/HybridaTabulat/status/673183608757186560">@HybridaTabulat</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2831,10 +2867,17 @@ Accès direct à un jour :<br/>
   <h1 id="dec15-5-Le-raisonnement-sociologique-Jean-Claude-Passeron"><span class="title">Le raisonnement sociologique</span>, par <span class="author">Jean-Claude Passeron</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Indispensable manuel de survie socio-épistémologique.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/673065481755037697">@ArSaintMartin</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Indispensable manuel de survie socio-épistémologique.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/673065481755037697">@ArSaintMartin</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Le Raisonnement sociologique. L'espace non-poppérien du raisonnement naturel. King Passeron<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/HybridaTabulat/status/673184733052993536">@HybridaTabulat</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2977,6 +3020,139 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Un des derniers livres que j'ai lu pour mon boulot, très éclairant sur la ségrégation ethnique à l'école<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/673133020182929410">@pa_prika_m</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-5--l-cole-du-salariat-Les-tudiants-et-leurs-petits-boulots-Vanessa-Pinto"><span class="title">À l’école du salariat. Les étudiants et leurs « petits boulots »</span>, par <span class="author">Vanessa Pinto</span>&nbsp;(<a href="http://www.laviedesidees.fr/Des-etudiants-entre-etudes-et.html">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Voir aussi l'&lt;a href="http://www.humanite.fr/vanessa-pinto-les-jobs-etudiants-un-apprentissage-de-la-precarite-555047">interview de l'auteure Vanessa Pinto dans l'Huma sur le livre&lt;/a> : "Les «petits boulots» [...] sont aussi le lieu où les jeunes issus des classes populaires intériorisent leur place dans l’échelle sociale". C'est quelque chose que je remarque beaucoup chez moi aussi : plus je bosse à côté moins je me sens à ma place à la fac<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/673176550049783808">@Silmalia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-5-Marginalit-contraceptive-et-figures-du-f-minin-une-exp-rience-de-la-contraception-injectable-hormonale-en-France-H-l-ne-Bretin"><span class="title">Marginalité contraceptive et figures du féminin : une expérience de la contraception injectable hormonale en France</span>, par <span class="author">Hélène Bretin</span>&nbsp;(<a href="http://www.persee.fr/doc/sosan_0294-0337_2004_num_22_3_1628">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Ça parle de maltraitances gynécologiques et obstétriques racistes. On est là encore à l’intersection race/classe/genre<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/extatiq/status/673180834921390081">@extatiq</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-5-Le-temps-donn-aux-tableaux-compte-rendu-d-une-enqu-te-au-Mus-e-Granet-Jean-Claude-Passeron-et-Emmanuel-Pedler"><span class="title">Le temps donné aux tableaux: compte rendu d'une enquête au Musée Granet</span>, par <span class="author">Jean-Claude Passeron et Emmanuel Pedler</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour le génie de la méthode<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/HybridaTabulat/status/673186240162889728">@HybridaTabulat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-5-Adolescence-en-exil-Pascale-Jamoulle-et-Jacinthe-Mazzocchetti"><span class="title">Adolescence en exil</span>, par <span class="author">Pascale Jamoulle et Jacinthe Mazzocchetti</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour voir #Bruxelles autrement, sur l'immigration et l'intégration...<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/joliraton/status/673187229733421056">@joliraton</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-5-L-autre-enseignement-sup-rieur-Les-BTS-et-la-gestion-des-aspirations-scolaires-Sophie-Orange"><span class="title">L’autre enseignement supérieur : Les BTS et la gestion des aspirations scolaires</span>, par <span class="author">Sophie Orange</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une invitation au voyage dans la galaxie BTS #autresuperieur<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/673187168802742272">@ruggeroparis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-5-Les-Intermittents-du-spectacle-Enjeux-d-un-si-cle-de-luttes-Mathieu-Gr-goire"><span class="title">Les Intermittents du spectacle : Enjeux d’un siècle de luttes</span>, par <span class="author">Mathieu Grégoire</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Rien n'existe sans les intermittents, il serait peut-être temps de prendre le temps de les connaître<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ylloPytterP/status/673192146560765952">@ylloPytterP</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-5-L-homme-Pluriel-Bernard-Lahire"><span class="title">L’homme Pluriel</span>, par <span class="author">Bernard Lahire</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      En attendant le prochain livre de Lahire, "L'homme Pluriel" pour comprendre sa théorie de l'acteur<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/673197174772101120">@RaphCann</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-5-Les-formes-de-l-activit-politique-Antonin-Cohen-Bernard-Lacroix-et-Philippe-Riutort"><span class="title">Les formes de l’activité politique</span>, par <span class="author">Antonin Cohen, Bernard Lacroix, et Philippe Riutort</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Le week-end sera "corporate"...<br/>Samedi : Un ouvrage riche et (trop) peu sollicité<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/673198468182237184">@M_Iz_6</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-5-La-force-de-l-ordre-Anthropologie-de-la-police-des-quartiers-Didier-Fassin"><span class="title">La force de l'ordre. Anthropologie de la police des quartiers</span>, par <span class="author">Didier Fassin</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Adapté au &lt;climat> actuel.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/673217472980459520">@thefugitive_</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-5-Casseroles-amour-et-crises-ce-que-cuisiner-veut-dire-Jean-Claude-Kaufmann"><span class="title">Casseroles, amour et crises, ce que cuisiner veut dire</span>, par <span class="author">Jean-Claude Kaufmann</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      De la socio du couple avec J.C Kaufmann "Casseroles, amour et crises, ce que cuisiner veut dire"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/673225944082063360">@F_Bally</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-5-La-France-a-peur-Une-histoire-sociale-de-l-ins-curit-Laurent-Bonelli"><span class="title">La France a peur : Une histoire sociale de l’« insécurité »</span>, par <span class="author">Laurent Bonelli</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Utile lecture par ces temps de panique<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jacobo_Grajales/status/673262327651790848">@Jacobo_Grajales</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-6">6 Décembre</h2>
+<article class="book">
+  <h1 id="dec15-6-Ce-qui-nous-rend-m-chants-Sp-cimen-Radio-T-l-vision-Suisse"><span class="title">Ce qui nous rend méchants (Spécimen)</span>, par <span class="author">Radio Télévision Suisse</span>&nbsp;(<a href="https://www.youtube.com/watch?v=_2apUh0FlHk">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      (même si c'est plus de la psychologie sociale), ce documentaire sur la méchanceté, super intéressant<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/673278375507697664">@Pyrate_Jenni</a></span>
     </blockquote>
   
   </div>
