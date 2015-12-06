@@ -3252,3 +3252,14 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1 id="dec15-6-Sociologie-conomique-Mark-Granovetter"><span class="title">Sociologie Économique</span>, par <span class="author">Mark Granovetter</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Recueil d’articles dont celui sur les liens faibles. Indispensable.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/673438550432550912">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
