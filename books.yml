@@ -384,10 +384,14 @@
     link: http://www.seuil.com/livre-9782757826232.htm
   - title: La double absence
     author: Abdelmalek Sayad
-    source: https://twitter.com/PaillardSimon/status/671821166114312193
-    comment: >
-      Le livre qui m'a convaincu de faire de la socio "La double absence" de
-      Sayad. La base.
+    sources:
+      - link: https://twitter.com/PaillardSimon/status/671821166114312193
+        comment: >
+          Le livre qui m'a convaincu de faire de la socio "La double absence"
+          de Sayad. La base.
+      - link: https://twitter.com/balleverte/status/673542991252987904
+        comment: >
+          Mais bon, On ne lit jamais assez Sayad. Lecture de train de retour.
   - title: Basses Oeuvres. Une ethnologie du travail dans les égouts
     author: Agnès Jeanjean
     source: https://twitter.com/TaniaLaura03/status/671821492150263809
@@ -1792,3 +1796,58 @@
     source: https://twitter.com/Gerome_Truc/status/673473115192717312
     comment: >
       Le livre de socio que j'ai le plus lu et relu
+  - title: Le vote
+    author: Patrick Lehingue
+    source: https://twitter.com/Gerome_Truc/status/673475227150626816
+    comment: >
+      Pour tout comprendre à la sociologie des élections
+  - title: Une sociologie des "irrégularités sociales" est-elle possible ?
+    author: Pierre Mercklé
+    source: https://twitter.com/HybridaTabulat/status/673492852761063424
+    comment: >
+      Article de Pierre Merckle car il faut oser.
+  - title: Le destin au berceau
+    author: Camille Peugny
+    source: https://twitter.com/sociosauvage/status/673496510944948224
+    comment: >
+      On reste dans les livres très accessibles. C'est dans la collection <i>La
+      République des Idées</i>, qui a ses avantages et ses inconvénients, mais
+      c'est une très bonne introduction (avec des données récentes) sur la
+      persistance de la reproduction des inégalités.
+  - title: "Au-delà des apparences… Sur quelques problèmes de mesure des opinions"
+    author: Daniel Gaxie
+    source: https://twitter.com/sociosauvage/status/673498343897751552
+    comment: >
+      Comme on est un jour de sondage... euh de vote. Un article utile de Gaxie
+    link: http://www.persee.fr/doc/arss_0335-5322_1990_num_81_1_2929
+  - title: La responsabilité de l’écrivain
+    author: Gisèle Sapiro
+    source: https://twitter.com/Phangere/status/673505826347352066
+    comment: >
+      Lecture du moment.
+  - title: "Roms & riverains : une politique municipale de la race"
+    author: Éric Fassin, Carine Fouteau, Serge Guichard et Aurélie Windels
+    source: https://twitter.com/pa_prika_m/status/673515168438075393
+    comment: >
+      Tout est dans le titre.
+  - title: Le bal des célibataires
+    author: Pierre Bourdieu
+    source: https://twitter.com/ruggeroparis/status/673529217980735488
+    comment: >
+      Alors on danse ?
+  - title: "La globalisation. une sociologie"
+    author: Saskia Sassen
+    source: https://twitter.com/Uneheuredepeine/status/673542111342538752
+    comment: >
+      On a inventé le terme <i>mindblowing</i> pour ce bouquin. On peut le lire
+      comme un ouvrage intégré ou comme un ensemble d'idées dérangeantes et
+      novatrices séparées. Ça offre genre trois concepts à la demi page. Et ça
+      ouvre le champ pour plein d'enquêtes.
+  - title: Le normal et le pathologique
+    author: Georges Canguilhem
+    source: https://twitter.com/Silmalia/status/673547510963691521
+    comment: >
+      Bon je m'écarte une fois de plus de la socio… J’ai découvert ce livre
+      quand j'étais en 1ère année de médecine, c'est un de ceux qui m'a fait
+      m'intéresser aux sciences humaines. C'est une réflexion sur le sens de la
+      normalité en médecine et en biologie.

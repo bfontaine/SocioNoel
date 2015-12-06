@@ -750,10 +750,17 @@ Accès direct à un jour :<br/>
   <h1 id="dec15-1-La-double-absence-Abdelmalek-Sayad"><span class="title">La double absence</span>, par <span class="author">Abdelmalek Sayad</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Le livre qui m'a convaincu de faire de la socio "La double absence" de Sayad. La base.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/671821166114312193">@PaillardSimon</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Le livre qui m'a convaincu de faire de la socio "La double absence" de Sayad. La base.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/671821166114312193">@PaillardSimon</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Mais bon, On ne lit jamais assez Sayad. Lecture de train de retour.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/673542991252987904">@balleverte</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -3361,6 +3368,105 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Le livre de socio que j'ai le plus lu et relu<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/673473115192717312">@Gerome_Truc</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Le-vote-Patrick-Lehingue"><span class="title">Le vote</span>, par <span class="author">Patrick Lehingue</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour tout comprendre à la sociologie des élections<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/673475227150626816">@Gerome_Truc</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Une-sociologie-des-irr-gularit-s-sociales-est-elle-possible-Pierre-Merckl-"><span class="title">Une sociologie des "irrégularités sociales" est-elle possible ?</span>, par <span class="author">Pierre Mercklé</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Article de Pierre Merckle car il faut oser.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/HybridaTabulat/status/673492852761063424">@HybridaTabulat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Le-destin-au-berceau-Camille-Peugny"><span class="title">Le destin au berceau</span>, par <span class="author">Camille Peugny</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      On reste dans les livres très accessibles. C'est dans la collection <i>La République des Idées</i>, qui a ses avantages et ses inconvénients, mais c'est une très bonne introduction (avec des données récentes) sur la persistance de la reproduction des inégalités.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/673496510944948224">@sociosauvage</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Au-del-des-apparences-Sur-quelques-probl-mes-de-mesure-des-opinions-Daniel-Gaxie"><span class="title">Au-delà des apparences… Sur quelques problèmes de mesure des opinions</span>, par <span class="author">Daniel Gaxie</span>&nbsp;(<a href="http://www.persee.fr/doc/arss_0335-5322_1990_num_81_1_2929">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Comme on est un jour de sondage... euh de vote. Un article utile de Gaxie<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/673498343897751552">@sociosauvage</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-La-responsabilit-de-l-crivain-Gis-le-Sapiro"><span class="title">La responsabilité de l’écrivain</span>, par <span class="author">Gisèle Sapiro</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Lecture du moment.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/673505826347352066">@Phangere</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Roms-riverains-une-politique-municipale-de-la-race-ric-Fassin-Carine-Fouteau-Serge-Guichard-et-Aur-lie-Windels"><span class="title">Roms & riverains : une politique municipale de la race</span>, par <span class="author">Éric Fassin, Carine Fouteau, Serge Guichard et Aurélie Windels</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Tout est dans le titre.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/673515168438075393">@pa_prika_m</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Le-bal-des-c-libataires-Pierre-Bourdieu"><span class="title">Le bal des célibataires</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Alors on danse ?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/673529217980735488">@ruggeroparis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-La-globalisation-une-sociologie-Saskia-Sassen"><span class="title">La globalisation. une sociologie</span>, par <span class="author">Saskia Sassen</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      On a inventé le terme <i>mindblowing</i> pour ce bouquin. On peut le lire comme un ouvrage intégré ou comme un ensemble d'idées dérangeantes et novatrices séparées. Ça offre genre trois concepts à la demi page. Et ça ouvre le champ pour plein d'enquêtes.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/673542111342538752">@Uneheuredepeine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Le-normal-et-le-pathologique-Georges-Canguilhem"><span class="title">Le normal et le pathologique</span>, par <span class="author">Georges Canguilhem</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Bon je m'écarte une fois de plus de la socio… J’ai découvert ce livre quand j'étais en 1ère année de médecine, c'est un de ceux qui m'a fait m'intéresser aux sciences humaines. C'est une réflexion sur le sens de la normalité en médecine et en biologie.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/673547510963691521">@Silmalia</a></span>
     </blockquote>
   
   </div>
