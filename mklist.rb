@@ -20,13 +20,13 @@ class Book
   <div class="sources">
   <% if source %>
     <blockquote class="comment">
-      <%= comment.strip.gsub('<', '&lt;').gsub("\n", "<br/>") %><br/>
+      <%= comment.strip.gsub("\n", "<br/>") %><br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="<%= source %>">@<%= source.split("/")[3] %></a></span>
     </blockquote>
   <% elsif sources %>
     <% for s in sources %>
       <blockquote class="comment">
-        <%= s["comment"].strip.gsub('<', '&lt;').gsub("\n", "<br/>") %><br/>
+        <%= s["comment"].strip.gsub("\n", "<br/>") %><br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="<%= s["link"] %>">@<%= s["link"].split("/")[3] %></a></span>
       </blockquote>
     <% end %>

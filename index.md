@@ -164,7 +164,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      &lt; Le pardon est le recours ultime > Vladimir Jankélévitch<br/>
+      < Le pardon est le recours ultime > Vladimir Jankélévitch<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AnthCasanova2/status/671626343419801600">@AnthCasanova2</a></span>
     </blockquote>
   
@@ -250,7 +250,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Excellente vulgarisation des méthodes d'enquête. &lt;a href="https://twitter.com/thefugitive_/status/660802831918587904">Déroulez là&lt;/a><br/>
+        Excellente vulgarisation des méthodes d'enquête. <a href="https://twitter.com/thefugitive_/status/660802831918587904">Déroulez là</a><br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/671826770610552832">@thefugitive_</a></span>
       </blockquote>
     
@@ -667,7 +667,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        J'étais comme &lt;a href="https://pbs.twimg.com/media/CVKaA7lXAAAY0fq.jpg">ça&lt;/a> en lisant<br/>
+        J'étais comme <a href="https://pbs.twimg.com/media/CVKaA7lXAAAY0fq.jpg">ça</a> en lisant<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/merriousftw/status/671768636533645313">@merriousftw</a></span>
       </blockquote>
     
@@ -1106,7 +1106,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Dans la lignée de mon &lt;a href="https://twitter.com/NuteluCaine/status/671967708297240576">#lrt&lt;/a><br/>
+      Dans la lignée de mon <a href="https://twitter.com/NuteluCaine/status/671967708297240576">#lrt</a><br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/671995218040913920">@dan_maku</a></span>
     </blockquote>
   
@@ -1117,7 +1117,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Allez, #SocioNoel jour 2 : "A chacun son Bambara" de Jean Bazin que vous trouverez dans &lt;a href="http://www.editionsladecouverte.fr/catalogue/index-Au_coeur_de_l_ethnie-9782707146229.html">ce bouquin&lt;/a><br/>
+      Allez, #SocioNoel jour 2 : "A chacun son Bambara" de Jean Bazin que vous trouverez dans <a href="http://www.editionsladecouverte.fr/catalogue/index-Au_coeur_de_l_ethnie-9782707146229.html">ce bouquin</a><br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/672001961957400576">@Uneheuredepeine</a></span>
     </blockquote>
   
@@ -1777,7 +1777,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      &lt;a href="https://twitter.com/SamuelHayat/status/672344244871405568">LT&lt;/a> A compléter avec "Les trois types purs de la domination légitime", suivi d'intéressantes analyses<br/>
+      <a href="https://twitter.com/SamuelHayat/status/672344244871405568">LT</a> A compléter avec "Les trois types purs de la domination légitime", suivi d'intéressantes analyses<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/672350485911871488">@SamuelHayat</a></span>
     </blockquote>
   
@@ -2064,7 +2064,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Pour #SocioNoel je voudrais decouvrir des femmes écrivains. Simone Weil, &lt; L’enracinement > . Des autres ?<br/>
+      Pour #SocioNoel je voudrais decouvrir des femmes écrivains. Simone Weil, < L’enracinement > . Des autres ?<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AnthCasanova2/status/672365017778405376">@AnthCasanova2</a></span>
     </blockquote>
   
@@ -2347,7 +2347,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Sans doute le meilleur article d'introduction à Goffman. Partant de l'analyse des arnaques, il y construit un cadre général pour penser le travail de changement d'identité. Ou comment on nous conduit à nous calmer et à accepter les coups/coûts symboliques. Goffman, c'est le mec que tu lis en te disant "Ouais, c'est évident en fait", et puis un jour ça te revient en tête et PAF EPIPHANIE. Cet article nous rappelle que le "blaming the victim" n'est pas qu'une stratégie utile : c'est un métier. Comme pour d'autres, j'en ai parlé dans un billet, &lt;a href="http://uneheuredepeine.blogspot.fr/2011/10/portrait-de-la-crise-en-arnaque.html">ici, à propos de la crise financière&lt;/a><br/>
+      Sans doute le meilleur article d'introduction à Goffman. Partant de l'analyse des arnaques, il y construit un cadre général pour penser le travail de changement d'identité. Ou comment on nous conduit à nous calmer et à accepter les coups/coûts symboliques. Goffman, c'est le mec que tu lis en te disant "Ouais, c'est évident en fait", et puis un jour ça te revient en tête et PAF EPIPHANIE. Cet article nous rappelle que le "blaming the victim" n'est pas qu'une stratégie utile : c'est un métier. Comme pour d'autres, j'en ai parlé dans un billet, <a href="http://uneheuredepeine.blogspot.fr/2011/10/portrait-de-la-crise-en-arnaque.html">ici, à propos de la crise financière</a><br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/672683582918418433">@Uneheuredepeine</a></span>
     </blockquote>
   
@@ -3029,7 +3029,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Voir aussi l'&lt;a href="http://www.humanite.fr/vanessa-pinto-les-jobs-etudiants-un-apprentissage-de-la-precarite-555047">interview de l'auteure Vanessa Pinto dans l'Huma sur le livre&lt;/a> : "Les «petits boulots» [...] sont aussi le lieu où les jeunes issus des classes populaires intériorisent leur place dans l’échelle sociale". C'est quelque chose que je remarque beaucoup chez moi aussi : plus je bosse à côté moins je me sens à ma place à la fac<br/>
+      Voir aussi l'<a href="http://www.humanite.fr/vanessa-pinto-les-jobs-etudiants-un-apprentissage-de-la-precarite-555047">interview de l'auteure Vanessa Pinto dans l'Huma sur le livre</a> : "Les «petits boulots» [...] sont aussi le lieu où les jeunes issus des classes populaires intériorisent leur place dans l’échelle sociale". C'est quelque chose que je remarque beaucoup chez moi aussi : plus je bosse à côté moins je me sens à ma place à la fac<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/673176550049783808">@Silmalia</a></span>
     </blockquote>
   
