@@ -3869,3 +3869,124 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1 id="dec15-7-Faire-des-sciences-sociales-Olivier-Remaud-Jean-Fr-d-ric-Schaub-et-Isabelle-Thireau"><span class="title">Faire des sciences sociales</span>, dirigé par <span class="author">Olivier Remaud, Jean-Frédéric Schaub et Isabelle Thireau</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "la sociologie comparée n'est pas une branche particulière de la sociologie; c'est la sociologie même…"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/673916505684353024">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Le-sacre-de-l-amateur-Patrice-Flichy"><span class="title">Le sacre de l'amateur</span>, par <span class="author">Patrice Flichy</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      P. Flichy sur la montée en puissance des amateurs dans le Web participatif.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/673920735363080192">@F_Bally</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Les-anciennes-communaut-s-villageoises-roumaines-Henri-Stahl"><span class="title">Les anciennes communautés villageoises roumaines</span>, par <span class="author">Henri Stahl</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Revisite magistrale du problème du deuxième servage. Ce livre peu inconnu est incroyable, notamment méthodologiquement. Une histoire longue à partir d'une ethnographie du présent.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/673938345349783552">@NuteluCaine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Discriminations-ethniques-Les-politiques-du-logement-social-en-France-et-au-Royaume-Uni-Val-rie-Sala-Pala"><span class="title">Discriminations ethniques. Les politiques du logement social en France et au Royaume-Uni</span>, par <span class="author">Valérie Sala Pala</span>&nbsp;(<a href="https://geocarrefour.revues.org/9065">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un texte de Valérie Sala Pala sur les politiques de logements social en FR et UK<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ostpolitik/status/673948276895457280">@Ostpolitik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Exil-des-forces-vives-Denis-Colombi"><span class="title">Exil des forces vives</span>, par <span class="author">Denis Colombi</span>&nbsp;(<a href="http://www.dailymotion.com/video/x209uqi_m-denis-colombi-doctorant-au-centre-de-sociologie-des-organisations-mardi-24-juin-2014_news">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Mon #SocioNoel du jour c'est @Uneheuredepeine qui parle de ses recherches sur les expatriés<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/673958740782133249">@RaphCann</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Langage-et-pouvoir-symbolique-Pierre-Bourdieu"><span class="title">Langage et pouvoir symbolique</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Les articles de Bourdieu sur la représentation, rassemblés dans Langage et pouvoir symbolique.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/673961534100480000">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-La-sociologie-conomique-Philippe-Steiner"><span class="title">La sociologie économique</span>, par <span class="author">Philippe Steiner</span>&nbsp;(<a href="https://lectures.revues.org/6915">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Si vous suivez #SocioNoel mais que vous voulez zieuter sur de l'éco il y a Steiner<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Morifen333/status/673962643460251649">@Morifen333</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-La-Machine-influencer-Brooke-Gladstone"><span class="title">La Machine à influencer</span>, par <span class="author">Brooke Gladstone</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Le prochain qui se la ramène sur les médias et le FN, je lui balance la Machine à influencer de Brooke Gladstone dans la gueule<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/johalbrecht/status/673965259774926851">@johalbrecht</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Qu-est-ce-que-la-sociologie-Norbert-Elias"><span class="title">Qu’est-ce que la sociologie ?</span>, par <span class="author">Norbert Elias</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      M’avait marqué, pour sa critique des fausses oppositions<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jbiaudet/status/673968179153117184">@jbiaudet</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Documentaire-sur-l-ethnologue-Jeanne-Favret-Saada-Aur-le-Dupuis"><span class="title">Documentaire sur l'ethnologue Jeanne Favret-Saada</span>, réalisé par <span class="author">Aurèle Dupuis</span>&nbsp;(<a href="https://vimeo.com/63459566">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Travaux sur la sorcellerie en France (1969-1972)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/673970947158843393">@thefugitive_</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Un-si-cle-d-antif-minisme-Christine-Bard"><span class="title">Un siècle d'antiféminisme</span>, dirigé par <span class="author">Christine Bard</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Plutôt histoire ce soir, "Un siècle d'antiféminisme", mon livre de chevet qd je faisais mon mémoire de M1<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/673981485867732997">@pa_prika_m</a></span>
+    </blockquote>
+  
+  </div>
+</article>
