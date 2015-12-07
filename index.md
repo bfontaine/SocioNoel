@@ -3749,11 +3749,11 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-7-Les-martyrs-jihadistes-veulent-ils-forc-ment-mourir-Am-lie-Blom"><span class="title">Les « martyrs » jihadistes veulent-ils forcément mourir ?</span>, par <span class="author">Amélie Blom</span></h1>
+  <h1 id="dec15-7-Les-martyrs-jihadistes-veulent-ils-forc-ment-mourir-Am-lie-Blom"><span class="title">Les « martyrs » jihadistes veulent-ils forcément mourir ?</span>, par <span class="author">Amélie Blom</span>&nbsp;(<a href="http://www.cairn.info/resume.php?ID_ARTICLE=RFSP_615_0867">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
-      http://www.cairn.info/resume.php?ID_ARTICLE=RFSP_615_0867<br/>
+      #SocioNoel d’actualité avec « Les “martyrs” jihadistes veulent-ils forcément mourir ? » d’Amélie Blom<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/673843606113906688">@bfontn</a></span>
     </blockquote>
   
@@ -3984,7 +3984,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Plutôt histoire ce soir, "Un siècle d'antiféminisme", mon livre de chevet qd je faisais mon mémoire de M1<br/>
+      Plutôt histoire ce soir, "Un siècle d'antiféminisme", mon livre de chevet qd je faisais mon mémoire de M1. Mémoire qui portait sur les représentations sociales du féminisme chez des 18-25 ans. Le bon vieux temps &lt;3<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/673981485867732997">@pa_prika_m</a></span>
     </blockquote>
   
