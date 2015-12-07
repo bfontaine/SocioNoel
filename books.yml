@@ -946,7 +946,8 @@
       d'intéressantes analyses
     link: http://www.cairn.info/revue-sociologie-2014-3-page-291.htm
   - title: L'ordinaire de la guerre
-    author: François Buton, André Loez, Nicolas Mariot et Philippe Olivera (coord.)
+    author: François Buton, André Loez, Nicolas Mariot et Philippe Olivera
+    coordinated: true
     source: https://twitter.com/mel_picard/status/672351458445103104
     comment: >
       Pour #SocioNoel un peu de socio-histoire et de controverse
@@ -1947,6 +1948,7 @@
       Parce que j'ai la nostalgie des belles cathédrales
   - title: Quand les banlieues brûlent… Retour sur les émeutes de novembre 2005
     author: Laurent Mucchielli et Véronique Le Goaziou
+    directed: true
     source: https://twitter.com/Lil_RoXaNe/status/673794362657144832
     comment: >
       Encore de la socio urbaine

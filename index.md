@@ -1811,7 +1811,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-3-L-ordinaire-de-la-guerre-Fran-ois-Buton-Andr-Loez-Nicolas-Mariot-et-Philippe-Olivera-coord-"><span class="title">L'ordinaire de la guerre</span>, par <span class="author">François Buton, André Loez, Nicolas Mariot et Philippe Olivera (coord.)</span></h1>
+  <h1 id="dec15-3-L-ordinaire-de-la-guerre-Fran-ois-Buton-Andr-Loez-Nicolas-Mariot-et-Philippe-Olivera"><span class="title">L'ordinaire de la guerre</span>, coordonné par <span class="author">François Buton, André Loez, Nicolas Mariot et Philippe Olivera</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -3649,7 +3649,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-7-Quand-les-banlieues-br-lent-Retour-sur-les-meutes-de-novembre-2005-Laurent-Mucchielli-et-V-ronique-Le-Goaziou"><span class="title">Quand les banlieues brûlent… Retour sur les émeutes de novembre 2005</span>, par <span class="author">Laurent Mucchielli et Véronique Le Goaziou</span></h1>
+  <h1 id="dec15-7-Quand-les-banlieues-br-lent-Retour-sur-les-meutes-de-novembre-2005-Laurent-Mucchielli-et-V-ronique-Le-Goaziou"><span class="title">Quand les banlieues brûlent… Retour sur les émeutes de novembre 2005</span>, dirigé par <span class="author">Laurent Mucchielli et Véronique Le Goaziou</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
