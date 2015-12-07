@@ -78,7 +78,15 @@ class Book
     @attrs["author_html"] = if @attrs["author"] == "collectif"
                               " (collectif)"
                             else
-                              %(, par <span class="author">#{@attrs["author"]}</span>)
+                              prefix = if @attrs.fetch("directed", false)
+                                         "dirigé par"
+                                       elsif @attrs.fetch("coordinated", false)
+                                         "coordonné par"
+                                       else
+                                         "par"
+                                       end
+
+                              %(, #{prefix} <span class="author">#{@attrs["author"]}</span>)
                             end
 
     @@renderer.result to_binding
