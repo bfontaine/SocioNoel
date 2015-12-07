@@ -111,7 +111,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-1-La-reproduction-Pierre-Bourdieu-et-Jean-Clause-Passeron"><span class="title">La reproduction</span>, par <span class="author">Pierre Bourdieu et Jean-Clause Passeron</span></h1>
+  <h1 id="dec15-1-La-reproduction-Pierre-Bourdieu-et-Jean-Claude-Passeron"><span class="title">La reproduction</span>, par <span class="author">Pierre Bourdieu et Jean-Claude Passeron</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1357,6 +1357,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/672875118666870784">@Gerome_Truc</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Déjà passé, mais je le remet parce qu'il est vraiment bien ;)<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/673865418218545152">@sociosauvage</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2453,10 +2458,17 @@ Accès direct à un jour :<br/>
   <h1 id="dec15-4-Le-travail-pornographique-Mathieu-Trachman"><span class="title">Le travail pornographique</span>, par <span class="author">Mathieu Trachman</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Le_travail_pornographique-9782707175441.html">lien</a>)</h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Place à la nouvelle génération avec Mathieu Trachman et son ouvrage sur le travail pornographique<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/672697326524358656">@mquijoux</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Place à la nouvelle génération avec Mathieu Trachman et son ouvrage sur le travail pornographique<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/672697326524358656">@mquijoux</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Vous ai-je déjà parlé de ma grande admiration pour Mathieu Trachman ?<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Politriste/status/673855861404606465">@Politriste</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -3699,6 +3711,160 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Un livre étonnant et sûrement pleins de défauts mais ça vaut le coup !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/673808219505041408">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Le-travail-b-n-vole-Engagement-citoyen-ou-travail-gratuit-Maud-Simonet"><span class="title">Le travail bénévole. Engagement citoyen ou travail gratuit ?</span>, par <span class="author">Maud Simonet</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un peu de #socio du travail appliquée au monde associatif qui devrait intéresser le monde sportif…<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/673820109031538689">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Priming-the-Vote-Campaign-Effects-in-a-U-S-Senate-Election-James-N-Druckman"><span class="title">Priming the Vote: Campaign Effects in a U.S. Senate Election</span>, par <span class="author">James N. Druckman</span>&nbsp;(<a href="http://faculty.wcas.northwestern.edu/~jnd260/pub/Druckman%20PoliPsych%202004.pdf">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      De la science po en ce lendemain d'élections : "Priming the vote", de l'influence (ou non) des campagnes<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/673821311714664448">@F__Casta</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Les-pi-ges-de-l-identit-culturelle-R-gis-Meyran-et-Val-ry-Rasplus"><span class="title">Les pièges de l’identité culturelle</span>, par <span class="author">Régis Meyran et Valéry Rasplus</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Spécial #FN : Comment le culturalisme est devenu le nouveau #racisme institutionnel et médiatique.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/673840273131094017">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Les-martyrs-jihadistes-veulent-ils-forc-ment-mourir-Am-lie-Blom"><span class="title">Les « martyrs » jihadistes veulent-ils forcément mourir ?</span>, par <span class="author">Amélie Blom</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      http://www.cairn.info/resume.php?ID_ARTICLE=RFSP_615_0867<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/673843606113906688">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-N-s-sous-la-m-me-toile-IAM"><span class="title">Nés sous la même étoile</span>, par <span class="author">IAM</span>&nbsp;(<a href="https://www.youtube.com/watch?v=rn_UjJN3YQU">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Parce que parfois, la sociologie trouve des chemins imprévus<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ianonim/status/673844511215378432">@Ianonim</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-L-empire-du-traumatisme-Enqu-te-sur-la-condition-de-victime-Didier-Fassin-et-Richard-Rechtman"><span class="title">L’empire du traumatisme. Enquête sur la condition de victime</span>, par <span class="author">Didier Fassin et Richard Rechtman</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un livre précieux par les temps qui courent.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/673854556539891712">@Gerome_Truc</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Immigration-postcoloniale-et-m-moire-Abdellali-Hajjat"><span class="title">Immigration postcoloniale et mémoire</span>, par <span class="author">Abdellali Hajjat</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      #SocioNoel<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ThisisKiyemis/status/673869729182957568">@ThisisKiyemis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-La-politisation-Jacques-Lagroyes"><span class="title">La politisation</span>, par <span class="author">Jacques Lagroyes</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Et on éteint France info<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ludemain/status/673870407540285440">@ludemain</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7--tudiants-en-fast-food-les-usages-sociaux-d-un-petit-boulot-Vanessa-Pinto-Damien-Cartron-et-Guillaume-Burnod"><span class="title">Étudiants en fast-food : les usages sociaux d’un « petit boulot »</span>, par <span class="author">Vanessa Pinto, Damien Cartron, et Guillaume Burnod</span>&nbsp;(<a href="http://travail-emploi.gouv.fr/publications/Revue_Travail-et-Emploi/pdf/83_1229.pdf">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Encore un peu de sociologie du travail avec cet excellent texte sur le travail en fast-food<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/673872944469274624">@Uneheuredepeine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Manet-une-r-volution-symbolique-Pierre-Bourdieu"><span class="title">Manet : une révolution symbolique</span>, par <span class="author">Pierre Bourdieu</span>&nbsp;(<a href="https://www.monde-diplomatique.fr/2013/11/BOURDIEU/49770">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un très beau cadeau à offrir.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/younesamrani2/status/673886158380769280">@younesamrani2</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Une-r-volution-symbolique-l-iconoclasme-huguenot-et-la-reconstruction-catholique-Olivier-Christin"><span class="title">Une révolution symbolique : l’iconoclasme huguenot et la reconstruction catholique</span>, par <span class="author">Olivier Christin</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Heures délicieuses et exotiques passées autrefois dans ce livre sur l'iconoclasme protestant. @EdeMinuit<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/presdl/status/673889468286398464">@presdl</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-S-informer-l-re-num-rique-collectif"><span class="title">S’informer à l'ère numérique</span> (collectif)&nbsp;(<a href="http://ecx.images-amazon.com/images/I/4169faH2hSL._SX333_BO1,204,203,200_.jpg">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      S'informer à l'ère numérique, ouvrage collectif. Une sociologie des pratiques d'information.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/673891065573806081">@Phangere</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Id-ologie-et-appareils-id-ologiques-d-tat-Louis-Arthusser"><span class="title">Idéologie et appareils idéologiques d’État</span>, par <span class="author">Louis Arthusser</span>&nbsp;(<a href="http://classiques.uqac.ca/contemporains/althusser_louis/ideologie_et_AIE/ideologie_et_AIE_texte.html">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Libre accès en ligne et relativement court<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jebabille/status/673895417977962496">@jebabille</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Un-mode-d-engagement-singulier-au-Front-national-La-trajectoire-scolaire-effective-d-un-fils-de-mineur-Ivan-Bruneau"><span class="title">Un mode d'engagement singulier au Front national. La trajectoire scolaire effective d'un fils de mineur</span>, par <span class="author">Ivan Bruneau</span>&nbsp;(<a href="http://www.persee.fr/doc/polix_0295-2319_2002_num_15_57_1214">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      I. Bruneau - Un mode d'engagement singulier au Front national.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/673896844418752513">@Silmalia</a></span>
     </blockquote>
   
   </div>
