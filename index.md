@@ -2667,12 +2667,12 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-4-Les-mondes-de-l-art-Howard-Becker"><span class="title">Les mondes de l'art</span>, par <span class="author">Howard Becker</span></h1>
+  <h1 id="dec15-4-Les-mondes-de-l-art-Howard-Becker"><span class="title">Les mondes de l'art</span>, par <span class="author">Howard Becker</span>&nbsp;(<a href="http://www.monoskop.org/images/1/17/Becker_Howard_S_Art_Worlds.pdf">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
       Petit cadeau avant l'heure, "Les mondes de l'art" en anglais<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="http://www.monoskop.org/images/1/17/Becker_Howard_S_Art_Worlds.pdf">@images</a></span>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelChagnard/status/672777027607490561">@SamuelChagnard</a></span>
     </blockquote>
   
   </div>
