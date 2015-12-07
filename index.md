@@ -408,7 +408,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-1-The-Saami-Languages-the-present-and-the-future-Magga-Ole-Henrik-Skutnabb-Kangas-Tove"><span class="title">The Saami Languages: the present and the future</span>, par <span class="author">Magga, Ole Henrik; Skutnabb-Kangas, Tove</span>&nbsp;(<a href="https://www.culturalsurvival.org/publications/cultural-survival-quarterly/saami-languages-present-and-future">lien</a>)</h1>
+  <h1 id="dec15-1-The-Saami-Languages-the-present-and-the-future-Ole-Henrik-Magga-et-Tove-Skutnabb-Kangas"><span class="title">The Saami Languages: the present and the future</span>, par <span class="author">Ole Henrik Magga et Tove Skutnabb-Kangas</span>&nbsp;(<a href="https://www.culturalsurvival.org/publications/cultural-survival-quarterly/saami-languages-present-and-future">lien</a>)</h1>
   <div class="sources">
   
     <blockquote class="comment">
