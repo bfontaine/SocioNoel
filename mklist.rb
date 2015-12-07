@@ -16,7 +16,7 @@ end
 class Book
   TEMPLATE = <<-EOS
 <article class="book">
-  <h1<% if anchor %> id="<%= anchor %>"<% end %>><span class="title"><%= title.strip %></span>, par <span class="author"><%= author.strip %></span><% if link %>&nbsp;(<a href="<%= link %>">lien</a>)<% end %></h1>
+  <h1<% if anchor %> id="<%= anchor %>"<% end %>><span class="title"><%= title %></span><%= author_html %><% if link %>&nbsp;(<a href="<%= link %>">lien</a>)<% end %></h1>
   <div class="sources">
   <% if source %>
     <blockquote class="comment">
@@ -44,8 +44,8 @@ class Book
 
     validate!
 
-    id = "#{@attrs["title"]} #{@attrs["author"]}".gsub(/[^A-Za-z0-9]+/, "-")
-    @attrs["anchor"] = "#{day_anchor day}-#{id}"
+    @attrs["title"].strip!
+    @attrs["author"].strip!
   end
 
   def validate!
@@ -73,6 +73,14 @@ class Book
   end
 
   def to_html
+    id = "#{@attrs["title"]} #{@attrs["author"]}".gsub(/[^A-Za-z0-9]+/, "-")
+    @attrs["anchor"] = "#{day_anchor @day}-#{id}"
+    @attrs["author_html"] = if @attrs["author"] == "collectif"
+                              " (collectif)"
+                            else
+                              %(, par <span class="author">#{@attrs["author"]}</span>)
+                            end
+
     @@renderer.result to_binding
   end
 
