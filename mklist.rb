@@ -78,10 +78,12 @@ class Book
     @attrs["author_html"] = if @attrs["author"] == "collectif"
                               " (collectif)"
                             else
-                              prefix = if @attrs.fetch("directed", false)
+                              prefix = if @attrs["directed"]
                                          "dirigé par"
-                                       elsif @attrs.fetch("coordinated", false)
+                                       elsif @attrs["coordinated"]
                                          "coordonné par"
+                                       elsif @attrs["type"] == "movie"
+                                         "réalisé par"
                                        else
                                          "par"
                                        end
