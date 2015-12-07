@@ -39,6 +39,9 @@
       - link: https://twitter.com/Ianonim/status/671724354707828737
         comment: >
           Une lecture qui t'oblige à prendre du recul sur la catégorisation. Et t'apprends à fumer du shit
+      - link: https://twitter.com/perfounet/status/673795623481712640
+        comment: >
+          Allez, moi aussi je m'y mets. À lire en fumant un ptit joint.
   - title: La reproduction
     author: Pierre Bourdieu et Jean-Clause Passeron
     source: https://twitter.com/SamuelHayat/status/671671019267035136
@@ -802,14 +805,22 @@
       Attention, à consommer à dose modérée
   - title: Les rites d'interaction
     author: Erving Goffman
-    source: https://twitter.com/Dolores_Charles/status/672087610253266948
-    comment: "Les rites d'interaction de Goffman (!)"
+    sources:
+      - link: https://twitter.com/Dolores_Charles/status/672087610253266948
+        comment: "Les rites d'interaction de Goffman (!)"
+      - link: https://twitter.com/Comtesse_Leia/status/673795172170338304
+        comment: Les rites d'interaction, Goffman
   - title: La vie au guichet
     author: Vincent Dubois
-    source: https://twitter.com/ruggeroparis/status/672089630423011328
-    comment: >
-      C'est parti pour le #day2 de #SocioNoel avec une récente réédition.
-      #streetlevelgifts #noelauguichet
+    sources:
+      - link: https://twitter.com/ruggeroparis/status/672089630423011328
+        comment: >
+          C'est parti pour le #day2 de #SocioNoel avec une récente réédition.
+          #streetlevelgifts #noelauguichet
+      - link: https://twitter.com/F_Bally/status/673579284674555904
+        comment: >
+          Sur les relations administratives et rôles bureaucratiques.
+    link: https://lectures.revues.org/1112
   - title: Petit traité des émotions, sentiments et passions politiques
     author: Philippe Braud
     source: https://twitter.com/ruggeroparis/status/672091413698519040
@@ -955,10 +966,14 @@
       principale condition d'accès au marché du travail.
   - title: "Time Matters: On Theory and Method"
     author: Andrew Abbott
-    source: https://twitter.com/ArSaintMartin/status/672334830969991168
-    comment: >
-      Andrew Abbott, "Time Matters: On Theory and Method", 2001, ft. le
-      stimulant chap. "Things of Boundaries".
+    sources:
+      - link: https://twitter.com/ArSaintMartin/status/672334830969991168
+        comment: >
+          Andrew Abbott, "Time Matters: On Theory and Method", 2001, ft. le
+          stimulant chap. "Things of Boundaries".
+      - link: https://twitter.com/Comtesse_Leia/status/673798702767689728
+        comment: >
+          Time matters. On Theory and method - Abbott
   - title: Behavior in public places
     author: Sylvain Bourmeau et Daniel Cefaï
     source: https://twitter.com/CobbleAndFrame/status/672334742151430145
@@ -1299,9 +1314,13 @@
       Fondations philanthropique et capitalisme
   - title: Le « Populisme du FN, » un dangereux contresens
     author: Annie Collovald
-    source: https://twitter.com/ruggeroparis/status/672698650854846464
-    comment: >
-      Annie Collovald et son analyse du "populisme" #FN
+    sources:
+      - link: https://twitter.com/ruggeroparis/status/672698650854846464
+        comment: >
+          Annie Collovald et son analyse du "populisme" #FN
+      - link: https://twitter.com/Jo14Hernandez/status/673799641494904832
+        comment: >
+          Pour mieux penser la situation
   - title: Les étapes de la pensée sociologique
     author: Raymond Aron
     source: https://twitter.com/SamuelHayat/status/672703374299672576
@@ -1525,6 +1544,9 @@
         comment: "Un peu long mais très documenté."
       - link: https://twitter.com/HybridaTabulat/status/673183608757186560
         comment: Car nous devons commencer par le commencement.
+      - link: https://twitter.com/TookyTsuki/status/673790068197335040
+        comment: J'ai loupé quelques #SocioNoel donc je rattrape un peu
+    link: http://classiques.uqac.ca/classiques/Durkheim_emile/suicide/suicide.html
   - title: "Le cens caché : Inégalités culturelles et ségrégation politique"
     author: Daniel Gaxie
     sources:
@@ -1535,6 +1557,10 @@
       - link: https://twitter.com/Jo14Hernandez/status/673421662071758848
         comment: >
           La sociologie politique comme on l'aime.
+      - link: https://twitter.com/ludemain/status/673611150370717696
+        comment: >
+          Gaxie, Le cens caché #Fanculo #Trishtezza
+    link: http://www.persee.fr/doc/reso_0751-7971_1987_num_5_22_1237
   - title: Le raisonnement sociologique
     author: Jean-Claude Passeron
     sources:
@@ -1706,6 +1732,12 @@
     comment: >
       La tradition sociologique de Chicago, par JM Chapoulie
     link: http://www.seuil.com/livre-9782020419208.htm
+  - title: Mémoire et Rapport sur Victor de l'Aveyron
+    author: Jean Itard
+    source: https://twitter.com/TookyTsuki/status/673794084088193024
+    comment: >
+      Mémoire et Rapport sur Victor de l'Aveyron - Jean Itard
+    link: http://classiques.uqac.ca/classiques/itard_jean/victor_de_l_Aveyron/victor.html
 6:
   - title: "Ce qui nous rend méchants (Spécimen)"
     author: Radio Télévision Suisse
@@ -1851,3 +1883,91 @@
       quand j'étais en 1ère année de médecine, c'est un de ceux qui m'a fait
       m'intéresser aux sciences humaines. C'est une réflexion sur le sens de la
       normalité en médecine et en biologie.
+  - title: La société contre l’État
+    author: Pierre Clastres
+    source: https://twitter.com/marvinrouge/status/673559694535995392
+    comment: >
+      Les indiens ne votent pas ! Clastres, La société contre l'Etat (qui a
+      déjà du être cité 100 fois...)
+  - title: Penser nomade
+    author: Mike Singleton
+    source: https://twitter.com/joliraton/status/673573602596364289
+    comment: >
+      Sur les nomades donc, et la pensée nomade. Et sur les Rom, les Wakanongo
+      et les autres.
+  - title: Du côté des petites filles
+    author: Elena Gianini Belotti
+    source: https://twitter.com/thefugitive_/status/673579573704065024
+    comment: >
+      Sur les conditionnements sociaux & la petite enfance.
+  - title: "La Gratuité, à quel prix ? Circulation et échange de biens culturels sur internet"
+    author: Joëlle Farchy, Cécile Méadel et Guillaume Sire
+    source: https://twitter.com/gcabanac/status/673626143690506240
+    comment: >
+      "La Gratuité, à quel prix? Circulation et échange de biens culturels sur
+      internet" 2015 @pressesdesmines
+  - title: Coercion, Capital, and European States, AD 990-1990
+    author: Charles Tilly
+    source: https://twitter.com/Jacobo_Grajales/status/673568684913377280
+    comment: >
+      Lorsque l'Etat fait la guerre et la guerre fait l'Etat
+  - title: "Homoparentalités : approches scientifiques et politiques"
+    author: Anne Cadoret, Martine Gross, Caroline Mécary, et Bruno Perreau
+    source: https://twitter.com/TookyTsuki/status/673800151430012928
+    comment: >
+      Homoparentalités : approches scientifiques et politiques - Cadoret,
+      Gross, Mecary & Perreau
+7:
+  - title: La construction du talent
+    author: Manuel Schotté
+    source: https://twitter.com/lestrelin/status/673779444599902208
+    comment: >
+      Quand la sociologie démonte l'idéologie du don naturel
+  - title: L’action au pluriel, Sociologie des régimes d'engagement
+    author: Laurent Thévenot
+    source: https://twitter.com/CobbleAndFrame/status/673779852152020992
+    comment: >
+      Laurent Thévenot, "L'action au pluriel, Sociologie des régimes
+      d'engagement"
+  - title: La France invisible
+    author: collectif
+    source: https://twitter.com/JohnGoodMalik/status/673790822089891840
+    comment: >
+      Quand journalistes et sociologues s'associent pour décrire la souffrance, c'est pas mal
+  - title: Les formes élémentaires de la pauvreté
+    author: Serge Paugam
+    source: https://twitter.com/Laboratoire_CMH/status/673791843700776960
+    comment: >
+      @serge_paugam - Les formes élémentaires de la pauvreté
+    link: http://www.puf.com/Autres_Collections:Les_formes_%C3%A9l%C3%A9mentaires_de_la_pauvret%C3%A9
+  - title: Théorie de l’agir communicationnel
+    author: Jürgen Habermas
+    source: https://twitter.com/ArSaintMartin/status/673792738161238018
+    comment: >
+      Parce que j'ai la nostalgie des belles cathédrales
+  - title: Quand les banlieues brûlent… Retour sur les émeutes de novembre 2005
+    author: Laurent Mucchielli et Véronique Le Goaziou
+    source: https://twitter.com/Lil_RoXaNe/status/673794362657144832
+    comment: >
+      Encore de la socio urbaine
+  - title: Le métier de sociologue
+    author: Pierre Bourdieu, Jean-CLaude Chamboredon, et Jean-Claude Passeron
+    source: https://twitter.com/Comtesse_Leia/status/673799153722327041
+    comment: >
+      Pour se remettre au boulot
+  - title: « Race » et colonialité du pouvoir
+    author: Aníbal Quijano
+    source: https://twitter.com/LionnelleMakaya/status/673799319162523648
+    comment: >
+      today c’est #QUIJANOANIBAL et la #colonialitédupouvoir
+    link: http://www.cairn.info/revue-mouvements-2007-3-page-111.htm
+  - title: Face à la persécution, 991 Juifs dans la guerre
+    author: Nicolas Mariot et Claire Zalc
+    source: https://twitter.com/ruggeroparis/status/673805044295311360
+    comment: >
+      Pour ce #Day7 place à l'histoire #HistoireNoel
+  - title: On The Run
+    author: Alice Goffman
+    source: https://twitter.com/PaillardSimon/status/673808219505041408
+    comment: >
+      Un livre étonnant et sûrement pleins de défauts mais ça vaut le coup !

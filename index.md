@@ -21,6 +21,7 @@ Accès direct à un jour :<br/>
 4. [4 Décembre](#dec15-4)
 5. [5 Décembre](#dec15-5)
 6. [6 Décembre](#dec15-6)
+7. [7 Décembre](#dec15-7)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -99,6 +100,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Une lecture qui t'oblige à prendre du recul sur la catégorisation. Et t'apprends à fumer du shit<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ianonim/status/671724354707828737">@Ianonim</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Allez, moi aussi je m'y mets. À lire en fumant un ptit joint.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/perfounet/status/673795623481712640">@perfounet</a></span>
       </blockquote>
     
   
@@ -1537,21 +1543,35 @@ Accès direct à un jour :<br/>
   <h1 id="dec15-2-Les-rites-d-interaction-Erving-Goffman"><span class="title">Les rites d'interaction</span>, par <span class="author">Erving Goffman</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Les rites d'interaction de Goffman (!)<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Dolores_Charles/status/672087610253266948">@Dolores_Charles</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Les rites d'interaction de Goffman (!)<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Dolores_Charles/status/672087610253266948">@Dolores_Charles</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Les rites d'interaction, Goffman<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Comtesse_Leia/status/673795172170338304">@Comtesse_Leia</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-2-La-vie-au-guichet-Vincent-Dubois"><span class="title">La vie au guichet</span>, par <span class="author">Vincent Dubois</span></h1>
+  <h1 id="dec15-2-La-vie-au-guichet-Vincent-Dubois"><span class="title">La vie au guichet</span>, par <span class="author">Vincent Dubois</span>&nbsp;(<a href="https://lectures.revues.org/1112">lien</a>)</h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      C'est parti pour le #day2 de #SocioNoel avec une récente réédition. #streetlevelgifts #noelauguichet<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/672089630423011328">@ruggeroparis</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        C'est parti pour le #day2 de #SocioNoel avec une récente réédition. #streetlevelgifts #noelauguichet<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/672089630423011328">@ruggeroparis</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Sur les relations administratives et rôles bureaucratiques.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/673579284674555904">@F_Bally</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1827,10 +1847,17 @@ Accès direct à un jour :<br/>
   <h1 id="dec15-3-Time-Matters-On-Theory-and-Method-Andrew-Abbott"><span class="title">Time Matters: On Theory and Method</span>, par <span class="author">Andrew Abbott</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Andrew Abbott, "Time Matters: On Theory and Method", 2001, ft. le stimulant chap. "Things of Boundaries".<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/672334830969991168">@ArSaintMartin</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Andrew Abbott, "Time Matters: On Theory and Method", 2001, ft. le stimulant chap. "Things of Boundaries".<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/672334830969991168">@ArSaintMartin</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Time matters. On Theory and method - Abbott<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Comtesse_Leia/status/673798702767689728">@Comtesse_Leia</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2448,10 +2475,17 @@ Accès direct à un jour :<br/>
   <h1 id="dec15-4-Le-Populisme-du-FN-un-dangereux-contresens-Annie-Collovald"><span class="title">Le « Populisme du FN, » un dangereux contresens</span>, par <span class="author">Annie Collovald</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Annie Collovald et son analyse du "populisme" #FN<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/672698650854846464">@ruggeroparis</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Annie Collovald et son analyse du "populisme" #FN<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/672698650854846464">@ruggeroparis</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Pour mieux penser la situation<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/673799641494904832">@Jo14Hernandez</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2849,7 +2883,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-5-Le-Suicide-mile-Durkheim"><span class="title">Le Suicide</span>, par <span class="author">Émile Durkheim</span></h1>
+  <h1 id="dec15-5-Le-Suicide-mile-Durkheim"><span class="title">Le Suicide</span>, par <span class="author">Émile Durkheim</span>&nbsp;(<a href="http://classiques.uqac.ca/classiques/Durkheim_emile/suicide/suicide.html">lien</a>)</h1>
   <div class="sources">
   
     
@@ -2863,11 +2897,16 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/HybridaTabulat/status/673183608757186560">@HybridaTabulat</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        J'ai loupé quelques<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/TookyTsuki/status/673790068197335040">@TookyTsuki</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-5-Le-cens-cach-In-galit-s-culturelles-et-s-gr-gation-politique-Daniel-Gaxie"><span class="title">Le cens caché : Inégalités culturelles et ségrégation politique</span>, par <span class="author">Daniel Gaxie</span></h1>
+  <h1 id="dec15-5-Le-cens-cach-In-galit-s-culturelles-et-s-gr-gation-politique-Daniel-Gaxie"><span class="title">Le cens caché : Inégalités culturelles et ségrégation politique</span>, par <span class="author">Daniel Gaxie</span>&nbsp;(<a href="http://www.persee.fr/doc/reso_0751-7971_1987_num_5_22_1237">lien</a>)</h1>
   <div class="sources">
   
     
@@ -2879,6 +2918,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         La sociologie politique comme on l'aime.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/673421662071758848">@Jo14Hernandez</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Gaxie, Le cens caché #Fanculo #Trishtezza<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ludemain/status/673611150370717696">@ludemain</a></span>
       </blockquote>
     
   
@@ -3195,6 +3239,17 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1 id="dec15-5-M-moire-et-Rapport-sur-Victor-de-l-Aveyron-Jean-Itard"><span class="title">Mémoire et Rapport sur Victor de l'Aveyron</span>, par <span class="author">Jean Itard</span>&nbsp;(<a href="http://classiques.uqac.ca/classiques/itard_jean/victor_de_l_Aveyron/victor.html">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Mémoire et Rapport sur Victor de l'Aveyron - Jean Itard<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/TookyTsuki/status/673794084088193024">@TookyTsuki</a></span>
+    </blockquote>
+  
+  </div>
+</article>
 <h2 id="dec15-6">6 Décembre</h2>
 <article class="book">
   <h1 id="dec15-6-Ce-qui-nous-rend-m-chants-Sp-cimen-Radio-T-l-vision-Suisse"><span class="title">Ce qui nous rend méchants (Spécimen)</span>, par <span class="author">Radio Télévision Suisse</span>&nbsp;(<a href="https://www.youtube.com/watch?v=_2apUh0FlHk">lien</a>)</h1>
@@ -3467,6 +3522,183 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Bon je m'écarte une fois de plus de la socio… J’ai découvert ce livre quand j'étais en 1ère année de médecine, c'est un de ceux qui m'a fait m'intéresser aux sciences humaines. C'est une réflexion sur le sens de la normalité en médecine et en biologie.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/673547510963691521">@Silmalia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-La-soci-t-contre-l-tat-Pierre-Clastres"><span class="title">La société contre l’État</span>, par <span class="author">Pierre Clastres</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Les indiens ne votent pas ! Clastres, La société contre l'Etat (qui a déjà du être cité 100 fois...)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/marvinrouge/status/673559694535995392">@marvinrouge</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Penser-nomade-Mike-Singleton"><span class="title">Penser nomade</span>, par <span class="author">Mike Singleton</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sur les nomades donc, et la pensée nomade. Et sur les Rom, les Wakanongo et les autres.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/joliraton/status/673573602596364289">@joliraton</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Du-c-t-des-petites-filles-Elena-Gianini-Belotti"><span class="title">Du côté des petites filles</span>, par <span class="author">Elena Gianini Belotti</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sur les conditionnements sociaux & la petite enfance.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/673579573704065024">@thefugitive_</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-La-Gratuit-quel-prix-Circulation-et-change-de-biens-culturels-sur-internet-Jo-lle-Farchy-C-cile-M-adel-et-Guillaume-Sire"><span class="title">La Gratuité, à quel prix ? Circulation et échange de biens culturels sur internet</span>, par <span class="author">Joëlle Farchy, Cécile Méadel et Guillaume Sire</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "La Gratuité, à quel prix? Circulation et échange de biens culturels sur internet" 2015 @pressesdesmines<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/gcabanac/status/673626143690506240">@gcabanac</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Coercion-Capital-and-European-States-AD-990-1990-Charles-Tilly"><span class="title">Coercion, Capital, and European States, AD 990-1990</span>, par <span class="author">Charles Tilly</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Lorsque l'Etat fait la guerre et la guerre fait l'Etat<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jacobo_Grajales/status/673568684913377280">@Jacobo_Grajales</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-Homoparentalit-s-approches-scientifiques-et-politiques-Anne-Cadoret-Martine-Gross-Caroline-M-cary-et-Bruno-Perreau"><span class="title">Homoparentalités : approches scientifiques et politiques</span>, par <span class="author">Anne Cadoret, Martine Gross, Caroline Mécary, et Bruno Perreau</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Homoparentalités : approches scientifiques et politiques - Cadoret, Gross, Mecary & Perreau<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/TookyTsuki/status/673800151430012928">@TookyTsuki</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-7">7 Décembre</h2>
+<article class="book">
+  <h1 id="dec15-7-La-construction-du-talent-Manuel-Schott-"><span class="title">La construction du talent</span>, par <span class="author">Manuel Schotté</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Quand la sociologie démonte l'idéologie du don naturel<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/673779444599902208">@lestrelin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-L-action-au-pluriel-Sociologie-des-r-gimes-d-engagement-Laurent-Th-venot"><span class="title">L’action au pluriel, Sociologie des régimes d'engagement</span>, par <span class="author">Laurent Thévenot</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Laurent Thévenot, "L'action au pluriel, Sociologie des régimes d'engagement"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/673779852152020992">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-La-France-invisible-collectif"><span class="title">La France invisible</span> (collectif)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Quand journalistes et sociologues s'associent pour décrire la souffrance, c'est pas mal<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/673790822089891840">@JohnGoodMalik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Les-formes-l-mentaires-de-la-pauvret-Serge-Paugam"><span class="title">Les formes élémentaires de la pauvreté</span>, par <span class="author">Serge Paugam</span>&nbsp;(<a href="http://www.puf.com/Autres_Collections:Les_formes_%C3%A9l%C3%A9mentaires_de_la_pauvret%C3%A9">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      @serge_paugam - Les formes élémentaires de la pauvreté<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/673791843700776960">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Th-orie-de-l-agir-communicationnel-J-rgen-Habermas"><span class="title">Théorie de l’agir communicationnel</span>, par <span class="author">Jürgen Habermas</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Parce que j'ai la nostalgie des belles cathédrales<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/673792738161238018">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Quand-les-banlieues-br-lent-Retour-sur-les-meutes-de-novembre-2005-Laurent-Mucchielli-et-V-ronique-Le-Goaziou"><span class="title">Quand les banlieues brûlent… Retour sur les émeutes de novembre 2005</span>, par <span class="author">Laurent Mucchielli et Véronique Le Goaziou</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Encore de la socio urbaine<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/673794362657144832">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Le-m-tier-de-sociologue-Pierre-Bourdieu-Jean-CLaude-Chamboredon-et-Jean-Claude-Passeron"><span class="title">Le métier de sociologue</span>, par <span class="author">Pierre Bourdieu, Jean-CLaude Chamboredon, et Jean-Claude Passeron</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour se remettre au boulot<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Comtesse_Leia/status/673799153722327041">@Comtesse_Leia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7--Race-et-colonialit-du-pouvoir-An-bal-Quijano"><span class="title">« Race » et colonialité du pouvoir</span>, par <span class="author">Aníbal Quijano</span>&nbsp;(<a href="http://www.cairn.info/revue-mouvements-2007-3-page-111.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      today c’est #QUIJANOANIBAL et la #colonialitédupouvoir<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/673799319162523648">@LionnelleMakaya</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-Face-la-pers-cution-991-Juifs-dans-la-guerre-Nicolas-Mariot-et-Claire-Zalc"><span class="title">Face à la persécution, 991 Juifs dans la guerre</span>, par <span class="author">Nicolas Mariot et Claire Zalc</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour ce #Day7 place à l'histoire #HistoireNoel<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/673805044295311360">@ruggeroparis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-7-On-The-Run-Alice-Goffman"><span class="title">On The Run</span>, par <span class="author">Alice Goffman</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un livre étonnant et sûrement pleins de défauts mais ça vaut le coup !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/673808219505041408">@PaillardSimon</a></span>
     </blockquote>
   
   </div>
