@@ -115,7 +115,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Bon #HistoireDesIdéesNoel, ça marcherait pas. Du coup, je commence #SocioNoel avec mon 1er Bourdieu. Illumination.<br/>
+      Je commence #SocioNoel avec mon 1er Bourdieu. Illumination.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/671671019267035136">@SamuelHayat</a></span>
     </blockquote>
   
@@ -496,7 +496,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      1er #SocioNoel : Le Don de Marcel Mauss parce que les conclusions ont blow my mind et que c'est le premier ouvrage que j'ai étudié en entier<br/>
+      Le Don de Marcel Mauss parce que les conclusions ont blow my mind et que c'est le premier ouvrage que j'ai étudié en entier<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/671741263482363904">@Pyrate_Jenni</a></span>
     </blockquote>
   
@@ -551,7 +551,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Intéressant pr comprendre le phénomène Trump<br/>
+      Intéressant pour comprendre le phénomène Trump<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Nouchkabada/status/671742085737902081">@Nouchkabada</a></span>
     </blockquote>
   
@@ -639,7 +639,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Cette opération #SocioNoel est une chic idée...<br/>
+      Cette opération #SocioNoel est une chic idée…<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/671754952629424128">@M_Iz_6</a></span>
     </blockquote>
   
@@ -678,7 +678,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Y a pas mieux pour découvrir la socio voire la vie....<br/>
+        Y a pas mieux pour découvrir la socio voire la vie…<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ClaraMordra/status/672339788238856193">@ClaraMordra</a></span>
       </blockquote>
     
@@ -947,7 +947,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      On commence donc ma liste #SocioNoel  100% subjective par le grand; l'immense, le maitre.... (oui je suis fan)<br/>
+      On commence donc ma liste #SocioNoel 100% subjective par le grand; l'immense, le maitre… (oui je suis fan)<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/671971334428184576">@dan_maku</a></span>
     </blockquote>
   
@@ -980,7 +980,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      40 ans pour traduire ce monument ! INDISPENSABLE pour penser la notion de #culture  #SocioNoel #mustread<br/>
+      40 ans pour traduire ce monument ! INDISPENSABLE pour penser la notion de culture #SocioNoel #mustread<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/671973897626066944">@dan_maku</a></span>
     </blockquote>
   
@@ -1130,7 +1130,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Allez, #SocioNoel jour 2 : "A chacun son Bambara" de Jean Bazin que vous trouverez dans <a href="http://www.editionsladecouverte.fr/catalogue/index-Au_coeur_de_l_ethnie-9782707146229.html">ce bouquin</a><br/>
+      "A chacun son Bambara" de Jean Bazin que vous trouverez dans <a href="http://www.editionsladecouverte.fr/catalogue/index-Au_coeur_de_l_ethnie-9782707146229.html">ce bouquin</a><br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/672001961957400576">@Uneheuredepeine</a></span>
     </blockquote>
   
@@ -1164,7 +1164,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Amselle a tout changer dans ma maniere d'utiliser la notion de #culture<br/>
+      Amselle a tout changer dans ma maniere d'utiliser la notion de culture<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/672003637078532096">@dan_maku</a></span>
     </blockquote>
   
@@ -1186,7 +1186,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Bien des années plus tard... stimulant, magnifique.<br/>
+      Bien des années plus tard… stimulant, magnifique.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/m_lallouet/status/672005229265711104">@m_lallouet</a></span>
     </blockquote>
   
@@ -1296,7 +1296,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Des extraits de "Mœurs et sexualité en Océanie" de Margaret Mead : j'en ai retenu l'importance du culturel, les rôles genrés...<br/>
+      Des extraits de "Mœurs et sexualité en Océanie" de Margaret Mead : j'en ai retenu l'importance du culturel, les rôles genrés…<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ms_BethGreene/status/671996925382696960">@Ms_BethGreene</a></span>
     </blockquote>
   
@@ -1348,7 +1348,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Un excellent ouvrage pour donner envie de découvrir la #sociologie !<br/>
+        Un excellent ouvrage pour donner envie de découvrir la sociologie !<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/672008792347951105">@bbarbusse</a></span>
       </blockquote>
     
@@ -1742,7 +1742,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Quand la #sociologie aide à la réflexivité et s'approche des techniques de #coaching...<br/>
+        Quand la sociologie aide à la réflexivité et s'approche des techniques de coaching…<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/672316749057011712">@bbarbusse</a></span>
       </blockquote>
     
@@ -2125,7 +2125,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Pas tout à fait de la socio mais passionnante analyse de l'effet du temps sur nos pratiques ...<br/>
+      Pas tout à fait de la socio mais passionnante analyse de l'effet du temps sur nos pratiques…<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/leblognoteur/status/672424810660630529">@leblognoteur</a></span>
     </blockquote>
   
@@ -2268,7 +2268,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Lu juste avt le début du doctorat, histoire de se mettre dans le bain...<br/>
+      Lu juste avt le début du doctorat, histoire de se mettre dans le bain…<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/672687010105139202">@MorganeMdt</a></span>
     </blockquote>
   
@@ -2303,7 +2303,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        C'est beau...<br/>
+        C'est beau…<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/joliraton/status/672658899326083073">@joliraton</a></span>
       </blockquote>
     
@@ -2517,7 +2517,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Amélie Le Renard A Society of Young Women.....<br/>
+      Amélie Le Renard A Society of Young Women…<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/672705378191343618">@Laboratoire_CMH</a></span>
     </blockquote>
   
@@ -3106,7 +3106,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Voir aussi l'<a href="http://www.humanite.fr/vanessa-pinto-les-jobs-etudiants-un-apprentissage-de-la-precarite-555047">interview de l'auteure Vanessa Pinto dans l'Huma sur le livre</a> : "Les «petits boulots» [...] sont aussi le lieu où les jeunes issus des classes populaires intériorisent leur place dans l’échelle sociale". C'est quelque chose que je remarque beaucoup chez moi aussi : plus je bosse à côté moins je me sens à ma place à la fac<br/>
+      Voir aussi l'<a href="http://www.humanite.fr/vanessa-pinto-les-jobs-etudiants-un-apprentissage-de-la-precarite-555047">interview de l'auteure Vanessa Pinto dans l'Huma sur le livre</a> : "Les «petits boulots» […] sont aussi le lieu où les jeunes issus des classes populaires intériorisent leur place dans l’échelle sociale". C'est quelque chose que je remarque beaucoup chez moi aussi : plus je bosse à côté moins je me sens à ma place à la fac<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/673176550049783808">@Silmalia</a></span>
     </blockquote>
   
@@ -3139,7 +3139,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Pour voir #Bruxelles autrement, sur l'immigration et l'intégration...<br/>
+      Pour voir Bruxelles autrement, sur l'immigration et l'intégration…<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/joliraton/status/673187229733421056">@joliraton</a></span>
     </blockquote>
   
@@ -3183,7 +3183,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Le week-end sera "corporate"...<br/>Samedi : Un ouvrage riche et (trop) peu sollicité<br/>
+      Le week-end sera "corporate"…<br/>Samedi : Un ouvrage riche et (trop) peu sollicité<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/673198468182237184">@M_Iz_6</a></span>
     </blockquote>
   
@@ -3301,7 +3301,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Un peu de sociologie du #sport #RH ! Un livre méconnu et néanmoins éclairant.<br/>
+      Un peu de sociologie du sport #RH ! Un livre méconnu et néanmoins éclairant.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/673418335883829249">@bbarbusse</a></span>
     </blockquote>
   
@@ -3477,7 +3477,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Comme on est un jour de sondage... euh de vote. Un article utile de Gaxie<br/>
+      Comme on est un jour de sondage… euh de vote. Un article utile de Gaxie<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/673498343897751552">@sociosauvage</a></span>
     </blockquote>
   
@@ -3543,7 +3543,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Les indiens ne votent pas ! Clastres, La société contre l'Etat (qui a déjà du être cité 100 fois...)<br/>
+      Les indiens ne votent pas ! Clastres, La société contre l'Etat (qui a déjà du être cité 100 fois…)<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/marvinrouge/status/673559694535995392">@marvinrouge</a></span>
     </blockquote>
   
@@ -3720,7 +3720,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Un peu de #socio du travail appliquée au monde associatif qui devrait intéresser le monde sportif…<br/>
+      Un peu de socio du travail appliquée au monde associatif qui devrait intéresser le monde sportif…<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/673820109031538689">@bbarbusse</a></span>
     </blockquote>
   
@@ -3742,7 +3742,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Spécial #FN : Comment le culturalisme est devenu le nouveau #racisme institutionnel et médiatique.<br/>
+      Spécial #FN : Comment le culturalisme est devenu le nouveau racisme institutionnel et médiatique.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/673840273131094017">@dan_maku</a></span>
     </blockquote>
   
@@ -3984,7 +3984,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Plutôt histoire ce soir, "Un siècle d'antiféminisme", mon livre de chevet qd je faisais mon mémoire de M1. Mémoire qui portait sur les représentations sociales du féminisme chez des 18-25 ans. Le bon vieux temps &lt;3<br/>
+      Plutôt histoire ce soir, "Un siècle d'antiféminisme", mon livre de chevet quand je faisais mon mémoire de M1. Mémoire qui portait sur les représentations sociales du féminisme chez des 18-25 ans. Le bon vieux temps &lt;3<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/673981485867732997">@pa_prika_m</a></span>
     </blockquote>
   
