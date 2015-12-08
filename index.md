@@ -343,7 +343,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-1-Les-h-ritiers-Pierre-Bourdieu-et-Jean-Clause-Passeron"><span class="title">Les héritiers</span>, par <span class="author">Pierre Bourdieu et Jean-Clause Passeron</span></h1>
+  <h1 id="dec15-1-Les-h-ritiers-Pierre-Bourdieu-et-Jean-Claude-Passeron"><span class="title">Les héritiers</span>, par <span class="author">Pierre Bourdieu et Jean-Claude Passeron</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1787,10 +1787,17 @@ Accès direct à un jour :<br/>
   <h1 id="dec15-3-33-Newport-Street-Richard-Hoggart"><span class="title">33 Newport Street</span>, par <span class="author">Richard Hoggart</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Autobiographie d'un intellectuel issu des classes populaires anglaises.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ludemain/status/672346022790701056">@ludemain</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Autobiographie d'un intellectuel issu des classes populaires anglaises.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ludemain/status/672346022790701056">@ludemain</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Hoggart, 33 Newport Street (possible de faire de la bonne vieille socio de la lecture avec ce hashtag !)<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/674316950370127872">@MorganeMdt</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -3172,10 +3179,17 @@ Accès direct à un jour :<br/>
   <h1 id="dec15-5-L-homme-Pluriel-Bernard-Lahire"><span class="title">L’homme Pluriel</span>, par <span class="author">Bernard Lahire</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      En attendant le prochain livre de Lahire, "L'homme Pluriel" pour comprendre sa théorie de l'acteur<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/673197174772101120">@RaphCann</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        En attendant le prochain livre de Lahire, "L'homme Pluriel" pour comprendre sa théorie de l'acteur<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/673197174772101120">@RaphCann</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Une œuvre importante dans l'analyse de la pluralité des dispositions.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/674266007360380929">@Jo14Hernandez</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -3702,7 +3716,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-7-Le-m-tier-de-sociologue-Pierre-Bourdieu-Jean-CLaude-Chamboredon-et-Jean-Claude-Passeron"><span class="title">Le métier de sociologue</span>, par <span class="author">Pierre Bourdieu, Jean-CLaude Chamboredon, et Jean-Claude Passeron</span></h1>
+  <h1 id="dec15-7-Le-m-tier-de-sociologue-Pierre-Bourdieu-Jean-Claude-Chamboredon-et-Jean-Claude-Passeron"><span class="title">Le métier de sociologue</span>, par <span class="author">Pierre Bourdieu, Jean-Claude Chamboredon, et Jean-Claude Passeron</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -4314,6 +4328,193 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       L'intelligence de la Sociologie française en un livre ! #NouvelEsprit #classic<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Stylahhh/status/674246309688250368">@Stylahhh</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-La-soci-t-malade-de-la-gestion-Vincent-de-Gaulejac"><span class="title">La société malade de la gestion</span>, par <span class="author">Vincent de Gaulejac</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Parce la "gestion" et le "management" c'est pas sain. C'est malsain<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/674254144136486918">@JohnGoodMalik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Convoquer-les-tres-collectifs-Thomas-Angeletti-et-Aur-lien-Berlan"><span class="title">Convoquer les êtres collectifs</span>, coordonné par <span class="author">Thomas Angeletti et Aurélien Berlan</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un peu de promo pour la @RevueTraces, interdisciplinaire mais beaucoup de socio, par ex le dernier n<sup>o</sup><br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/674274046977171456">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-La-mondialisation-des-guerres-de-palais-Yves-Dezalay-et-Bryant-G-Garth"><span class="title">La mondialisation des guerres de palais</span>, par <span class="author">Yves Dezalay et Bryant G. Garth</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Encore un peu de sociopo, mais à l'international<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/674276918087319553">@ruggeroparis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Agir-dans-un-monde-incertain-Essai-sur-la-d-mocratie-technique-Michel-Callon-Pierre-Lascoumes-et-Yannick-Barthe"><span class="title">Agir dans un monde incertain - Essai sur la démocratie technique</span>, par <span class="author">Michel Callon, Pierre Lascoumes, et Yannick Barthe</span>&nbsp;(<a href="http://www.persee.fr/doc/rfsoc_0035-2969_2002_num_43_4_5547">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Callon, Lascoumes et Barthe "Agir dans un monde incertain - Essai sur la démocratie technique"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/674284690455576578">@F_Bally</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Nervosit-dans-la-civilisation-Du-culte-de-la-performance-l-effondrement-psychique-Alain-Ehrenberg"><span class="title">Nervosité dans la civilisation. Du culte de la performance à l'effondrement psychique</span>, par <span class="author">Alain Ehrenberg</span>&nbsp;(<a href="https://www.canal-u.tv/video/universite_de_tous_les_savoirs/nervosite_dans_la_civilisation_du_culte_de_la_performance_a_l_effondrement_psychique.1149">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Conf: Nervosité dans la civilisation. Du culte de la performance à l'effondrement psychique<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NLapeyroux/status/674285536903843840">@NLapeyroux</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Une-g-ographie-populaire-de-la-Cara-be-Romain-Cruse"><span class="title">Une géographie populaire de la Caraïbe</span>, par <span class="author">Romain Cruse</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pas de la socio mais ça reste des sciences humaines ;) Lisez la description le bouquin est top :)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NegreInverti/status/674291726291443712">@NegreInverti</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Sociologie-des-classes-populaires-contemporaines-Yasmine-Siblot-Marie-Cartier-Isabelle-Coutant-Olivier-Masclet-et-Nicolas-Renahy"><span class="title">Sociologie des classes populaires contemporaines</span>, par <span class="author">Yasmine Siblot, Marie Cartier, Isabelle Coutant, Olivier Masclet, et Nicolas Renahy</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Je l'ai déjà mais le conseille fortement : une mine d'infos essentielles parue en 2015 ! (mais il est cher…)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NegreInverti/status/674292757771501568">@NegreInverti</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Les-initiations-une-seconde-naissance-pourquoi-et-pour-qui-Maurice-Godelier"><span class="title">Les initiations : une seconde naissance, pourquoi et pour qui ?</span>, par <span class="author">Maurice Godelier</span>&nbsp;(<a href="https://vimeo.com/114535365">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Les initiations: une seconde naissance, pourquoi et pour qui ?" M. Godelier<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/674294089408491523">@thefugitive_</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Culture-geek-David-Peyron"><span class="title">Culture geek</span>, par <span class="author">David Peyron</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Agréable et intéressant pour comprendre pleins d'aspects de cette culture<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/674295800718061568">@RaphCann</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Histoire-des-ouvriers-en-France-au-XX-sup-e-sup-si-cle-Xavier-Vigna"><span class="title">Histoire des ouvriers en France au XX<sup>e</sup> siècle</span>, par <span class="author">Xavier Vigna</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Aujourd'hui pour #SocioNoel, un peu d'histoire.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ostpolitik/status/674305038014091264">@Ostpolitik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Devenir-militant-collectif"><span class="title">Devenir militant</span> (collectif)&nbsp;(<a href="http://www.persee.fr/issue/rfsp_0035-2950_2001_num_51_1?sectionId=rfsp_0035-2950_2001_num_51_1_403605">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Aujourd'hui, honneur à un n° spécial de la RFSP "Devenirs militants" (2001)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/674309391412252676">@lestrelin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Les-agences-de-la-pr-carit-S-bastien-Chauvin"><span class="title">Les agences de la précarité</span>, par <span class="author">Sébastien Chauvin</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour moi qui suis fasciné par Chicago : un bouquin de socio et un d'histoire !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NegreInverti/status/674310479586729984">@NegreInverti</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Histoire-de-Chicago-Andrew-Diamond-et-Pap-Ndiaye"><span class="title">Histoire de Chicago</span>, par <span class="author">Andrew Diamond et Pap Ndiaye</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour moi qui suis fasciné par Chicago : un bouquin de socio et un d'histoire !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NegreInverti/status/674310479586729984">@NegreInverti</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Esquisse-pour-une-auto-analyse-Pierre-Bourdieu"><span class="title">Esquisse pour une auto-analyse</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Bourdieu, Esquisse pour une auto analyse<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/674316199019356161">@MorganeMdt</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Les-f-ministes-et-le-gar-on-arabe-Nacira-Gu-nif-Souilamas-et-ric-Mac-"><span class="title">Les féministes et le garçon arabe</span>, par <span class="author">Nacira Guénif-Souilamas et Éric Macé</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour comprendre le fémonationalisme et la racialisation du sexisme<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/674322170777108481">@pa_prika_m</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-La-souverainet-alimentaire-comme-cause-transnationale-Delphine-Thivet"><span class="title">La souveraineté alimentaire comme cause transnationale</span>, par <span class="author">Delphine Thivet</span>&nbsp;(<a href="https://hal-icp.archives-ouvertes.fr/hal-01078988/document">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Demain, elle soutient sa thèse. Delphine Thivet, La souveraineté alimentaire comme cause transnationale<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/674330709310504960">@NuteluCaine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Distinctions-culturelles-et-lutte-de-soi-contre-soi-d-tester-la-part-populaire-de-soi-Bernard-Lahire"><span class="title">Distinctions culturelles et lutte de soi contre soi : « détester la part populaire de soi »</span>, par <span class="author">Bernard Lahire</span>&nbsp;(<a href="https://www.cairn.info/revue-hermes-la-revue-2005-2-page-137.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Lahire - Distinctions culturelles et lutte de soi contre soi : « détester la part populaire de soi »<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/674337744701808640">@Phangere</a></span>
     </blockquote>
   
   </div>

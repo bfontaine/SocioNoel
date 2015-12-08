@@ -178,7 +178,7 @@
           Je crois que quelqu'un l'a déjà cité mais l'article de Crenshaw sur
           l'intersectionnalité
   - title: Les héritiers
-    author: Pierre Bourdieu et Jean-Clause Passeron
+    author: Pierre Bourdieu et Jean-Claude Passeron
     source: https://twitter.com/Dheltaa/status/671711835633156096
     comment: >
       C'était lors de ma première année à l'université. Je l'avais dévoré.
@@ -930,9 +930,14 @@
       de l'édition de réf allemande
   - title: "33 Newport Street"
     author: Richard Hoggart
-    source: https://twitter.com/ludemain/status/672346022790701056
-    comment: >
-      Autobiographie d'un intellectuel issu des classes populaires anglaises.
+    sources:
+      - link: https://twitter.com/ludemain/status/672346022790701056
+        comment: >
+          Autobiographie d'un intellectuel issu des classes populaires anglaises.
+      - link: https://twitter.com/MorganeMdt/status/674316950370127872
+        comment: >
+          Hoggart, 33 Newport Street (possible de faire de la bonne vieille
+          socio de la lecture avec ce hashtag !)
   - title: La cause des armes au Mozambique
     author: Christian Geffray
     source: https://twitter.com/Jacobo_Grajales/status/672349474715512832
@@ -1698,10 +1703,14 @@
       prendre le temps de les connaître
   - title: L’homme Pluriel
     author: Bernard Lahire
-    source: https://twitter.com/RaphCann/status/673197174772101120
-    comment: >
-      En attendant le prochain livre de Lahire, "L'homme Pluriel" pour
-      comprendre sa théorie de l'acteur
+    sources:
+      - link: https://twitter.com/RaphCann/status/673197174772101120
+        comment: >
+          En attendant le prochain livre de Lahire, "L'homme Pluriel" pour
+          comprendre sa théorie de l'acteur
+      - link: https://twitter.com/Jo14Hernandez/status/674266007360380929
+        comment: >
+          Une œuvre importante dans l'analyse de la pluralité des dispositions.
   - title: Les formes de l’activité politique
     author: Antonin Cohen, Bernard Lacroix, et Philippe Riutort
     source: https://twitter.com/M_Iz_6/status/673198468182237184
@@ -1985,7 +1994,7 @@
     comment: >
       Encore de la socio urbaine
   - title: Le métier de sociologue
-    author: Pierre Bourdieu, Jean-CLaude Chamboredon, et Jean-Claude Passeron
+    author: Pierre Bourdieu, Jean-Claude Chamboredon, et Jean-Claude Passeron
     source: https://twitter.com/Comtesse_Leia/status/673799153722327041
     comment: >
       Pour se remettre au boulot
@@ -2333,3 +2342,106 @@
     comment: >
       L'intelligence de la Sociologie française en un livre ! #NouvelEsprit
       #classic
+  - title: La société malade de la gestion
+    author: Vincent de Gaulejac
+    source: https://twitter.com/JohnGoodMalik/status/674254144136486918
+    comment: >
+      Parce la "gestion" et le "management" c'est pas sain. C'est malsain
+  - title: Convoquer les êtres collectifs
+    author: Thomas Angeletti et Aurélien Berlan
+    coordinated: true
+    source: https://twitter.com/SamuelHayat/status/674274046977171456
+    comment: >
+      Un peu de promo pour la @RevueTraces, interdisciplinaire mais beaucoup de
+      socio, par ex le dernier n<sup>o</sup>
+  - title: La mondialisation des guerres de palais
+    author: Yves Dezalay et Bryant G. Garth
+    source: https://twitter.com/ruggeroparis/status/674276918087319553
+    comment: >
+      Encore un peu de sociopo, mais à l'international
+  - title: Agir dans un monde incertain - Essai sur la démocratie technique
+    author: Michel Callon, Pierre Lascoumes, et Yannick Barthe
+    source: https://twitter.com/F_Bally/status/674284690455576578
+    comment: >
+      Callon, Lascoumes et Barthe "Agir dans un monde incertain - Essai sur la
+      démocratie technique"
+    link: http://www.persee.fr/doc/rfsoc_0035-2969_2002_num_43_4_5547
+  - title: Nervosité dans la civilisation. Du culte de la performance à l'effondrement psychique
+    author: Alain Ehrenberg
+    source: https://twitter.com/NLapeyroux/status/674285536903843840
+    comment: >
+      Conf: Nervosité dans la civilisation. Du culte de la performance à
+      l'effondrement psychique
+    link: https://www.canal-u.tv/video/universite_de_tous_les_savoirs/nervosite_dans_la_civilisation_du_culte_de_la_performance_a_l_effondrement_psychique.1149
+  - title: Une géographie populaire de la Caraïbe
+    author: Romain Cruse
+    source: https://twitter.com/NegreInverti/status/674291726291443712
+    comment: >
+      Pas de la socio mais ça reste des sciences humaines ;) Lisez la
+      description le bouquin est top :)
+  - title: Sociologie des classes populaires contemporaines
+    author: Yasmine Siblot, Marie Cartier, Isabelle Coutant, Olivier Masclet, et Nicolas Renahy
+    source: https://twitter.com/NegreInverti/status/674292757771501568
+    comment: >
+      Je l'ai déjà mais le conseille fortement : une mine d'infos essentielles
+      parue en 2015 ! (mais il est cher…)
+  - title: "Les initiations : une seconde naissance, pourquoi et pour qui ?"
+    author: Maurice Godelier
+    source: https://twitter.com/thefugitive_/status/674294089408491523
+    comment: >
+      "Les initiations: une seconde naissance, pourquoi et pour qui ?" M.
+      Godelier
+    link: https://vimeo.com/114535365
+  - title: Culture geek
+    author: David Peyron
+    source: https://twitter.com/RaphCann/status/674295800718061568
+    comment: >
+      Agréable et intéressant pour comprendre pleins d'aspects de cette culture
+  - title: Histoire des ouvriers en France au XX<sup>e</sup> siècle
+    author: Xavier Vigna
+    source: https://twitter.com/Ostpolitik/status/674305038014091264
+    comment: >
+      Aujourd'hui pour #SocioNoel, un peu d'histoire.
+  - title: Devenir militant
+    author: collectif
+    source: https://twitter.com/lestrelin/status/674309391412252676
+    comment: >
+      Aujourd'hui, honneur à un n° spécial de la RFSP "Devenirs militants"
+      (2001)
+    link: http://www.persee.fr/issue/rfsp_0035-2950_2001_num_51_1?sectionId=rfsp_0035-2950_2001_num_51_1_403605
+  - title: Les agences de la précarité
+    author: Sébastien Chauvin
+    source: https://twitter.com/NegreInverti/status/674310479586729984
+    comment: >
+      Pour moi qui suis fasciné par Chicago : un bouquin de socio et un
+      d'histoire !
+  - title: Histoire de Chicago
+    author: Andrew Diamond et Pap Ndiaye
+    source: https://twitter.com/NegreInverti/status/674310479586729984
+    comment: >
+      Pour moi qui suis fasciné par Chicago : un bouquin de socio et un
+      d'histoire !
+  - title: Esquisse pour une auto-analyse
+    author: Pierre Bourdieu
+    source: https://twitter.com/MorganeMdt/status/674316199019356161
+    comment: >
+      Bourdieu, Esquisse pour une auto analyse
+  - title: Les féministes et le garçon arabe
+    author: Nacira Guénif-Souilamas et Éric Macé
+    source: https://twitter.com/pa_prika_m/status/674322170777108481
+    comment: >
+      Pour comprendre le fémonationalisme et la racialisation du sexisme
+  - title: La souveraineté alimentaire comme cause transnationale
+    author: Delphine Thivet
+    source: https://twitter.com/NuteluCaine/status/674330709310504960
+    comment: >
+      Demain, elle soutient sa thèse. Delphine Thivet, La souveraineté
+      alimentaire comme cause transnationale
+    link: https://hal-icp.archives-ouvertes.fr/hal-01078988/document
+  - title: "Distinctions culturelles et lutte de soi contre soi : « détester la part populaire de soi »"
+    author: Bernard Lahire
+    source: https://twitter.com/Phangere/status/674337744701808640
+    comment: >
+      Lahire - Distinctions culturelles et lutte de soi contre soi : « détester
+      la part populaire de soi »
+    link: https://www.cairn.info/revue-hermes-la-revue-2005-2-page-137.htm
