@@ -22,6 +22,7 @@ Accès direct à un jour :<br/>
 5. [5 Décembre](#dec15-5)
 6. [6 Décembre](#dec15-6)
 7. [7 Décembre](#dec15-7)
+8. [8 Décembre](#dec15-8)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -3262,6 +3263,24 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1 id="dec15-5-Encaisser-Enqu-te-en-immersion-dans-la-grande-distribution-Marl-ne-Benquet"><span class="title">Encaisser ! Enquête en immersion dans la grande distribution</span>, par <span class="author">Marlène Benquet</span>&nbsp;(<a href="https://lectures.revues.org/11945">lien</a>)</h1>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Encaisser!, M. Benquet & Féminismes islamiques, Z.Ali. deux lectures importantes un peu en dehors de mes thèmes habituels<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/674110580064657408">@MorganeMdt</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Un livre sur lequel je voudrais faire des billets quand j'aurais un peu plus de temps. Lecture passionnante, dans tous les sens, mais qui m'interroge beaucoup à la fois sur la réception et l'écriture de la sociologie. La réception parce que l'aspect "immersion" est certainement le moins intéressant du bouquin, malgré sa mise en scène. L'écriture parce que le mode de formulation des propositions tend vers le récrit, ce qui est la fois efficace et dérangeant. Mais il faudrait aussi que je compare avec la thèse, pour voir ce que l'édition fait à l'écriture sociologique.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/674154075051675648">@Uneheuredepeine</a></span>
+      </blockquote>
+    
+  
+  </div>
+</article>
 <h2 id="dec15-6">6 Décembre</h2>
 <article class="book">
   <h1 id="dec15-6-Ce-qui-nous-rend-m-chants-Sp-cimen-Radio-T-l-vision-Suisse"><span class="title">Ce qui nous rend méchants (Spécimen)</span>, par <span class="author">Radio Télévision Suisse</span>&nbsp;(<a href="https://www.youtube.com/watch?v=_2apUh0FlHk">lien</a>)</h1>
@@ -3600,6 +3619,17 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Homoparentalités : approches scientifiques et politiques - Cadoret, Gross, Mecary & Perreau<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/TookyTsuki/status/673800151430012928">@TookyTsuki</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-6-F-minismes-islamiques-Zahra-Ali"><span class="title">Féminismes islamiques</span>, par <span class="author">Zahra Ali</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Encaisser!, M. Benquet & Féminismes islamiques, Z.Ali. deux lectures importantes un peu en dehors de mes thèmes habituels<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/674110580064657408">@MorganeMdt</a></span>
     </blockquote>
   
   </div>
@@ -3986,6 +4016,128 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Plutôt histoire ce soir, "Un siècle d'antiféminisme", mon livre de chevet quand je faisais mon mémoire de M1. Mémoire qui portait sur les représentations sociales du féminisme chez des 18-25 ans. Le bon vieux temps &lt;3<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/673981485867732997">@pa_prika_m</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-8">8 Décembre</h2>
+<article class="book">
+  <h1 id="dec15-8-Les-m-tamorphoses-du-monde-associatif-Matthieu-H-ly"><span class="title">Les métamorphoses du monde associatif</span>, par <span class="author">Matthieu Hély</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un livre de @Matthieu_HELY qui intéressera le monde associatif et donc les acteurs sportifs !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/674121111429337088">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Sur-l-tat-Pierre-Bourdieu"><span class="title">Sur l’État</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      À chaque chapitre, chaque page des analyses lumineuses sur les dynamiques internes à l’orga étatique<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ianonim/status/674128130131537922">@Ianonim</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Avoir-30-ans-en-1968-et-1998-Christian-Baudelot-et-Roger-Establet"><span class="title">Avoir 30 ans en 1968 et 1998</span>, par <span class="author">Christian Baudelot et Roger Establet</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Quelques éléments dans ce classique pour comprendre les 64% d'abstentions chez les 18-25 ans…<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Matthieu_HELY/status/674134820402896896">@Matthieu_HELY</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Le-Communisme-d-sarm-Julian-Mischi"><span class="title">Le Communisme désarmé</span>, par <span class="author">Julian Mischi</span>&nbsp;(<a href="http://agone.org/contrefeux/lecommunismedesarme/">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une des vraies clés pour comprendre la mort actuelle de la gauche<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/674142053526323200">@mquijoux</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-La-fr-n-sie-s-curitaire-Laurent-Mucchielli"><span class="title">La frénésie sécuritaire</span>, dirigé par <span class="author">Laurent Mucchielli</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      La frénésie sécuritaire. Ouvrage collectif dirigé par Mucchielli.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/674145306573987840">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-La-dispersion-Une-histoire-des-usages-du-mot-diaspora-St-phane-Dufoix"><span class="title">La dispersion. Une histoire des usages du mot diaspora</span>, par <span class="author">Stéphane Dufoix</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une enquête étourdissante<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/674146943598202880">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Comme-tremble-la-main-invisible-Incertitude-et-march-s-ric-Brian"><span class="title">Comme tremble la main invisible : Incertitude et marchés</span>, par <span class="author">Éric Brian</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sur les questions d'incertitude et de probabilité, avec d'abord l'introduction de distinctions nécessaires pour traiter la question (variabilité / erreurs / incertitude, incertitude des phénomènes / incertitude dans la connaissance des phénomènes etc). Un aperçu historique du traitement savant de la question, une proposition de façon de la prendre au sérieux en sciences sociales, quelques exemples assez marrants à mon sens. Probablement plus facile à lire avec quelques notions mathématiques en probas mais c'est normalement fait pour être en grande partie lisible sans.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Comtesse_Leia/status/674148751792062464">@Comtesse_Leia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-La-strat-gie-de-la-bact-rie-Quentin-Ravelli"><span class="title">La stratégie de la bactérie</span>, par <span class="author">Quentin Ravelli</span>&nbsp;(<a href="http://www.seuil.com/livre-9782021098853.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Quentin Ravelli - La stratégie de la Bactérie<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/674149139287011328">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Explorer-la-ville-Ulf-Hannerz"><span class="title">Explorer la ville</span>, par <span class="author">Ulf Hannerz</span>&nbsp;(<a href="http://www.leseditionsdeminuit.fr/f/index.php?sp=liv&livre_id=2107">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Explorer la ville. Éléments d’anthropologie urbaine avec Ulf Hannerz, 1983<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/leblogdelaville/status/674153490558672896">@leblogdelaville</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Les-gars-du-coin-Enqu-te-sur-une-jeunesse-rurale-Nicolas-Renahy"><span class="title">Les gars du coin : Enquête sur une jeunesse rurale</span>, par <span class="author">Nicolas Renahy</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Les_gars_du_coin-9782707160126.html">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sur tes potes du village dont tu te sens si éloigné aujourd'hui<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/674155632170266624">@F__Casta</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Nous-sommes-tous-des-cannibales-Claude-L-vi-Strauss"><span class="title">Nous sommes tous des cannibales</span>, par <span class="author">Claude Lévi-Strauss</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Partant de faits d'actualité, le recueil de Claude Lévi-Strauss, Nous sommes tous des cannibales, Seuil. #anthropo<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/KarineRoudaut/status/674161260460658688">@KarineRoudaut</a></span>
     </blockquote>
   
   </div>
