@@ -4142,3 +4142,179 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1 id="dec15-8-On-the-microfondations-of-macrosociology-Randall-Collins"><span class="title">On the microfondations of macrosociology</span>, par <span class="author">Randall Collins</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour rester dans la tendance fortement pragmatique de cette liste, aujourd'hui nous nous intéressons donc à la critique des échelles. Non pas parce que les escabeaux sont mieux, mais parce que les institutions sociales n'existent qu'à l'échelle des acteurs.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/674171184083304448">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-The-Interpretation-of-Cultures-Clifford-Geertz"><span class="title">The Interpretation of Cultures</span>, par <span class="author">Clifford Geertz</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      L’homme « un animal suspendu dans des toiles de signification qu'il a lui-même tissées »<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/674174854808096768">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Les-jeunes-et-l-amour-dans-les-cit-s-Isabelle-Clair"><span class="title">Les jeunes et l'amour dans les cités</span>, par <span class="author">Isabelle Clair</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Dernier bouquin de socio lu: "Les jeunes et l'amour dans les cités" d'Isabelle Clair. Top!<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/674177889198333952">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-L-espace-des-mouvements-sociaux-Lilian-Mathieu"><span class="title">L’espace des mouvements sociaux</span>, par <span class="author">Lilian Mathieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      L’espace des mouvements sociaux. Lilian Mathieu.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/HybridaTabulat/status/674180265510633472">@HybridaTabulat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-World-of-Man-An-Anthropology-Diana-Prince"><span class="title">World of Man : An Anthropology</span>, par <span class="author">Diana Prince</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une anthropologue qui a grandit dans une société sans homme étudie notre société<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Batman_Socio/status/674189733610856449">@Batman_Socio</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Attention-danger-travail-Pierre-Carles"><span class="title">Attention, danger travail</span>, réalisé par <span class="author">Pierre Carles</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Les documentaires de Pierre Carles. Tous. Tous tous tous. En priorité : "Attention, danger travail"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/674197040763674624">@Pyrate_Jenni</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Le-travail-du-consommateur-Marie-Anne-Dujarier"><span class="title">Le travail du consommateur</span>, par <span class="author">Marie-Anne Dujarier</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un prélude à la notion de #digitallabor<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/674206072316551168">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Comparer-le-sport-collectif"><span class="title">Comparer le sport</span> (collectif)&nbsp;(<a href="https://www.cairn.info/revue-sciences-sociales-et-sport-2015-1.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      On reste sur la comparaison, au sein de la sociologie du sport.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/674192725596614657">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Interroger-le-choix-des-tudes-sup-rieures-Sophie-Orange"><span class="title">Interroger le choix des études supérieures</span>, par <span class="author">Sophie Orange</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Orange S. (2012) Interroger le choix des études supérieures, Genèses (89/4) pour ajouter un peu de méthodologie !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/fivepastfive/status/674220848639819776">@fivepastfive</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-L-conomie-des-singularit-s-Lucien-Karpik"><span class="title">L’économie des singularités</span>, par <span class="author">Lucien Karpik</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Karpik (2007) L'économie des singularités, qui peut servir à apporter un regard neuf sur grand nombre de sujet<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/fivepastfive/status/674221588510830592">@fivepastfive</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8--ros-et-civilisation-Herbert-Marcuse"><span class="title">Éros et civilisation</span>, par <span class="author">Herbert Marcuse</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Lire ou relire Francfort pour les fêtes #classic<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Stylahhh/status/674234582317842432">@Stylahhh</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-La-sociologie-sur-le-vif-Cyril-Lemieux"><span class="title">La sociologie sur le vif</span>, par <span class="author">Cyril Lemieux</span>&nbsp;(<a href="http://www.pressesdesmines.com/media/extrait/LaSocSurVifEXtr.pdf">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Parce que l'esprit initial de socio sauvage vient aussi un peu de là. Très utile aussi pour voir comment la socio peut servir dans la vie quotidienne.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/674235194254221313">@sociosauvage</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-La-rigueur-du-qualitatif-Jean-Pierre-Olivier-de-Sardan"><span class="title">La rigueur du qualitatif</span>, par <span class="author">Jean-Pierre Olivier de Sardan</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une bonne (bonne bonne) méthodo…!<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/joliraton/status/674235621007876096">@joliraton</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-La-chair-de-l-empire-Savoirs-intimes-et-pouvoirs-raciaux-en-r-gime-colonial-Ann-Laura-Stoler"><span class="title">La chair de l'empire : Savoirs intimes et pouvoirs raciaux en régime colonial</span>, par <span class="author">Ann Laura Stoler</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-La_chair_de_l_empire-9782707175595.html">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Fantasmes "chair de l'empire", @ReacNoire, pour reprendre un titre des @Ed_LaDecouverte<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/presdl/status/674235891360129024">@presdl</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Les-liaisons-num-riques-Vers-une-nouvelle-sociabilit-Antonio-A-Casilli"><span class="title">Les liaisons numériques : Vers une nouvelle sociabilité ?</span>, par <span class="author">Antonio A. Casilli</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      A. Casilli - Les liaisons numériques : Vers une nouvelle sociabilité ?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/674242609850785792">@Silmalia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-8-Le-nouvel-esprit-du-capitalisme-Luc-Boltanski-et-ve-Chiapello"><span class="title">Le nouvel esprit du capitalisme</span>, par <span class="author">Luc Boltanski et Ève Chiapello</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      L'intelligence de la Sociologie française en un livre ! #NouvelEsprit #classic<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Stylahhh/status/674246309688250368">@Stylahhh</a></span>
+    </blockquote>
+  
+  </div>
+</article>
