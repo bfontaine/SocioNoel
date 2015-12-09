@@ -122,7 +122,11 @@ class BooksList
   end
 
   def write_html(target)
-    File.open(target, "w") { |f| write_html_file f }
+    File.open(target, "w") do |f|
+      write_html_prelude f
+      write_html_file f
+      write_html_end f
+    end
   end
 
   private
@@ -171,6 +175,24 @@ Accès direct à un jour :<br/>
 
     file.write "\n"
   end
+
+  def write_html_prelude(file)
+    file.write <<-EOS
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>#SocioNoël</title>
+</head>
+<body>
+    EOS
+  end
+
+  def write_html_end(file)
+    file.write "</body></html>"
+  end
 end
 
 ls = BooksList.new "books.yml"
@@ -184,6 +206,8 @@ if ARGV.include? "--pdf"
   ensure
     File.unlink tmp
   end
+elsif ARGV.include? "--html"
+  ls.write_html "books.html"
 else
   ls.write_jekyll "index.md"
 end
