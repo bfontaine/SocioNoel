@@ -68,7 +68,6 @@ class Book
   end
 
   def to_s
-    title = has?("title") ? @attrs["title"] : "<unknown title>"
     "#{title} (day #{@day}, ##{@idx})"
   end
 
@@ -133,7 +132,7 @@ Accès direct à un jour :<br/>
 
   days = YAML.load_file("books.yml")
 
-  # we have to cheat here because GitHub doesn't seem to like <ol id="something">
+  # We have to cheat here because GitHub doesn't seem to like <ol id="something">
   days.each_with_index do |p, i|
     day = p[0]
     f.write %{#{i + 1}. [#{day_title day}](##{day_anchor day})\n}
