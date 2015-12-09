@@ -198,13 +198,18 @@ end
 ls = BooksList.new "books.yml"
 
 if ARGV.include? "--pdf"
-  # WIP
-  tmp = "_books.html"
-  ls.write_html tmp
+  require "FileUtils"
+
+  html = "_books.html"
+  tex = "_books.tex"
+  ls.write_html html
   begin
-    system "pandoc", "--latex-engine=xelatex", tmp, "-o", "books.pdf"
+    system "pandoc", "--latex-engine=xelatex", "--standalone", html,
+      "--no-tex-ligatures", "-o", tex
+    system "xelatex", tex
+    FileUtils.mv tex.sub(/\.tex$/, ".pdf"), "books.pdf"
   ensure
-    File.unlink tmp
+    Dir["_books.*"].each { |f| File.unlink f }
   end
 elsif ARGV.include? "--html"
   ls.write_html "books.html"
