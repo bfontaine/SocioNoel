@@ -23,6 +23,7 @@ Accès direct à un jour :<br/>
 6. [6 Décembre](#dec15-6)
 7. [7 Décembre](#dec15-7)
 8. [8 Décembre](#dec15-8)
+9. [9 Décembre](#dec15-9)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -3366,10 +3367,17 @@ Accès direct à un jour :<br/>
   <h1 id="dec15-6-Mozart-sociologie-d-un-g-nie-Norbert-Elias"><span class="title">Mozart, sociologie d'un génie</span>, par <span class="author">Norbert Elias</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Elias objective la singularité,explore structure sociales & psychiques<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/673427557438627840">@lestrelin</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Elias objective la singularité,explore structure sociales & psychiques<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/673427557438627840">@lestrelin</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Seul un génie pouvait écrire la sociologie d'un génie: Mozart. Il faut être Norbert Elias pour articuler une bio avec de la socio<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/674492445342715904">@JohnGoodMalik</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -4515,6 +4523,117 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Lahire - Distinctions culturelles et lutte de soi contre soi : « détester la part populaire de soi »<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/674337744701808640">@Phangere</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-9">9 Décembre</h2>
+<article class="book">
+  <h1 id="dec15-9-Economists-and-Societies-Marion-Fourcade"><span class="title">Economists and Societies</span>, par <span class="author">Marion Fourcade</span>&nbsp;(<a href="http://press.princeton.edu/titles/8908.html">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Force de la sociologie historique<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/674483226421932032">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-La-nature-humaine-une-illusion-occidentale-Marshall-Sahlins"><span class="title">La nature humaine, une illusion occidentale</span>, par <span class="author">Marshall Sahlins</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Comme son titre ne l'indique, c'est un petit essai de philosophie politique, à tendance anthropologique.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/plumerouille/status/674491217074331648">@plumerouille</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Introduction-la-sociologie-des-sciences-Michel-Dubois"><span class="title">Introduction à la sociologie des sciences</span>, par <span class="author">Michel Dubois</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Introduction à la sociologie des sciences et des connaissances scientifiques" (1999) par @ejsmdubois<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/gcabanac/status/674491494812819457">@gcabanac</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Retour-sur-la-condition-ouvri-re-Enqu-te-aux-usines-Peugeot-de-Sochaux-Montb-liard-St-phane-Beaud-et-Michel-Pialoux"><span class="title">Retour sur la condition ouvrière. Enquête aux usines Peugeot de Sochaux-Montbéliard</span>, par <span class="author">Stéphane Beaud et Michel Pialoux</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Beaud & Pialoux: Retour sur la condition ouvrière. Enquête aux usines Peugeot de Sochaux-Montbéliard<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/674505447076995072">@lestrelin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-La-soci-t-des-socialistes-R-mi-Lefebvre-et-Fr-d-ric-Sawicki"><span class="title">La société des socialistes</span>, par <span class="author">Rémi Lefebvre et Frédéric Sawicki</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une plongée dans le PS et ses mystères<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/674508936326836224">@Jo14Hernandez</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-L-ontologie-politique-de-Martin-Heidegger-Pierre-Bourdieu"><span class="title">L’ontologie politique de Martin Heidegger</span>, par <span class="author">Pierre Bourdieu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Parce que "mettre en forme philosophiquement, c'est aussi mettre des formes politiquement"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ludemain/status/674512206004887552">@ludemain</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Jeunesses-fran-aises-Bac-5-made-in-banlieue-Fabien-Truong"><span class="title">Jeunesses françaises : Bac + 5 made in banlieue</span>, par <span class="author">Fabien Truong</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Jeunesses_fran__aises-9782707186881.html">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Fabien TRUONG - Jeunesses françaises Bac + 5 made in banlieue<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/674512595118923776">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Amour-gloire-et-crampons-pour-une-sociologie-du-foot-Erwan-Poiraud-et-Thierry-Teboul"><span class="title">Amour, gloire et crampons : pour une sociologie du foot</span>, par <span class="author">Erwan Poiraud et Thierry Teboul</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour les twittos sportifs, un petit livre très intéressant #professionnalisation du sport #foot<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/674517618166992896">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Affreux-riches-et-m-chants-Un-autre-regard-sur-les-bleus-St-phane-Beaud-et-Philippe-Guimard"><span class="title">Affreux, riches et méchants ? Un autre regard sur les bleus</span>, par <span class="author">Stéphane Beaud et Philippe Guimard</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Foot, grève et traitement des joueurs de l'équipe de France issus de l'immigration postcoloniale<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/674520277783572480">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Qui-travaille-pour-qui-Christian-Baudelot-Roger-Establet-et-Jacques-Toisier"><span class="title">Qui travaille pour qui ?</span>, par <span class="author">Christian Baudelot, Roger Establet, et Jacques Toisier</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Ça s'appelle "Qui travaille pour qui?", et a réunit Baudelot, Establet et Toisier en 1981. C'est un vrai bouquin de sciences sociales. Aujourd'hui, on aurait du mal à le classifier : socio quanti du travail ? étude d'éco ?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Blinis/status/674525782794989568">@Blinis</a></span>
     </blockquote>
   
   </div>
