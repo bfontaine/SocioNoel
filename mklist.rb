@@ -109,8 +109,42 @@ class Book
   end
 end
 
-File.open("index.md", "w") do |f|
-  f.write <<-EOS
+class BooksList
+  def initialize(source)
+    @days = YAML.load_file(source)
+  end
+
+  def write_jekyll(target)
+    File.open(target, "w") do |f|
+      write_jekyll_prelude f
+      write_html_file f
+    end
+  end
+
+  def write_html(target)
+    File.open(target, "w") { |f| write_html_file f }
+  end
+
+  private
+
+  def write_html_file(file)
+    @days.each do |day, books|
+      file.write %{<h2 id="#{day_anchor day}">#{day_title day}</h2>\n}
+
+      if books.nil? or books.empty?
+        file.write %(<p class="notice">Il n’y a pas encore de livres pour ce jour.</p>\n)
+        next
+      end
+
+      books.each_with_index do |hash, i|
+        book = Book.new(hash, day, i)
+        file.write book.to_html
+      end
+    end
+  end
+
+  def write_jekyll_prelude(file)
+    file.write <<-EOS
 ---
 layout: default
 ---
@@ -128,29 +162,28 @@ Contactez-moi sur Twitter (<a href="https://twitter.com/bfontn">@bfontn</a>) si 
 
 Accès direct à un jour :<br/>
 
-  EOS
+    EOS
 
-  days = YAML.load_file("books.yml")
-
-  # We have to cheat here because GitHub doesn't seem to like <ol id="something">
-  days.each_with_index do |p, i|
-    day = p[0]
-    f.write %{#{i + 1}. [#{day_title day}](##{day_anchor day})\n}
-  end
-
-  f.write "\n"
-
-  days.each do |day, books|
-    f.write %{<h2 id="#{day_anchor day}">#{day_title day}</h2>\n}
-
-    if books.nil? or books.empty?
-      f.write %(<p class="notice">Il n’y a pas encore de livres pour ce jour.</p>\n)
-      next
+    @days.each_with_index do |p, i|
+      day = p[0]
+      file.write %{#{i + 1}. [#{day_title day}](##{day_anchor day})\n}
     end
 
-    books.each_with_index do |hash, i|
-      book = Book.new(hash, day, i)
-      f.write book.to_html
-    end
+    file.write "\n"
   end
+end
+
+ls = BooksList.new "books.yml"
+
+if ARGV.include? "--pdf"
+  # WIP
+  tmp = "_books.html"
+  ls.write_html tmp
+  begin
+    system "pandoc", "--latex-engine=xelatex", "_books.html", "-o", "books.pdf"
+  ensure
+    File.unlink tmp
+  end
+else
+  ls.write_jekyll "index.md"
 end
