@@ -465,7 +465,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Excellente initiative! Mon livre choix pour le J1 : Boltanski/ Thévenot et le concept des cités<br/>
+      Excellente initiative ! Mon livre choix pour le J1 : Boltanski/ Thévenot et le concept des cités<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/671740566409977856">@F_Bally</a></span>
     </blockquote>
   
@@ -527,7 +527,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-1-Gouverner-la-ville-des-voies-urbaines-de-la-d-mocratie-moderne-Thierry-Oblet"><span class="title">Gouverner la ville: des voies urbaines de la démocratie moderne</span>, par <span class="author">Thierry Oblet</span></h1>
+  <h1 id="dec15-1-Gouverner-la-ville-des-voies-urbaines-de-la-d-mocratie-moderne-Thierry-Oblet"><span class="title">Gouverner la ville : des voies urbaines de la démocratie moderne</span>, par <span class="author">Thierry Oblet</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -1433,7 +1433,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Beaucoup ont cité "Pays de Malheur!". Je préfère quand même le 1er tome, lecture nécessaire pour tous les profs sans me faire d'illusions sur la capacité de certains collègues à saisir quoique ce soit à ce bouquin<br/>
+        Beaucoup ont cité "Pays de Malheur !". Je préfère quand même le 1er tome, lecture nécessaire pour tous les profs sans me faire d'illusions sur la capacité de certains collègues à saisir quoique ce soit à ce bouquin<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/673178768421224448">@Uneheuredepeine</a></span>
       </blockquote>
     
@@ -1445,7 +1445,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Paola Tabet, énorme claque!!<br/>
+      Paola Tabet, énorme claque !!<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/672028491882373121">@pa_prika_m</a></span>
     </blockquote>
   
@@ -1726,10 +1726,17 @@ Accès direct à un jour :<br/>
   <h1 id="dec15-3-Islamophobie-Abdellali-Hajjat-et-Marwan-Mohammed"><span class="title">Islamophobie</span>, par <span class="author">Abdellali Hajjat et Marwan Mohammed</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Islamophobie Comment les élites françaises fabriquent le « problème musulman »<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/672339885118889984">@Laboratoire_CMH</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Islamophobie Comment les élites françaises fabriquent le « problème musulman »<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/672339885118889984">@Laboratoire_CMH</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        En vrai tous le monde devrait avoir ça pour son #SocioNoel<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Morifen333/status/674715155603714048">@Morifen333</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2233,7 +2240,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      "La sociologie de Robert K. Merton" par @ArSaintMartin (2013) aux @Ed_LaDecouverte #SocioNoël de 2013 au pied du 🎄!<br/>
+      "La sociologie de Robert K. Merton" par @ArSaintMartin (2013) aux @Ed_LaDecouverte #SocioNoël de 2013 au pied du sapin !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/gcabanac/status/672458566515752960">@gcabanac</a></span>
     </blockquote>
   
@@ -2643,7 +2650,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-4-Entre-science-et-r-alit-La-construction-sociale-de-quoi-Ian-Hacking"><span class="title">Entre science et réalité: La construction sociale de quoi ?</span>, par <span class="author">Ian Hacking</span></h1>
+  <h1 id="dec15-4-Entre-science-et-r-alit-La-construction-sociale-de-quoi-Ian-Hacking"><span class="title">Entre science et réalité : La construction sociale de quoi ?</span>, par <span class="author">Ian Hacking</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2893,13 +2900,20 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-5-Anticapitalistes-une-sociologie-historique-de-l-engagement-Florence-Johsua"><span class="title">Anticapitalistes : une sociologie historique de l’engagement</span>, par <span class="author">Florence Johsua</span></h1>
+  <h1 id="dec15-5-Anticapitalistes-une-sociologie-historique-de-l-engagement-Florence-Johsua"><span class="title">Anticapitalistes : une sociologie historique de l’engagement</span>, par <span class="author">Florence Johsua</span>&nbsp;(<a href="https://lectures.revues.org/19413">lien</a>)</h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Lecture de train.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/673046836589019136">@balleverte</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Lecture de train.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/673046836589019136">@balleverte</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Anticapitalistes - Une sociologie historique de l’engagement<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Morifen333/status/674714779198447616">@Morifen333</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2932,7 +2946,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Après les classiques, place à la socio politique! 1er livre lu, 1er choc, Daniel Gaxie, Le Cens caché<br/>
+        Après les classiques, place à la socio politique ! 1er livre lu, 1er choc, Daniel Gaxie, Le Cens caché<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/673062279789809664">@SamuelHayat</a></span>
       </blockquote>
     
@@ -3133,7 +3147,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <h1 id="dec15-5-Le-temps-donn-aux-tableaux-compte-rendu-d-une-enqu-te-au-Mus-e-Granet-Jean-Claude-Passeron-et-Emmanuel-Pedler"><span class="title">Le temps donné aux tableaux: compte rendu d'une enquête au Musée Granet</span>, par <span class="author">Jean-Claude Passeron et Emmanuel Pedler</span></h1>
+  <h1 id="dec15-5-Le-temps-donn-aux-tableaux-compte-rendu-d-une-enqu-te-au-Mus-e-Granet-Jean-Claude-Passeron-et-Emmanuel-Pedler"><span class="title">Le temps donné aux tableaux : compte rendu d'une enquête au Musée Granet</span>, par <span class="author">Jean-Claude Passeron et Emmanuel Pedler</span></h1>
   <div class="sources">
   
     <blockquote class="comment">
@@ -3284,7 +3298,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Encaisser!, M. Benquet & Féminismes islamiques, Z.Ali. deux lectures importantes un peu en dehors de mes thèmes habituels<br/>
+        Encaisser !, M. Benquet & Féminismes islamiques, Z.Ali. deux lectures importantes un peu en dehors de mes thèmes habituels<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/674110580064657408">@MorganeMdt</a></span>
       </blockquote>
     
@@ -3650,7 +3664,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Encaisser!, M. Benquet & Féminismes islamiques, Z.Ali. deux lectures importantes un peu en dehors de mes thèmes habituels<br/>
+      Encaisser !, M. Benquet & Féminismes islamiques, Z.Ali. deux lectures importantes un peu en dehors de mes thèmes habituels<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/674110580064657408">@MorganeMdt</a></span>
     </blockquote>
   
@@ -4191,7 +4205,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Dernier bouquin de socio lu: "Les jeunes et l'amour dans les cités" d'Isabelle Clair. Top!<br/>
+      Dernier bouquin de socio lu: "Les jeunes et l'amour dans les cités" d'Isabelle Clair. Top !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/674177889198333952">@PaillardSimon</a></span>
     </blockquote>
   
@@ -4301,7 +4315,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Une bonne (bonne bonne) méthodo…!<br/>
+      Une bonne (bonne bonne) méthodo… !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/joliraton/status/674235621007876096">@joliraton</a></span>
     </blockquote>
   
@@ -4854,6 +4868,50 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       "Figures de la révolution Africaine", essai de Saïd Bouamama.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/674684700280102912">@thefugitive_</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-The-Wire-David-Simon"><span class="title">The Wire</span>, par <span class="author">David Simon</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      La série "The Wire". Si vous ne l'avez pas encore vue, foncez.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ostpolitik/status/674700744742854657">@Ostpolitik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9--conomie-et-Soci-t-Max-Weber"><span class="title">Économie et Société</span>, par <span class="author">Max Weber</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Et oui désolé, tu n'y couperas pas.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/HybridaTabulat/status/674712877652160513">@HybridaTabulat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Rosa-Lee-Leon-Dash"><span class="title">Rosa Lee</span>, par <span class="author">Leon Dash</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Conseil lecture : Rosa Lee écrit par Leon Dash qui raconte l'histoire d'une femme noire aux États-Unis dans les années 80 #journalism<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MaDeniau/status/674716004010737664">@MaDeniau</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Nouveau-manuel-de-science-politique-Antonin-Cohen-Bernard-Lacroix-et-Philippe-Riutort"><span class="title">Nouveau manuel de science politique</span>, dirigé par <span class="author">Antonin Cohen, Bernard Lacroix, et Philippe Riutort</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Allez un manuel de sociologie politique pour #SocioNoel #j9, celui de Cohen, Lacroix et Riutort, très complet.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/674716025976258560">@SamuelHayat</a></span>
     </blockquote>
   
   </div>

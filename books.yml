@@ -896,10 +896,14 @@
     comment: "Une lecture d'actualité"
   - title: Islamophobie
     author: Abdellali Hajjat et Marwan Mohammed
-    source: https://twitter.com/Laboratoire_CMH/status/672339885118889984
-    comment: >
-      Islamophobie Comment les élites françaises fabriquent le « problème
-      musulman »
+    sources:
+      - link: https://twitter.com/Laboratoire_CMH/status/672339885118889984
+        comment: >
+          Islamophobie Comment les élites françaises fabriquent le « problème
+          musulman »
+      - link: https://twitter.com/Morifen333/status/674715155603714048
+        comment: >
+          En vrai tous le monde devrait avoir ça pour son #SocioNoel
   - title: Pays de malheur !
     author: Younes Amrani et Stéphane Beaud
     sources:
@@ -1548,8 +1552,12 @@
     link: http://www.seuil.com/livre-9782020146197.htm
   - title: "Anticapitalistes : une sociologie historique de l’engagement"
     author: Florence Johsua
-    source: https://twitter.com/balleverte/status/673046836589019136
-    comment: "Lecture de train."
+    sources:
+      - link: https://twitter.com/balleverte/status/673046836589019136
+        comment: "Lecture de train."
+      - link: https://twitter.com/Morifen333/status/674714779198447616
+        comment: "Anticapitalistes - Une sociologie historique de l’engagement"
+    link: https://lectures.revues.org/19413
   - title: Le Suicide
     author: Émile Durkheim
     sources:
@@ -2642,3 +2650,27 @@
     comment: >
       "Figures de la révolution Africaine", essai de Saïd Bouamama.
     link: http://www.editions-zones.fr/spip.php?page=lyberplayer&id_article=180
+  - title: The Wire
+    author: David Simon
+    type: tv_series
+    source: https://twitter.com/Ostpolitik/status/674700744742854657
+    comment: >
+      La série "The Wire". Si vous ne l'avez pas encore vue, foncez.
+  - title: Économie et Société
+    author: Max Weber
+    source: https://twitter.com/HybridaTabulat/status/674712877652160513
+    comment: >
+      Et oui désolé, tu n'y couperas pas.
+  - title: Rosa Lee
+    author: Leon Dash
+    source: https://twitter.com/MaDeniau/status/674716004010737664
+    comment: >
+      Conseil lecture : Rosa Lee écrit par Leon Dash qui raconte l'histoire
+      d'une femme noire aux États-Unis dans les années 80 #journalism
+  - title: Nouveau manuel de science politique
+    author: Antonin Cohen, Bernard Lacroix, et Philippe Riutort
+    directed: true
+    source: https://twitter.com/SamuelHayat/status/674716025976258560
+    comment: >
+      Allez un manuel de sociologie politique pour #SocioNoel #j9, celui de
+      Cohen, Lacroix et Riutort, très complet.
