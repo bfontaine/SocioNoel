@@ -68,7 +68,7 @@ class Book
   end
 
   def to_s
-    "#{title} (day #{@day}, ##{@idx})"
+    "#{@attrs["title"]} (day #{@day}, ##{@idx})"
   end
 
   def to_html
