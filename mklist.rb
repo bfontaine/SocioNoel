@@ -202,7 +202,7 @@ if ARGV.include? "--pdf"
   tmp = "_books.html"
   ls.write_html tmp
   begin
-    system "pandoc", "--latex-engine=xelatex", "_books.html", "-o", "books.pdf"
+    system "pandoc", "--latex-engine=xelatex", tmp, "-o", "books.pdf"
   ensure
     File.unlink tmp
   end
