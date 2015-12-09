@@ -4682,3 +4682,179 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1 id="dec15-9-Sociologie-de-l-institution-Jacques-Lagroye-et-Michel-Offerl-"><span class="title">Sociologie de l’institution</span>, dirigé par <span class="author">Jacques Lagroye et Michel Offerlé</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un peu de sociologie politique. (Ouvrage surmobilisé dans ma thèse.)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/674549136465731584">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-La-place-Annie-Ernaux"><span class="title">La place</span>, par <span class="author">Annie Ernaux</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un roman, le 1er livre de socio que j'ai lu en 3e (Merci M. Blatter, je me souviens même de votre nom). En gros ça parle de honte de classe dans un contexte d'ascension sociale. Ça me parle à fond aujourd'hui (fille d'ouvrier/employée immigrés espagnols récents —mon père est arrivé en France dans les années 70— qui est entourée dans son taf d'enfants de profs et autres CSP+)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/674553041060761601">@pa_prika_m</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Sociologie-du-cin-ma-et-de-ses-publics-Emmanuel-Ethis"><span class="title">Sociologie du cinéma et de ses publics</span>, par <span class="author">Emmanuel Ethis</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Osez la sociologie du cinéma.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MarguerinLDN/status/674554515807461376">@MarguerinLDN</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Interpreting-Films-Studies-in-the-Historical-Reception-of-American-Cinema-Janet-Staiger"><span class="title">Interpreting Films: Studies in the Historical Reception of American Cinema</span>, par <span class="author">Janet Staiger</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Osez la sociologie du cinéma.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MarguerinLDN/status/674554515807461376">@MarguerinLDN</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Le-cin-ma-pr-s-de-la-vie-Prises-de-vue-sociologiques-sur-le-spectateur-du-XXI-sup-e-sup-si-cle-Emmanuel-Ethis"><span class="title">Le cinéma près de la vie : Prises de vue sociologiques sur le spectateur du XXI<sup>e</sup> siècle</span>, par <span class="author">Emmanuel Ethis</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Osez la sociologie du cinéma.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MarguerinLDN/status/674554515807461376">@MarguerinLDN</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Ignor-e-de-tous-sauf-du-public-Quinze-ans-de-fiction-t-l-vis-e-fran-aise-1995-2010-No-l-Burch-et-Genevi-ve-Sellier"><span class="title">Ignorée de tous… sauf du public : Quinze ans de fiction télévisée française 1995-2010</span>, par <span class="author">Noël Burch et Geneviève Sellier</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Osez la sociologie du cinéma.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MarguerinLDN/status/674554515807461376">@MarguerinLDN</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-L-individu-incertain-Alain-Ehrenberg"><span class="title">L’individu incertain</span>, par <span class="author">Alain Ehrenberg</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Livre extrêmement intéressant qui, à partir de l'étude de deux objets, les drogues et la télévision, analyse les nouvelles formes d'individualités (et de soutien à l'individualité) dans nos sociétés démocratiques contemporaines, fondées dans une large mesure sur une norme d'autonomie individuelle.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jann_anders/status/674572327284273152">@jann_anders</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Les-sociologies-fran-aises-H-ritages-et-perspectives-1960-2010-Catherine-Paradeise-Dominique-Lorrain-et-Didier-Demazi-re"><span class="title">Les sociologies françaises : Héritages et perspectives 1960-2010</span>, dirigé par <span class="author">Catherine Paradeise, Dominique Lorrain, et Didier Demazière</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Dans un style "guère épais", une parution très #SocioNoel<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/674577217075216384">@Gerome_Truc</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-O-est-pass-e-la-critique-sociale-Penser-le-global-au-croisement-des-savoirs-Philippe-Corcuff"><span class="title">Où est passée la critique sociale ? Penser le global au croisement des savoirs</span>, par <span class="author">Philippe Corcuff</span>&nbsp;(<a href="http://widget.editis.com/ladecouverte/9782707173287/#page/1/mode/1up">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour poursuivre avec les sociologues avec lesquels j'ai une relation amour/haine. Je suis pas convaincu par tout, mais je trouve que c'est une synthèse très agréable à lire qui aborde pas mal de débats théoriques et politiques qui ont traversé le XX<sup>e</sup>. Corcuff a publié une version ultra-condensée en tout petit format : « La gauche est-elle en état de mort cérébrale ? »<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/674585846834679808">@sociosauvage</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Les-faux-semblants-du-FN-Sociologie-d-un-parti-politique-Sylvain-Cr-pon-Alexandre-D-z-et-Nonna-Mayer"><span class="title">Les faux-semblants du FN : Sociologie d’un parti politique</span>, dirigé par <span class="author">Sylvain Crépon, Alexandre Dézé, et Nonna Mayer</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un #SocioNoel indispensable et d'actualité<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/EditionsScpo/status/674593385462824960">@EditionsScpo</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9--Co-ts-et-profits-de-l-immigration-les-pr-suppos-s-politiques-d-un-d-bat-conomique-Abdelmalek-Sayad"><span class="title">"Coûts" et "profits" de l’immigration : les présupposés politiques d’un débat économique</span>, par <span class="author">Abdelmalek Sayad</span>&nbsp;(<a href="http://www.persee.fr/doc/arss_0335-5322_1986_num_61_1_2308?h=sayad&h=co%C3%BBts&h=immigration">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Si vous me suivez depuis plus de 2j, vous connaissez déjà ce texte de Sayad, mais le revoilà. Un texte que PUNAISE TOUT LE MONDE DEVRAIT LIRE SURTOUT EN CE MOMENT. Sayad montre comment ce vocabulaire des coûts et des profits dépolitise la question de l'immigration. Dire que, en fait, l'immigration "rapporte", est "utile", c'est tomber dans le piège argumentatif tendu par l'économisme. Pensez-y la prochaine fois que vous justifierez l'accueil des réfugiés syriens en disant "Steve Jobs était fils de réfugié !". Parce que quelqu'un qui ne deviendra pas Steve Jobs a quand même le droit de vivre… Enfin. Je crois.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/674604315240075264">@Uneheuredepeine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Qu-est-ce-que-le-Digital-Labor-Dominique-Cardon-et-Antonio-A-Casilli"><span class="title">Qu’est-ce que le Digital Labor ?</span>, par <span class="author">Dominique Cardon et Antonio A. Casilli</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      « Qu’est-ce que le Digital Labor ? » de @Karmacoma et @AntonioCasilli<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/674631166025195522">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Les-formes-l-mentaires-de-la-vie-religieuse-mile-Durkheim"><span class="title">Les formes élémentaires de la vie religieuse</span>, par <span class="author">Émile Durkheim</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Lu cette année, "Les formes élémentaires de la vie religieuse" de Durkheim. Du lourd.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/674636191573090305">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Gender-play-Girls-and-boys-in-school-Barrie-Thorne"><span class="title">Gender play: Girls and boys in school</span>, par <span class="author">Barrie Thorne</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      À mettre sur sa table de chevet !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/fivepastfive/status/674649598296768512">@fivepastfive</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-La-d-mocratie-Internet-Dominique-Cardon"><span class="title">La démocratie Internet</span>, par <span class="author">Dominique Cardon</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Bouquin assez sympa et facile à lire de @Karmacoma sur les possibilités qu'offre Internet<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/674681377615425537">@RaphCann</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Figures-de-la-r-volution-Africaine-Sa-d-Bouamama"><span class="title">Figures de la révolution Africaine</span>, par <span class="author">Saïd Bouamama</span>&nbsp;(<a href="http://www.editions-zones.fr/spip.php?page=lyberplayer&id_article=180">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Figures de la révolution Africaine", essai de Saïd Bouamama.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/674684700280102912">@thefugitive_</a></span>
+    </blockquote>
+  
+  </div>
+</article>
