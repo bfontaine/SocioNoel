@@ -4638,3 +4638,47 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <h1 id="dec15-9-Bastardo-Nejib-Belkadhi"><span class="title">Bastardo</span>, réalisé par <span class="author">Nejib Belkadhi</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Bastardo", un film de Nejib Belkadhi<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/674529920501080064">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-L-exp-rimentation-statistique-et-les-probabilit-s-Maurice-Halbwachs"><span class="title">L’expérimentation statistique et les probabilités</span>, par <span class="author">Maurice Halbwachs</span>&nbsp;(<a href="http://classiques.uqac.ca/classiques/Halbwachs_maurice/classes_morphologie/partie_4/texte_4_1/statistique_probabilites.html">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "L'expérimentation statistique et les probabilités" - Halbwachs<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Comtesse_Leia/status/674534333101813760">@Comtesse_Leia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Caliban-et-la-sorci-re-Les-femmes-les-corps-et-l-accumulation-primitive-Silvia-Federici"><span class="title">Caliban et la sorcière : Les femmes, les corps et l’accumulation primitive</span>, par <span class="author">Silvia Federici</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Silvia FEDERICI pour le lien entre #capitalisme #patriarcat ET VIVE TOUTES LES SORCIÈRES :) Y'a une bonne interview <a href="http://www.contretemps.eu/interviews/origines-capitalisme-patriarcal-entretien-silvia-federici">ici</a><br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/674541265585897472">@LionnelleMakaya</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-La-composition-des-mondes-Philippe-Descola"><span class="title">La composition des mondes</span>, par <span class="author">Philippe Descola</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Quand un grand Anthropologue raconte sa vie et celle de ses idées on en apprend beaucoup sur son art<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/674542720266801153">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
