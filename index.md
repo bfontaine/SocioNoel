@@ -24,6 +24,7 @@ Accès direct à un jour :<br/>
 7. [7 Décembre](#dec15-7)
 8. [8 Décembre](#dec15-8)
 9. [9 Décembre](#dec15-9)
+10. [10 Décembre](#dec15-10)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -3619,10 +3620,17 @@ Accès direct à un jour :<br/>
   <h1 id="dec15-6-Du-c-t-des-petites-filles-Elena-Gianini-Belotti"><span class="title">Du côté des petites filles</span>, par <span class="author">Elena Gianini Belotti</span></h1>
   <div class="sources">
   
-    <blockquote class="comment">
-      Sur les conditionnements sociaux & la petite enfance.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/673579573704065024">@thefugitive_</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Sur les conditionnements sociaux & la petite enfance.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/673579573704065024">@thefugitive_</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Un classique indispensable en cette période de Noël… #Stéréotypes<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/674835047720071168">@bbarbusse</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -4912,6 +4920,150 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Allez un manuel de sociologie politique pour #SocioNoel #j9, celui de Cohen, Lacroix et Riutort, très complet.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/674716025976258560">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Les-blogs-politiques-un-support-favorable-l-engagement-citoyen-Marie-Neihouser"><span class="title">Les blogs politiques, un support favorable à l’engagement citoyen ?</span>, par <span class="author">Marie Neihouser</span>&nbsp;(<a href="https://www.cairn.info/revue-politiques-de-communication-2014-2-page-59.htm">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour changer des auteurs bien connus, un article d'une doctorante qui soutient bientôt sa thèse.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/674734801132331008">@Silmalia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-9-Le-journalisme-au-prisme-du-genre-une-probl-matique-f-conde-B-atrice-Damian-Gaillard-C-gol-ne-Frisque-et-Eug-nie-Saitta"><span class="title">Le journalisme au prisme du genre : une problématique féconde</span>, par <span class="author">Béatrice Damian-Gaillard, Cégolène Frisque, et Eugénie Saitta</span>&nbsp;(<a href="https://questionsdecommunication.revues.org/544">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Article plutôt synthétique expliquant ce qu'on peut étudier au niveau du journalisme quant au genre.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/674886335036043265">@Phangere</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-10">10 Décembre</h2>
+<article class="book">
+  <h1 id="dec15-10-Les-Grecs-ont-ils-cru-leurs-mythes-Paul-Veyne"><span class="title">Les Grecs ont-ils cru à leurs mythes ?</span>, par <span class="author">Paul Veyne</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Not socio mais un bouquin avec des prolongements utiles en sciences sociales<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/674860409451622400">@JohnGoodMalik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-10-Les-hommes-et-les-machines-Nicolas-Dodier"><span class="title">Les hommes et les machines</span>, par <span class="author">Nicolas Dodier</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      La meilleure des contributions de la socio pragmatique, une grande oeuvre de socio du W<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/674867791183405056">@mquijoux</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-10-Le-raisonnement-statistique-en-sociologie-Marion-Selz-et-Florence-Maillochon"><span class="title">Le raisonnement statistique en sociologie</span>, par <span class="author">Marion Selz et Florence Maillochon</span>&nbsp;(<a href="http://www.puf.com/Autres_Collections:Le_raisonnement_statistique_en_sociologie">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Marion Selz, Florence Maillochon - Le raisonnement statistique en socio<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/674875744321978368">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-10-Un-monde-d-fait-Bernard-Pudal"><span class="title">Un monde défait</span>, par <span class="author">Bernard Pudal</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une belle étude sur le PCF d'après guerre et ses militants.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/674879460588584960">@Jo14Hernandez</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-10-Le-processus-de-f-minisation-du-journalisme-politique-et-les-r-organisations-professionnelles-dans-les-quotidiens-nationaux-fran-ais-B-atrice-Damian-Gaillard-et-Eug-nie-Saitta"><span class="title">Le processus de féminisation du journalisme politique et les réorganisations professionnelles dans les quotidiens nationaux français</span>, par <span class="author">Béatrice Damian-Gaillard et Eugénie Saitta</span>&nbsp;(<a href="http://communication.revues.org/1725">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Il s'agit donc d'une étude de cas auprès de Libération, Le Figaro, Le Monde et L'Huma. [Promo : clique, les résultats vont te surprendre !]<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/674886941628899328">@Phangere</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-10-Domestication-des-animaux-culture-des-plantes-et-traitement-d-autrui-Andr-G-Haudricourt"><span class="title">Domestication des animaux, culture des plantes et traitement d'autrui</span>, par <span class="author">André G. Haudricourt</span>&nbsp;(<a href="http://www.persee.fr/doc/hom_0439-4216_1962_num_2_1_366448">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      A-G Haudricourt, "Domestication des animaux, culture des plantes et traitement d'autrui".<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/674892803789426688">@NuteluCaine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-10-Lectures-l-eau-de-rose-Femmes-patriarcat-et-litt-rature-populaire-Janice-A-Radway"><span class="title">Lectures à « l'eau de rose ». Femmes, patriarcat et littérature populaire</span>, par <span class="author">Janice A. Radway</span>&nbsp;(<a href="http://www.persee.fr/doc/polix_0295-2319_2000_num_13_51_1108?h=radway&h=janice">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "socio de la réception". 1/J. Radway d'abord<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/674869619191103488">@M_Iz_6</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-10-Du-c-t-du-public-Usages-et-r-ceptions-de-la-t-l-vision-Brigitte-Le-Grignou"><span class="title">Du côté du public : Usages et réceptions de la télévision</span>, par <span class="author">Brigitte Le Grignou</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Excellent livre de Brigitte Le Grignou, Du côté du public. (excellent titre aussi).<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/674869912842723328">@M_Iz_6</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-10-Lire-le-Noir-Annie-Collovald-et-Erik-Neveu"><span class="title">Lire le Noir</span>, par <span class="author">Annie Collovald et Erik Neveu</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Autre excellent titre/livre : Neveu et Collovald, Lire le Noir.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/674870104761442304">@M_Iz_6</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-10-The-Politics-of-Method-in-the-Human-Sciences-Positivism-and-Its-Epistemological-Others-George-Steinmetz"><span class="title">The Politics of Method in the Human Sciences: Positivism and Its Epistemological Others</span>, dirigé par <span class="author">George Steinmetz</span>&nbsp;(<a href="https://www.dukeupress.edu/the-politics-of-method-in-the-human-sciences">lien</a>)</h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Implacable<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/674885154112933888">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <h1 id="dec15-10-Le-Savant-et-le-populaire-Mis-rabilisme-et-populisme-en-sociologie-et-en-litt-rature-Claude-Grignon-et-Jean-Claude-Passeron"><span class="title">Le Savant et le populaire. Misérabilisme et populisme en sociologie et en littérature</span>, par <span class="author">Claude Grignon et Jean-Claude Passeron</span></h1>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Les pages 17-38 dans "Le savant et le populaire" sont lumineuses et décisives sur la question de l'écriture sur la culture populaire. Et si on est vraiment paresseux, on peut se contenter du schéma p. 65<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LaValeurTravail/status/674895990965542914">@LaValeurTravail</a></span>
     </blockquote>
   
   </div>

@@ -1946,9 +1946,13 @@
       et les autres.
   - title: Du côté des petites filles
     author: Elena Gianini Belotti
-    source: https://twitter.com/thefugitive_/status/673579573704065024
-    comment: >
-      Sur les conditionnements sociaux & la petite enfance.
+    sources:
+      - link: https://twitter.com/thefugitive_/status/673579573704065024
+        comment: >
+          Sur les conditionnements sociaux & la petite enfance.
+      - link: https://twitter.com/bbarbusse/status/674835047720071168
+        comment: >
+          Un classique indispensable en cette période de Noël… #Stéréotypes
   - title: "La Gratuité, à quel prix ? Circulation et échange de biens culturels sur internet"
     author: Joëlle Farchy, Cécile Méadel et Guillaume Sire
     source: https://twitter.com/gcabanac/status/673626143690506240
@@ -2674,3 +2678,85 @@
     comment: >
       Allez un manuel de sociologie politique pour #SocioNoel #j9, celui de
       Cohen, Lacroix et Riutort, très complet.
+  - title: "Les blogs politiques, un support favorable à l’engagement citoyen ?"
+    author: Marie Neihouser
+    source: https://twitter.com/Silmalia/status/674734801132331008
+    comment: >
+      Pour changer des auteurs bien connus, un article d'une doctorante qui
+      soutient bientôt sa thèse.
+    link: https://www.cairn.info/revue-politiques-de-communication-2014-2-page-59.htm
+  - title: "Le journalisme au prisme du genre : une problématique féconde"
+    author: Béatrice Damian-Gaillard, Cégolène Frisque, et Eugénie Saitta
+    source: https://twitter.com/Phangere/status/674886335036043265
+    comment: >
+      Article plutôt synthétique expliquant ce qu'on peut étudier au niveau du
+      journalisme quant au genre.
+    link: https://questionsdecommunication.revues.org/544
+10:
+  - title: Les Grecs ont-ils cru à leurs mythes ?
+    author: Paul Veyne
+    source: https://twitter.com/JohnGoodMalik/status/674860409451622400
+    comment: >
+      Not socio mais un bouquin avec des prolongements utiles en sciences
+      sociales
+  - title: Les hommes et les machines
+    author: Nicolas Dodier
+    source: https://twitter.com/mquijoux/status/674867791183405056
+    comment: >
+      La meilleure des contributions de la socio pragmatique, une grande oeuvre
+      de socio du W
+  - title: Le raisonnement statistique en sociologie
+    author: Marion Selz et Florence Maillochon
+    source: https://twitter.com/Laboratoire_CMH/status/674875744321978368
+    comment: >
+      Marion Selz, Florence Maillochon - Le raisonnement statistique en socio
+    link: http://www.puf.com/Autres_Collections:Le_raisonnement_statistique_en_sociologie
+  - title: Un monde défait
+    author: Bernard Pudal
+    source: https://twitter.com/Jo14Hernandez/status/674879460588584960
+    comment: >
+      Une belle étude sur le PCF d'après guerre et ses militants.
+  - title: "Le processus de féminisation du journalisme politique et les réorganisations professionnelles dans les quotidiens nationaux français"
+    author: Béatrice Damian-Gaillard et Eugénie Saitta
+    source: https://twitter.com/Phangere/status/674886941628899328
+    comment: >
+      Il s'agit donc d'une étude de cas auprès de Libération, Le Figaro, Le
+      Monde et L'Huma. [Promo : clique, les résultats vont te surprendre !]
+    link: http://communication.revues.org/1725
+  - title: "Domestication des animaux, culture des plantes et traitement d'autrui"
+    author: André G. Haudricourt
+    source: https://twitter.com/NuteluCaine/status/674892803789426688
+    comment: >
+      A-G Haudricourt, "Domestication des animaux, culture des plantes et
+      traitement d'autrui".
+    link: http://www.persee.fr/doc/hom_0439-4216_1962_num_2_1_366448
+  - title: "Lectures à « l'eau de rose ». Femmes, patriarcat et littérature populaire"
+    author: Janice A. Radway
+    source: https://twitter.com/M_Iz_6/status/674869619191103488
+    comment: >
+      "socio de la réception". 1/J. Radway d'abord
+    link: http://www.persee.fr/doc/polix_0295-2319_2000_num_13_51_1108?h=radway&h=janice
+  - title: "Du côté du public : Usages et réceptions de la télévision"
+    author: Brigitte Le Grignou
+    source: https://twitter.com/M_Iz_6/status/674869912842723328
+    comment: >
+      Excellent livre de Brigitte Le Grignou, Du côté du public. (excellent
+      titre aussi).
+  - title: Lire le Noir
+    author: Annie Collovald et Erik Neveu
+    source: https://twitter.com/M_Iz_6/status/674870104761442304
+    comment: >
+      Autre excellent titre/livre : Neveu et Collovald, Lire le Noir.
+  - title: "The Politics of Method in the Human Sciences: Positivism and Its Epistemological Others"
+    author: George Steinmetz
+    directed: true
+    source: https://twitter.com/ArSaintMartin/status/674885154112933888
+    comment: "Implacable"
+    link: https://www.dukeupress.edu/the-politics-of-method-in-the-human-sciences
+  - title: "Le Savant et le populaire. Misérabilisme et populisme en sociologie et en littérature"
+    author: Claude Grignon et Jean-Claude Passeron
+    source: https://twitter.com/LaValeurTravail/status/674895990965542914
+    comment: >
+      Les pages 17-38 dans "Le savant et le populaire" sont lumineuses et
+      décisives sur la question de l'écriture sur la culture populaire. Et si
+      on est vraiment paresseux, on peut se contenter du schéma p. 65
