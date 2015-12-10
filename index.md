@@ -855,10 +855,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-2-Les-prisons-de-la-mis-re-Lo-c-Wacquant"><b class="title">Les prisons de la misère</b>, par <span class="author">Loïc Wacquant</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Loïc Wacquant "A l’atrophie délibérée de l’Etat social correspond l’hypertrophie de l’Etat pénal"<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/671954466254532608">@Lil_RoXaNe</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Loïc Wacquant "A l’atrophie délibérée de l’Etat social correspond l’hypertrophie de l’Etat pénal"<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/671954466254532608">@Lil_RoXaNe</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Les prisons de la misère de L. Wacquant<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/674935347801931776">@F_Bally</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -5162,10 +5169,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-10-Retour-Reims-Didier-Eribon"><b class="title">Retour à Reims</b>, par <span class="author">Didier Eribon</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Roman très intéressant sur les transfuges de classe<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/674903645385842689">@Pyrate_Jenni</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Roman très intéressant sur les transfuges de classe<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/674903645385842689">@Pyrate_Jenni</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Pour poursuivre avec les relations amour/haine, les essais auto-réflexif d'Eribon. Des lectures plutôt faciles et agréables pour découvrir des aspects de la socio de Bourdieu.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/674935524755431424">@sociosauvage</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -5198,6 +5212,61 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Dis moi ce que tu lis (ou pas), etc etc.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ludemain/status/674921303623749632">@ludemain</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Le-gouvernement-du-compromis-Olivier-Nay-et-Andy-Smith"><b class="title">Le gouvernement du compromis</b>, dirigé par <span class="author">Olivier Nay et Andy Smith</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Encore un petit peu de sociologie politique (avec une belle intro)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/674926853946253313">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Jeunesse-et-classes-sociales-Jean-CLaude-Chamboredon"><b class="title">Jeunesse et classes sociales</b>, par <span class="author">Jean-CLaude Chamboredon</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Des fois on peut penser que tout a déjà été écrit il y a bien longtemps.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/younesamrani2/status/674932732061962240">@younesamrani2</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Dans-les-plis-singuliers-du-social-Bernard-Lahire"><b class="title">Dans les plis singuliers du social</b>, par <span class="author">Bernard Lahire</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      En attendant le nouveau dans un mois #Lahire<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/674933659254812673">@ruggeroparis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-La-vocation-conversion-et-reconversion-des-pr-tres-ruraux-Charles-Suaud"><b class="title">La vocation : conversion et reconversion des prêtres ruraux</b>, par <span class="author">Charles Suaud</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une sociologie de la vocation #Suaud (en bonus l'article sur la RFS du 1974)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/674934670493118464">@ruggeroparis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-La-Soci-t-comme-verdict-Didier-Eribon"><b class="title">La Société comme verdict</b>, par <span class="author">Didier Eribon</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour poursuivre avec les relations amour/haine, les essais auto-réflexif d'Eribon. Des lectures plutôt faciles et agréables pour découvrir des aspects de la socio de Bourdieu.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/674935524755431424">@sociosauvage</a></span>
     </blockquote>
   
   </div>

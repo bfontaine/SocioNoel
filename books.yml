@@ -442,10 +442,14 @@
     link: http://www.armand-colin.com/les-reseaux-sociaux-9782200266622
   - title: Les prisons de la misère
     author: Loïc Wacquant
-    source: https://twitter.com/Lil_RoXaNe/status/671954466254532608
-    comment: >
-      Loïc Wacquant "A l’atrophie délibérée de l’Etat social correspond
-      l’hypertrophie de l’Etat pénal"
+    sources:
+      - link: https://twitter.com/Lil_RoXaNe/status/671954466254532608
+        comment: >
+          Loïc Wacquant "A l’atrophie délibérée de l’Etat social correspond
+          l’hypertrophie de l’Etat pénal"
+      - link: https://twitter.com/F_Bally/status/674935347801931776
+        comment: >
+          Les prisons de la misère de L. Wacquant
   - title: Signes d’identité
     author: David Le Breton
     source: https://twitter.com/ylloPytterP/status/671963062891651072
@@ -2809,9 +2813,15 @@
       Roman très intéressant sur les transfuges de classe
   - title: Retour à Reims
     author: Didier Eribon
-    source: https://twitter.com/Pyrate_Jenni/status/674903645385842689
-    comment: >
-      Roman très intéressant sur les transfuges de classe
+    sources:
+      - link: https://twitter.com/Pyrate_Jenni/status/674903645385842689
+        comment: >
+          Roman très intéressant sur les transfuges de classe
+      - link: https://twitter.com/sociosauvage/status/674935524755431424
+        comment: >
+          Pour poursuivre avec les relations amour/haine, les essais
+          auto-réflexif d'Eribon. Des lectures plutôt faciles et agréables pour
+          découvrir des aspects de la socio de Bourdieu.
   - title: Psychologie des Foules
     author: Gustave Le Bon
     source: https://twitter.com/bfontn/status/674911743513075712
@@ -2828,3 +2838,32 @@
     source: https://twitter.com/ludemain/status/674921303623749632
     comment: >
       Dis moi ce que tu lis (ou pas), etc etc.
+  - title: Le gouvernement du compromis
+    author: Olivier Nay et Andy Smith
+    directed: true
+    source: https://twitter.com/balleverte/status/674926853946253313
+    comment: >
+      Encore un petit peu de sociologie politique (avec une belle intro)
+  - title: Jeunesse et classes sociales
+    author: Jean-CLaude Chamboredon
+    source: https://twitter.com/younesamrani2/status/674932732061962240
+    comment: >
+      Des fois on peut penser que tout a déjà été écrit il y a bien longtemps.
+  - title: Dans les plis singuliers du social
+    author: Bernard Lahire
+    source: https://twitter.com/ruggeroparis/status/674933659254812673
+    comment: >
+      En attendant le nouveau dans un mois #Lahire
+  - title: "La vocation : conversion et reconversion des prêtres ruraux"
+    author: Charles Suaud
+    source: https://twitter.com/ruggeroparis/status/674934670493118464
+    comment: >
+      Une sociologie de la vocation #Suaud (en bonus l'article sur la RFS du
+      1974)
+  - title: La Société comme verdict
+    author: Didier Eribon
+    source: https://twitter.com/sociosauvage/status/674935524755431424
+    comment: >
+      Pour poursuivre avec les relations amour/haine, les essais auto-réflexif
+      d'Eribon. Des lectures plutôt faciles et agréables pour découvrir des
+      aspects de la socio de Bourdieu.
