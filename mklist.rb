@@ -64,8 +64,10 @@ class Book
     elsif !has? "source"
       must "have a source"
     else
-      must "use 'sources' instead of 'source'" if @attrs["source"].is_a? Array
+      source = @attrs["source"]
+      must "use 'sources' instead of 'source'" if source.is_a? Array
       must "have a comment" unless has? "comment"
+      must "use Twitter for the source" if source !~ %r{^https?://twitter\.com/[^/]+/}
     end
   end
 
