@@ -39,10 +39,14 @@
         comment: "Comme @sociosauvage - et bcp de camarades de prépa, j’ai débuté la socio en lisant Outsiders, de Becker. C’est top moumoutte."
       - link: https://twitter.com/Ianonim/status/671724354707828737
         comment: >
-          Une lecture qui t’oblige à prendre du recul sur la catégorisation. Et t’apprends à fumer du shit
+          Une lecture qui t’oblige à prendre du recul sur la catégorisation. Et
+          t’apprends à fumer du shit
       - link: https://twitter.com/perfounet/status/673795623481712640
+        comment: Allez, moi aussi je m’y mets. À lire en fumant un ptit joint.
+      - link: https://twitter.com/RaphCann/status/675069438052442112
         comment: >
-          Allez, moi aussi je m’y mets. À lire en fumant un ptit joint.
+          Après tout ce temps en me disant qu’il fallait que je lise Howard
+          Becker merci #Socionoel de m’avoir convaincu de le prendre
   - title: La reproduction
     author: Pierre Bourdieu et Jean-Claude Passeron
     source: https://twitter.com/SamuelHayat/status/671671019267035136
@@ -362,8 +366,11 @@
     link: https://www.cairn.info/article.php?ID_ARTICLE=SCPO_BORRA_2010_01_0265&DocId=385730
   - title: Riche, pourquoi pas toi ?
     author: Michel Pinçon, Monique Pinçon-Charlot et Marion Montaigne
-    source: https://twitter.com/MorganeMdt/status/671783451746394112
-    comment: "Bon allez j’essaie. Après une journée de cours donc plutôt light"
+    sources:
+      - link: https://twitter.com/MorganeMdt/status/671783451746394112
+        comment: "Bon allez j’essaie. Après une journée de cours donc plutôt light"
+      - link: https://twitter.com/CamilleGinger/status/675053385742200832
+        comment: Bédé à mettre entre toutes mains
   - title: La Production des Grands Hommes
     author: Maurice Godelier
     sources:
@@ -422,12 +429,14 @@
         comment: >
           C’était notre bible en cours de socio du racisme.
     link: http://www.persee.fr/doc/homso_0018-4306_1973_num_27_1_1800
-  - title: Des femmes respectables
+  - title: "Des femmes respectables : Classe et genre en milieu populaire"
     author: Beverley Skeggs
-    source: https://twitter.com/extatiq/status/671835100196245504
-    comment: >
-      Participation nocturne à #SocioNoël : Des femmes respectables de Beverley
-      Skeggs . (meilleur livre lu cette année)
+    sources:
+      - link: https://twitter.com/extatiq/status/671835100196245504
+        comment: Meilleur livre lu cette année
+      - link: https://twitter.com/CristinaNizzoli/status/675073632822042624
+        comment: Des femmes respectables. Classe et genre en milieu populaire" de Beverley Skeggs
+    link: http://agone.org/lordredeschoses/desfemmesrespectables
   - title: Devenir anorexique
     author: Muriel Darmon
     source: https://twitter.com/AAulagnier/status/671998090891665408
@@ -2266,9 +2275,14 @@
     link: http://www.leseditionsdeminuit.fr/f/index.php?sp=liv&livre_id=2107
   - title: "Les gars du coin : Enquête sur une jeunesse rurale"
     author: Nicolas Renahy
-    source: https://twitter.com/F__Casta/status/674155632170266624
-    comment: >
-      Sur tes potes du village dont tu te sens si éloigné aujourd’hui
+    sources:
+      - link: https://twitter.com/F__Casta/status/674155632170266624
+        comment: >
+          Sur tes potes du village dont tu te sens si éloigné aujourd’hui
+      - link: https://twitter.com/lestrelin/status/675041553925193729
+        comment: >
+          "Les gars du coin. Enquête sur une jeunesse rurale" de Nicolas Renahy
+          (2010).
     link: http://www.editionsladecouverte.fr/catalogue/index-Les_gars_du_coin-9782707160126.html
   - title: Nous sommes tous des cannibales
     author: Claude Lévi-Strauss
@@ -2369,10 +2383,15 @@
       A. Casilli - Les liaisons numériques : Vers une nouvelle sociabilité ?
   - title: Le nouvel esprit du capitalisme
     author: Luc Boltanski et Ève Chiapello
-    source: https://twitter.com/Stylahhh/status/674246309688250368
-    comment: >
-      L’intelligence de la Sociologie française en un livre ! #NouvelEsprit
-      #classic
+    sources:
+      - link: https://twitter.com/Stylahhh/status/674246309688250368
+        comment: >
+          L’intelligence de la Sociologie française en un livre ! #NouvelEsprit
+          #classic
+      - link: https://twitter.com/LionnelleMakaya/status/675012310746943489
+        comment: >
+          Un succulent gros pavé Le nouvel esprit du capitalisme BOLTANSKI et
+          CHIAPELLO INDISPENSABLE
   - title: La société malade de la gestion
     author: Vincent de Gaulejac
     source: https://twitter.com/JohnGoodMalik/status/674254144136486918
@@ -2867,3 +2886,82 @@
       Pour poursuivre avec les relations amour/haine, les essais auto-réflexif
       d'Eribon. Des lectures plutôt faciles et agréables pour découvrir des
       aspects de la socio de Bourdieu.
+  - title: "La distinction : critique sociale du jugement"
+    author: Pierre Bourdieu
+    source: https://twitter.com/Gerome_Truc/status/674940253506035716
+    comment: >
+      Pas très original, mais c'est ce livre qui m'a donné envie de devenir
+      sociologue
+  - title: La société de cour
+    author: Norbert Elias
+    source: https://twitter.com/F__Casta/status/674956904125341697
+    comment: >
+      Histoire de "fêter" les 300 ans de la mort de Louis XIV. Dont
+      l’excellente intro "Sociologie et Histoire", sur comment les possibilités
+      d'individualisation dépendent des positions sociales
+  - title: "La raison des sports : Sociologie d’une pratique universelle et singulière"
+    author: Jean-Michel Faure et Charles Suaud
+    source: https://twitter.com/bbarbusse/status/674978974221656064
+    comment: >
+      Mon cadeau perso #SocioNoel ! Il vient de sortir et il y a des
+      comparaisons internationales qui m'ont l'air top
+  - title: "Les larmes de Marianne. Comment devient-on électeur du FN ?"
+    author: Pascal Duret
+    source: https://twitter.com/jbiaudet/status/674997174661345280
+    comment: >
+      Les larmes de Marianne. Comment devient-on électeur du FN ? Pascal Duret
+  - title: Bourdieu and the sociology of music education
+    author: Pamela Burnard, Ylva Hofvander Trulsson, et Johan Söderman
+    directed: true
+    source: https://twitter.com/SamuelChagnard/status/675035588563746816
+    comment: >
+      J’ai pas pu attendre le 24 pour ouvrir le cadeau que je me suis offert.
+      Reçu d'outre-manche aujourd'hui !
+  - title: "Football et représentation territoriale : un club amateur dans un village ouvrier"
+    author: Nicolas Renahy
+    source: https://twitter.com/lestrelin/status/675042518367629314
+    comment: >
+      Renahy Ethnologie française 2001."Football et représentation
+      territoriale: un club amateur..."
+    link: http://www.cairn.info/revue-ethnologie-francaise-2001-4-page-707.htm
+  - title: "Deux siècles de rhétorique réactionnaire"
+    author: Albert O. Hirschman
+    source: https://twitter.com/Blinis/status/675043151363645440
+    comment: >
+      J’aime beaucoup Hirschman. Pour moi c’est un modèle d’intellectuel :
+      subtile, novateur, à la production très diverse tant en terme de sujets
+      que de méthodes. C’est pas ce qu’il y a de plus rigoureux, mais c’est
+      bourré d’idées, c’est contemporain et ça donne à réfléchir. Bref, chopez
+      n’importe quoi d’Hirschman, et allez-y. Au passage, ne vous souciez pas
+      des frontières disciplinaires : on s’en balance.
+  - title: "Beauté fatale : Les nouveaux visages d’une aliénation féminine"
+    author: Mona Chollet
+    source: https://twitter.com/thefugitive_/status/675049372594397185
+    comment: >
+      "Beauté Fatale. Les nouveaux visages d'une aliénation féminine", essai de
+      Mona Chollet
+    link: http://www.editions-zones.fr/spip.php?page=lyberplayer&id_article=149
+  - title: Étrangers de passage
+    author: Alain Tarrius
+    source: https://twitter.com/PaillardSimon/status/675052041081888771
+    comment: >
+      Un peu de socio de l'immigration avec "Etrangers de passage" d'Alain
+      Tarrius.
+  - title: "Nous avons mangé la forêt de la Pierre-Génie Gôo"
+    author: Georges Condominas
+    source: https://twitter.com/joliraton/status/675054146467332097
+    comment: >
+      On a mangé la forêt Pierre-Génie Goo de Condominas. Voilà !
+  - title: Les métiers de l’Europe politique
+    author: Didier Georgakakis
+    directed: true
+    source: https://twitter.com/F_Bally/status/675060096553086980
+    comment: >
+      Sociologie des institutions européennes
+  - title: "Statactivisme : Comment lutter avec des nombres"
+    author: Isabelle Bruno, Emmanuel Didier, et Julien Prévieux
+    source: https://twitter.com/Melusine_2/status/675069592373469185
+    comment: >
+      Recueil d’articles sur les stats comme outils politiques, avec des super
+      textes de Desrosières et Bolto notamment.
+    link: http://www.editions-zones.fr/spip.php?page=lyberplayer&id_article=184

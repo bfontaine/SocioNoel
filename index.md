@@ -110,6 +110,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/perfounet/status/673795623481712640">@perfounet</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Après tout ce temps en me disant qu’il fallait que je lise Howard Becker merci #Socionoel de m’avoir convaincu de le prendre<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/675069438052442112">@RaphCann</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -708,10 +713,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-1-Riche-pourquoi-pas-toi-Michel-Pin-on-Monique-Pin-on-Charlot-et-Marion-Montaigne"><b class="title">Riche, pourquoi pas toi ?</b>, par <span class="author">Michel Pinçon, Monique Pinçon-Charlot et Marion Montaigne</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Bon allez j’essaie. Après une journée de cours donc plutôt light<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/671783451746394112">@MorganeMdt</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Bon allez j’essaie. Après une journée de cours donc plutôt light<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/671783451746394112">@MorganeMdt</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Bédé à mettre entre toutes mains<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/675053385742200832">@CamilleGinger</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -818,13 +830,20 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-1-Des-femmes-respectables-Beverley-Skeggs"><b class="title">Des femmes respectables</b>, par <span class="author">Beverley Skeggs</span></div>
+  <div class="ref" id="dec15-1-Des-femmes-respectables-Classe-et-genre-en-milieu-populaire-Beverley-Skeggs"><b class="title">Des femmes respectables : Classe et genre en milieu populaire</b>, par <span class="author">Beverley Skeggs</span>&nbsp;(<a href="http://agone.org/lordredeschoses/desfemmesrespectables">lien</a>)</div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Participation nocturne à #SocioNoël : Des femmes respectables de Beverley Skeggs . (meilleur livre lu cette année)<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/extatiq/status/671835100196245504">@extatiq</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Meilleur livre lu cette année<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/extatiq/status/671835100196245504">@extatiq</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Des femmes respectables. Classe et genre en milieu populaire" de Beverley Skeggs<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CristinaNizzoli/status/675073632822042624">@CristinaNizzoli</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -4192,10 +4211,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-8-Les-gars-du-coin-Enqu-te-sur-une-jeunesse-rurale-Nicolas-Renahy"><b class="title">Les gars du coin : Enquête sur une jeunesse rurale</b>, par <span class="author">Nicolas Renahy</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Les_gars_du_coin-9782707160126.html">lien</a>)</div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Sur tes potes du village dont tu te sens si éloigné aujourd’hui<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/674155632170266624">@F__Casta</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Sur tes potes du village dont tu te sens si éloigné aujourd’hui<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/674155632170266624">@F__Casta</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        "Les gars du coin. Enquête sur une jeunesse rurale" de Nicolas Renahy (2010).<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/675041553925193729">@lestrelin</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -4379,10 +4405,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-8-Le-nouvel-esprit-du-capitalisme-Luc-Boltanski-et-ve-Chiapello"><b class="title">Le nouvel esprit du capitalisme</b>, par <span class="author">Luc Boltanski et Ève Chiapello</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      L’intelligence de la Sociologie française en un livre ! #NouvelEsprit #classic<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Stylahhh/status/674246309688250368">@Stylahhh</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        L’intelligence de la Sociologie française en un livre ! #NouvelEsprit #classic<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Stylahhh/status/674246309688250368">@Stylahhh</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Un succulent gros pavé Le nouvel esprit du capitalisme BOLTANSKI et CHIAPELLO INDISPENSABLE<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/675012310746943489">@LionnelleMakaya</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -5267,6 +5300,138 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Pour poursuivre avec les relations amour/haine, les essais auto-réflexif d'Eribon. Des lectures plutôt faciles et agréables pour découvrir des aspects de la socio de Bourdieu.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/674935524755431424">@sociosauvage</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-La-distinction-critique-sociale-du-jugement-Pierre-Bourdieu"><b class="title">La distinction : critique sociale du jugement</b>, par <span class="author">Pierre Bourdieu</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pas très original, mais c'est ce livre qui m'a donné envie de devenir sociologue<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/674940253506035716">@Gerome_Truc</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-La-soci-t-de-cour-Norbert-Elias"><b class="title">La société de cour</b>, par <span class="author">Norbert Elias</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Histoire de "fêter" les 300 ans de la mort de Louis XIV. Dont l’excellente intro "Sociologie et Histoire", sur comment les possibilités d'individualisation dépendent des positions sociales<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/674956904125341697">@F__Casta</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-La-raison-des-sports-Sociologie-d-une-pratique-universelle-et-singuli-re-Jean-Michel-Faure-et-Charles-Suaud"><b class="title">La raison des sports : Sociologie d’une pratique universelle et singulière</b>, par <span class="author">Jean-Michel Faure et Charles Suaud</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Mon cadeau perso #SocioNoel ! Il vient de sortir et il y a des comparaisons internationales qui m'ont l'air top<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/674978974221656064">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Les-larmes-de-Marianne-Comment-devient-on-lecteur-du-FN-Pascal-Duret"><b class="title">Les larmes de Marianne. Comment devient-on électeur du FN ?</b>, par <span class="author">Pascal Duret</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Les larmes de Marianne. Comment devient-on électeur du FN ? Pascal Duret<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jbiaudet/status/674997174661345280">@jbiaudet</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Bourdieu-and-the-sociology-of-music-education-Pamela-Burnard-Ylva-Hofvander-Trulsson-et-Johan-S-derman"><b class="title">Bourdieu and the sociology of music education</b>, dirigé par <span class="author">Pamela Burnard, Ylva Hofvander Trulsson, et Johan Söderman</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      J’ai pas pu attendre le 24 pour ouvrir le cadeau que je me suis offert. Reçu d'outre-manche aujourd'hui !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelChagnard/status/675035588563746816">@SamuelChagnard</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Football-et-repr-sentation-territoriale-un-club-amateur-dans-un-village-ouvrier-Nicolas-Renahy"><b class="title">Football et représentation territoriale : un club amateur dans un village ouvrier</b>, par <span class="author">Nicolas Renahy</span>&nbsp;(<a href="http://www.cairn.info/revue-ethnologie-francaise-2001-4-page-707.htm">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Renahy Ethnologie française 2001."Football et représentation territoriale: un club amateur..."<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/675042518367629314">@lestrelin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Deux-si-cles-de-rh-torique-r-actionnaire-Albert-O-Hirschman"><b class="title">Deux siècles de rhétorique réactionnaire</b>, par <span class="author">Albert O. Hirschman</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      J’aime beaucoup Hirschman. Pour moi c’est un modèle d’intellectuel : subtile, novateur, à la production très diverse tant en terme de sujets que de méthodes. C’est pas ce qu’il y a de plus rigoureux, mais c’est bourré d’idées, c’est contemporain et ça donne à réfléchir. Bref, chopez n’importe quoi d’Hirschman, et allez-y. Au passage, ne vous souciez pas des frontières disciplinaires : on s’en balance.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Blinis/status/675043151363645440">@Blinis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Beaut-fatale-Les-nouveaux-visages-d-une-ali-nation-f-minine-Mona-Chollet"><b class="title">Beauté fatale : Les nouveaux visages d’une aliénation féminine</b>, par <span class="author">Mona Chollet</span>&nbsp;(<a href="http://www.editions-zones.fr/spip.php?page=lyberplayer&id_article=149">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Beauté Fatale. Les nouveaux visages d'une aliénation féminine", essai de Mona Chollet<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/675049372594397185">@thefugitive_</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10--trangers-de-passage-Alain-Tarrius"><b class="title">Étrangers de passage</b>, par <span class="author">Alain Tarrius</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un peu de socio de l'immigration avec "Etrangers de passage" d'Alain Tarrius.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/675052041081888771">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Nous-avons-mang-la-for-t-de-la-Pierre-G-nie-G-o-Georges-Condominas"><b class="title">Nous avons mangé la forêt de la Pierre-Génie Gôo</b>, par <span class="author">Georges Condominas</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      On a mangé la forêt Pierre-Génie Goo de Condominas. Voilà !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/joliraton/status/675054146467332097">@joliraton</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Les-m-tiers-de-l-Europe-politique-Didier-Georgakakis"><b class="title">Les métiers de l’Europe politique</b>, dirigé par <span class="author">Didier Georgakakis</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sociologie des institutions européennes<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/675060096553086980">@F_Bally</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Statactivisme-Comment-lutter-avec-des-nombres-Isabelle-Bruno-Emmanuel-Didier-et-Julien-Pr-vieux"><b class="title">Statactivisme : Comment lutter avec des nombres</b>, par <span class="author">Isabelle Bruno, Emmanuel Didier, et Julien Prévieux</span>&nbsp;(<a href="http://www.editions-zones.fr/spip.php?page=lyberplayer&id_article=184">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Recueil d’articles sur les stats comme outils politiques, avec des super textes de Desrosières et Bolto notamment.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Melusine_2/status/675069592373469185">@Melusine_2</a></span>
     </blockquote>
   
   </div>
