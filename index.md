@@ -2966,6 +2966,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ludemain/status/673611150370717696">@ludemain</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Archi classique indémodable.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/674917729061765120">@mquijoux</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -5171,6 +5176,28 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Rapide à lire et grand classique.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/674911743513075712">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Argumenter-dans-un-champ-de-forces-essai-de-balistique-sociologique-Francis-Chateauraynaud"><b class="title">Argumenter dans un champ de forces : essai de balistique sociologique</b>, par <span class="author">Francis Chateauraynaud</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Argumenter dans un champ de forces, essai de balistique sociologique", Francis Chateauraynaud<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/674917438698479617">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Histoires-de-lecteurs-Claude-Poliak-G-rard-Mauger-et-Bernard-Pudal"><b class="title">Histoires de lecteurs</b>, par <span class="author">Claude Poliak, Gérard Mauger, et Bernard Pudal</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Dis moi ce que tu lis (ou pas), etc etc.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ludemain/status/674921303623749632">@ludemain</a></span>
     </blockquote>
   
   </div>
