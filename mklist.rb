@@ -14,9 +14,11 @@ def day_anchor(day)
 end
 
 class Book
+  # Note that we also use this HTML to generate the LaTeX used for the PDF.
+  # This is why we use <div class="ref"> instead of h{1..6} for the title.
   TEMPLATE = <<-EOS
 <article class="book">
-  <h1<% if anchor %> id="<%= anchor %>"<% end %>><span class="title"><%= title %></span><%= author_html %><% if link %>&nbsp;(<a href="<%= link %>">lien</a>)<% end %></h1>
+  <div class="ref" id="<%= anchor %>"><b class="title"><%= title %></b><%= author_html %><% if link %>&nbsp;(<a href="<%= link %>">lien</a>)<% end %></div>
   <div class="sources">
   <% if source %>
     <blockquote class="comment">
