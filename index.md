@@ -809,6 +809,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Melusine_2/status/672359083870191616">@Melusine_2</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        C’était notre bible en cours de socio du racisme.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Morifen333/status/674901885841723392">@Morifen333</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -4862,10 +4867,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-9-La-d-mocratie-Internet-Dominique-Cardon"><b class="title">La démocratie Internet</b>, par <span class="author">Dominique Cardon</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Bouquin assez sympa et facile à lire de @Karmacoma sur les possibilités qu’offre Internet<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/674681377615425537">@RaphCann</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Bouquin assez sympa et facile à lire de @Karmacoma sur les possibilités qu’offre Internet<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/674681377615425537">@RaphCann</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Pour comprendre ce qu'Internet a fait à la démocratie<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PierreM/status/674901428532572160">@PierreM</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -5064,6 +5076,50 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Les pages 17-38 dans "Le savant et le populaire" sont lumineuses et décisives sur la question de l’écriture sur la culture populaire. Et si on est vraiment paresseux, on peut se contenter du schéma p. 65<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LaValeurTravail/status/674895990965542914">@LaValeurTravail</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Le-travail-une-sociologie-contemporaine-Michel-Lallemant"><b class="title">Le travail, une sociologie contemporaine</b>, par <span class="author">Michel Lallemant</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Il réussit l'exploit d'être très gros, très riche et très facile à lire. Même agréable à lire tiens.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/674898644215193600">@Uneheuredepeine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Le-travail-sous-tension-Michel-Lallemant"><b class="title">Le travail sous tension</b>, par <span class="author">Michel Lallemant</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      <a href="https://twitter.com/Uneheuredepeine/status/674898644215193600">#LT</a> Que l'on complétera volontiers avec "Le travail sous tension" du même auteur<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/674898880228696064">@Uneheuredepeine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Zonards-Une-famille-de-rue-Tristana-Pimor"><b class="title">Zonards. Une famille de rue</b>, par <span class="author">Tristana Pimor</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Approche beckerienne qui sort des préjugés sur les "punks à chien".<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ianonim/status/674899537174110208">@Ianonim</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Dans-le-monde-des-cit-s-De-la-gal-re-la-mosqu-e-Sami-Zegnani"><b class="title">Dans le monde des cités : De la galère à la mosquée</b>, par <span class="author">Sami Zegnani</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Encore de la socio urbaine. Parce que j'adore ça.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/674900077882798080">@Lil_RoXaNe</a></span>
     </blockquote>
   
   </div>
