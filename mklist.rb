@@ -4,6 +4,7 @@
 require "erb"
 require "ostruct"
 require "yaml"
+require "fileutils"
 
 def day_title(day)
   "#{day == 1 ? "1er" : day} Décembre"
@@ -50,9 +51,17 @@ class Book
     @attrs["author"].strip!
   end
 
+  def title
+    @attrs["title"]
+  end
+
+  def author
+    @attrs["author"]
+  end
+
   def validate!
-    must "have a title" unless has? "title"
-    must "have an author" unless has? "author"
+    must "have a title" unless title
+    must "have an author" unless author
     if has? "sources"
       sources = @attrs["sources"]
       must "have sources" if sources.nil? || sources.empty?
@@ -133,6 +142,17 @@ class BooksList
     end
   end
 
+  def write_compact_markdown(target)
+    File.open(target, "w") do |f|
+      @days.each do |day, books|
+        books.each_with_index do |h, i|
+          book = Book.new(h, day, i)
+          f.write "- *#{book.title}* (#{book.author})\n"
+        end
+      end
+    end
+  end
+
   private
 
   def write_html_file(file)
@@ -199,24 +219,32 @@ Accès direct à un jour :<br/>
   end
 end
 
+def make_pdf(source, target)
+  tmp = ".tex2pdf#{rand}"
+  tex = "#{tmp}.tex"
+  begin
+    system "pandoc", "--latex-engine=xelatex", "--standalone", source, "-o", tex
+    system "xelatex", tex
+    FileUtils.mv "#{tmp}.pdf", target
+  ensure
+    Dir["#{tmp}.*"].each { |f| File.unlink f }
+  end
+end
+
 ls = BooksList.new "books.yml"
 
 if ARGV.include? "--pdf"
-  require "FileUtils"
-
   html = "_books.html"
-  tex = "_books.tex"
-  ls.write_html html
   begin
-    system "pandoc", "--latex-engine=xelatex", "--standalone", html,
-      "--no-tex-ligatures", "-o", tex
-    system "xelatex", tex
-    FileUtils.mv tex.sub(/\.tex$/, ".pdf"), "books.pdf"
+    ls.write_html html
+    make_pdf html, "books.pdf"
   ensure
-    Dir["_books.*"].each { |f| File.unlink f }
+    File.unlink html
   end
 elsif ARGV.include? "--html"
   ls.write_html "books.html"
+elsif ARGV.include? "--compact-markdown"
+  ls.write_compact_markdown "books.md"
 else
   ls.write_jekyll "index.md"
 end
