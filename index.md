@@ -3654,10 +3654,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-6-Coercion-Capital-and-European-States-AD-990-1990-Charles-Tilly"><b class="title">Coercion, Capital, and European States, AD 990-1990</b>, par <span class="author">Charles Tilly</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Lorsque l’Etat fait la guerre et la guerre fait l’Etat<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jacobo_Grajales/status/673568684913377280">@Jacobo_Grajales</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Lorsque l’Etat fait la guerre et la guerre fait l’Etat<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jacobo_Grajales/status/673568684913377280">@Jacobo_Grajales</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Dur de choisir un seul livre de Charles Tilly pour #SocioNoel. Disons Coercion, capital, and European states.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/674907138091819008">@SamuelHayat</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -5120,6 +5127,50 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Encore de la socio urbaine. Parce que j'adore ça.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/674900077882798080">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Par-del-nature-et-culture-Philippe-Descola"><b class="title">Par-delà nature et culture</b>, par <span class="author">Philippe Descola</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Encore Descola Tout est dans le titre. #mustread<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/674903131008974848">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-En-finir-avec-Eddy-Bellegueule-douard-Louis"><b class="title">En finir avec Eddy Bellegueule</b>, par <span class="author">Édouard Louis</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Roman très intéressant sur les transfuges de classe<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/674903645385842689">@Pyrate_Jenni</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Retour-Reims-Didier-Eribon"><b class="title">Retour à Reims</b>, par <span class="author">Didier Eribon</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Roman très intéressant sur les transfuges de classe<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/674903645385842689">@Pyrate_Jenni</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Psychologie-des-Foules-Gustave-Le-Bon"><b class="title">Psychologie des Foules</b>, par <span class="author">Gustave Le Bon</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Rapide à lire et grand classique.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/674911743513075712">@bfontn</a></span>
     </blockquote>
   
   </div>
