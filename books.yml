@@ -1016,10 +1016,14 @@
     link: http://www.antropofagia.com.ar/catalogo/product_info.php?products_id=136
   - title: Les inaudibles, sociologie politique des précaires
     author: Céline Braconnier et Nonna Mayer
-    source: https://twitter.com/Lil_RoXaNe/status/672332777422004224
-    comment: >
-      "Les inaudibles, sociologie politique des précaires" de N. MAYER et C.
-      BRACONNIER.
+    sources:
+      - link: https://twitter.com/Lil_RoXaNe/status/672332777422004224
+        comment: >
+          "Les inaudibles, sociologie politique des précaires" de N. MAYER et C.
+          BRACONNIER.
+      - link: https://twitter.com/EditionsScpo/status/675255934583746560
+        comment: >
+          C. Braconnier est aussi l'auteure des "Inaudibles" déjà cité
   - title: Défataliser le monde social
     author: Sylvain Bourmeau
     source: https://twitter.com/ruggeroparis/status/672332065489231873
@@ -1377,10 +1381,14 @@
     link: http://www.contretemps.eu/lectures/lire-extrait-columbo-lutte-classes-ce-soir-t%C3%A9l%C3%A9-lilian-mathieu
   - title: L’invention de la violence
     author: Laurent Mucchielli
-    source: https://twitter.com/PaillardSimon/status/672718198911930369
-    comment: >
-      Un des premiers livre que j’ai lu en socio : "L’invention de la violence"
-      de Mucchielli. Eclairant.
+    sources:
+      - link: https://twitter.com/PaillardSimon/status/672718198911930369
+        comment: >
+          Un des premiers livre que j’ai lu en socio : "L’invention de la violence"
+          de Mucchielli. Eclairant.
+      - link: https://twitter.com/Lil_RoXaNe/status/675232531613130752
+        comment: >
+          Un de mes préférés (super accessible)
   - title: La mesure de l’Etat
     author: Eric Brian
     source: https://twitter.com/Comtesse_Leia/status/672720585164738560
@@ -2965,3 +2973,127 @@
       Recueil d’articles sur les stats comme outils politiques, avec des super
       textes de Desrosières et Bolto notamment.
     link: http://www.editions-zones.fr/spip.php?page=lyberplayer&id_article=184
+  - title: "Choosing Colleges: How Social Class and Schools Structure Opportunity"
+    author: Patricia M. McDonough
+    source: https://twitter.com/fivepastfive/status/675096098982219776
+    comment: >
+      La base pour comprendre les choix d’orientation vers le supérieur !
+11:
+  - title: L’arrangement des sexes
+    author: Erving Goffman
+    source: https://twitter.com/bbarbusse/status/675197696202919936
+    comment: >
+      Quand Goffman écrit sur les rapports H/F
+  - title: Le savant fou
+    author: Hélène Machinal
+    directed: true
+    source: https://twitter.com/Enroweb/status/675206716947095553
+    comment: >
+      "Le savant fou" dirigé par Hélène Machinal, aux Presses universitaires de
+      Rennes
+  - title: La fin du tapin
+    author: Lilian Mathieu
+    source: https://twitter.com/Politriste/status/675222433620762624
+    comment: >
+      Une fois sur deux, je lis "la fin du lapin".
+  - title: "Révoltes postcoloniales au cœur de l’Hexagone : Voix d’adolescents"
+    author: Malika Mansouri
+    source: https://twitter.com/Lil_RoXaNe/status/675222983527518209
+    comment: >
+      De la pyscho-socio urbaine. Un super ouvrage.
+  - title: Classements sportifs
+    author: collectif
+    source: https://twitter.com/lestrelin/status/675225055547301891
+    comment: >
+      n<sup>o</sup> des Actes de la recherche en sciences sociales sur les
+      classements sportifs
+    link: http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2015-4.htm
+  - title: Trucking Country
+    author: Shane Hamilton
+    source: https://twitter.com/NuteluCaine/status/675238376816189440
+    comment: >
+      Comment les transports ont révolutionné nos sociétés
+  - title: L’esprit, le soi et la société
+    author: George H. Mead
+    sources:
+      - link: https://twitter.com/Gerome_Truc/status/675239084839837696
+        comment: >
+          Une lecture décisive, source d’inspiration majeure pour #Sidérations,
+          dans la même collection
+      - link: https://twitter.com/jbiaudet/status/675278890395262976
+        comment: Un classique sur la socialisation
+  - title: La bataille de la parité
+    author: Laure Bereni
+    source: https://twitter.com/Laboratoire_CMH/status/675240153103900673
+    comment: >
+      Laure Bereni - La bataille de la parité
+    link: http://www.economica.fr/livre-la-bataille-de-la-parite-bereni-laure,fr,4,9782717867824.cfm
+  - title: Comment peut-on être sociologue ?
+    author: Claude Grignon
+    source: https://twitter.com/IdealTyp/status/675243196830638080
+    comment: >
+      Comment peut-on être sociologue ?
+    link: http://linkis.com/ress.revues.org/Jvsz2
+  - title: La démocratie de l’abstention
+    author: Céline Braconnier et Jean-Yves Dormagen
+    sources:
+      - link: https://twitter.com/Jo14Hernandez/status/675246931933798400
+        comment: Comprendre les dynamiques du non-vote
+      - link: https://twitter.com/Silmalia/status/675291948253597697
+        comment: C. Braconnier et J-Y Dormagen - La démocratie de l'abstention
+  - title: The Savage Slot
+    author: Michel-Rolph Trouillot
+    source: https://twitter.com/Uneheuredepeine/status/675254214327709696
+    comment: >
+      L’anthropologie, c'est cool. Comme souvent avec les anthropologues, c'est
+      une réflexion à la fois sur leur discipline et sur la prise de conscience
+      du monde
+    link: http://iidypca.homestead.com/FundamentosAntropologia/Trouillot_-_The_Savage_Slot.pdf
+  - title: Vers une écologie de l’esprit
+    author: Gregory Bateson
+    source: https://twitter.com/dan_maku/status/675254694097362944
+    comment: >
+      Bateson expérimente le métalogue comme écriture anthropo, le dialogue
+      comme mise en scène de la pensée
+  - title: "La gauche et les cités : enquête sur un rendez-vous manqué"
+    author: Olivier Masclet
+    source: https://twitter.com/ValGuery/status/675266775509032960
+    comment: >
+      Enquête de Masclet qui montre les raisons du divorce entre les habitants
+      de cités et la politique
+  - title: Mobilization volume 8
+    author: collectif
+    source: https://twitter.com/CobbleAndFrame/status/675256259940114432
+    comment: >
+      Le numéro de "Mobilization" sur l'espace et les mobilisations.
+    link: http://mobilizationjournal.org/toc/maiq/8/2
+  - title: L’assise statistique de la sociologie
+    author: François Héran
+    source: https://twitter.com/Comtesse_Leia/status/675258232533839872
+    comment: >
+      L'assise statistique de la sociologie - F. Héran
+    link: http://www.persee.fr/doc/estat_0336-1454_1984_num_168_1_4881
+  - title: "Les cadres : la formation d’un groupe social"
+    author: Luc Boltanski
+    source: https://twitter.com/ludemain/status/675271236251992065
+    comment: >
+      Groupe social, principe d'identité, identification.
+  - title: "La domination policière : Une violence industrielle"
+    author: Mathieu Rigouste
+    source: https://twitter.com/LionnelleMakaya/status/675290738624749568
+    comment: >
+      J'pense trop à Mathieu Rigouste avec cette actu donc #SocioNoel 11 son
+      dernier bouquin
+  - title: Critique de la raison nègre
+    author: Achille Mbembe
+    source: https://twitter.com/PaillardSimon/status/675291457301962752
+    comment: >
+      Un peu de postcolonialisme avec Mbembe et "Critique de la raison nègre".
+      Passionnant, vraiment.
+  - title: Rituals of Solidarity and Security in the Wake of Terrorist Attack
+    author: Randall Collins
+    source: https://twitter.com/bfontn/status/675292649860018176
+    comment: >
+      “Rituals of Solidarity and Security in the Wake of Terrorist Attack”,
+      Randall Collins (2004)
+    link: http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9558.2004.00204.x/abstract

@@ -25,6 +25,7 @@ Accès direct à un jour :<br/>
 8. [8 Décembre](#dec15-8)
 9. [9 Décembre](#dec15-9)
 10. [10 Décembre](#dec15-10)
+11. [11 Décembre](#dec15-11)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -1940,10 +1941,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-3-Les-inaudibles-sociologie-politique-des-pr-caires-C-line-Braconnier-et-Nonna-Mayer"><b class="title">Les inaudibles, sociologie politique des précaires</b>, par <span class="author">Céline Braconnier et Nonna Mayer</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      "Les inaudibles, sociologie politique des précaires" de N. MAYER et C. BRACONNIER.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/672332777422004224">@Lil_RoXaNe</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        "Les inaudibles, sociologie politique des précaires" de N. MAYER et C. BRACONNIER.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/672332777422004224">@Lil_RoXaNe</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        C. Braconnier est aussi l'auteure des "Inaudibles" déjà cité<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/EditionsScpo/status/675255934583746560">@EditionsScpo</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2597,10 +2605,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-4-L-invention-de-la-violence-Laurent-Mucchielli"><b class="title">L’invention de la violence</b>, par <span class="author">Laurent Mucchielli</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Un des premiers livre que j’ai lu en socio : "L’invention de la violence" de Mucchielli. Eclairant.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/672718198911930369">@PaillardSimon</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Un des premiers livre que j’ai lu en socio : "L’invention de la violence" de Mucchielli. Eclairant.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/672718198911930369">@PaillardSimon</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Un de mes préférés (super accessible)<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/675232531613130752">@Lil_RoXaNe</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -5432,6 +5447,241 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Recueil d’articles sur les stats comme outils politiques, avec des super textes de Desrosières et Bolto notamment.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Melusine_2/status/675069592373469185">@Melusine_2</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Choosing-Colleges-How-Social-Class-and-Schools-Structure-Opportunity-Patricia-M-McDonough"><b class="title">Choosing Colleges: How Social Class and Schools Structure Opportunity</b>, par <span class="author">Patricia M. McDonough</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      La base pour comprendre les choix d’orientation vers le supérieur !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/fivepastfive/status/675096098982219776">@fivepastfive</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-11">11 Décembre</h2>
+<article class="book">
+  <div class="ref" id="dec15-11-L-arrangement-des-sexes-Erving-Goffman"><b class="title">L’arrangement des sexes</b>, par <span class="author">Erving Goffman</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Quand Goffman écrit sur les rapports H/F<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/675197696202919936">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Le-savant-fou-H-l-ne-Machinal"><b class="title">Le savant fou</b>, dirigé par <span class="author">Hélène Machinal</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Le savant fou" dirigé par Hélène Machinal, aux Presses universitaires de Rennes<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Enroweb/status/675206716947095553">@Enroweb</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-La-fin-du-tapin-Lilian-Mathieu"><b class="title">La fin du tapin</b>, par <span class="author">Lilian Mathieu</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une fois sur deux, je lis "la fin du lapin".<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Politriste/status/675222433620762624">@Politriste</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-R-voltes-postcoloniales-au-c-ur-de-l-Hexagone-Voix-d-adolescents-Malika-Mansouri"><b class="title">Révoltes postcoloniales au cœur de l’Hexagone : Voix d’adolescents</b>, par <span class="author">Malika Mansouri</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      De la pyscho-socio urbaine. Un super ouvrage.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/675222983527518209">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Classements-sportifs-collectif"><b class="title">Classements sportifs</b> (collectif)&nbsp;(<a href="http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2015-4.htm">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      n<sup>o</sup> des Actes de la recherche en sciences sociales sur les classements sportifs<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/675225055547301891">@lestrelin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Trucking-Country-Shane-Hamilton"><b class="title">Trucking Country</b>, par <span class="author">Shane Hamilton</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Comment les transports ont révolutionné nos sociétés<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/675238376816189440">@NuteluCaine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-L-esprit-le-soi-et-la-soci-t-George-H-Mead"><b class="title">L’esprit, le soi et la société</b>, par <span class="author">George H. Mead</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Une lecture décisive, source d’inspiration majeure pour #Sidérations, dans la même collection<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/675239084839837696">@Gerome_Truc</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Un classique sur la socialisation<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jbiaudet/status/675278890395262976">@jbiaudet</a></span>
+      </blockquote>
+    
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-La-bataille-de-la-parit-Laure-Bereni"><b class="title">La bataille de la parité</b>, par <span class="author">Laure Bereni</span>&nbsp;(<a href="http://www.economica.fr/livre-la-bataille-de-la-parite-bereni-laure,fr,4,9782717867824.cfm">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Laure Bereni - La bataille de la parité<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/675240153103900673">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Comment-peut-on-tre-sociologue-Claude-Grignon"><b class="title">Comment peut-on être sociologue ?</b>, par <span class="author">Claude Grignon</span>&nbsp;(<a href="http://linkis.com/ress.revues.org/Jvsz2">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Comment peut-on être sociologue ?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/IdealTyp/status/675243196830638080">@IdealTyp</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-La-d-mocratie-de-l-abstention-C-line-Braconnier-et-Jean-Yves-Dormagen"><b class="title">La démocratie de l’abstention</b>, par <span class="author">Céline Braconnier et Jean-Yves Dormagen</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Comprendre les dynamiques du non-vote<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/675246931933798400">@Jo14Hernandez</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        C. Braconnier et J-Y Dormagen - La démocratie de l'abstention<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/675291948253597697">@Silmalia</a></span>
+      </blockquote>
+    
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-The-Savage-Slot-Michel-Rolph-Trouillot"><b class="title">The Savage Slot</b>, par <span class="author">Michel-Rolph Trouillot</span>&nbsp;(<a href="http://iidypca.homestead.com/FundamentosAntropologia/Trouillot_-_The_Savage_Slot.pdf">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      L’anthropologie, c'est cool. Comme souvent avec les anthropologues, c'est une réflexion à la fois sur leur discipline et sur la prise de conscience du monde<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/675254214327709696">@Uneheuredepeine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Vers-une-cologie-de-l-esprit-Gregory-Bateson"><b class="title">Vers une écologie de l’esprit</b>, par <span class="author">Gregory Bateson</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Bateson expérimente le métalogue comme écriture anthropo, le dialogue comme mise en scène de la pensée<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/675254694097362944">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-La-gauche-et-les-cit-s-enqu-te-sur-un-rendez-vous-manqu-Olivier-Masclet"><b class="title">La gauche et les cités : enquête sur un rendez-vous manqué</b>, par <span class="author">Olivier Masclet</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Enquête de Masclet qui montre les raisons du divorce entre les habitants de cités et la politique<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ValGuery/status/675266775509032960">@ValGuery</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Mobilization-volume-8-collectif"><b class="title">Mobilization volume 8</b> (collectif)&nbsp;(<a href="http://mobilizationjournal.org/toc/maiq/8/2">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Le numéro de "Mobilization" sur l'espace et les mobilisations.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/675256259940114432">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-L-assise-statistique-de-la-sociologie-Fran-ois-H-ran"><b class="title">L’assise statistique de la sociologie</b>, par <span class="author">François Héran</span>&nbsp;(<a href="http://www.persee.fr/doc/estat_0336-1454_1984_num_168_1_4881">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      L'assise statistique de la sociologie - F. Héran<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Comtesse_Leia/status/675258232533839872">@Comtesse_Leia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Les-cadres-la-formation-d-un-groupe-social-Luc-Boltanski"><b class="title">Les cadres : la formation d’un groupe social</b>, par <span class="author">Luc Boltanski</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Groupe social, principe d'identité, identification.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ludemain/status/675271236251992065">@ludemain</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-La-domination-polici-re-Une-violence-industrielle-Mathieu-Rigouste"><b class="title">La domination policière : Une violence industrielle</b>, par <span class="author">Mathieu Rigouste</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      J'pense trop à Mathieu Rigouste avec cette actu donc #SocioNoel 11 son dernier bouquin<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/675290738624749568">@LionnelleMakaya</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Critique-de-la-raison-n-gre-Achille-Mbembe"><b class="title">Critique de la raison nègre</b>, par <span class="author">Achille Mbembe</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un peu de postcolonialisme avec Mbembe et "Critique de la raison nègre". Passionnant, vraiment.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/675291457301962752">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Rituals-of-Solidarity-and-Security-in-the-Wake-of-Terrorist-Attack-Randall-Collins"><b class="title">Rituals of Solidarity and Security in the Wake of Terrorist Attack</b>, par <span class="author">Randall Collins</span>&nbsp;(<a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9558.2004.00204.x/abstract">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      “Rituals of Solidarity and Security in the Wake of Terrorist Attack”, Randall Collins (2004)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/675292649860018176">@bfontn</a></span>
     </blockquote>
   
   </div>
