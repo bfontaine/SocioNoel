@@ -2038,9 +2038,11 @@
   - title: Quand les banlieues brûlent… Retour sur les émeutes de novembre 2005
     author: Laurent Mucchielli et Véronique Le Goaziou
     directed: true
-    source: https://twitter.com/Lil_RoXaNe/status/673794362657144832
-    comment: >
-      Encore de la socio urbaine
+    sources:
+      - link: https://twitter.com/Lil_RoXaNe/status/673794362657144832
+        comment: Encore de la socio urbaine
+      - link: https://twitter.com/thefugitive_/status/675405037045227520
+        comment: Étrangement adapté au &lt;climat> actuel.
   - title: Le métier de sociologue
     author: Pierre Bourdieu, Jean-Claude Chamboredon, et Jean-Claude Passeron
     source: https://twitter.com/Comtesse_Leia/status/673799153722327041
@@ -3097,3 +3099,69 @@
       “Rituals of Solidarity and Security in the Wake of Terrorist Attack”,
       Randall Collins (2004)
     link: http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9558.2004.00204.x/abstract
+  - title: Zombies et frontières à l’ère néolibérale
+    author: Jean Comaroff et John Comaroff
+    source: https://twitter.com/ArSaintMartin/status/675296450570530816
+    comment: Détonnant
+    link: http://www.humanite.fr/node/444710
+  - title: "Le temps des servitudes : la famille à l’épreuve du handicap"
+    author: Serge Ebersold et Anne-Laure Bazin
+    source: https://twitter.com/balleverte/status/675307885581230080
+    comment: >
+      Ouvrage important en socio du handicap (surmobilisé dans mes cours…).
+    link: http://www.persee.fr/doc/sosan_0294-0337_2006_num_24_2_1821
+  - title: "L’approche constructiviste des « problèmes publics ». Un aperçu des travaux anglo-saxons"
+    author: Erik Neveu
+    source: https://twitter.com/Phangere/status/675311118768828416
+    comment: Courte synthèse très efficace.
+  - title: "Rendre la réalité inacceptable : À propos de la production de l’idéologie dominante"
+    author: Luc Boltanski
+    source: https://twitter.com/sociosauvage/status/675320699444191233
+    comment: Un dernier pour clore cette thématique amour/haine
+  - title: Construire le travail comme bien commun
+    author: Thomas Coutrot
+    source: https://twitter.com/Ostpolitik/status/675330722329206785
+    comment: Un texte intéressant
+  - title: "Faire l’opinion : Le nouveau jeu politique"
+    author: Patrick Champagne
+    source: https://twitter.com/JohnGoodMalik/status/675340301981085700
+    comment: >
+      Oui c’est Bourdieu en moins puissant, oui il y a des impensés, mais
+      "faire l’opinion" de P. Champagne reste indispensable
+  - title: "Libération animale et végétarisation du monde : Ethnologie de l’antispécisme français"
+    author: Catherine-Marie Dubreuil
+    source: https://twitter.com/i_nebuleuse/status/675348456928616449
+    comment: >
+      Je voudrais quand mêm proposer ce très bon travail de CM Dubreuil sur le
+      mouvement antispéciste français !
+    link: http://cths.fr/ed/edition.php?id=6150
+  - title: "Fils et filles de… : Enquête sur la nouvelle aristocratie française"
+    author: Aurore Gorius et Anne-Noémie Dorion
+    source: https://twitter.com/kahtysha/status/675355139444752385
+    comment: >
+      "Fils et fille de ..." enquête sur la nouvelle aristocratie française.
+    link: http://www.editionsladecouverte.fr/catalogue/index-Fils_et_filles_de____-9782707182777.html
+  - title: Le Jardin des délices démocratiques
+    author: Philippe Braud
+    source: https://twitter.com/dziga_godard/status/675355657269288960
+    comment: >
+      Philippe Braud nous explique (en 93) pourquoi le FN devra s’adoucir s’il
+      veut le pouvoir. Plein de remarques lucides dans ce livre, même si
+      parfois trop naïf.
+  - title: "Logiques pratiques : le « faire » et le « dire sur le faire »"
+    author: Bernard Lahire
+    source: https://twitter.com/SamuelChagnard/status/675361950545653760
+    comment: >
+      "Comment est-il possible d’ignorer ce que l’on fait et ce que l’on sait ?"
+      début d'un article +++ de Lahire
+    link: http://ife.ens-lyon.fr/publications/edition-electronique/recherche-et-formation/RR027-02.pdf
+  - title: Sécurité, territoire, population
+    author: Michel Foucault
+    source: https://twitter.com/F__Casta/status/675366376190668800
+    comment: >
+      "Sécurité, territoire, population" pas le nom d’un nouveau projet de loi,
+      mais celui du cours de Foucault en 77-78 au Collège de France. Où on en
+      apprend en fait plus sur la naissance de la biopolitique que dans le
+      cours éponyme. C’est l’étude d’une mutation du pouvoir : d’une discipline
+      sur les corps à une régulation d’une population, via les dispositifs de
+      sécurité.

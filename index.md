@@ -3796,10 +3796,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-7-Quand-les-banlieues-br-lent-Retour-sur-les-meutes-de-novembre-2005-Laurent-Mucchielli-et-V-ronique-Le-Goaziou"><b class="title">Quand les banlieues brûlent… Retour sur les émeutes de novembre 2005</b>, dirigé par <span class="author">Laurent Mucchielli et Véronique Le Goaziou</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Encore de la socio urbaine<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/673794362657144832">@Lil_RoXaNe</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Encore de la socio urbaine<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/673794362657144832">@Lil_RoXaNe</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Étrangement adapté au &lt;climat> actuel.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/675405037045227520">@thefugitive_</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -5682,6 +5689,127 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       “Rituals of Solidarity and Security in the Wake of Terrorist Attack”, Randall Collins (2004)<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/675292649860018176">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Zombies-et-fronti-res-l-re-n-olib-rale-Jean-Comaroff-et-John-Comaroff"><b class="title">Zombies et frontières à l’ère néolibérale</b>, par <span class="author">Jean Comaroff et John Comaroff</span>&nbsp;(<a href="http://www.humanite.fr/node/444710">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Détonnant<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/675296450570530816">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Le-temps-des-servitudes-la-famille-l-preuve-du-handicap-Serge-Ebersold-et-Anne-Laure-Bazin"><b class="title">Le temps des servitudes : la famille à l’épreuve du handicap</b>, par <span class="author">Serge Ebersold et Anne-Laure Bazin</span>&nbsp;(<a href="http://www.persee.fr/doc/sosan_0294-0337_2006_num_24_2_1821">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Ouvrage important en socio du handicap (surmobilisé dans mes cours…).<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/675307885581230080">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-L-approche-constructiviste-des-probl-mes-publics-Un-aper-u-des-travaux-anglo-saxons-Erik-Neveu"><b class="title">L’approche constructiviste des « problèmes publics ». Un aperçu des travaux anglo-saxons</b>, par <span class="author">Erik Neveu</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Courte synthèse très efficace.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/675311118768828416">@Phangere</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Rendre-la-r-alit-inacceptable-propos-de-la-production-de-l-id-ologie-dominante-Luc-Boltanski"><b class="title">Rendre la réalité inacceptable : À propos de la production de l’idéologie dominante</b>, par <span class="author">Luc Boltanski</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un dernier pour clore cette thématique amour/haine<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/675320699444191233">@sociosauvage</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Construire-le-travail-comme-bien-commun-Thomas-Coutrot"><b class="title">Construire le travail comme bien commun</b>, par <span class="author">Thomas Coutrot</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un texte intéressant<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ostpolitik/status/675330722329206785">@Ostpolitik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Faire-l-opinion-Le-nouveau-jeu-politique-Patrick-Champagne"><b class="title">Faire l’opinion : Le nouveau jeu politique</b>, par <span class="author">Patrick Champagne</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Oui c’est Bourdieu en moins puissant, oui il y a des impensés, mais "faire l’opinion" de P. Champagne reste indispensable<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/675340301981085700">@JohnGoodMalik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Lib-ration-animale-et-v-g-tarisation-du-monde-Ethnologie-de-l-antisp-cisme-fran-ais-Catherine-Marie-Dubreuil"><b class="title">Libération animale et végétarisation du monde : Ethnologie de l’antispécisme français</b>, par <span class="author">Catherine-Marie Dubreuil</span>&nbsp;(<a href="http://cths.fr/ed/edition.php?id=6150">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Je voudrais quand mêm proposer ce très bon travail de CM Dubreuil sur le mouvement antispéciste français !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/i_nebuleuse/status/675348456928616449">@i_nebuleuse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Fils-et-filles-de-Enqu-te-sur-la-nouvelle-aristocratie-fran-aise-Aurore-Gorius-et-Anne-No-mie-Dorion"><b class="title">Fils et filles de… : Enquête sur la nouvelle aristocratie française</b>, par <span class="author">Aurore Gorius et Anne-Noémie Dorion</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Fils_et_filles_de____-9782707182777.html">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Fils et fille de ..." enquête sur la nouvelle aristocratie française.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/kahtysha/status/675355139444752385">@kahtysha</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Le-Jardin-des-d-lices-d-mocratiques-Philippe-Braud"><b class="title">Le Jardin des délices démocratiques</b>, par <span class="author">Philippe Braud</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Philippe Braud nous explique (en 93) pourquoi le FN devra s’adoucir s’il veut le pouvoir. Plein de remarques lucides dans ce livre, même si parfois trop naïf.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dziga_godard/status/675355657269288960">@dziga_godard</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Logiques-pratiques-le-faire-et-le-dire-sur-le-faire-Bernard-Lahire"><b class="title">Logiques pratiques : le « faire » et le « dire sur le faire »</b>, par <span class="author">Bernard Lahire</span>&nbsp;(<a href="http://ife.ens-lyon.fr/publications/edition-electronique/recherche-et-formation/RR027-02.pdf">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Comment est-il possible d’ignorer ce que l’on fait et ce que l’on sait ?" début d'un article +++ de Lahire<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelChagnard/status/675361950545653760">@SamuelChagnard</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-S-curit-territoire-population-Michel-Foucault"><b class="title">Sécurité, territoire, population</b>, par <span class="author">Michel Foucault</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Sécurité, territoire, population" pas le nom d’un nouveau projet de loi, mais celui du cours de Foucault en 77-78 au Collège de France. Où on en apprend en fait plus sur la naissance de la biopolitique que dans le cours éponyme. C’est l’étude d’une mutation du pouvoir : d’une discipline sur les corps à une régulation d’une population, via les dispositifs de sécurité.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/675366376190668800">@F__Casta</a></span>
     </blockquote>
   
   </div>
