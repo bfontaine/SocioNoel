@@ -5,6 +5,7 @@ require "erb"
 require "ostruct"
 require "yaml"
 require "fileutils"
+require "set"
 
 def day_title(day)
   "#{day == 1 ? "1er" : day} Décembre"
@@ -57,6 +58,14 @@ class Book
 
   def author
     @attrs["author"]
+  end
+
+  def sources
+    if has? "source"
+      [{"link" => @attrs["source"], "comment" => @attrs["comment"]}]
+    else
+      @attrs["sources"]
+    end
   end
 
   def validate!
@@ -153,6 +162,43 @@ class BooksList
     end
   end
 
+  def stats
+    books_count = 0
+    mentions_count = 0
+    authors = []
+    sources = Set.new
+
+    split_authors = /(?:,\s+(?:et\s+)?|\s+et\s+)/
+
+    @days.each do |day, books|
+      books.each_with_index do |h, i|
+        b = Book.new(h, day, i)
+        books_count += 1
+
+        b.sources.each do |source|
+          mentions_count += 1
+
+          source["link"] =~ %r{^https?://twitter\.com/([^/]+)/}
+          sources << $1
+        end
+
+        b.author.split(split_authors).each do |a|
+          authors << a
+        end
+      end
+    end
+
+    authors = authors.sort.group_by { |a| a }.map { |a, x| [a, x.size]}.sort_by(&:last).reverse
+
+    {
+      :books_count => books_count,
+      :authors_count => authors.size,
+      :mentions_count => mentions_count,
+      :sources_count => sources.size,
+      :most_common_authors => authors[0..2],
+    }
+  end
+
   private
 
   def write_html_file(file)
@@ -245,6 +291,10 @@ elsif ARGV.include? "--html"
   ls.write_html "books.html"
 elsif ARGV.include? "--compact-markdown"
   ls.write_compact_markdown "books.md"
+elsif ARGV.include? "--stats"
+  ls.stats.each do |label, value|
+    puts "#{label}: #{value}"
+  end
 else
   ls.write_jekyll "index.md"
 end
