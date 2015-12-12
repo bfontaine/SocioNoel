@@ -1949,7 +1949,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        C. Braconnier est aussi l'auteure des "Inaudibles" déjà cité<br/>
+        C. Braconnier est aussi l’auteure des "Inaudibles" déjà cité<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/EditionsScpo/status/675255934583746560">@EditionsScpo</a></span>
       </blockquote>
     
@@ -4923,7 +4923,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Le #CSOJ de ce soir invite à lire D.Cardon et A.Casilli "Qu'est-ce que le Digital Labor?"<br/>
+        Le #CSOJ de ce soir invite à lire D.Cardon et A.Casilli "Qu’est-ce que le Digital Labor?"<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/675445001833304064">@F_Bally</a></span>
       </blockquote>
     
@@ -4963,7 +4963,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Pour comprendre ce qu'Internet a fait à la démocratie<br/>
+        Pour comprendre ce qu’Internet a fait à la démocratie<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PierreM/status/674901428532572160">@PierreM</a></span>
       </blockquote>
     
@@ -5174,7 +5174,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Il réussit l'exploit d'être très gros, très riche et très facile à lire. Même agréable à lire tiens.<br/>
+      Il réussit l’exploit d’être très gros, très riche et très facile à lire. Même agréable à lire tiens.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/674898644215193600">@Uneheuredepeine</a></span>
     </blockquote>
   
@@ -5185,7 +5185,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      <a href="https://twitter.com/Uneheuredepeine/status/674898644215193600">#LT</a> Que l'on complétera volontiers avec "Le travail sous tension" du même auteur<br/>
+      <a href="https://twitter.com/Uneheuredepeine/status/674898644215193600">#LT</a> Que l’on complétera volontiers avec "Le travail sous tension" du même auteur<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/674898880228696064">@Uneheuredepeine</a></span>
     </blockquote>
   
@@ -5207,7 +5207,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Encore de la socio urbaine. Parce que j'adore ça.<br/>
+      Encore de la socio urbaine. Parce que j’adore ça.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/674900077882798080">@Lil_RoXaNe</a></span>
     </blockquote>
   
@@ -5246,7 +5246,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Pour poursuivre avec les relations amour/haine, les essais auto-réflexif d'Eribon. Des lectures plutôt faciles et agréables pour découvrir des aspects de la socio de Bourdieu.<br/>
+        Pour poursuivre avec les relations amour/haine, les essais auto-réflexif d’Eribon. Des lectures plutôt faciles et agréables pour découvrir des aspects de la socio de Bourdieu.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/674935524755431424">@sociosauvage</a></span>
       </blockquote>
     
@@ -5324,7 +5324,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Une sociologie de la vocation #Suaud (en bonus l'article sur la RFS du 1974)<br/>
+      Une sociologie de la vocation #Suaud (en bonus l’article sur la RFS du 1974)<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/674934670493118464">@ruggeroparis</a></span>
     </blockquote>
   
@@ -5335,7 +5335,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Pour poursuivre avec les relations amour/haine, les essais auto-réflexif d'Eribon. Des lectures plutôt faciles et agréables pour découvrir des aspects de la socio de Bourdieu.<br/>
+      Pour poursuivre avec les relations amour/haine, les essais auto-réflexif d’Eribon. Des lectures plutôt faciles et agréables pour découvrir des aspects de la socio de Bourdieu.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/674935524755431424">@sociosauvage</a></span>
     </blockquote>
   
@@ -5346,7 +5346,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Pas très original, mais c'est ce livre qui m'a donné envie de devenir sociologue<br/>
+      Pas très original, mais c’est ce livre qui m’a donné envie de devenir sociologue<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/674940253506035716">@Gerome_Truc</a></span>
     </blockquote>
   
@@ -5357,7 +5357,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Histoire de "fêter" les 300 ans de la mort de Louis XIV. Dont l’excellente intro "Sociologie et Histoire", sur comment les possibilités d'individualisation dépendent des positions sociales<br/>
+      Histoire de "fêter" les 300 ans de la mort de Louis XIV. Dont l’excellente intro "Sociologie et Histoire", sur comment les possibilités d’individualisation dépendent des positions sociales<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/674956904125341697">@F__Casta</a></span>
     </blockquote>
   
@@ -5368,7 +5368,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Mon cadeau perso #SocioNoel ! Il vient de sortir et il y a des comparaisons internationales qui m'ont l'air top<br/>
+      Mon cadeau perso #SocioNoel ! Il vient de sortir et il y a des comparaisons internationales qui m’ont l’air top<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/674978974221656064">@bbarbusse</a></span>
     </blockquote>
   
@@ -5390,7 +5390,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      J’ai pas pu attendre le 24 pour ouvrir le cadeau que je me suis offert. Reçu d'outre-manche aujourd'hui !<br/>
+      J’ai pas pu attendre le 24 pour ouvrir le cadeau que je me suis offert. Reçu d’outre-manche aujourd’hui !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelChagnard/status/675035588563746816">@SamuelChagnard</a></span>
     </blockquote>
   
@@ -5423,7 +5423,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      "Beauté Fatale. Les nouveaux visages d'une aliénation féminine", essai de Mona Chollet<br/>
+      "Beauté Fatale. Les nouveaux visages d’une aliénation féminine", essai de Mona Chollet<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/675049372594397185">@thefugitive_</a></span>
     </blockquote>
   
@@ -5434,7 +5434,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Un peu de socio de l'immigration avec "Etrangers de passage" d'Alain Tarrius.<br/>
+      Un peu de socio de l’immigration avec "Etrangers de passage" d’Alain Tarrius.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/675052041081888771">@PaillardSimon</a></span>
     </blockquote>
   
@@ -5602,7 +5602,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        C. Braconnier et J-Y Dormagen - La démocratie de l'abstention<br/>
+        C. Braconnier et J-Y Dormagen - La démocratie de l’abstention<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/675291948253597697">@Silmalia</a></span>
       </blockquote>
     
@@ -5614,7 +5614,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      L’anthropologie, c'est cool. Comme souvent avec les anthropologues, c'est une réflexion à la fois sur leur discipline et sur la prise de conscience du monde<br/>
+      L’anthropologie, c’est cool. Comme souvent avec les anthropologues, c’est une réflexion à la fois sur leur discipline et sur la prise de conscience du monde<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/675254214327709696">@Uneheuredepeine</a></span>
     </blockquote>
   
@@ -5647,7 +5647,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Le numéro de "Mobilization" sur l'espace et les mobilisations.<br/>
+      Le numéro de "Mobilization" sur l’espace et les mobilisations.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/675256259940114432">@CobbleAndFrame</a></span>
     </blockquote>
   
@@ -5658,7 +5658,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      L'assise statistique de la sociologie - F. Héran<br/>
+      L’assise statistique de la sociologie - F. Héran<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Comtesse_Leia/status/675258232533839872">@Comtesse_Leia</a></span>
     </blockquote>
   
@@ -5669,7 +5669,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Groupe social, principe d'identité, identification.<br/>
+      Groupe social, principe d’identité, identification.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ludemain/status/675271236251992065">@ludemain</a></span>
     </blockquote>
   
@@ -5680,7 +5680,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      J'pense trop à Mathieu Rigouste avec cette actu donc #SocioNoel 11 son dernier bouquin<br/>
+      J’pense trop à Mathieu Rigouste avec cette actu donc #SocioNoel 11 son dernier bouquin<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/675290738624749568">@LionnelleMakaya</a></span>
     </blockquote>
   
@@ -5812,7 +5812,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      "Comment est-il possible d’ignorer ce que l’on fait et ce que l’on sait ?" début d'un article +++ de Lahire<br/>
+      "Comment est-il possible d’ignorer ce que l’on fait et ce que l’on sait ?" début d’un article +++ de Lahire<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelChagnard/status/675361950545653760">@SamuelChagnard</a></span>
     </blockquote>
   
@@ -5825,6 +5825,17 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       "Sécurité, territoire, population" pas le nom d’un nouveau projet de loi, mais celui du cours de Foucault en 77-78 au Collège de France. Où on en apprend en fait plus sur la naissance de la biopolitique que dans le cours éponyme. C’est l’étude d’une mutation du pouvoir : d’une discipline sur les corps à une régulation d’une population, via les dispositifs de sécurité.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/675366376190668800">@F__Casta</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-11-Servir-la-classe-ouvri-re-Sociabilit-s-militantes-au-PCF-Julian-Mischi"><b class="title">Servir la classe ouvrière : Sociabilités militantes au PCF</b>, par <span class="author">Julian Mischi</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Le diptyque de Julian Mischi sur le PCF, Servir la classe ouvrière et Le communisme désarmé<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/675735261096079361">@SamuelHayat</a></span>
     </blockquote>
   
   </div>
@@ -5870,6 +5881,237 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Mon #SocioNoel du jour, gracieusement prêté par @KanyeWech, ma bicraveuse de savoir.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ThisisKiyemis/status/675631755311849473">@ThisisKiyemis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-La-disqualification-sociale-Serge-Paugam"><b class="title">La disqualification sociale</b>, par <span class="author">Serge Paugam</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un peu de socio des usagers des services sociaux. Toujours d’actu, stigmates et indignité<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/675636967359553536">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Les-m-tamorphoses-de-la-l-gitimit-Classes-sociales-et-go-t-musical-en-France-1973-2008-Philippe-Coulangeon"><b class="title">Les métamorphoses de la légitimité : Classes sociales et goût musical en France, 1973-2008</b>, par <span class="author">Philippe Coulangeon</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "L’éclectisme des goûts apparaît largement comme l’attribut des classes supérieures éduquées…"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/675645857610506240">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Sociologie-de-la-sant-Dani-le-Carricaburu-et-Marie-M-noret"><b class="title">Sociologie de la santé</b>, par <span class="author">Danièle Carricaburu et Marie Ménoret</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      La base de mon autoformation à ce domaine !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jbiaudet/status/675647216837595136">@jbiaudet</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-La-conversion-politique-Doriot-le-PPF-et-la-question-du-fascisme-Laurent-Kestel"><b class="title">La conversion politique. Doriot, le PPF et la question du fascisme</b>, par <span class="author">Laurent Kestel</span>&nbsp;(<a href="http://www.humanite.fr/tribunes/l%E2%80%99individu-dans-l%E2%80%99historiographie-du-fascisme-494710">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une lecture utile ce weekend<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/675662011158691842">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-L-innovation-par-retrait-Contribution-une-sociologie-du-d-tachement-Fr-d-ric-Goulet-et-Dominique-Vinck"><b class="title">L’innovation par retrait. Contribution à une sociologie du détachement</b>, par <span class="author">Frédéric Goulet et Dominique Vinck</span>&nbsp;(<a href="https://www.cairn.info/load_pdf.php?download=1&ID_ARTICLE=RFS_532_0195">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Changement social et processus de détachement<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/675680311984918528">@NuteluCaine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Les-hommes-dans-les-mouvements-f-ministes-Socio-histoire-d-un-engagement-improbable-Alban-Jacquemart"><b class="title">Les hommes dans les mouvements féministes : Socio-histoire d’un engagement improbable</b>, par <span class="author">Alban Jacquemart</span>&nbsp;(<a href="http://www.laviedesidees.fr/Hommes-et-feministes.html">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Alban Jacquemart sur la question de l’engagement des hommes dans le féminisme<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/675681171364315136">@RaphCann</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Carnets-de-th-se-Tiphaine-Rivi-re"><b class="title">Carnets de thèse</b>, par <span class="author">Tiphaine Rivière</span>&nbsp;(<a href="http://www.seuil.com/livre-9782021125948.htm">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/fivepastfive/status/675681592518516740">@fivepastfive</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Les-community-colleges-am-ricains-et-la-politique-de-l-in-galit-Steven-Brint-et-J-r-me-Karabel"><b class="title">Les community colleges américains et la politique de l’inégalité</b>, par <span class="author">Steven Brint et Jérôme Karabel</span>&nbsp;(<a href="http://www.persee.fr/doc/arss_0335-5322_1991_num_86_1_2970">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Stevent Brint et Jerome Karabel dans ARSS en 1991<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/675682062985273345">@ruggeroparis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Comme-par-raison-comparaison-n-est-pas-toujours-raison-Pour-une-critique-sociologique-de-l-usage-social-de-la-comparaison-interculturelle-Franz-Schultheis"><b class="title">Comme par raison - comparaison n’est pas toujours raison. Pour une critique sociologique de l’usage social de la comparaison interculturelle</b>, par <span class="author">Franz Schultheis</span>&nbsp;(<a href="http://www.persee.fr/doc/dreso_0769-3362_1989_num_11_1_1032">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un article de Franz Schulteis sur la comparaison<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/675682794287271936">@ruggeroparis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Twitter-et-les-relations-de-s-duction-entre-d-put-s-et-journalistes-La-salle-des-Quatre-Colonnes-l-re-des-sociabilit-s-num-riques-Jonathan-Chibois"><b class="title">Twitter et les relations de séduction entre députés et journalistes : La salle des Quatre Colonnes à l’ère des sociabilités numériques</b>, par <span class="author">Jonathan Chibois</span>&nbsp;(<a href="http://www.cairn.info/resume.php?ID_ARTICLE=RES_188_0201">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un article bien sympa de @laspic sur l’arrivée de Twitter à l’Assemblée nationale<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/675683729742893056">@RaphCann</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-La-violence-des-riches-Michel-Pin-on-et-Monique-Pin-on-Charlot"><b class="title">La violence des riches</b>, par <span class="author">Michel Pinçon et Monique Pinçon-Charlot</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pas vu beaucoup de bouquins des Pinçon-Charlot dans ce #SocioNoel. Livre dédicacé par Michel Pinçon à l’huma 2013.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ValGuery/status/675685433871884288">@ValGuery</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Rep-res-pour-r-sister-l-id-ologie-dominante-G-rard-Mauger"><b class="title">Repères pour résister à l’idéologie dominante</b>, par <span class="author">Gérard Mauger</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Lumineux, même si je ne suis pas d’accord avec tout<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/675685560086827008">@Phangere</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Sexe-genre-et-sexualit-s-Elsa-Dorlin"><b class="title">Sexe, genre et sexualités</b>, par <span class="author">Elsa Dorlin</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une très bonne introduction conceptuelle<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/675687566889340928">@sociosauvage</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Sous-cultures-le-sens-du-style-Dick-Hebdige"><b class="title">Sous cultures, le sens du style</b>, par <span class="author">Dick Hebdige</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      J’ose un #SocioNoel aussi, daté mais très intéressant. Avec du Barthes et du J. Genet dedans. Ça parle du sens du style mais c’est aussi une socio-histoire du mouvement punk, riche et enrichissante.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/GaelT_/status/675691451376918529">@GaelT_</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Sexe-race-classe-pour-une-pist-mologie-de-la-domination-Elsa-Dorlin"><b class="title">Sexe, race, classe, pour une épistémologie de la domination</b>, dirigé par <span class="author">Elsa Dorlin</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Sexe, race, classe" dirigée par Dorlin avec de très bons articles dedans (Falquet, Fassin, Kergoat)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/675701735537713153">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-The-Presentation-of-Self-in-the-Age-of-Social-Media-Distinguishing-Performances-and-Exhibitions-Online-Bernie-Hogan"><b class="title">The Presentation of Self in the Age of Social Media: Distinguishing Performances and Exhibitions Online</b>, par <span class="author">Bernie Hogan</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      “The Presentation of Self in the Age of Social Media: Distinguishing Performances and Exhibitions Online”, par @blurky<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/675702351035039745">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-L-cologie-des-autres-L-anthropologie-et-la-question-de-la-nature-Philippe-Descola"><b class="title">L’écologie des autres : L’anthropologie et la question de la nature</b>, par <span class="author">Philippe Descola</span>&nbsp;(<a href="http://www.quae.com/fr/r1330-l-ecologie-des-autres.html">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un texte synthétique sur l'anthropologie et la nature, avec des éléments clés de l'oeuvre de Descola<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/i_nebuleuse/status/675717510709174272">@i_nebuleuse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Visages-et-usages-de-l-extr-me-droite-en-Italie-St-phanie-Dechezelles"><b class="title">Visages et usages de l’“extrême droite” en Italie.</b>, par <span class="author">Stéphanie Dechezelles</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Stéphanie Dechezelles, "Visages et usages de l’'extrême droite' en Italie."<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/675718649974497280">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Le-communisme-d-sarm-Julian-Mischi"><b class="title">Le communisme désarmé</b>, par <span class="author">Julian Mischi</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Le diptyque de Julian Mischi sur le PCF, Servir la classe ouvrière et Le communisme désarmé<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/675735261096079361">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Dictionnaire-des-mouvements-sociaux-Olivier-Fillieule-Lilian-Mathieu-et-C-cile-P-chu"><b class="title">Dictionnaire des mouvements sociaux</b>, par <span class="author">Olivier Fillieule, Lilian Mathieu, et Cécile Péchu</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Aujourd’hui, un dico dont je me sers tout le temps. Un des premiers livres que j'ai acheté pour les cours aussi.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/675737419975680001">@Silmalia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Passer-les-fronti-res-sociales-Comment-les-fili-res-d-lite-entrouvrent-leurs-portes-Paul-Pasquali"><b class="title">Passer les frontières sociales : Comment les « filières d'élite » entrouvrent leurs portes</b>, par <span class="author">Paul Pasquali</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Passer les frontières sociales. Comment les &lt;filières d'élite> entrouvrent leurs portes", P Pasquali<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/675761103285133312">@thefugitive_</a></span>
     </blockquote>
   
   </div>
