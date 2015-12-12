@@ -6040,7 +6040,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-12-Sexe-race-classe-pour-une-pist-mologie-de-la-domination-Elsa-Dorlin"><b class="title">Sexe, race, classe, pour une épistémologie de la domination</b>, dirigé par <span class="author">Elsa Dorlin</span></div>
+  <div class="ref" id="dec15-12-Sexe-race-classe-pour-une-pist-mologie-de-la-domination-Elsa-Dorlin"><b class="title">Sexe, race, classe : pour une épistémologie de la domination</b>, dirigé par <span class="author">Elsa Dorlin</span></div>
   <div class="sources">
   
     <blockquote class="comment">
@@ -6073,7 +6073,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-12-Visages-et-usages-de-l-extr-me-droite-en-Italie-St-phanie-Dechezelles"><b class="title">Visages et usages de l’“extrême droite” en Italie.</b>, par <span class="author">Stéphanie Dechezelles</span></div>
+  <div class="ref" id="dec15-12-Visages-et-usages-de-l-extr-me-droite-en-Italie-St-phanie-Dechezelles"><b class="title">Visages et usages de l’“extrême droite” en Italie</b>, par <span class="author">Stéphanie Dechezelles</span></div>
   <div class="sources">
   
     <blockquote class="comment">
