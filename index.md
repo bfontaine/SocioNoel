@@ -4908,10 +4908,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-9-Qu-est-ce-que-le-Digital-Labor-Dominique-Cardon-et-Antonio-A-Casilli"><b class="title">Qu’est-ce que le Digital Labor ?</b>, par <span class="author">Dominique Cardon et Antonio A. Casilli</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      « Qu’est-ce que le Digital Labor ? » de @Karmacoma et @AntonioCasilli<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/674631166025195522">@bfontn</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        « Qu’est-ce que le Digital Labor ? » de @Karmacoma et @AntonioCasilli<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/674631166025195522">@bfontn</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Le #CSOJ de ce soir invite à lire D.Cardon et A.Casilli "Qu'est-ce que le Digital Labor?"<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/675445001833304064">@F_Bally</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
