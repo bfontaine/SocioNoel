@@ -2981,7 +2981,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        J’ai loupé quelques<br/>
+        J’ai loupé quelques #SocioNoel donc je rattrape un peu<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/TookyTsuki/status/673790068197335040">@TookyTsuki</a></span>
       </blockquote>
     
@@ -5956,7 +5956,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Un<br/>
+      Un #SocioNoel pour la culture doctorante<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/fivepastfive/status/675681592518516740">@fivepastfive</a></span>
     </blockquote>
   
