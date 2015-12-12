@@ -1871,10 +1871,14 @@
       Oui, la socio urbaine c’est mon truc.
   - title: Le savant et le politique
     author: Max Weber
-    source: https://twitter.com/SamuelHayat/status/673459243958312961
-    comment: >
-      ZE classique de sociologie politique, Max Weber, "la vocation de
-      politique", nouvelle traduction de Colliot-Thélène
+    sources:
+      - link: https://twitter.com/SamuelHayat/status/673459243958312961
+        comment: >
+          ZE classique de sociologie politique, Max Weber, "la vocation de
+          politique", nouvelle traduction de Colliot-Thélène
+      - link: https://twitter.com/bbarbusse/status/675591641739223040
+        comment: >
+          C’est parti pour une série de classiques #Weber
   - title: Qu’est-ce qu’une nation ?
     author: Ernest Renan
     source: https://twitter.com/Ostpolitik/status/673459469376966656
@@ -3170,3 +3174,27 @@
       cours éponyme. C’est l’étude d’une mutation du pouvoir : d’une discipline
       sur les corps à une régulation d’une population, via les dispositifs de
       sécurité.
+12:
+  - title: "Au tribunal des couples : Enquête sur des affaires familiales"
+    author: Le Collectif Onze
+    source: https://twitter.com/Laboratoire_CMH/status/675567664253698049
+    comment: >
+      Le Collectif Onze : Au tribunal des couples
+    link: http://www.odilejacob.fr/catalogue/sciences-humaines/droit-justice/au-tribunal-des-couples_9782738130532.php
+  - title: Sociologie des prénoms
+    author: Baptiste Coulmont
+    source: https://twitter.com/Politriste/status/675596426471202816
+    comment: >
+      C’est simple, c’est efficace, c’est pour #SocioNoel
+  - title: "Le pouvoir régional : Mobilisations, décentralisation et gouvernance en France"
+    author: Romain Pasquier
+    comment: >
+      "Le pouvoir régional" de Romain Pasquier, Mobilisations, décentralisation
+      et gouvernance en France.
+    source: https://twitter.com/Jo14Hernandez/status/675606517358452736
+  - title: "Dans le blanc des yeux : Diversité, racisme et médias"
+    author: Maxime Cervulle
+    comment: >
+      Mon #SocioNoel du jour, gracieusement prêté par @KanyeWech, ma
+      bicraveuse de savoir.
+    source: https://twitter.com/ThisisKiyemis/status/675631755311849473

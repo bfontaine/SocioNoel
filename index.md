@@ -26,6 +26,7 @@ Accès direct à un jour :<br/>
 9. [9 Décembre](#dec15-9)
 10. [10 Décembre](#dec15-10)
 11. [11 Décembre](#dec15-11)
+12. [12 Décembre](#dec15-12)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -3484,10 +3485,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-6-Le-savant-et-le-politique-Max-Weber"><b class="title">Le savant et le politique</b>, par <span class="author">Max Weber</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      ZE classique de sociologie politique, Max Weber, "la vocation de politique", nouvelle traduction de Colliot-Thélène<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/673459243958312961">@SamuelHayat</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        ZE classique de sociologie politique, Max Weber, "la vocation de politique", nouvelle traduction de Colliot-Thélène<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/673459243958312961">@SamuelHayat</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        C’est parti pour une série de classiques #Weber<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/675591641739223040">@bbarbusse</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -5817,6 +5825,51 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       "Sécurité, territoire, population" pas le nom d’un nouveau projet de loi, mais celui du cours de Foucault en 77-78 au Collège de France. Où on en apprend en fait plus sur la naissance de la biopolitique que dans le cours éponyme. C’est l’étude d’une mutation du pouvoir : d’une discipline sur les corps à une régulation d’une population, via les dispositifs de sécurité.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/675366376190668800">@F__Casta</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-12">12 Décembre</h2>
+<article class="book">
+  <div class="ref" id="dec15-12-Au-tribunal-des-couples-Enqu-te-sur-des-affaires-familiales-Le-Collectif-Onze"><b class="title">Au tribunal des couples : Enquête sur des affaires familiales</b>, par <span class="author">Le Collectif Onze</span>&nbsp;(<a href="http://www.odilejacob.fr/catalogue/sciences-humaines/droit-justice/au-tribunal-des-couples_9782738130532.php">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Le Collectif Onze : Au tribunal des couples<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/675567664253698049">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Sociologie-des-pr-noms-Baptiste-Coulmont"><b class="title">Sociologie des prénoms</b>, par <span class="author">Baptiste Coulmont</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      C’est simple, c’est efficace, c’est pour #SocioNoel<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Politriste/status/675596426471202816">@Politriste</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Le-pouvoir-r-gional-Mobilisations-d-centralisation-et-gouvernance-en-France-Romain-Pasquier"><b class="title">Le pouvoir régional : Mobilisations, décentralisation et gouvernance en France</b>, par <span class="author">Romain Pasquier</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Le pouvoir régional" de Romain Pasquier, Mobilisations, décentralisation et gouvernance en France.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/675606517358452736">@Jo14Hernandez</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Dans-le-blanc-des-yeux-Diversit-racisme-et-m-dias-Maxime-Cervulle"><b class="title">Dans le blanc des yeux : Diversité, racisme et médias</b>, par <span class="author">Maxime Cervulle</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Mon #SocioNoel du jour, gracieusement prêté par @KanyeWech, ma bicraveuse de savoir.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ThisisKiyemis/status/675631755311849473">@ThisisKiyemis</a></span>
     </blockquote>
   
   </div>
