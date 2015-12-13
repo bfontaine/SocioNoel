@@ -27,6 +27,7 @@ Accès direct à un jour :<br/>
 10. [10 Décembre](#dec15-10)
 11. [11 Décembre](#dec15-11)
 12. [12 Décembre](#dec15-12)
+13. [13 Décembre](#dec15-13)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -239,6 +240,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Sur les rapports de race/classe/genre entre nourrices racisées et patron.ne.s blanches. L’auteur donne beaucoup la parole aux nourrices (c’est une enquête quali), et c’est une parole qu’on entend extrêmement peu.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/extatiq/status/672784675329482757">@extatiq</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Une très belle enquête de Caroline Ibos sur les nounous ivoiriennes à Paris<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/persovinz/status/675986884003262465">@persovinz</a></span>
       </blockquote>
     
   
@@ -1789,6 +1795,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/672316749057011712">@bbarbusse</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Un livre toujours d'actualité !<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AmelTig/status/676112037999677441">@AmelTig</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -3011,6 +3022,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Archi classique indémodable.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/674917729061765120">@mquijoux</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Bon c’est pas ce que j’avais prévu pour aujourd’hui mais restons dans le thème.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/676002307696381952">@Silmalia</a></span>
       </blockquote>
     
   
@@ -4446,6 +4462,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/675012310746943489">@LionnelleMakaya</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Parce que dans #ONPC certaines interventions m'agacent.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/HybridaTabulat/status/675820638670626817">@HybridaTabulat</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -4707,10 +4728,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-9-Jeunesses-fran-aises-Bac-5-made-in-banlieue-Fabien-Truong"><b class="title">Jeunesses françaises : Bac + 5 made in banlieue</b>, par <span class="author">Fabien Truong</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Jeunesses_fran__aises-9782707186881.html">lien</a>)</div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Fabien TRUONG - Jeunesses françaises Bac + 5 made in banlieue<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/674512595118923776">@Laboratoire_CMH</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Fabien TRUONG - Jeunesses françaises Bac + 5 made in banlieue<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/674512595118923776">@Laboratoire_CMH</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        C’est aussi un portrait de la &lt;méritocratie>.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/676129891507699716">@thefugitive_</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -6112,6 +6140,135 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       "Passer les frontières sociales. Comment les &lt;filières d'élite> entrouvrent leurs portes", P Pasquali<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/675761103285133312">@thefugitive_</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Mythes-embl-mes-traces-Carlo-Ginzburg"><b class="title">Mythes, emblèmes, traces</b>, par <span class="author">Carlo Ginzburg</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un peu d’histoire donc. La microhistoire, donc, c’est avant tout une façon d’approcher les objets, et de constuire des modèles explicatifs. Du coup, on a tous à s’en inspirer. D’ailleurs, ils sont allés chercher dans les autres disciplines. Sans arrêter de faire de l’histoire<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/676017441806381056">@Uneheuredepeine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-13">13 Décembre</h2>
+<article class="book">
+  <div class="ref" id="dec15-13-La-science-sociale-et-l-action-mile-Durkheim"><b class="title">La science sociale et l’action</b>, par <span class="author">Émile Durkheim</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Hier Weber aujourd’hui Durkheim !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/675979368687104000">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-13-La-r-publique-mise-nu-par-son-immigration-Nacira-Gu-nif-Souilamas"><b class="title">La république mise à nu par son immigration</b>, dirigé par <span class="author">Nacira Guénif-Souilamas</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un autre ouvrage collectif, d’actualité mais difficile à trouver.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/675979727010717696">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-13-Le-capital-militant-Essau-de-d-finition-Fr-d-rique-Matonti-et-Franck-Poupeau"><b class="title">Le capital militant. Essau de définition</b>, par <span class="author">Frédérique Matonti et Franck Poupeau</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Jour de vote. "Le capital militant se distinguerait donc du capital politique.."<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/675990906294689792">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-13-L-imaginaire-national-Benedict-Anderson"><b class="title">L’imaginaire national</b>, par <span class="author">Benedict Anderson</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Et bien ça sera du coup mon #SocioNoel d’aujourd’hui, #BenedictAnderson @Ed_LaDecouverte<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/676012988726423552">@M_Iz_6</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Aujourd'hui, obligé : L'imaginaire national, de Benedict Anderson. Le genre de livre que tout le monde doit connaitre.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/marvinrouge/status/675948746836979713">@marvinrouge</a></span>
+      </blockquote>
+    
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-13-The-Oxford-Handbook-of-Analytical-Sociology-Peter-Hedstr-m-et-Peter-Bearman"><b class="title">The Oxford Handbook of Analytical Sociology</b>, dirigé par <span class="author">Peter Hedström et Peter Bearman</span>&nbsp;(<a href="https://is.muni.cz/el/1423/jaro2011/SOC757/um/Analytical_Sociology_INTRO.pdf">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une approche trop peu connue en France : la sociologie analytique. La socio analytique, d'inspiration mertonienne mais pas que, se préoccupe de la façon dont on construit un modèle explicatif en socio.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/676018789012606976">@Uneheuredepeine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-13-They-Live-John-Carpenter"><b class="title">They Live</b>, réalisé par <span class="author">John Carpenter</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Amateurs de lutte des classes je vous propose le film "They Live" de Carpenter pour le #SocioNoel d'aujourd'hui. Ce film est cool parce qu'il a une vision super radicale sur les rapports entre dominants et dominés. Et il y a des flingues.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ostpolitik/status/676020211389173760">@Ostpolitik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-13-Imagined-Communities-Benedict-Anderson"><b class="title">Imagined Communities</b>, par <span class="author">Benedict Anderson</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Classique de la sociohistoire matérialiste<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/676021791610044420">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-13-L-arme-du-droit-Liora-Isra-l"><b class="title">L’arme du droit</b>, par <span class="author">Liora Israël</span>&nbsp;(<a href="http://www.pressesdesciencespo.fr/fr/livre/?GCOI=27246100470400&fa=author&person_id=1169">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Liora Israël - L’arme du droit<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/675944054971043840">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-13-L-adieu-au-voyage-Vincent-Debaene"><b class="title">L’adieu au voyage</b>, par <span class="author">Vincent Debaene</span>&nbsp;(<a href="http://www.humanite.fr/13_12_2010-la-tentation-litt%C3%A9raire-de-l%E2%80%99ethnologie-fran%C3%A7aise-459934">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Mélancolie du largage d’amarres<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/675971576676917248">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-13-Ni-vue-ni-connue-Approche-ethnographique-de-la-culture-bourgeoise-B-atrix-Le-Wita"><b class="title">Ni vue ni connue. Approche ethnographique de la culture bourgeoise</b>, par <span class="author">Béatrix Le Wita</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Bel exemple d’observation ethnographique<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jbiaudet/status/676146698624831488">@jbiaudet</a></span>
     </blockquote>
   
   </div>
