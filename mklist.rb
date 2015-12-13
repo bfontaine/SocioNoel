@@ -166,6 +166,7 @@ class BooksList
     books_count = 0
     mentions_count = 0
     authors = []
+    authors_mentions = {}
     sources = Set.new
 
     split_authors = /(?:,\s+(?:et\s+)?|\s+et\s+)/
@@ -175,7 +176,8 @@ class BooksList
         b = Book.new(h, day, i)
         books_count += 1
 
-        b.sources.each do |source|
+        book_sources = b.sources
+        book_sources.each do |source|
           mentions_count += 1
 
           source["link"] =~ %r{^https?://twitter\.com/([^/]+)/}
@@ -184,11 +186,15 @@ class BooksList
 
         b.author.split(split_authors).each do |a|
           authors << a
+
+          authors_mentions[a] ||= 0
+          authors_mentions[a] += book_sources.size
         end
       end
     end
 
     authors = authors.sort.group_by { |a| a }.map { |a, x| [a, x.size]}.sort_by(&:last).reverse
+    authors_mentions = authors_mentions.entries.sort_by(&:last).reverse
 
     {
       :books_count => books_count,
@@ -196,6 +202,7 @@ class BooksList
       :mentions_count => mentions_count,
       :sources_count => sources.size,
       :most_common_authors => authors[0..2],
+      :most_mentioned_authors => authors_mentions[0..2],
     }
   end
 
