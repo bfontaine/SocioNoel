@@ -6324,3 +6324,14 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-13-The-small-world-problem-Stanley-Milgram"><b class="title">The small world problem</b>, par <span class="author">Stanley Milgram</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      “The small world problem” de Stanley Milgram (qui n’a pas fait qu’étudier l’obéissance à l’authorité). Le papier est intéressant en soi même si l’échantillon est trop petit pour en conclure grand chose.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/676178023847206916">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
