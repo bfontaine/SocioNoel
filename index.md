@@ -6244,10 +6244,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-13-L-arme-du-droit-Liora-Isra-l"><b class="title">L’arme du droit</b>, par <span class="author">Liora Israël</span>&nbsp;(<a href="http://www.pressesdesciencespo.fr/fr/livre/?GCOI=27246100470400&fa=author&person_id=1169">lien</a>)</div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Liora Israël - L’arme du droit<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/675944054971043840">@Laboratoire_CMH</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Liora Israël - L’arme du droit<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/675944054971043840">@Laboratoire_CMH</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Je me suis rendu compte qu’il y avait peu de chercheuses jusqu’à présent dans mon #SocioNoel, du coup je vais essayer de rééquilibrer un peu. Et je vais aller piocher dans mes objets de recherche, du coup ça risque d’être un peu (beaucoup) moins grand public.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/676144755923886080">@sociosauvage</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -6269,6 +6276,50 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Bel exemple d’observation ethnographique<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jbiaudet/status/676146698624831488">@jbiaudet</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-13-Danser-Enqu-te-dans-les-coulisses-d-une-vocation-Pierre-Emmanuel-Sorignet"><b class="title">Danser : Enquête dans les coulisses d’une vocation</b>, par <span class="author">Pierre-Emmanuel Sorignet</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Danser. Enquête dans les coulisses d'une vocation" de Pierre-Emmanuel Sorignet.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/676097522478239744">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-13-D-construire-l-identit-nationale-ric-Hobsbawn-B-n-dict-Anderson-et-Anne-Marie-Thiesse"><b class="title">Déconstruire l’identité nationale</b>, par <span class="author">Éric Hobsbawn, Bénédict Anderson, et Anne-Marie Thiesse</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      RIP Anderson mort hier<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ianonim/status/676054796055535616">@Ianonim</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-13-Les-femmes-politiques-la-t-l-vision-Quel-acc-s-la-parole-l-gitime-Sheila-Perry"><b class="title">Les femmes politiques à la télévision. Quel accès à la parole légitime ?</b>, par <span class="author">Sheila Perry</span>&nbsp;(<a href="http://mots.revues.org/19085">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sheila Perry - Les femmes politiques à la télévision. Quel accès à la parole légitime ?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/676052326252224514">@Phangere</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-13-Essence-of-d-cision-pour-d-construire-la-d-cision-Graham-Allison-et-Philip-Zelikow"><b class="title">Essence of décision, pour déconstruire la décision</b>, par <span class="author">Graham Allison et Philip Zelikow</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour déconstruire la décision rationelle/individuelle en relat.inter<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/676047615482585089">@JohnGoodMalik</a></span>
     </blockquote>
   
   </div>

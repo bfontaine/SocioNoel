@@ -3394,8 +3394,15 @@
     comment: Classique de la sociohistoire matérialiste
   - title: L’arme du droit
     author: Liora Israël
-    source: https://twitter.com/Laboratoire_CMH/status/675944054971043840
-    comment: Liora Israël - L’arme du droit
+    sources:
+      - link: https://twitter.com/Laboratoire_CMH/status/675944054971043840
+        comment: Liora Israël - L’arme du droit
+      - link: https://twitter.com/sociosauvage/status/676144755923886080
+        comment: >
+          Je me suis rendu compte qu’il y avait peu de chercheuses jusqu’à
+          présent dans mon #SocioNoel, du coup je vais essayer de rééquilibrer
+          un peu. Et je vais aller piocher dans mes objets de recherche, du
+          coup ça risque d’être un peu (beaucoup) moins grand public.
     link: http://www.pressesdesciencespo.fr/fr/livre/?GCOI=27246100470400&fa=author&person_id=1169
   - title: L’adieu au voyage
     author: Vincent Debaene
@@ -3406,3 +3413,25 @@
     author: Béatrix Le Wita
     source: https://twitter.com/jbiaudet/status/676146698624831488
     comment: Bel exemple d’observation ethnographique
+  - title: "Danser : Enquête dans les coulisses d’une vocation"
+    author: Pierre-Emmanuel Sorignet
+    source: https://twitter.com/PaillardSimon/status/676097522478239744
+    comment: >
+      "Danser. Enquête dans les coulisses d'une vocation" de Pierre-Emmanuel
+      Sorignet.
+  - title: Déconstruire l’identité nationale
+    author: Éric Hobsbawn, Bénédict Anderson, et Anne-Marie Thiesse
+    source: https://twitter.com/Ianonim/status/676054796055535616
+    comment: RIP Anderson mort hier
+  - title: "Les femmes politiques à la télévision. Quel accès à la parole légitime ?"
+    author: Sheila Perry
+    source: https://twitter.com/Phangere/status/676052326252224514
+    comment: >
+      Sheila Perry - Les femmes politiques à la télévision. Quel accès à la
+      parole légitime ?
+    link: http://mots.revues.org/19085
+  - title: Essence of décision, pour déconstruire la décision
+    author: Graham Allison et Philip Zelikow
+    source: https://twitter.com/JohnGoodMalik/status/676047615482585089
+    comment: >
+      Pour déconstruire la décision rationelle/individuelle en relat.inter
