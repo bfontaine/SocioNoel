@@ -572,9 +572,12 @@
       Original et passionnant pour son objet & sa méthode
   - title: Méditations pascaliennes
     author: Pierre Bourdieu
-    source: https://twitter.com/Comtesse_Leia/status/671991338313900032
-    comment: >
-      Une suggestion de jour 1
+    sources:
+      - link: https://twitter.com/Comtesse_Leia/status/671991338313900032
+        comment: Une suggestion de jour 1
+      - link: https://twitter.com/PaillardSimon/status/676415890787868672
+        comment: >
+          Aujourd'hui, #SocioNoel spécial "Relire Bourdieu"
   - title: Stigmate
     author: Erving Goffman
     sources:
@@ -1516,12 +1519,17 @@
     comment: >
       Le livre qui m’a donné envie de m’intéresser à la sociologie du sport.
       L’un des rares consacrés au tennis
-  - title: La grande arnaque
+  - title: "La grande arnaque : Sexualité des femmes et échange économico-sexuel"
     author: Paola Tanet
-    source: https://twitter.com/RaphCann/status/672815608761876480
-    comment: >
-      La grande arnaque de Paola Tanet, avec le concept d’un continuum de
-      l’échange économico-sexuel
+    sources:
+      - link: https://twitter.com/RaphCann/status/672815608761876480
+        comment: >
+          La grande arnaque de Paola Tanet, avec le concept d’un continuum de
+          l’échange économico-sexuel
+      - link: https://twitter.com/Comtesse_Leia/status/676438270335668225
+        comment: >
+          La grande arnaque. Sexualité des femmes et échange économico-sexuel -
+          Paola Tabet
   - title: Méthodes historiques et méthodes littéraires, pour un usage croisé
     author: Christophe Charle
     source: https://twitter.com/Phangere/status/672835578178740229
@@ -2991,10 +2999,15 @@
       Sociologie des institutions européennes
   - title: "Statactivisme : Comment lutter avec des nombres"
     author: Isabelle Bruno, Emmanuel Didier, et Julien Prévieux
-    source: https://twitter.com/Melusine_2/status/675069592373469185
-    comment: >
-      Recueil d’articles sur les stats comme outils politiques, avec des super
-      textes de Desrosières et Bolto notamment.
+    sources:
+      - link: https://twitter.com/Melusine_2/status/675069592373469185
+        comment: >
+          Recueil d’articles sur les stats comme outils politiques, avec des
+          super textes de Desrosières et Bolto notamment.
+      - link: https://twitter.com/thefugitive_/status/676505455183667204
+        comment: >
+          Qui a peur des statistiques ethniques ? - Louis-Georges Tin ; livre
+          "Statactivisme"
     link: http://www.editions-zones.fr/spip.php?page=lyberplayer&id_article=184
   - title: "Choosing Colleges: How Social Class and Schools Structure Opportunity"
     author: Patricia M. McDonough
@@ -3016,9 +3029,13 @@
       Rennes
   - title: La fin du tapin
     author: Lilian Mathieu
-    source: https://twitter.com/Politriste/status/675222433620762624
-    comment: >
-      Une fois sur deux, je lis "la fin du lapin".
+    sources:
+      - link: https://twitter.com/Politriste/status/675222433620762624
+        comment: Une fois sur deux, je lis "la fin du lapin".
+      - link: https://twitter.com/Comtesse_Leia/status/676438731759468544
+        comment: >
+          La fin du tapin. Sociologie de la croisade pour l'abolition de la
+          prostitution - Lilian Mathieu
   - title: "Révoltes postcoloniales au cœur de l’Hexagone : Voix d’adolescents"
     author: Malika Mansouri
     source: https://twitter.com/Lil_RoXaNe/status/675222983527518209
@@ -3459,6 +3476,12 @@
     comment: >
       Pour un dimanche soir il faut un livre tranquille, détente et pas prise
       de tête pour #SocioNoel. Ou pas. Au choix…
+  - title: "L’ennemi principal (volume 1) : économie politique du patriarcat"
+    author: Christine Delphy
+    source: https://twitter.com/Comtesse_Leia/status/676438504264503296
+    comment: >
+      L’ennemi principal (volume 1) : économie politique du patriarcat -
+      Christine Delphy
 14:
   - title: "Corps de femmes, regards d’hommes"
     author: Jean-Claude Kaufmann
@@ -3481,10 +3504,13 @@
     author: Geroges Friedmann
     source: https://twitter.com/bbarbusse/status/676320699498278912
     comment: Un classique de la socio du travail.
-  - title: The Established and the Outsiders
+  - title: Logiques de l’exclusion
     author: Norbert Elias et John L. Scotson
-    source: https://twitter.com/ludemain/status/676323040989470720
-    comment: Winston Parva, established and outsiders
+    sources:
+      - link: https://twitter.com/ludemain/status/676323040989470720
+        comment: Winston Parva, established and outsiders
+      - link: https://twitter.com/Silmalia/status/676441342118133760
+        comment: N. Elias, J. L. Scotson - Logiques de l'exclusion
   - title: Pourquoi les pauvres votent à droite
     author: Thomas Frank
     source: https://twitter.com/Jo14Hernandez/status/676329927902412800
@@ -3501,3 +3527,91 @@
     comment: >
       Allez, commençons la semaine de #SocioNoel par un socio-gif qui
       rappellera à certains un meme bien connu…
+  - title: Langage et classes sociales
+    author: Basil Bernstein
+    source: https://twitter.com/ruggeroparis/status/676344188225593345
+    comment: Allez Basil
+  - title: "Les écrits de septembre : New York 2001"
+    author: Béatrice Fraenkel
+    source: https://twitter.com/Gerome_Truc/status/676345763954315264
+    comment: >
+      Un #SocioNoel à la limite de l'anthropo, mais de circonstances, en écho
+      aux "écrits de novembre" #AttentatsParis
+  - title: "Powerless Science? Science and Politics in a Toxic World"
+    author: Nathalie Jas et Soraya Boudia
+    directed: true
+    source: https://twitter.com/NuteluCaine/status/676355318570426369
+    comment: Sciences, savoirs, ignorance et régulation des risques
+    link: http://www.lemouvementsocial.net/comptes-rendus/nathalie-jas-et-soraya-boudia-dir-nathalie-jas-et-soraya-boudia-dir-powerless-science-science-and-politics-in-a-toxic-world/
+  - title: Les Bandits
+    author: Eric J. Hobsbawm
+    source: https://twitter.com/Jacobo_Grajales/status/676362441312362496
+    comment: Hobsbawm, les bandits
+  - title: Enseigner efficacement la lecture
+    author: Jérôme Deauvieau, Janine Reichstadt, et Jean-Pierre Terrail
+    source: https://twitter.com/Laboratoire_CMH/status/676363186006814720
+    comment: >
+      Jérôme Deauvieau Janine Reichstadt Jean-Pierre Terrail: Enseigner ef..
+    link: http://www.odilejacob.fr/catalogue/sciences-humaines/education-enseignement-pedagogie/enseigner-efficacement-la-lecture_9782738132383.php
+  - title: Jeux d'échelles
+    author: Jacques Revel
+    directed: true
+    source: https://twitter.com/Uneheuredepeine/status/676370185209688064
+    comment: >
+      Je finis ma série "Méthodo et outils de la microanalyse" avec Jacques
+      Revel (dir.) Jeux d'échelles.
+  - title: Process and Form in Social Life
+    author: Fredrik Barth
+    source: https://twitter.com/Uneheuredepeine/status/676371182149574660
+    comment: >
+      <a href="https://twitter.com/Uneheuredepeine/status/676370185209688064">#LT</a>
+      À compléter avec Process and Form in Sociol Life de Fredrik Barth. Tiens,
+      ça fera un doublé aujourd’hui.
+  - title: L’analyse sociologique des organisations
+    author: Ehrard Friedberg
+    source: https://twitter.com/jbiaudet/status/676371327683592193
+    comment: Pour la clarté de cet opuscule
+  - title: L’écologisme des pauvres
+    author: Joan Martinez-Alier
+    source: https://twitter.com/marvinrouge/status/676385586098343936
+    comment: Un grand livre méconnu en France, mais récemment traduit
+  - title: Réseaux sociaux et structures relationnelles
+    author: Emmanuel Lazega
+    source: https://twitter.com/fivepastfive/status/676398142041038849
+    comment: Parce que les réseaux c'est trop cool
+  - title: "Politique(s) du Conflit : De la grève à la révolution"
+    author: Charles Tilly et Sidney Tarrow
+    source: https://twitter.com/EditionsScpo/status/676398373860167680
+    comment: Causes/processus de différentes formes de conflit politique
+  - title: The common place of law
+    author: Patricia Ewick et Susan S. Silbey
+    source: https://twitter.com/sociosauvage/status/676399782957596672
+    comment: Un classique des Legal Consciousness Studies
+  - title: 1848, quand la République était révolutionnaire
+    author: Samuel Hayat
+    source: https://twitter.com/Ostpolitik/status/676438729888808964
+    comment: >
+      "1848, quand la République était révolutionnaire" de @SamuelHayat que
+      j’ai lu en deux jours. #Lèchecul
+  - title: a domination adulte
+    author: Yves Bonnardel
+    source: https://twitter.com/celiacarpaye/status/676459204807389184
+    comment: >
+      D’ailleurs, je vois tourner le #SocioNoel, je conseille le livre
+      #LaDominationAdulte d’Yves Bonnardel à ce sujet
+    link: http://lmsi.net/La-domination-adulte,1703
+  - title: "les trois cultures : Entre science et littérature, l'avènement de la sociologie"
+    author: Wolf Lepenies
+    source: https://twitter.com/JohnGoodMalik/status/676464118111539200
+    comment: >
+      les trois cultures, entre science et littérature, l'avènement de la
+      sociologie
+  - title: "Le Propre et le Sale : L'hygiène du corps depuis le Moyen Âge"
+    author: Georges Vigarello
+    source: https://twitter.com/balleverte/status/676504549100777472
+    comment: "#histoire avec la dédicace de Georges. :)"
+  - title: "La pensée sauvage"
+    author: Claude Lévi-Strauss
+    source: https://twitter.com/bfontn/status/676509916820021248
+    comment: >
+      Bouquin tout juste terminé (ok c’est plus de l’ethno que de la socio).
