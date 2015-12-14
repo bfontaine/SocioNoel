@@ -28,6 +28,7 @@ Accès direct à un jour :<br/>
 11. [11 Décembre](#dec15-11)
 12. [12 Décembre](#dec15-12)
 13. [13 Décembre](#dec15-13)
+14. [14 Décembre](#dec15-14)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -6155,6 +6156,17 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-12-Observer-l-preuve-d-une-d-ficience-visuelle-le-r-le-des-indices-Marion-Ink"><b class="title">Observer à l’épreuve d’une déficience visuelle : le rôle des indices</b>, par <span class="author">Marion Ink</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Vous avez envie de lire ? Non ? Ça tombe bien, le #SocioNoel du jour est un article à paraître ! (mais vachement cool)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/675706516989677568">@sociobd</a></span>
+    </blockquote>
+  
+  </div>
+</article>
 <h2 id="dec15-13">13 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-13-La-science-sociale-et-l-action-mile-Durkheim"><b class="title">La science sociale et l’action</b>, par <span class="author">Émile Durkheim</span></div>
@@ -6331,6 +6343,117 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       “The small world problem” de Stanley Milgram (qui n’a pas fait qu’étudier l’obéissance à l’authorité). Le papier est intéressant en soi même si l’échantillon est trop petit pour en conclure grand chose.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/676178023847206916">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-13-D-fection-et-prise-de-parole-Albert-Hirschman"><b class="title">Défection et prise de parole</b>, par <span class="author">Albert Hirschman</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un #SocioNoel pour cette journée électorale<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/fivepastfive/status/676189779357261824">@fivepastfive</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-13-Essais-sur-la-th-orie-de-la-science-Max-Weber"><b class="title">Essais sur la théorie de la science</b>, par <span class="author">Max Weber</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour un dimanche soir il faut un livre tranquille, détente et pas prise de tête pour #SocioNoel. Ou pas. Au choix…<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/676079654189539329">@sociobd</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-14">14 Décembre</h2>
+<article class="book">
+  <div class="ref" id="dec15-14-Corps-de-femmes-regards-d-hommes-Jean-Claude-Kaufmann"><b class="title">Corps de femmes, regards d’hommes</b>, par <span class="author">Jean-Claude Kaufmann</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Mais comment captive-t-on des débutants en socio dans un TD de méthode? -Eh bien c’est simple, avec ceci<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Politriste/status/676302215770939392">@Politriste</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Filles-gar-ons-Questions-de-genre-de-la-formation-l-enseignement-Christine-Morin-Messabel"><b class="title">Filles/garçons : Questions de genre, de la formation à l’enseignement</b>, dirigé par <span class="author">Christine Morin-Messabel</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      J’ai commencé ce livre récemment, super intéressant !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/676312868204212224">@pa_prika_m</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Making-Sense-of-Politics-in-Public-Spaces-Daniel-Cefa-"><b class="title">Making Sense of Politics in Public Spaces</b>, par <span class="author">Daniel Cefaï</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Daniel Cefaï, "Making Sense of Politics in Public Spaces" (dans "Schutzian Social Science").<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/676315885888491520">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-O-va-le-travail-humain-Geroges-Friedmann"><b class="title">Où va le travail humain ?</b>, par <span class="author">Geroges Friedmann</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un classique de la socio du travail.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/676320699498278912">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-The-Established-and-the-Outsiders-Norbert-Elias-et-John-L-Scotson"><b class="title">The Established and the Outsiders</b>, par <span class="author">Norbert Elias et John L. Scotson</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Winston Parva, established and outsiders<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ludemain/status/676323040989470720">@ludemain</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Pourquoi-les-pauvres-votent-droite-Thomas-Frank"><b class="title">Pourquoi les pauvres votent à droite</b>, par <span class="author">Thomas Frank</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Analyse politique et sociale d’un vote contradictoire<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/676329927902412800">@Jo14Hernandez</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Le-spectre-du-communautarisme-Laurent-L-vy"><b class="title">Le spectre du communautarisme</b>, par <span class="author">Laurent Lévy</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une petite dédicace à la DILCRA avec cet ouvrage sur le "communautarisme".<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/676336255437787136">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Les-mondes-de-l-art-Howard-Becker"><b class="title">Les mondes de l’art</b>, par <span class="author">Howard Becker</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Allez, commençons la semaine de #SocioNoel par un socio-gif qui rappellera à certains un meme bien connu…<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/676312831197884416">@sociobd</a></span>
     </blockquote>
   
   </div>
