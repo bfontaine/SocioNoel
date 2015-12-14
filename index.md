@@ -6,8 +6,6 @@ layout: default
 
 <b>#SocioNoel</b> est une idée originale de [@CobbleAndFrame](https://twitter.com/CobbleAndFrame/status/671360041136558081), qui a également créé l’image ci-dessus (utilisée sans aucune permission).
 La liste ci-dessous est compilée à la main à partir des tweets qui ont le hashtag [#SocioNoel](https://twitter.com/search?f=tweets&vertical=default&q=socionoel).
-Certaines personnes apparaissent plusieurs fois parce qu’elles ont mentionné
-plusieurs livres le même jour (bouuuuh !).
 Il n’y a pas d’ordre particulier.
 
 Le <a href="https://github.com/bfontaine/SocioNoel">code de cette page</a> est libre et la liste est dans le domaine public.
