@@ -74,6 +74,7 @@ class Book
     if has? "sources"
       sources = @attrs["sources"]
       must "have sources" if sources.nil? || sources.empty?
+      must "use 'source' instead of 'sources' if there's only one" if sources.is_a? String
       sources.each_with_index do |s, i|
         %w[link comment].each do |attr|
           must "have a #{attr} for its source #{i}" unless s.has_key? attr
