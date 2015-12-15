@@ -298,10 +298,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-1-La-culture-du-pauvre-Richard-Hoggart"><b class="title">La culture du pauvre</b>, par <span class="author">Richard Hoggart</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Pour moi, incontestablement deux livres:<br/>-"le monde privé des ouvriers" d’O. Schwartz<br/>-"la culture du pauvre" de R Hoggart.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/671707874180128768">@mquijoux</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Pour moi, incontestablement deux livres:<br/>-"le monde privé des ouvriers" d’O. Schwartz<br/>-"la culture du pauvre" de R Hoggart.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/671707874180128768">@mquijoux</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        La genèse des Cultural Studies<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NLapeyroux/status/676724910924898304">@NLapeyroux</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -6696,6 +6703,116 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Bouquin tout juste terminé (ok c’est plus de l’ethno que de la socio).<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/676509916820021248">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Entre-protection-et-compassion-Des-politiques-publiques-travaill-es-par-la-question-sociale-1980-2005-Ren-Ballain-Dominique-Glasman-et-Roland-Raymond"><b class="title">Entre protection et compassion : Des politiques publiques travaillées par la question sociale (1980-2005)</b>, dirigé par <span class="author">René Ballain, Dominique Glasman, et Roland Raymond</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Questions sociales et politiques publiques"Entre protection et compassion" Ballain, Glasman, Raymond & al<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/676518131993546752">@F_Bally</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-La-voix-des-acteurs-faibles-De-l-indignit-la-reconnaissance-Jean-Paul-Payet-et-Fr-d-rique-Giuliani"><b class="title">La voix des acteurs faibles. De l’indignité à la reconnaissance</b>, par <span class="author">Jean-Paul Payet et Frédérique Giuliani</span>&nbsp;(<a href="https://lectures.revues.org/615">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sur la relation institution/dominés<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/676519222709788673">@F_Bally</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Le-culte-de-l-urgence-La-soci-t-malade-du-temps-Nicole-Aubert"><b class="title">Le culte de l’urgence : La société malade du temps</b>, par <span class="author">Nicole Aubert</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour ne pas tomber malade et ralentir ! Indispensable…<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/676675874314461184">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Genre-et-sexualit-dans-le-rapport-p-dagogique-ethnographie-d-un-lyc-e-de-banlieue-Zo-Rollin"><b class="title">Genre et sexualité dans le rapport pédagogique : ethnographie d’un lycée « de banlieue »</b>, par <span class="author">Zoé Rollin</span>&nbsp;(<a href="https://gss.revues.org/2350">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Z. Rollin, Genre et sexualité dans le rapport pédagogique : ethnographie d’un lycée "de banlieue"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/676682888541155329">@Uneheuredepeine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Maman-noire-et-invisible-Diariatou-Kebe"><b class="title">Maman noire et invisible</b>, par <span class="author">Diariatou Kebe</span>&nbsp;(<a href="http://www.huffingtonpost.fr/diariatou-kebe/moi-maman-noire-et-invisible_b_8803372.html">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Moi, maman noire et… invisible<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Morifen333/status/676706009490939904">@Morifen333</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Peut-on-aimer-le-football-collectif"><b class="title">Peut-on aimer le football ?</b> (collectif)&nbsp;(<a href="http://www.cairn.info/revue-mouvements-2014-2.htm">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Peut-on aimer le football" featuring @lestrelin, @Martov, @marwanormalzup, @renaud_epstein<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/676709977055223808">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-L-engagement-dans-le-travail-Alexandra-Bidet"><b class="title">L’engagement dans le travail</b>, par <span class="author">Alexandra Bidet</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Alexandra Bidet - L'engagement dans le travail<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/676712116305403904">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Carnal-knowledge-and-imperial-power-Ann-Laura-Stoler"><b class="title">Carnal knowledge and imperial power</b>, par <span class="author">Ann Laura Stoler</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Colonialisme et sphère intime. Vient d’arriver par la poste, hâte de le lire<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jacobo_Grajales/status/676713548240826368">@Jacobo_Grajales</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-De-la-justification-les-conomies-de-la-grandeur-Luc-Boltanski-et-Laurent-Th-venot"><b class="title">De la justification : les économies de la grandeur</b>, par <span class="author">Luc Boltanski et Laurent Thévenot</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Luc Boltanski et Laurent Thévenot, "De la justification, les économies de la grandeur"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/676723564121300992">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Culture-d-en-haut-culture-d-en-bas-L-mergence-des-hi-rarchies-culturelles-aux-Etats-Unis-Lawrence-W-Levine"><b class="title">Culture d’en haut, culture d'en bas : L’émergence des hiérarchies culturelles aux Etats-Unis</b>, par <span class="author">Lawrence W. Levine</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Culture d'en haut, culture d'en bas:L'émergence des hiérarchies culturelles aux Etats-Unis de L.w. Levine<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/676726804464422912">@Jo14Hernandez</a></span>
     </blockquote>
   
   </div>

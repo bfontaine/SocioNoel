@@ -150,11 +150,14 @@
       -"la culture du pauvre" de R Hoggart.
   - title: La culture du pauvre
     author: Richard Hoggart
-    source: https://twitter.com/mquijoux/status/671707874180128768
-    comment: |
-      Pour moi, incontestablement deux livres:
-      -"le monde privé des ouvriers" d’O. Schwartz
-      -"la culture du pauvre" de R Hoggart.
+    sources:
+      - link: https://twitter.com/mquijoux/status/671707874180128768
+        comment: |
+          Pour moi, incontestablement deux livres:
+          -"le monde privé des ouvriers" d’O. Schwartz
+          -"la culture du pauvre" de R Hoggart.
+      - link: https://twitter.com/NLapeyroux/status/676724910924898304
+        comment: La genèse des Cultural Studies
   - title: La fabrique des garçons
     author: Sylvie Ayral
     source: https://twitter.com/hvqoi/status/671705969311789056
@@ -3491,3 +3494,60 @@
     source: https://twitter.com/bfontn/status/676509916820021248
     comment: >
       Bouquin tout juste terminé (ok c’est plus de l’ethno que de la socio).
+  - title: "Entre protection et compassion : Des politiques publiques travaillées par la question sociale (1980-2005)"
+    author: René Ballain, Dominique Glasman, et Roland Raymond
+    directed: true
+    source: https://twitter.com/F_Bally/status/676518131993546752
+    comment: >
+      Questions sociales et politiques publiques"Entre protection et
+      compassion" Ballain, Glasman, Raymond & al
+  - title: La voix des acteurs faibles. De l’indignité à la reconnaissance
+    author: Jean-Paul Payet et Frédérique Giuliani
+    source: https://twitter.com/F_Bally/status/676519222709788673
+    comment: Sur la relation institution/dominés
+    link: https://lectures.revues.org/615
+  - title: "Le culte de l’urgence : La société malade du temps"
+    author: Nicole Aubert
+    source: https://twitter.com/bbarbusse/status/676675874314461184
+    comment: Pour ne pas tomber malade et ralentir ! Indispensable…
+  - title: "Genre et sexualité dans le rapport pédagogique : ethnographie d’un lycée « de banlieue »"
+    author: Zoé Rollin
+    source: https://twitter.com/Uneheuredepeine/status/676682888541155329
+    comment: >
+      Z. Rollin, Genre et sexualité dans le rapport pédagogique : ethnographie
+      d’un lycée "de banlieue"
+    link: https://gss.revues.org/2350
+  - title: Maman noire et invisible
+    author: Diariatou Kebe
+    source: https://twitter.com/Morifen333/status/676706009490939904
+    comment: Moi, maman noire et… invisible
+    link: http://www.huffingtonpost.fr/diariatou-kebe/moi-maman-noire-et-invisible_b_8803372.html
+  - title: Peut-on aimer le football ?
+    author: collectif
+    source: https://twitter.com/balleverte/status/676709977055223808
+    comment: >
+      "Peut-on aimer le football" featuring @lestrelin, @Martov,
+      @marwanormalzup, @renaud_epstein
+    link: http://www.cairn.info/revue-mouvements-2014-2.htm
+  - title: L’engagement dans le travail
+    author: Alexandra Bidet
+    source: https://twitter.com/Laboratoire_CMH/status/676712116305403904
+    comment: Alexandra Bidet - L'engagement dans le travail
+  - title: Carnal knowledge and imperial power
+    author: Ann Laura Stoler
+    source: https://twitter.com/Jacobo_Grajales/status/676713548240826368
+    comment: >
+      Colonialisme et sphère intime. Vient d’arriver par la poste, hâte de le
+      lire
+  - title: "De la justification : les économies de la grandeur"
+    author: Luc Boltanski et Laurent Thévenot
+    source: https://twitter.com/CobbleAndFrame/status/676723564121300992
+    comment: >
+      Luc Boltanski et Laurent Thévenot, "De la justification, les économies de
+      la grandeur"
+  - title: "Culture d’en haut, culture d'en bas : L’émergence des hiérarchies culturelles aux Etats-Unis"
+    author: Lawrence W. Levine
+    source: https://twitter.com/Jo14Hernandez/status/676726804464422912
+    comment: >
+      Culture d'en haut, culture d'en bas:L'émergence des hiérarchies
+      culturelles aux Etats-Unis de L.w. Levine
