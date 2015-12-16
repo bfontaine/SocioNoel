@@ -7153,3 +7153,14 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-16-Introduction-la-sociologie-II-Pierre-Bourdieu-et-Jean-Claude-Passeron"><b class="title">Introduction à la sociologie II</b>, par <span class="author">Pierre Bourdieu et Jean-Claude Passeron</span>&nbsp;(<a href="https://www.youtube.com/watch?v=_jncfQfEjPs&feature=youtu.be">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Bourdieu et Passeron - Introduction à la sociologie II<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Alisxtp/status/677130669655506944">@Alisxtp</a></span>
+    </blockquote>
+  
+  </div>
+</article>
