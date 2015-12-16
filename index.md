@@ -4704,6 +4704,17 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-8-European-Others-Queering-Ethnicity-in-Post-National-Europe-Fatima-El-Tayeb"><b class="title">European Others: Queering Ethnicity in Post National Europe</b>, par <span class="author">Fatima El Tayeb</span>&nbsp;(<a href="https://escholarship.org/uc/item/14z3z257#page-1">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Fatima El Tayeb, European Others. Queering Ethnicity in Post National Europe<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/677237642677891072">@CamilleGinger</a></span>
+    </blockquote>
+  
+  </div>
+</article>
 <h2 id="dec15-9">9 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-9-Economists-and-Societies-Marion-Fourcade"><b class="title">Economists and Societies</b>, par <span class="author">Marion Fourcade</span>&nbsp;(<a href="http://press.princeton.edu/titles/8908.html">lien</a>)</div>
@@ -5118,6 +5129,17 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Article plutôt synthétique expliquant ce qu’on peut étudier au niveau du journalisme quant au genre.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/674886335036043265">@Phangere</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-9-Declarations-of-Whiteness-The-Non-Performativity-of-Anti-Racism-Sara-Ahmed"><b class="title">Declarations of Whiteness: The Non-Performativity of Anti-Racism</b>, par <span class="author">Sara Ahmed</span>&nbsp;(<a href="http://www.borderlands.net.au/vol3no2_2004/ahmed_declarations.htm">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sur les whiteness studies<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/677238246280179713">@CamilleGinger</a></span>
     </blockquote>
   
   </div>
@@ -6937,7 +6959,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Un peu d'anthropologie linguistique<br/>
+      Un peu d’anthropologie linguistique<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/676775112306253824">@sociosauvage</a></span>
     </blockquote>
   
@@ -7114,7 +7136,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Un essai au vitriol contre le Guide de la Pensée (sans) complexe ? C'est plaisant aussi en réf.<br/>
+      Un essai au vitriol contre le Guide de la Pensée (sans) complexe ? C’est plaisant aussi en réf.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/677111794201190400">@ArSaintMartin</a></span>
     </blockquote>
   
@@ -7125,7 +7147,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Retour au postcolonialisme avec "Culture et impérialisme" d'Eward W. Saïd.<br/>
+      Retour au postcolonialisme avec "Culture et impérialisme" d’Eward W. Saïd.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/677117625210642432">@PaillardSimon</a></span>
     </blockquote>
   
@@ -7160,6 +7182,149 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Bourdieu et Passeron - Introduction à la sociologie II<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Alisxtp/status/677130669655506944">@Alisxtp</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Face-Ga-a-Huit-conf-rences-sur-le-nouveau-r-gime-climatique-Bruno-Latour"><b class="title">Face à Gaïa : Huit conférences sur le nouveau régime climatique.</b>, par <span class="author">Bruno Latour</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Bruno Latour, Face à Gaïa. Huit conférences sur le nouveau régime climatique. #COP21 #climat<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JeffreyTallane/status/677148440590221313">@JeffreyTallane</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-La-socialisation-Muriel-Darmon"><b class="title">La socialisation</b>, par <span class="author">Muriel Darmon</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un super #SocioNoel à conseiller<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Morifen333/status/677154383826677760">@Morifen333</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Les-aides-domicile-Un-autre-monde-populaire-Christelle-Avril"><b class="title">Les aides à domicile : Un autre monde populaire</b>, par <span class="author">Christelle Avril</span>&nbsp;(<a href="http://www.amazon.fr/Les-aides-domicile-autre-populaire/dp/2843031842">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      La frange la plus populaire du #care beaucoup de femmes racisées<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/677161339891093505">@LionnelleMakaya</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-L-cart-d-ge-entre-conjoints-Jean-Fran-ois-Mignot"><b class="title">L’écart d’âge entre conjoints</b>, par <span class="author">Jean-François Mignot</span>&nbsp;(<a href="http://www.cairn.info/revue-francaise-de-sociologie-2010-2-page-281.htm">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      “L’écart d’âge entre conjoints” de JF Mignot tente d’expliquer pourquoi dans la majorité des mariages l’âge de l’homme est supérieur à l’age de la femme<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/677178765328404480">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Why-Is-There-No-Socialism-in-the-United-States-Werner-Sombart"><b class="title">Why Is There No Socialism in the United States?</b>, par <span class="author">Werner Sombart</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une perspective sociologique contre l’explication raciale<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/677181368808378368">@F__Casta</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Pourquoi-est-il-plus-simple-de-parler-de-physique-que-de-sociologie-Osons-Causer"><b class="title">Pourquoi est-il plus simple de parler de physique que de sociologie ?</b>, par <span class="author">Osons Causer</span>&nbsp;(<a href="https://www.youtube.com/watch?v=XvoSfDNGn28">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une émission de vulgarisation des SHS<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/677188582222745600">@RaphCann</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-The-Death-of-Ramon-Gonzalez-Agnus-Wright"><b class="title">The Death of Ramon Gonzalez</b>, par <span class="author">Agnus Wright</span>&nbsp;(<a href="http://utpress.utexas.edu/index.php/books/wrid2p">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      On ne se refait pas.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/nathalie_jas/status/677207308103901185">@nathalie_jas</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-La-mont-e-des-incertitudes-Robert-Castel"><b class="title">La montée des incertitudes</b>, par <span class="author">Robert Castel</span>&nbsp;(<a href="https://lectures.revues.org/766">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Essentiel sur la question salariale<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lulle1/status/677208333430951940">@Lulle1</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Paris-ville-ouvri-re-Maurizio-Gribaudi"><b class="title">Paris, ville ouvrière</b>, par <span class="author">Maurizio Gribaudi</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Le récent ouvrage de Maurizio Gribaudi: Paris, ville ouvrière<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/677209637381361665">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Toxic-Injustice-A-Transnational-History-of-Exposure-Struggle-Susanna-Rankin-Bohme"><b class="title">Toxic Injustice: A Transnational History of Exposure & Struggle</b>, par <span class="author">Susanna Rankin Bohme</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Again ma marotte @SusannaBohme Toxic Injustice-A Transnational History of Exposure & Struggle<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/nathalie_jas/status/677217165875920896">@nathalie_jas</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Freedom-Summer-Luttes-pour-les-droits-civiques-Mississippi-1964-Doug-McAdam"><b class="title">Freedom Summer : Luttes pour les droits civiques. Mississippi 1964</b>, par <span class="author">Doug McAdam</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pourquoi s’engager en faveur des droits civiques pour les Noirs quand on est Blanc ?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/677220702970363904">@Gerome_Truc</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Le-droit-la-ville-Henri-Lefebvre"><b class="title">Le droit à la ville</b>, par <span class="author">Henri Lefebvre</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour sa vision des mutations urbaines spatiales et réflexion sur l’espace<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/677233654972686336">@F_Bally</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Les-dirigeants-paysans-Sylvain-Maresca"><b class="title">Les dirigeants paysans</b>, par <span class="author">Sylvain Maresca</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un classique sur les mécanismes de délégation. Analyse toujours d’actualité sur l’unité syndicale agricole et la distance dirigeants/agriculteurs<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/677236295114948609">@NuteluCaine</a></span>
     </blockquote>
   
   </div>
