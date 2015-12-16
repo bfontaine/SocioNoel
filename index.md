@@ -3281,10 +3281,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-5-L-autre-enseignement-sup-rieur-Les-BTS-et-la-gestion-des-aspirations-scolaires-Sophie-Orange"><b class="title">L’autre enseignement supérieur : Les BTS et la gestion des aspirations scolaires</b>, par <span class="author">Sophie Orange</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Une invitation au voyage dans la galaxie BTS #autresuperieur<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/673187168802742272">@ruggeroparis</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Une invitation au voyage dans la galaxie BTS #autresuperieur<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/673187168802742272">@ruggeroparis</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        De la très bonne socio du supérieur<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/677118774500265985">@sociosauvage</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -7032,6 +7039,116 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Benoît de L’Estoile - Le goût des autres : De l’Exposition coloniale aux Arts premiers<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/677052264075411456">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Les-trois-s-urs-et-le-sociologue-Notes-ethnographiques-sur-la-mobilit-sociale-dans-une-fratrie-d-enfants-d-immigr-s-alg-riens-St-phane-Beaud"><b class="title">Les trois sœurs et le sociologue : Notes ethnographiques sur la mobilité sociale dans une fratrie d’enfants d’immigrés algériens</b>, par <span class="author">Stéphane Beaud</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Et toujours contre la "culture de l’excuse", S. Beaud "Les trois sœurs et le sociologue", IDEE, 2014/1<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/677069912876179456">@ruggeroparis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Naissance-de-la-sociologie-Johan-Heilbron"><b class="title">Naissance de la sociologie</b>, par <span class="author">Johan Heilbron</span>&nbsp;(<a href="http://agone.org/bancdessais/naissancedelasociologie/">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une enquête méticuleuse et indispensable<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/677070849858510848">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-The-Gender-of-the-Gift-Marilyn-Strathern"><b class="title">The Gender of the Gift</b>, par <span class="author">Marilyn Strathern</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Je paye un pot à celui qui me l’explique, mais c’est un grand livre quand même !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/marvinrouge/status/677087083744403456">@marvinrouge</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Autour-de-l-autochtonie-R-flexions-sur-la-notion-de-capital-social-populaire-Jean-No-l-Reti-re"><b class="title">Autour de l’autochtonie : Réflexions sur la notion de capital social populaire</b>, par <span class="author">Jean-Noël Retière</span>&nbsp;(<a href="http://www.persee.fr/doc/polix_0295-2319_2003_num_16_63_1295">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Jean-Noël Retière, "Autour de l’autochtonie"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/677109410787950592">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Brokerage-and-Closure-An-Introduction-to-Social-Capital-Ronald-S-Burt"><b class="title">Brokerage and Closure: An Introduction to Social Capital</b>, par <span class="author">Ronald S. Burt</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Le #SocioNoel du Mercredi !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/fivepastfive/status/677110598417653765">@fivepastfive</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Keynes-et-ses-combats-Gilles-Dostaler"><b class="title">Keynes et ses combats</b>, par <span class="author">Gilles Dostaler</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Engagements & idées du plus influent économiste du 20<sup>ème</sup> siècle<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/677110681397760000">@Jo14Hernandez</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Edgar-Morin-La-fabrique-d-une-pens-e-et-ses-r-seaux-influents-Jean-Jacob"><b class="title">Edgar Morin : La fabrique d’une pensée et ses réseaux influents</b>, par <span class="author">Jean Jacob</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un essai au vitriol contre le Guide de la Pensée (sans) complexe ? C'est plaisant aussi en réf.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/677111794201190400">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Culture-et-imp-rialisme-Edward-W-Said"><b class="title">Culture et impérialisme</b>, par <span class="author">Edward W. Said</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Retour au postcolonialisme avec "Culture et impérialisme" d'Eward W. Saïd.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/677117625210642432">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Les-Versets-de-l-invincibilit-Fanny-Colonna"><b class="title">Les Versets de l’invincibilité</b>, par <span class="author">Fanny Colonna</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Religion opium du peuple ou force de mobilisation ?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/EditionsScpo/status/677126577969348608">@EditionsScpo</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Soul-vement-et-recompositions-politiques-dans-le-monde-arabe-collectif"><b class="title">Soulèvement et recompositions politiques dans le monde arabe</b> (collectif)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Soulèvement et recompositions politiques dans le monde arabe (collectif)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/677128856101396480">@JohnGoodMalik</a></span>
     </blockquote>
   
   </div>

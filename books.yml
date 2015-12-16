@@ -1690,8 +1690,11 @@
       Pour voir Bruxelles autrement, sur l’immigration et l’intégration…
   - title: "L’autre enseignement supérieur : Les BTS et la gestion des aspirations scolaires"
     author: Sophie Orange
-    source: https://twitter.com/ruggeroparis/status/673187168802742272
-    comment: "Une invitation au voyage dans la galaxie BTS #autresuperieur"
+    sources:
+      - link: https://twitter.com/ruggeroparis/status/673187168802742272
+        comment: "Une invitation au voyage dans la galaxie BTS #autresuperieur"
+      - link: https://twitter.com/sociosauvage/status/677118774500265985
+        comment: De la très bonne socio du supérieur
   - title: "Les Intermittents du spectacle : Enjeux d’un siècle de luttes"
     author: Mathieu Grégoire
     source: https://twitter.com/ylloPytterP/status/673192146560765952
@@ -3662,3 +3665,57 @@
     comment: >
       Benoît de L’Estoile - Le goût des autres : De l’Exposition coloniale aux
       Arts premiers
+  - title: "Les trois sœurs et le sociologue : Notes ethnographiques sur la mobilité sociale dans une fratrie d’enfants d’immigrés algériens"
+    author: Stéphane Beaud
+    source: https://twitter.com/ruggeroparis/status/677069912876179456
+    comment: >
+      Et toujours contre la "culture de l’excuse", S. Beaud "Les trois sœurs et
+      le sociologue", IDEE, 2014/1
+  - title: Naissance de la sociologie
+    author: Johan Heilbron
+    source: https://twitter.com/ArSaintMartin/status/677070849858510848
+    comment: Une enquête méticuleuse et indispensable
+    link: http://agone.org/bancdessais/naissancedelasociologie/
+  - title: The Gender of the Gift
+    author: Marilyn Strathern
+    source: https://twitter.com/marvinrouge/status/677087083744403456
+    comment: >
+      Je paye un pot à celui qui me l’explique, mais c’est un grand livre quand
+      même !
+  - title: "Autour de l’autochtonie : Réflexions sur la notion de capital social populaire"
+    author: Jean-Noël Retière
+    source: https://twitter.com/CobbleAndFrame/status/677109410787950592
+    comment: >
+      Jean-Noël Retière, "Autour de l’autochtonie"
+    link: http://www.persee.fr/doc/polix_0295-2319_2003_num_16_63_1295
+  - title: "Brokerage and Closure: An Introduction to Social Capital"
+    author: Ronald S. Burt
+    source: https://twitter.com/fivepastfive/status/677110598417653765
+    comment: "Le #SocioNoel du Mercredi !"
+  - title: Keynes et ses combats
+    author: Gilles Dostaler
+    source: https://twitter.com/Jo14Hernandez/status/677110681397760000
+    comment: >
+      Engagements & idées du plus influent économiste du 20<sup>ème</sup>
+      siècle
+  - title: "Edgar Morin : La fabrique d’une pensée et ses réseaux influents"
+    author: Jean Jacob
+    source: https://twitter.com/ArSaintMartin/status/677111794201190400
+    comment: >
+      Un essai au vitriol contre le Guide de la Pensée (sans) complexe ? C'est
+      plaisant aussi en réf.
+  - title: Culture et impérialisme
+    author: Edward W. Said
+    source: https://twitter.com/PaillardSimon/status/677117625210642432
+    comment: >
+      Retour au postcolonialisme avec "Culture et impérialisme" d'Eward W.
+      Saïd.
+  - title: Les Versets de l’invincibilité
+    author: Fanny Colonna
+    source: https://twitter.com/EditionsScpo/status/677126577969348608
+    comment: Religion opium du peuple ou force de mobilisation ?
+  - title: Soulèvement et recompositions politiques dans le monde arabe
+    author: collectif
+    source: https://twitter.com/JohnGoodMalik/status/677128856101396480
+    comment: >
+      Soulèvement et recompositions politiques dans le monde arabe (collectif)
