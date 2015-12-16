@@ -143,11 +143,15 @@
           des podcasts à côté
   - title: Le monde privé des ouvriers
     author: Olivier Schwartz
-    source: https://twitter.com/mquijoux/status/671707874180128768
-    comment: |
-      Pour moi, incontestablement deux livres:
-      -"le monde privé des ouvriers" d’O. Schwartz
-      -"la culture du pauvre" de R Hoggart.
+    sources:
+      - link: https://twitter.com/mquijoux/status/671707874180128768
+        comment: |
+          Pour moi, incontestablement deux livres:
+          -"le monde privé des ouvriers" d’O. Schwartz
+          -"la culture du pauvre" de R Hoggart.
+      - link: https://twitter.com/Lil_RoXaNe/status/676750506958655488
+        comment: >
+          Un ouvrage un peu épais mais facile à lire et vraiment fascinant
   - title: La culture du pauvre
     author: Richard Hoggart
     sources:
@@ -264,12 +268,15 @@
     comment: >
       Provincialiser l’Europe : La pensée postcoloniale et la différence
       historique de Dipesh Chakrabarty
-  - title: Le Don
+  - title: Essai sur le Don
     author: Marcel Mauss
-    source: https://twitter.com/Pyrate_Jenni/status/671741263482363904
-    comment: >
-      Le Don de Marcel Mauss parce que les conclusions ont blow my mind et que
-      c’est le premier ouvrage que j’ai étudié en entier
+    sources:
+      - link: https://twitter.com/Pyrate_Jenni/status/671741263482363904
+        comment: >
+          Le Don de Marcel Mauss parce que les conclusions ont blow my mind et que
+          c’est le premier ouvrage que j’ai étudié en entier
+      - link: https://twitter.com/bfontn/status/676808561436020736
+        comment: Un classique et mon livre de chevet/métro actuel
   - title: Condition de l’Homme Global
     author: Arjun Appadurai
     source: https://twitter.com/Bad_Sociologist/status/671741509906092033
@@ -563,7 +570,7 @@
         comment: Une suggestion de jour 1
       - link: https://twitter.com/PaillardSimon/status/676415890787868672
         comment: >
-          Aujourd'hui, #SocioNoel spécial "Relire Bourdieu"
+          Aujourd’hui, #SocioNoel spécial "Relire Bourdieu"
   - title: Stigmate
     author: Erving Goffman
     sources:
@@ -907,7 +914,7 @@
            Quand la sociologie aide à la réflexivité et s’approche des
            techniques de coaching…
       - link: https://twitter.com/AmelTig/status/676112037999677441
-        comment: Un livre toujours d'actualité !
+        comment: Un livre toujours d’actualité !
   - title: Politiques du squat. Scènes de la vie d’un quartier populaire
     author: Isabelle Coutant
     source: https://twitter.com/Ianonim/status/672341049411522560
@@ -1270,6 +1277,8 @@
           Whyte.
       - link: https://twitter.com/CamilleGinger/status/672798998672089088
         comment: Du Scorsese version observation participante
+      - link: https://twitter.com/Uneheuredepeine/status/677058569221578752
+        comment: Ça fait longtemps que j'ai pas mis un classique
     link: http://www.editionsladecouverte.fr/catalogue/index-Street_Corner_Society-9782707152879.html
   - title: L’économie morale des sciences modernes
     author: Lorraine Daston
@@ -2326,7 +2335,7 @@
           Un succulent gros pavé Le nouvel esprit du capitalisme BOLTANSKI et
           CHIAPELLO INDISPENSABLE
       - link: https://twitter.com/HybridaTabulat/status/675820638670626817
-        comment: "Parce que dans #ONPC certaines interventions m'agacent."
+        comment: "Parce que dans #ONPC certaines interventions m’agacent."
   - title: La société malade de la gestion
     author: Vincent de Gaulejac
     source: https://twitter.com/JohnGoodMalik/status/674254144136486918
@@ -2917,7 +2926,7 @@
         comment: Une fois sur deux, je lis "la fin du lapin".
       - link: https://twitter.com/Comtesse_Leia/status/676438731759468544
         comment: >
-          La fin du tapin. Sociologie de la croisade pour l'abolition de la
+          La fin du tapin. Sociologie de la croisade pour l’abolition de la
           prostitution - Lilian Mathieu
   - title: "Révoltes postcoloniales au cœur de l’Hexagone : Voix d’adolescents"
     author: Malika Mansouri
@@ -3200,8 +3209,8 @@
     author: Philippe Descola
     source: https://twitter.com/i_nebuleuse/status/675717510709174272
     comment: >
-      Un texte synthétique sur l'anthropologie et la nature, avec des éléments
-      clés de l'oeuvre de Descola
+      Un texte synthétique sur l’anthropologie et la nature, avec des éléments
+      clés de l’oeuvre de Descola
     link: http://www.quae.com/fr/r1330-l-ecologie-des-autres.html
   - title: Visages et usages de l’“extrême droite” en Italie
     author: Stéphanie Dechezelles
@@ -3220,12 +3229,12 @@
     source: https://twitter.com/Silmalia/status/675737419975680001
     comment: >
       Aujourd’hui, un dico dont je me sers tout le temps. Un des premiers
-      livres que j'ai acheté pour les cours aussi.
-  - title: "Passer les frontières sociales : Comment les « filières d'élite » entrouvrent leurs portes"
+      livres que j’ai acheté pour les cours aussi.
+  - title: "Passer les frontières sociales : Comment les « filières d’élite » entrouvrent leurs portes"
     author: Paul Pasquali
     source: https://twitter.com/thefugitive_/status/675761103285133312
     comment: >
-      "Passer les frontières sociales. Comment les &lt;filières d'élite>
+      "Passer les frontières sociales. Comment les &lt;filières d’élite>
       entrouvrent leurs portes", P Pasquali
   - title: Mythes, emblèmes, traces
     author: Carlo Ginzburg
@@ -3271,7 +3280,7 @@
           #BenedictAnderson @Ed_LaDecouverte
       - link: https://twitter.com/marvinrouge/status/675948746836979713
         comment: >
-          Aujourd'hui, obligé : L'imaginaire national, de Benedict Anderson. Le
+          Aujourd’hui, obligé : L’imaginaire national, de Benedict Anderson. Le
           genre de livre que tout le monde doit connaitre.
   - title: "The Oxford Handbook of Analytical Sociology"
     author: Peter Hedström et Peter Bearman
@@ -3279,7 +3288,7 @@
     source: https://twitter.com/Uneheuredepeine/status/676018789012606976
     comment: >
       Une approche trop peu connue en France : la sociologie analytique. La
-      socio analytique, d'inspiration mertonienne mais pas que, se préoccupe de
+      socio analytique, d’inspiration mertonienne mais pas que, se préoccupe de
       la façon dont on construit un modèle explicatif en socio.
     link: https://is.muni.cz/el/1423/jaro2011/SOC757/um/Analytical_Sociology_INTRO.pdf
   - title: They Live
@@ -3288,7 +3297,7 @@
     source: https://twitter.com/Ostpolitik/status/676020211389173760
     comment: >
       Amateurs de lutte des classes je vous propose le film "They Live" de
-      Carpenter pour le #SocioNoel d'aujourd'hui. Ce film est cool parce qu'il
+      Carpenter pour le #SocioNoel d’aujourd’hui. Ce film est cool parce qu’il
       a une vision super radicale sur les rapports entre dominants et dominés.
       Et il y a des flingues.
   - title: Imagined Communities
@@ -3320,7 +3329,7 @@
     author: Pierre-Emmanuel Sorignet
     source: https://twitter.com/PaillardSimon/status/676097522478239744
     comment: >
-      "Danser. Enquête dans les coulisses d'une vocation" de Pierre-Emmanuel
+      "Danser. Enquête dans les coulisses d’une vocation" de Pierre-Emmanuel
       Sorignet.
   - title: Déconstruire l’identité nationale
     author: Éric Hobsbawn, Bénédict Anderson, et Anne-Marie Thiesse
@@ -3361,6 +3370,13 @@
     comment: >
       L’ennemi principal (volume 1) : économie politique du patriarcat -
       Christine Delphy
+  - title: "Mobilisations conservatrices : comment les dominants contestent ?"
+    author: Éric Agrikoliansky et Annie Collovald
+    source: https://twitter.com/RaphCann/status/676823892325978112
+    comment: >
+      Un article intéressant pour renverser le regard sur la question des
+      mobilisations et des mouvements sociaux
+    link: http://www.cairn.info/article.php?ID_ARTICLE=POX_106_0007&DocId=91835
 14:
   - title: "Corps de femmes, regards d’hommes"
     author: Jean-Claude Kaufmann
@@ -3389,7 +3405,7 @@
       - link: https://twitter.com/ludemain/status/676323040989470720
         comment: Winston Parva, established and outsiders
       - link: https://twitter.com/Silmalia/status/676441342118133760
-        comment: N. Elias, J. L. Scotson - Logiques de l'exclusion
+        comment: N. Elias, J. L. Scotson - Logiques de l’exclusion
   - title: Pourquoi les pauvres votent à droite
     author: Thomas Frank
     source: https://twitter.com/Jo14Hernandez/status/676329927902412800
@@ -3414,7 +3430,7 @@
     author: Béatrice Fraenkel
     source: https://twitter.com/Gerome_Truc/status/676345763954315264
     comment: >
-      Un #SocioNoel à la limite de l'anthropo, mais de circonstances, en écho
+      Un #SocioNoel à la limite de l’anthropo, mais de circonstances, en écho
       aux "écrits de novembre" #AttentatsParis
   - title: "Powerless Science? Science and Politics in a Toxic World"
     author: Nathalie Jas et Soraya Boudia
@@ -3432,13 +3448,13 @@
     comment: >
       Jérôme Deauvieau Janine Reichstadt Jean-Pierre Terrail: Enseigner ef..
     link: http://www.odilejacob.fr/catalogue/sciences-humaines/education-enseignement-pedagogie/enseigner-efficacement-la-lecture_9782738132383.php
-  - title: Jeux d'échelles
+  - title: Jeux d’échelles
     author: Jacques Revel
     directed: true
     source: https://twitter.com/Uneheuredepeine/status/676370185209688064
     comment: >
       Je finis ma série "Méthodo et outils de la microanalyse" avec Jacques
-      Revel (dir.) Jeux d'échelles.
+      Revel (dir.) Jeux d’échelles.
   - title: Process and Form in Social Life
     author: Fredrik Barth
     source: https://twitter.com/Uneheuredepeine/status/676371182149574660
@@ -3457,7 +3473,7 @@
   - title: Réseaux sociaux et structures relationnelles
     author: Emmanuel Lazega
     source: https://twitter.com/fivepastfive/status/676398142041038849
-    comment: Parce que les réseaux c'est trop cool
+    comment: Parce que les réseaux c’est trop cool
   - title: "Politique(s) du Conflit : De la grève à la révolution"
     author: Charles Tilly et Sidney Tarrow
     source: https://twitter.com/EditionsScpo/status/676398373860167680
@@ -3479,13 +3495,13 @@
       D’ailleurs, je vois tourner le #SocioNoel, je conseille le livre
       #LaDominationAdulte d’Yves Bonnardel à ce sujet
     link: http://lmsi.net/La-domination-adulte,1703
-  - title: "les trois cultures : Entre science et littérature, l'avènement de la sociologie"
+  - title: "les trois cultures : Entre science et littérature, l’avènement de la sociologie"
     author: Wolf Lepenies
     source: https://twitter.com/JohnGoodMalik/status/676464118111539200
     comment: >
-      les trois cultures, entre science et littérature, l'avènement de la
+      les trois cultures, entre science et littérature, l’avènement de la
       sociologie
-  - title: "Le Propre et le Sale : L'hygiène du corps depuis le Moyen Âge"
+  - title: "Le Propre et le Sale : L’hygiène du corps depuis le Moyen Âge"
     author: Georges Vigarello
     source: https://twitter.com/balleverte/status/676504549100777472
     comment: "#histoire avec la dédicace de Georges. :)"
@@ -3532,7 +3548,7 @@
   - title: L’engagement dans le travail
     author: Alexandra Bidet
     source: https://twitter.com/Laboratoire_CMH/status/676712116305403904
-    comment: Alexandra Bidet - L'engagement dans le travail
+    comment: Alexandra Bidet - L’engagement dans le travail
   - title: Carnal knowledge and imperial power
     author: Ann Laura Stoler
     source: https://twitter.com/Jacobo_Grajales/status/676713548240826368
@@ -3545,9 +3561,104 @@
     comment: >
       Luc Boltanski et Laurent Thévenot, "De la justification, les économies de
       la grandeur"
-  - title: "Culture d’en haut, culture d'en bas : L’émergence des hiérarchies culturelles aux Etats-Unis"
+  - title: "Culture d’en haut, culture d’en bas : L’émergence des hiérarchies culturelles aux Etats-Unis"
     author: Lawrence W. Levine
     source: https://twitter.com/Jo14Hernandez/status/676726804464422912
     comment: >
-      Culture d'en haut, culture d'en bas:L'émergence des hiérarchies
+      Culture d’en haut, culture d’en bas : L’émergence des hiérarchies
       culturelles aux Etats-Unis de L.w. Levine
+  - title: "La Voie cheyennne. Conflit et jurisprudence dans la science primitive du droit"
+    author: Karl N. Llewellyn et E. Adamson Hoebel
+    source: https://twitter.com/NuteluCaine/status/676753328395698176
+    comment: Une anthropologie du droit
+  - title: "The Wire : L’Amérique sur écoute"
+    author: Marie-Hélène Bacqué, Amélie Flamand, Anne-Marie Paquet-Deyris, Julien Talpin
+    directed: true
+    source: https://twitter.com/raphaelg54/status/676753630884667392
+    comment: La série sous un angle sociologique.
+    link: http://www.editionsladecouverte.fr/catalogue/index-The_Wire-9782707182593.html
+  - title: "Hooliganisme, ultras et ambiguïtes en France"
+    author: Nicolas Hourcade
+    source: https://twitter.com/raphaelg54/status/676754189528268800
+    comment: Sociologie du sport, appropriation de l’espace public.
+    link: http://www.uff.br/esportesociedade/pdf/es70h.pdf
+  - title: "Penser l’invisible : la sexualité dans les séries animées françaises pour enfants"
+    author: Mélanie Lallet
+    source: https://twitter.com/raphaelg54/status/676755623866982400
+    comment: Penser l’invisible, la sexualité dans les dessins animés pour enfant.
+    link: https://www.cairn.info/revue-hermes-la-revue-2014-2-page-42.htm
+  - title: "Droit et bon droit : Un droit des ouvriers instauré, puis évincé par le droit du travail (France, XIXe siècle)"
+    author: Alain Cottereau
+    source: https://twitter.com/SamuelHayat/status/676755998846136320
+    comment: >
+      En sociohistoire du travail, l’œuvre magistrale mais fragmentée d’Alain
+      Cottereau
+    link: http://www.cairn.info/revue-annales-2002-6-page-1521.htm
+  - title: "Les sociologues ont-ils des comptes à rendre ? Enquêter et publier sur le front national"
+    author: Daniel Bizeul
+    source: https://twitter.com/GaelT_/status/676767013084258304
+    comment: >
+      Article vu en méthodo, le chercheur pose ici la question de la production
+      d’une analyse à partir d’une enquête ethnographique.
+  - title: Habitus
+    author: Rocé
+    source: https://twitter.com/PaillardSimon/status/676769014157344769
+    comment: Version rap avec "Habitus" de Rocé inspiré du concept de Bourdieu
+    link: https://www.youtube.com/watch?v=nO3JkL5NVcU
+  - title: "The Language of Law School : Learning to “think like a lawyer”"
+    author: Elizabeth Mertz
+    source: https://twitter.com/sociosauvage/status/676775112306253824
+    comment: Un peu d'anthropologie linguistique
+  - title: Vivre avec le handicap
+    author: Adeline Beyrie
+    source: https://twitter.com/IdealTyp/status/676788440948604928
+    comment: >
+      Un bel ouvrage qui rend compte la vie des personnes en incapacité motrice
+      majeure.
+  - title: Histoire des pensées sociologiques
+    author: Bruno Milly et Jean-Pierre Delas
+    source: https://twitter.com/Politriste/status/676804953554440192
+    comment: >
+      Avec ça, cours au top, complexe face aux normaliens envolé, réussite aux
+      examens, attraction de clientèle
+  - title: "L’homosexualité en Afrique : sens et variations d’hirer à nos jours"
+    author: Charles Gueboguo
+    link: https://socio-logos.revues.org/37
+    source: https://twitter.com/LionnelleMakaya/status/676818452955443202
+    comment: >
+      Le taf des deux sociologues Charles Gueboguo et Patrick Awondo pour que
+      cesse l’homophobie chez les afros
+  - title: "Économie des partis et logiques du militantisme"
+    author: Daniel Gaxie
+    source: https://twitter.com/Silmalia/status/676820562073821184
+    comment: D. Gaxie - Economie des partis et logiques du militantisme
+  - title: "Manuel d’analyse qualitative : Analyser sans compter ni classer"
+    author: Christophe Lejeune
+    source: https://twitter.com/jbiaudet/status/676823667364503552
+    comment: >
+      "La France orange méc…" NAN, J’DÉCONNE. Un peu de méthodo avec ce Manuel
+      d’analyse quali de C. Lejeune
+  - title: "Culture sentimentale et jeux vidéo : le renforcement des identités de sexe"
+    author: Dominique Pasquier
+    source: https://twitter.com/RaphCann/status/676847375445532673
+    comment: >
+      L’article parle plus de différentes pratiques culturelles que de jeux
+      vidéos
+    link: http://www.cairn.info/revue-ethnologie-francaise-2010-1-page-93.htm
+16:
+  - title: Les illusions du management
+    author: Jean-Pierre Le Goff
+    source: https://twitter.com/bbarbusse/status/677033656624525312
+    comment: Un essentiel pour les managers !
+  - title: "Le scandale des « tournantes » : Dérives médiatiques, contre-enquête sociologique"
+    author: Laurent Mucchielli
+    source: https://twitter.com/Lil_RoXaNe/status/677034164722475012
+    comment: >
+      Contre-enquête sociologique. Délinquance juvénile, racisme et traitement
+      médiatique par @LMucchielli
+  - title: "Le goût des autres : De l’Exposition coloniale aux Arts premiers"
+    author: Benoît de L’Estoile
+    source: https://twitter.com/Laboratoire_CMH/status/677052264075411456
+    comment: >
+      Benoît de L’Estoile - Le goût des autres : De l’Exposition coloniale aux
+      Arts premiers

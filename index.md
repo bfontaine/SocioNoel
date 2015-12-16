@@ -27,6 +27,7 @@ Accès direct à un jour :<br/>
 12. [12 Décembre](#dec15-12)
 13. [13 Décembre](#dec15-13)
 14. [14 Décembre](#dec15-14)
+15. [16 Décembre](#dec15-16)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -287,10 +288,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-1-Le-monde-priv-des-ouvriers-Olivier-Schwartz"><b class="title">Le monde privé des ouvriers</b>, par <span class="author">Olivier Schwartz</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Pour moi, incontestablement deux livres:<br/>-"le monde privé des ouvriers" d’O. Schwartz<br/>-"la culture du pauvre" de R Hoggart.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/671707874180128768">@mquijoux</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Pour moi, incontestablement deux livres:<br/>-"le monde privé des ouvriers" d’O. Schwartz<br/>-"la culture du pauvre" de R Hoggart.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/671707874180128768">@mquijoux</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Un ouvrage un peu épais mais facile à lire et vraiment fascinant<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/676750506958655488">@Lil_RoXaNe</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -514,13 +522,20 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-1-Le-Don-Marcel-Mauss"><b class="title">Le Don</b>, par <span class="author">Marcel Mauss</span></div>
+  <div class="ref" id="dec15-1-Essai-sur-le-Don-Marcel-Mauss"><b class="title">Essai sur le Don</b>, par <span class="author">Marcel Mauss</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Le Don de Marcel Mauss parce que les conclusions ont blow my mind et que c’est le premier ouvrage que j’ai étudié en entier<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/671741263482363904">@Pyrate_Jenni</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Le Don de Marcel Mauss parce que les conclusions ont blow my mind et que c’est le premier ouvrage que j’ai étudié en entier<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/671741263482363904">@Pyrate_Jenni</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Un classique et mon livre de chevet/métro actuel<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/676808561436020736">@bfontn</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1122,7 +1137,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Aujourd'hui, #SocioNoel spécial "Relire Bourdieu"<br/>
+        Aujourd’hui, #SocioNoel spécial "Relire Bourdieu"<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/676415890787868672">@PaillardSimon</a></span>
       </blockquote>
     
@@ -1809,7 +1824,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Un livre toujours d'actualité !<br/>
+        Un livre toujours d’actualité !<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AmelTig/status/676112037999677441">@AmelTig</a></span>
       </blockquote>
     
@@ -2486,6 +2501,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Du Scorsese version observation participante<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/672798998672089088">@CamilleGinger</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Ça fait longtemps que j'ai pas mis un classique<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/677058569221578752">@Uneheuredepeine</a></span>
       </blockquote>
     
   
@@ -4483,7 +4503,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Parce que dans #ONPC certaines interventions m'agacent.<br/>
+        Parce que dans #ONPC certaines interventions m’agacent.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/HybridaTabulat/status/675820638670626817">@HybridaTabulat</a></span>
       </blockquote>
     
@@ -5573,7 +5593,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        La fin du tapin. Sociologie de la croisade pour l'abolition de la prostitution - Lilian Mathieu<br/>
+        La fin du tapin. Sociologie de la croisade pour l’abolition de la prostitution - Lilian Mathieu<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Comtesse_Leia/status/676438731759468544">@Comtesse_Leia</a></span>
       </blockquote>
     
@@ -6128,7 +6148,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Un texte synthétique sur l'anthropologie et la nature, avec des éléments clés de l'oeuvre de Descola<br/>
+      Un texte synthétique sur l’anthropologie et la nature, avec des éléments clés de l’oeuvre de Descola<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/i_nebuleuse/status/675717510709174272">@i_nebuleuse</a></span>
     </blockquote>
   
@@ -6161,18 +6181,18 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Aujourd’hui, un dico dont je me sers tout le temps. Un des premiers livres que j'ai acheté pour les cours aussi.<br/>
+      Aujourd’hui, un dico dont je me sers tout le temps. Un des premiers livres que j’ai acheté pour les cours aussi.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/675737419975680001">@Silmalia</a></span>
     </blockquote>
   
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-12-Passer-les-fronti-res-sociales-Comment-les-fili-res-d-lite-entrouvrent-leurs-portes-Paul-Pasquali"><b class="title">Passer les frontières sociales : Comment les « filières d'élite » entrouvrent leurs portes</b>, par <span class="author">Paul Pasquali</span></div>
+  <div class="ref" id="dec15-12-Passer-les-fronti-res-sociales-Comment-les-fili-res-d-lite-entrouvrent-leurs-portes-Paul-Pasquali"><b class="title">Passer les frontières sociales : Comment les « filières d’élite » entrouvrent leurs portes</b>, par <span class="author">Paul Pasquali</span></div>
   <div class="sources">
   
     <blockquote class="comment">
-      "Passer les frontières sociales. Comment les &lt;filières d'élite> entrouvrent leurs portes", P Pasquali<br/>
+      "Passer les frontières sociales. Comment les &lt;filières d’élite> entrouvrent leurs portes", P Pasquali<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/675761103285133312">@thefugitive_</a></span>
     </blockquote>
   
@@ -6256,7 +6276,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Aujourd'hui, obligé : L'imaginaire national, de Benedict Anderson. Le genre de livre que tout le monde doit connaitre.<br/>
+        Aujourd’hui, obligé : L’imaginaire national, de Benedict Anderson. Le genre de livre que tout le monde doit connaitre.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/marvinrouge/status/675948746836979713">@marvinrouge</a></span>
       </blockquote>
     
@@ -6268,7 +6288,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Une approche trop peu connue en France : la sociologie analytique. La socio analytique, d'inspiration mertonienne mais pas que, se préoccupe de la façon dont on construit un modèle explicatif en socio.<br/>
+      Une approche trop peu connue en France : la sociologie analytique. La socio analytique, d’inspiration mertonienne mais pas que, se préoccupe de la façon dont on construit un modèle explicatif en socio.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/676018789012606976">@Uneheuredepeine</a></span>
     </blockquote>
   
@@ -6279,7 +6299,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Amateurs de lutte des classes je vous propose le film "They Live" de Carpenter pour le #SocioNoel d'aujourd'hui. Ce film est cool parce qu'il a une vision super radicale sur les rapports entre dominants et dominés. Et il y a des flingues.<br/>
+      Amateurs de lutte des classes je vous propose le film "They Live" de Carpenter pour le #SocioNoel d’aujourd’hui. Ce film est cool parce qu’il a une vision super radicale sur les rapports entre dominants et dominés. Et il y a des flingues.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ostpolitik/status/676020211389173760">@Ostpolitik</a></span>
     </blockquote>
   
@@ -6341,7 +6361,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      "Danser. Enquête dans les coulisses d'une vocation" de Pierre-Emmanuel Sorignet.<br/>
+      "Danser. Enquête dans les coulisses d’une vocation" de Pierre-Emmanuel Sorignet.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/676097522478239744">@PaillardSimon</a></span>
     </blockquote>
   
@@ -6424,6 +6444,17 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-13-Mobilisations-conservatrices-comment-les-dominants-contestent-ric-Agrikoliansky-et-Annie-Collovald"><b class="title">Mobilisations conservatrices : comment les dominants contestent ?</b>, par <span class="author">Éric Agrikoliansky et Annie Collovald</span>&nbsp;(<a href="http://www.cairn.info/article.php?ID_ARTICLE=POX_106_0007&DocId=91835">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un article intéressant pour renverser le regard sur la question des mobilisations et des mouvements sociaux<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/676823892325978112">@RaphCann</a></span>
+    </blockquote>
+  
+  </div>
+</article>
 <h2 id="dec15-14">14 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-14-Corps-de-femmes-regards-d-hommes-Jean-Claude-Kaufmann"><b class="title">Corps de femmes, regards d’hommes</b>, par <span class="author">Jean-Claude Kaufmann</span></div>
@@ -6480,7 +6511,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        N. Elias, J. L. Scotson - Logiques de l'exclusion<br/>
+        N. Elias, J. L. Scotson - Logiques de l’exclusion<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/676441342118133760">@Silmalia</a></span>
       </blockquote>
     
@@ -6536,7 +6567,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Un #SocioNoel à la limite de l'anthropo, mais de circonstances, en écho aux "écrits de novembre" #AttentatsParis<br/>
+      Un #SocioNoel à la limite de l’anthropo, mais de circonstances, en écho aux "écrits de novembre" #AttentatsParis<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/676345763954315264">@Gerome_Truc</a></span>
     </blockquote>
   
@@ -6576,11 +6607,11 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Jeux-d-chelles-Jacques-Revel"><b class="title">Jeux d'échelles</b>, dirigé par <span class="author">Jacques Revel</span></div>
+  <div class="ref" id="dec15-14-Jeux-d-chelles-Jacques-Revel"><b class="title">Jeux d’échelles</b>, dirigé par <span class="author">Jacques Revel</span></div>
   <div class="sources">
   
     <blockquote class="comment">
-      Je finis ma série "Méthodo et outils de la microanalyse" avec Jacques Revel (dir.) Jeux d'échelles.<br/>
+      Je finis ma série "Méthodo et outils de la microanalyse" avec Jacques Revel (dir.) Jeux d’échelles.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/676370185209688064">@Uneheuredepeine</a></span>
     </blockquote>
   
@@ -6624,7 +6655,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Parce que les réseaux c'est trop cool<br/>
+      Parce que les réseaux c’est trop cool<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/fivepastfive/status/676398142041038849">@fivepastfive</a></span>
     </blockquote>
   
@@ -6675,18 +6706,18 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-les-trois-cultures-Entre-science-et-litt-rature-l-av-nement-de-la-sociologie-Wolf-Lepenies"><b class="title">les trois cultures : Entre science et littérature, l'avènement de la sociologie</b>, par <span class="author">Wolf Lepenies</span></div>
+  <div class="ref" id="dec15-14-les-trois-cultures-Entre-science-et-litt-rature-l-av-nement-de-la-sociologie-Wolf-Lepenies"><b class="title">les trois cultures : Entre science et littérature, l’avènement de la sociologie</b>, par <span class="author">Wolf Lepenies</span></div>
   <div class="sources">
   
     <blockquote class="comment">
-      les trois cultures, entre science et littérature, l'avènement de la sociologie<br/>
+      les trois cultures, entre science et littérature, l’avènement de la sociologie<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/676464118111539200">@JohnGoodMalik</a></span>
     </blockquote>
   
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Le-Propre-et-le-Sale-L-hygi-ne-du-corps-depuis-le-Moyen-ge-Georges-Vigarello"><b class="title">Le Propre et le Sale : L'hygiène du corps depuis le Moyen Âge</b>, par <span class="author">Georges Vigarello</span></div>
+  <div class="ref" id="dec15-14-Le-Propre-et-le-Sale-L-hygi-ne-du-corps-depuis-le-Moyen-ge-Georges-Vigarello"><b class="title">Le Propre et le Sale : L’hygiène du corps depuis le Moyen Âge</b>, par <span class="author">Georges Vigarello</span></div>
   <div class="sources">
   
     <blockquote class="comment">
@@ -6778,7 +6809,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Alexandra Bidet - L'engagement dans le travail<br/>
+      Alexandra Bidet - L’engagement dans le travail<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/676712116305403904">@Laboratoire_CMH</a></span>
     </blockquote>
   
@@ -6807,12 +6838,200 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Culture-d-en-haut-culture-d-en-bas-L-mergence-des-hi-rarchies-culturelles-aux-Etats-Unis-Lawrence-W-Levine"><b class="title">Culture d’en haut, culture d'en bas : L’émergence des hiérarchies culturelles aux Etats-Unis</b>, par <span class="author">Lawrence W. Levine</span></div>
+  <div class="ref" id="dec15-14-Culture-d-en-haut-culture-d-en-bas-L-mergence-des-hi-rarchies-culturelles-aux-Etats-Unis-Lawrence-W-Levine"><b class="title">Culture d’en haut, culture d’en bas : L’émergence des hiérarchies culturelles aux Etats-Unis</b>, par <span class="author">Lawrence W. Levine</span></div>
   <div class="sources">
   
     <blockquote class="comment">
-      Culture d'en haut, culture d'en bas:L'émergence des hiérarchies culturelles aux Etats-Unis de L.w. Levine<br/>
+      Culture d’en haut, culture d’en bas : L’émergence des hiérarchies culturelles aux Etats-Unis de L.w. Levine<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/676726804464422912">@Jo14Hernandez</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-La-Voie-cheyennne-Conflit-et-jurisprudence-dans-la-science-primitive-du-droit-Karl-N-Llewellyn-et-E-Adamson-Hoebel"><b class="title">La Voie cheyennne. Conflit et jurisprudence dans la science primitive du droit</b>, par <span class="author">Karl N. Llewellyn et E. Adamson Hoebel</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une anthropologie du droit<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/676753328395698176">@NuteluCaine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-The-Wire-L-Am-rique-sur-coute-Marie-H-l-ne-Bacqu-Am-lie-Flamand-Anne-Marie-Paquet-Deyris-Julien-Talpin"><b class="title">The Wire : L’Amérique sur écoute</b>, dirigé par <span class="author">Marie-Hélène Bacqué, Amélie Flamand, Anne-Marie Paquet-Deyris, Julien Talpin</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-The_Wire-9782707182593.html">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      La série sous un angle sociologique.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/raphaelg54/status/676753630884667392">@raphaelg54</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Hooliganisme-ultras-et-ambigu-tes-en-France-Nicolas-Hourcade"><b class="title">Hooliganisme, ultras et ambiguïtes en France</b>, par <span class="author">Nicolas Hourcade</span>&nbsp;(<a href="http://www.uff.br/esportesociedade/pdf/es70h.pdf">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sociologie du sport, appropriation de l’espace public.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/raphaelg54/status/676754189528268800">@raphaelg54</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Penser-l-invisible-la-sexualit-dans-les-s-ries-anim-es-fran-aises-pour-enfants-M-lanie-Lallet"><b class="title">Penser l’invisible : la sexualité dans les séries animées françaises pour enfants</b>, par <span class="author">Mélanie Lallet</span>&nbsp;(<a href="https://www.cairn.info/revue-hermes-la-revue-2014-2-page-42.htm">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Penser l’invisible, la sexualité dans les dessins animés pour enfant.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/raphaelg54/status/676755623866982400">@raphaelg54</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Droit-et-bon-droit-Un-droit-des-ouvriers-instaur-puis-vinc-par-le-droit-du-travail-France-XIXe-si-cle-Alain-Cottereau"><b class="title">Droit et bon droit : Un droit des ouvriers instauré, puis évincé par le droit du travail (France, XIXe siècle)</b>, par <span class="author">Alain Cottereau</span>&nbsp;(<a href="http://www.cairn.info/revue-annales-2002-6-page-1521.htm">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      En sociohistoire du travail, l’œuvre magistrale mais fragmentée d’Alain Cottereau<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/676755998846136320">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Les-sociologues-ont-ils-des-comptes-rendre-Enqu-ter-et-publier-sur-le-front-national-Daniel-Bizeul"><b class="title">Les sociologues ont-ils des comptes à rendre ? Enquêter et publier sur le front national</b>, par <span class="author">Daniel Bizeul</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Article vu en méthodo, le chercheur pose ici la question de la production d’une analyse à partir d’une enquête ethnographique.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/GaelT_/status/676767013084258304">@GaelT_</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Habitus-Roc-"><b class="title">Habitus</b>, par <span class="author">Rocé</span>&nbsp;(<a href="https://www.youtube.com/watch?v=nO3JkL5NVcU">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Version rap avec "Habitus" de Rocé inspiré du concept de Bourdieu<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/676769014157344769">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-The-Language-of-Law-School-Learning-to-think-like-a-lawyer-Elizabeth-Mertz"><b class="title">The Language of Law School : Learning to “think like a lawyer”</b>, par <span class="author">Elizabeth Mertz</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un peu d'anthropologie linguistique<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/676775112306253824">@sociosauvage</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Vivre-avec-le-handicap-Adeline-Beyrie"><b class="title">Vivre avec le handicap</b>, par <span class="author">Adeline Beyrie</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un bel ouvrage qui rend compte la vie des personnes en incapacité motrice majeure.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/IdealTyp/status/676788440948604928">@IdealTyp</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Histoire-des-pens-es-sociologiques-Bruno-Milly-et-Jean-Pierre-Delas"><b class="title">Histoire des pensées sociologiques</b>, par <span class="author">Bruno Milly et Jean-Pierre Delas</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Avec ça, cours au top, complexe face aux normaliens envolé, réussite aux examens, attraction de clientèle<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Politriste/status/676804953554440192">@Politriste</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-L-homosexualit-en-Afrique-sens-et-variations-d-hirer-nos-jours-Charles-Gueboguo"><b class="title">L’homosexualité en Afrique : sens et variations d’hirer à nos jours</b>, par <span class="author">Charles Gueboguo</span>&nbsp;(<a href="https://socio-logos.revues.org/37">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Le taf des deux sociologues Charles Gueboguo et Patrick Awondo pour que cesse l’homophobie chez les afros<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/676818452955443202">@LionnelleMakaya</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14--conomie-des-partis-et-logiques-du-militantisme-Daniel-Gaxie"><b class="title">Économie des partis et logiques du militantisme</b>, par <span class="author">Daniel Gaxie</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      D. Gaxie - Economie des partis et logiques du militantisme<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/676820562073821184">@Silmalia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Manuel-d-analyse-qualitative-Analyser-sans-compter-ni-classer-Christophe-Lejeune"><b class="title">Manuel d’analyse qualitative : Analyser sans compter ni classer</b>, par <span class="author">Christophe Lejeune</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "La France orange méc…" NAN, J’DÉCONNE. Un peu de méthodo avec ce Manuel d’analyse quali de C. Lejeune<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jbiaudet/status/676823667364503552">@jbiaudet</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-14-Culture-sentimentale-et-jeux-vid-o-le-renforcement-des-identit-s-de-sexe-Dominique-Pasquier"><b class="title">Culture sentimentale et jeux vidéo : le renforcement des identités de sexe</b>, par <span class="author">Dominique Pasquier</span>&nbsp;(<a href="http://www.cairn.info/revue-ethnologie-francaise-2010-1-page-93.htm">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      L’article parle plus de différentes pratiques culturelles que de jeux vidéos<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/RaphCann/status/676847375445532673">@RaphCann</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-16">16 Décembre</h2>
+<article class="book">
+  <div class="ref" id="dec15-16-Les-illusions-du-management-Jean-Pierre-Le-Goff"><b class="title">Les illusions du management</b>, par <span class="author">Jean-Pierre Le Goff</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un essentiel pour les managers !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/677033656624525312">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Le-scandale-des-tournantes-D-rives-m-diatiques-contre-enqu-te-sociologique-Laurent-Mucchielli"><b class="title">Le scandale des « tournantes » : Dérives médiatiques, contre-enquête sociologique</b>, par <span class="author">Laurent Mucchielli</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Contre-enquête sociologique. Délinquance juvénile, racisme et traitement médiatique par @LMucchielli<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/677034164722475012">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Le-go-t-des-autres-De-l-Exposition-coloniale-aux-Arts-premiers-Beno-t-de-L-Estoile"><b class="title">Le goût des autres : De l’Exposition coloniale aux Arts premiers</b>, par <span class="author">Benoît de L’Estoile</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Benoît de L’Estoile - Le goût des autres : De l’Exposition coloniale aux Arts premiers<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/677052264075411456">@Laboratoire_CMH</a></span>
     </blockquote>
   
   </div>
