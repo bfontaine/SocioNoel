@@ -28,6 +28,7 @@ Accès direct à un jour :<br/>
 13. [13 Décembre](#dec15-13)
 14. [14 Décembre](#dec15-14)
 15. [16 Décembre](#dec15-16)
+16. [17 Décembre](#dec15-17)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -2459,10 +2460,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-4-L-enqu-te-sociologique-Serge-Paugam"><b class="title">L’enquête sociologique</b>, par <span class="author">Serge Paugam</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      On continue d’illustrer les cours. Ce matin, c’est méthode d’enquête.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/672681972242767872">@balleverte</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        On continue d’illustrer les cours. Ce matin, c’est méthode d’enquête.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/672681972242767872">@balleverte</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        De la méthodo pour comprendre la socio. On lira notamment les articles de Cyril Lemieux "Problématiser" (il m’a fallut avoir fini mes études pour comprendre ce que ça voulait dire) et "L’écriture sociologique". Ou encore celui de Julien Duval pour enfin comprendre ces ACM/ACP/ACTrucs qui traînent partout.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/677421588057366528">@Uneheuredepeine</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -4587,10 +4595,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-8-Sociologie-des-classes-populaires-contemporaines-Yasmine-Siblot-Marie-Cartier-Isabelle-Coutant-Olivier-Masclet-et-Nicolas-Renahy"><b class="title">Sociologie des classes populaires contemporaines</b>, par <span class="author">Yasmine Siblot, Marie Cartier, Isabelle Coutant, Olivier Masclet, et Nicolas Renahy</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Je l’ai déjà mais le conseille fortement : une mine d’infos essentielles parue en 2015 ! (mais il est cher…)<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NegreInverti/status/674292757771501568">@NegreInverti</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Je l’ai déjà mais le conseille fortement : une mine d’infos essentielles parue en 2015 ! (mais il est cher…)<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NegreInverti/status/674292757771501568">@NegreInverti</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Un très chouette manuel paru cette année !<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/677270228221472768">@Silmalia</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -5584,6 +5599,17 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       La base pour comprendre les choix d’orientation vers le supérieur !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/fivepastfive/status/675096098982219776">@fivepastfive</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-10-Dans-le-blanc-des-yeux-Maxime-Cervulle"><b class="title">Dans le blanc des yeux</b>, par <span class="author">Maxime Cervulle</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Toujours sur les whiteness studies: Maxime Cervulle, Dans le blanc des yeux, chapitre 3 "l’identité blanche et sa critique"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/677238682311634944">@CamilleGinger</a></span>
     </blockquote>
   
   </div>
@@ -7325,6 +7351,62 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Un classique sur les mécanismes de délégation. Analyse toujours d’actualité sur l’unité syndicale agricole et la distance dirigeants/agriculteurs<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/677236295114948609">@NuteluCaine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-17">17 Décembre</h2>
+<article class="book">
+  <div class="ref" id="dec15-17-Devenir-adulte-Sociologie-compar-e-de-la-jeunesse-en-Europe-C-cile-Van-de-Velde"><b class="title">Devenir adulte : Sociologie comparée de la jeunesse en Europe</b>, par <span class="author">Cécile Van de Velde</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      #SocioNoel<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/677275800312414208">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-Br-ve-histoire-de-l-anthropologie-Florence-Weber"><b class="title">Brève histoire de l’anthropologie</b>, par <span class="author">Florence Weber</span>&nbsp;(<a href="http://editions.flammarion.com/Albums_Detail.cfm?ID=46277&levelCode=sciences">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Florence Weber - Brève histoire de l’anthropologie<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/677373089026584576">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-Du-ketchup-dans-les-veines-H-l-ne-Weber"><b class="title">Du ketchup dans les veines</b>, par <span class="author">Hélène Weber</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      De la socio des organisations sur… McDo. Facile et intéressant.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/677382236308692992">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-Introduction-une-sociologie-critique-Lire-Pierre-Bourdieu-Alain-Accardo"><b class="title">Introduction à une sociologie critique : Lire Pierre Bourdieu</b>, par <span class="author">Alain Accardo</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Introduction à une sociologie critique. Lire Pierre Bourdieu." par Alain Accardo<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/677392767975350272">@Jo14Hernandez</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-Le-travail-sans-qualit-s-Les-cons-quences-humaines-de-la-flexibilit-Richard-Sennett"><b class="title">Le travail sans qualités : Les conséquences humaines de la flexibilité</b>, par <span class="author">Richard Sennett</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour mieux comprendre le monde d’aujourd'hui<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/677393404658061312">@bbarbusse</a></span>
     </blockquote>
   
   </div>

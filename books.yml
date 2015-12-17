@@ -1244,9 +1244,17 @@
       période post-esclavage OMG. Traduction TROP tardive en français.
   - title: L’enquête sociologique
     author: Serge Paugam
-    source: https://twitter.com/balleverte/status/672681972242767872
-    comment: >
-      On continue d’illustrer les cours. Ce matin, c’est méthode d’enquête.
+    sources:
+      - link: https://twitter.com/balleverte/status/672681972242767872
+        comment: >
+          On continue d’illustrer les cours. Ce matin, c’est méthode d’enquête.
+      - link: https://twitter.com/Uneheuredepeine/status/677421588057366528
+        comment: >
+          De la méthodo pour comprendre la socio. On lira notamment les
+          articles de Cyril Lemieux "Problématiser" (il m’a fallut avoir fini
+          mes études pour comprendre ce que ça voulait dire) et "L’écriture
+          sociologique". Ou encore celui de Julien Duval pour enfin comprendre
+          ces ACM/ACP/ACTrucs qui traînent partout.
   - title: Sociologie du journalisme
     author: Érik Neveu
     source: https://twitter.com/M_Iz_6/status/672682252694851584
@@ -2377,10 +2385,13 @@
       description le bouquin est top :)
   - title: Sociologie des classes populaires contemporaines
     author: Yasmine Siblot, Marie Cartier, Isabelle Coutant, Olivier Masclet, et Nicolas Renahy
-    source: https://twitter.com/NegreInverti/status/674292757771501568
-    comment: >
-      Je l’ai déjà mais le conseille fortement : une mine d’infos essentielles
-      parue en 2015 ! (mais il est cher…)
+    sources:
+      - link: https://twitter.com/NegreInverti/status/674292757771501568
+        comment: >
+          Je l’ai déjà mais le conseille fortement : une mine d’infos
+          essentielles parue en 2015 ! (mais il est cher…)
+      - link: https://twitter.com/Silmalia/status/677270228221472768
+        comment: Un très chouette manuel paru cette année !
   - title: "Les initiations : une seconde naissance, pourquoi et pour qui ?"
     author: Maurice Godelier
     source: https://twitter.com/thefugitive_/status/674294089408491523
@@ -2922,6 +2933,12 @@
     source: https://twitter.com/fivepastfive/status/675096098982219776
     comment: >
       La base pour comprendre les choix d’orientation vers le supérieur !
+  - title: Dans le blanc des yeux
+    author: Maxime Cervulle
+    source: https://twitter.com/CamilleGinger/status/677238682311634944
+    comment: >
+      Toujours sur les whiteness studies: Maxime Cervulle, Dans le blanc des
+      yeux, chapitre 3 "l’identité blanche et sa critique"
 11:
   - title: L’arrangement des sexes
     author: Erving Goffman
@@ -3806,3 +3823,27 @@
       Un classique sur les mécanismes de délégation. Analyse toujours
       d’actualité sur l’unité syndicale agricole et la distance
       dirigeants/agriculteurs
+17:
+  - title: "Devenir adulte : Sociologie comparée de la jeunesse en Europe"
+    author: Cécile Van de Velde
+    source: https://twitter.com/balleverte/status/677275800312414208
+    comment: "#SocioNoel"
+  - title: Brève histoire de l’anthropologie
+    author: Florence Weber
+    source: https://twitter.com/Laboratoire_CMH/status/677373089026584576
+    comment: Florence Weber - Brève histoire de l’anthropologie
+    link: http://editions.flammarion.com/Albums_Detail.cfm?ID=46277&levelCode=sciences
+  - title: Du ketchup dans les veines
+    author: Hélène Weber
+    source: https://twitter.com/Lil_RoXaNe/status/677382236308692992
+    comment: De la socio des organisations sur… McDo. Facile et intéressant.
+  - title: "Introduction à une sociologie critique : Lire Pierre Bourdieu"
+    author: Alain Accardo
+    source: https://twitter.com/Jo14Hernandez/status/677392767975350272
+    comment: >
+      "Introduction à une sociologie critique. Lire Pierre Bourdieu." par Alain
+      Accardo
+  - title: "Le travail sans qualités : Les conséquences humaines de la flexibilité"
+    author: Richard Sennett
+    source: https://twitter.com/bbarbusse/status/677393404658061312
+    comment: Pour mieux comprendre le monde d’aujourd'hui
