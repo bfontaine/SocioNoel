@@ -29,6 +29,7 @@ Accès direct à un jour :<br/>
 14. [14 Décembre](#dec15-14)
 15. [16 Décembre](#dec15-16)
 16. [17 Décembre](#dec15-17)
+17. [18 Décembre](#dec15-18)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -1804,6 +1805,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         En vrai tous le monde devrait avoir ça pour son #SocioNoel<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Morifen333/status/674715155603714048">@Morifen333</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Indispensable pour comprendre les origines, mécanismes et effets de la construction du problème musulman<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/677780909433749508">@Lil_RoXaNe</a></span>
       </blockquote>
     
   
@@ -4812,6 +4818,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/676129891507699716">@thefugitive_</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        À lire. Parce que la jeunesse n’existe pas et que LES jeuneS ne sont pas toujours ce que l’on imagine<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/vanessa0jerome1/status/677770905418862592">@vanessa0jerome1</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -7405,8 +7416,339 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Pour mieux comprendre le monde d’aujourd'hui<br/>
+      Pour mieux comprendre le monde d’aujourd’hui<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/677393404658061312">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-Nouveau-manuel-de-sociologie-Fran-ois-de-Singly-Christophe-Giraud-et-Olivier-Martin"><b class="title">Nouveau manuel de sociologie</b>, par <span class="author">François de Singly, Christophe Giraud, et Olivier Martin</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pas lu mais il attend sur mon bureau<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/677426359266881536">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-La-m-canique-raciste-Pierre-Tevanian"><b class="title">La mécanique raciste</b>, par <span class="author">Pierre Tevanian</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Concept du “corps d’exception” très intéressant<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/_Holidayre/status/677435820219965441">@_Holidayre</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-L-engagement-dans-le-travail-Alexandra-Bidet"><b class="title">L’engagement dans le travail</b>, par <span class="author">Alexandra Bidet</span>&nbsp;(<a href="http://www.humanite.fr/08_04_2011-dun-%C2%AB-vrai-boulot-%C2%BB-%C3%A0-lheure-du-travail-en-miettes-469620">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Ré-explorer l’activité professionnelle<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/677437667198541824">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-Savoir-faire-et-pouvoir-transmettre-Denis-Chevallier"><b class="title">Savoir faire et pouvoir transmettre</b>, dirigé par <span class="author">Denis Chevallier</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sur la transmission des techniques comme cultures… ou l’inverse.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/677438686598987776">@dan_maku</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-La-politisation-Jacques-Lagroye"><b class="title">La politisation</b>, dirigé par <span class="author">Jacques Lagroye</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sous la direction de Jacques Lagroye, "La politisation".<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/677440154043289600">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-Produire-le-consentement-Michael-Burawoy"><b class="title">Produire le consentement</b>, par <span class="author">Michael Burawoy</span>&nbsp;(<a href="http://lavillebtr.cluster005.ovh.net/">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Ce livre récemment traduit en français (par Quentin Ravelli).<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/presdl/status/677452484797997056">@presdl</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-Devenir-Elias-Marc-Joly"><b class="title">Devenir Elias</b>, par <span class="author">Marc Joly</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Lire "Devenir Elias" de Marc Joly pour comprendre <a href="https://twitter.com/sociosauvage/status/677464713320599552">cette</a> étrange situation.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/677465166552948736">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-The-success-of-failure-Accounting-for-the-global-growth-of-CCTV-Clive-Norris"><b class="title">The success of failure: Accounting for the global growth of CCTV</b>, par <span class="author">Clive Norris</span>&nbsp;(<a href="https://www.routledgehandbooks.com/doi/10.4324/9780203814949.ch3_2_c">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sur le développement de la vidéosurveillance malgré son inefficacité<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/677478472164491265">@F__Casta</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-National-bolchevisme-et-n-o-eurasisme-dans-la-Russie-contemporaine-V-ra-Nikolski"><b class="title">National-bolchevisme et néo-eurasisme dans la Russie contemporaine</b>, par <span class="author">Véra Nikolski</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Des champs, des crises, du Douguine, du Limonov, de la Russie, de la grande socio<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/m_lallouet/status/677490160301441024">@m_lallouet</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-Lorsque-la-r-pression-est-un-plaisir-le-militantisme-au-Parti-National-Bolch-vique-russe-V-ra-Nikolski"><b class="title">Lorsque la répression est un plaisir : le militantisme au Parti National Bolchévique russe</b>, par <span class="author">Véra Nikolski</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Et cet article, de la même<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/m_lallouet/status/677490719838334976">@m_lallouet</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-Des-h-ritiers-en-chec-scolaire-Ga-lle-Henri-Panabi-re"><b class="title">Des « héritiers » en échec scolaire</b>, par <span class="author">Gaëlle Henri-Panabière</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un prolongement intéressant (ça change !) des travaux de Bourdieu<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/677499753651945474">@sociosauvage</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-Le-D-veloppement-Histoire-d-une-croyance-occidentale-Gilbert-Rist"><b class="title">Le Développement : Histoire d’une croyance occidentale</b>, par <span class="author">Gilbert Rist</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un #SocioNoel à déconseiller aux amateurs de clichés moralisateurs<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/EditionsScpo/status/677515510049841152">@EditionsScpo</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-Corps-Sport-Handicaps-S-bastien-Ruffi-et-Sylvain-Ferez"><b class="title">Corps, Sport, Handicaps</b>, par <span class="author">Sébastien Ruffié et Sylvain Ferez</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Histoire et Socio du mouvement handisport. Par le labo SANTESIH de Montpellier.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/677523204244656128">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-M-diactivistes-Dominique-Cardon-et-Fabien-Granjon"><b class="title">Médiactivistes</b>, par <span class="author">Dominique Cardon et Fabien Granjon</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un livre que j’utilise beaucoup pour mon mémoire<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/677539496750161923">@Silmalia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-Sociologie-de-Paris-Michel-Pin-on-et-Monique-Pin-on-Charlot"><b class="title">Sociologie de Paris</b>, par <span class="author">Michel Pinçon et Monique Pinçon-Charlot</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      On continue avec les Pinçon-Charlot<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ValGuery/status/677541064396394498">@ValGuery</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-La-repr-sentation-des-femmes-dans-les-parlements-de-l-Inde-et-du-Pakistan-Virginie-Dutoya"><b class="title">La représentation des femmes dans les parlements de l’Inde et du Pakistan</b>, par <span class="author">Virginie Dutoya</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      La somme impressionnante de Virginie Dutoya sur la représentation des femmes en Inde et au Pakistan<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/677541927609344000">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-The-Economic-Sociology-of-Immigration-Alejandro-Portes"><b class="title">The Economic Sociology of Immigration</b>, dirigé par <span class="author">Alejandro Portes</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Lecture du moment<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/677579594015182848">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-Le-Conflit-Georg-Simmel"><b class="title">Le Conflit</b>, par <span class="author">Georg Simmel</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Penser le conflit non comme un échec mais comme une forme de socialisation<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/677605942905716737">@NuteluCaine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-17-Agir-en-situation-de-vuln-rabilit-Marc-Henry-Soulet-et-Vivianne-Ch-tel"><b class="title">Agir en situation de vulnérabilité</b>, dirigé par <span class="author">Marc-Henry Soulet et Vivianne Châtel</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sur les mécanismes d'agir dans une position fragilisée.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/677623022325469184">@F_Bally</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-18">18 Décembre</h2>
+<article class="book">
+  <div class="ref" id="dec15-18-Soigner-les-exclus-Isabelle-Parizot"><b class="title">Soigner les exclus</b>, par <span class="author">Isabelle Parizot</span>&nbsp;(<a href="http://www.puf.com/Autres_Collections:Soigner_les_exclus">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Isabelle Parizot - Soigner les exclus<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/677727541252251648">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-La-dictature-de-Salazar-face-l-migration-Victor-Pereira"><b class="title">La dictature de Salazar face à l'émigration</b>, par <span class="author">Victor Pereira</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Le pouvoir d’un Etat sur ses nationaux à l’étranger<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/EditionsScpo/status/677766476540067840">@EditionsScpo</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-La-culture-des-sentiments-Dominique-Pasquier"><b class="title">La culture des sentiments</b>, par <span class="author">Dominique Pasquier</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour un super livre lu en licence sur la sociabilité juvénile<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/_Holidayre/status/677773442201092096">@_Holidayre</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Les-d-cisions-absurdes-Sociologie-des-erreurs-radicales-et-persistantes-Christian-Morel"><b class="title">Les décisions absurdes : Sociologie des erreurs radicales et persistantes</b>, par <span class="author">Christian Morel</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Précieux et passionnant !!<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/677781456379387904">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Les-d-cisions-absurdes-II-Comment-les-viter-Christian-Morel"><b class="title">Les décisions absurdes II : Comment les éviter</b>, par <span class="author">Christian Morel</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Précieux et passionnant !!<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/677781456379387904">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Disposable-Ties-and-the-Urban-Poor-Matthew-Desmond"><b class="title">Disposable Ties and the Urban Poor</b>, par <span class="author">Matthew Desmond</span>&nbsp;(<a href="http://scholar.harvard.edu/mdesmond/publications/disposable-ties-and-urban-poor">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Traduction française à paraître dans Communications<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NDuvoux/status/677797889477885953">@NDuvoux</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Sociologie-Georg-Simmel"><b class="title">Sociologie</b>, par <span class="author">Georg Simmel</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une mine inépuisable d'inspiration…<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/677798246685765633">@Gerome_Truc</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Anthropologie-de-la-globalisation-Marc-Ab-l-s"><b class="title">Anthropologie de la globalisation</b>, par <span class="author">Marc Abélès</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Anthropologie de la mondialisation de Marc Abeles (comment ça, ça fait beacuoup d’anthropo ?). La mondialisation est l’un des objets les plus mal compris des sciences sociales. Je n’irais pas jusqu’à blâmer les économistes pour ça. Bon, ok, j’irais sans problèmes jusqu’à blâmer les économistes pour ça. Et certains politistes aussi. L’anthropologie a, elle, mis au point des outils particulièrement pertinents pour relever ce défi. Sans doute parce qu’elle passe son temps à se réinventer. En tout cas, Abélès fait un formidable travail de synthèse. Et va au-delà du survey.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/677808518876000256">@Uneheuredepeine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Sociologie-du-sport-Jacques-Defrance"><b class="title">Sociologie du sport</b>, par <span class="author">Jacques Defrance</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Petit livre qui expose la richesse des travaux sur le sport<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/677810113621659648">@lestrelin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Une-politisation-feutr-e-Les-hauts-fonctionnaires-et-l-immigration-en-France-Sylvain-Laurens"><b class="title">Une politisation feutrée : Les hauts fonctionnaires et l’immigration en France</b>, par <span class="author">Sylvain Laurens</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      De la socio-histo avec Sylvain Laurens : Comment les hauts fonctionnaires ont dealé avec la question migratoire<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/677815205997449217">@LionnelleMakaya</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Histoires-de-famille-Sol-ne-Billaud-Sibylle-Gollac-Alexandra-Oeser-et-Julie-Pagis"><b class="title">Histoires de famille</b>, par <span class="author">Solène Billaud, Sibylle Gollac, Alexandra Oeser, et Julie Pagis</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Voir les questions familiales d'un autre oeil. Six enquêtes<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/presdl/status/677821622410170368">@presdl</a></span>
     </blockquote>
   
   </div>
