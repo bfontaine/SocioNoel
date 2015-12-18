@@ -1812,6 +1812,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/677780909433749508">@Lil_RoXaNe</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Juste indispensable.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/677876952506564609">@PaillardSimon</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -7747,8 +7752,107 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Voir les questions familiales d'un autre oeil. Six enquêtes<br/>
+      Voir les questions familiales d’un autre oeil. Six enquêtes<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/presdl/status/677821622410170368">@presdl</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Lutte-urbaine-Julien-Talpin-et-Paula-Cossart"><b class="title">Lutte urbaine</b>, par <span class="author">Julien Talpin et Paula Cossart</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Super étude sur la lutte de l’Alma-Gare<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/677906675882414080">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-L-espoir-de-Pandore-Bruno-Latour"><b class="title">L’espoir de Pandore</b>, par <span class="author">Bruno Latour</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Au risque de sus/rprendre, mon choix iconoclash du jour<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/677945173318492161">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Landscapes-of-hope-and-despair-Julie-Peteet"><b class="title">Landscapes of hope and despair</b>, par <span class="author">Julie Peteet</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Le #SocioNoël du 18/12 sera Julie Peteet, "Landscapes of hope and despair"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/677980828136247296">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Anthropologie-de-la-communication-Yves-Winkin"><b class="title">Anthropologie de la communication</b>, par <span class="author">Yves Winkin</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Faudrait que je le relise celui-ci. M’avait plu en licence<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jbiaudet/status/677884819741642752">@jbiaudet</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Calais-une-prison-ouverte-pour-les-migrants-Brice-Ars-ne-Mankou"><b class="title">Calais, une prison ouverte pour les migrants</b>, par <span class="author">Brice Arsène Mankou</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Mankou "Calais, une prison ouverte pour les migrants". Et <a href="http://www.democracynow.org/2015/12/9/i_dont_want_to_die_this">des images du camp</a>, qu’on voit rarement en fait<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/677866502704369666">@F__Casta</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Une-chambre-soi-Virginia-Woolf"><b class="title">Une chambre à soi</b>, par <span class="author">Virginia Woolf</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      J’entame une série "non académique"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/677856224398983172">@M_Iz_6</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Black-Boy-Richard-Wright"><b class="title">Black Boy</b>, par <span class="author">Richard Wright</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      R. Wright, Black Boy<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/677857718707871744">@M_Iz_6</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Comment-pensent-les-institutions-Mary-Douglas"><b class="title">Comment pensent les institutions</b>, par <span class="author">Mary Douglas</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Comment pensent les institutions" de l’anthropologue Mary Douglas.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/677848785314324480">@Jo14Hernandez</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Focus-Compter-les-personnes-sans-domicile-Julien-Damon"><b class="title">Focus - Compter les personnes sans domicile</b>, par <span class="author">Julien Damon</span>&nbsp;(<a href="http://www.cairn.info/revue-informations-sociales-2014-4-page-70.htm">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      “Focus - Compter les personnes sans domicile”, par Julien Damon<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/677844755829661696">@bfontn</a></span>
     </blockquote>
   
   </div>
