@@ -30,6 +30,7 @@ Accès direct à un jour :<br/>
 15. [16 Décembre](#dec15-16)
 16. [17 Décembre](#dec15-17)
 17. [18 Décembre](#dec15-18)
+18. [19 Décembre](#dec15-19)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -7853,6 +7854,51 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       “Focus - Compter les personnes sans domicile”, par Julien Damon<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/677844755829661696">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Un-nouvel-ge-de-la-vie-Olivier-Galland"><b class="title">Un nouvel âge de la vie</b>, par <span class="author">Olivier Galland</span>&nbsp;(<a href="http://www.persee.fr/doc/rfsoc_0035-2969_1990_num_31_4_2710">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      O. Galland sur sa conceptualisation intéressante de la jeunesse (période de vie structurée et structurante vs gr social).<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/677890070599307264">@sociosauvage</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Adolescence-post-adolescence-jeunesse-retour-sur-quelques-interpr-tations-Olivier-Galland"><b class="title">Adolescence, post-adolescence, jeunesse : retour sur quelques interprétations</b>, par <span class="author">Olivier Galland</span>&nbsp;(<a href="http://www.persee.fr/doc/rfsoc_0035-2969_2001_num_42_4_5391">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      O. Galland sur sa conceptualisation intéressante de la jeunesse (période de vie structurée et structurante vs gr social).<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/677890070599307264">@sociosauvage</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-19">19 Décembre</h2>
+<article class="book">
+  <div class="ref" id="dec15-19-Le-manager-et-le-sociologue-Norbert-Alter-et-Christian-Dubonnet"><b class="title">Le manager et le sociologue</b>, par <span class="author">Norbert Alter et Christian Dubonnet</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un dialogue stimulant sur la place de la sociologie en entreprise.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/678101906611417088">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-La-banlieue-du-20-heures-Ethnographie-de-la-production-d-un-lieu-commun-journalistique-J-r-me-Berthaut"><b class="title">La banlieue du « 20 heures » : Ethnographie de la production d’un lieu commun journalistique</b>, par <span class="author">Jérôme Berthaut</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Enquête sur la construction de stéréotypes et de lieux communs sur "la banlieue" au JT de France 2<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/678128943430565888">@Lil_RoXaNe</a></span>
     </blockquote>
   
   </div>
