@@ -31,16 +31,24 @@ Accès direct à un jour :<br/>
 16. [17 Décembre](#dec15-17)
 17. [18 Décembre](#dec15-18)
 18. [19 Décembre](#dec15-19)
+19. [20 Décembre](#dec15-20)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-1-La-mis-re-du-monde-Pierre-Bourdieu"><b class="title">La misère du monde</b>, par <span class="author">Pierre Bourdieu</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Un article de socio qui m’avait vraiment marquée c’est "Comprendre" de Bourdieu, dans La misère du monde.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/671694741310988288">@Silmalia</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Un article de socio qui m’avait vraiment marquée c’est "Comprendre" de Bourdieu, dans La misère du monde.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/671694741310988288">@Silmalia</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Parole donnée à ceux qui vivent la misère sociale, sous toutes ses formes. A offrir car accessible.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/678516609879777280">@Lil_RoXaNe</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -8084,8 +8092,42 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      C'est un texte fort intéressant qui aborde un sujet trop souvent ignoré : les formes de militantisme patronal, ici au travers de la CJD.<br/>
+      C’est un texte fort intéressant qui aborde un sujet trop souvent ignoré : les formes de militantisme patronal, ici au travers de la CJD.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ostpolitik/status/678284672565166080">@Ostpolitik</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-La-science-asservie-Annie-Th-baud-Mony"><b class="title">La science asservie</b>, par <span class="author">Annie Thébaud-Mony</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pas encore lu<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jbiaudet/status/678315363105402881">@jbiaudet</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-20">20 Décembre</h2>
+<article class="book">
+  <div class="ref" id="dec15-20-Le-March-Laurence-Fontaine"><b class="title">Le Marché</b>, par <span class="author">Laurence Fontaine</span>&nbsp;(<a href="http://www.gallimard.fr/Catalogue/GALLIMARD/NRF-Essais/Le-Marche">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Laurence Fontaine - Le Marché<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/678466782731116544">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20-L-h-pital-corps-et-me-Marie-Christine-Pouchelle"><b class="title">L’hôpital corps et âme</b>, par <span class="author">Marie Christine Pouchelle</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      L’hôpital corps et âme -Marie Christine Pouchelle<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Alisxtp/status/678487407273054208">@Alisxtp</a></span>
     </blockquote>
   
   </div>

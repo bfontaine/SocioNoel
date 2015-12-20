@@ -3,10 +3,15 @@
 1:
   - title: La misère du monde
     author: Pierre Bourdieu
-    source: https://twitter.com/Silmalia/status/671694741310988288
-    comment: >
-      Un article de socio qui m’avait vraiment marquée c’est "Comprendre" de
-      Bourdieu, dans La misère du monde.
+    sources:
+      - link: https://twitter.com/Silmalia/status/671694741310988288
+        comment: >
+          Un article de socio qui m’avait vraiment marquée c’est "Comprendre"
+          de Bourdieu, dans La misère du monde.
+      - link: https://twitter.com/Lil_RoXaNe/status/678516609879777280
+        comment: >
+          Parole donnée à ceux qui vivent la misère sociale, sous toutes ses
+          formes. A offrir car accessible.
   - title: Les mots, la mort, les sorts
     author: Jeanne Favret-Saada
     sources:
@@ -4169,5 +4174,19 @@
     author: Mickaël Ciccotelli
     source: https://twitter.com/Ostpolitik/status/678284672565166080
     comment: >
-      C'est un texte fort intéressant qui aborde un sujet trop souvent ignoré :
+      C’est un texte fort intéressant qui aborde un sujet trop souvent ignoré :
       les formes de militantisme patronal, ici au travers de la CJD.
+  - title: La science asservie
+    author: Annie Thébaud-Mony
+    source: https://twitter.com/jbiaudet/status/678315363105402881
+    comment: Pas encore lu
+20:
+  - title: Le Marché
+    author: Laurence Fontaine
+    source: https://twitter.com/Laboratoire_CMH/status/678466782731116544
+    comment: Laurence Fontaine - Le Marché
+    link: http://www.gallimard.fr/Catalogue/GALLIMARD/NRF-Essais/Le-Marche
+  - title: L’hôpital corps et âme
+    author: Marie Christine Pouchelle
+    source: https://twitter.com/Alisxtp/status/678487407273054208
+    comment: L’hôpital corps et âme -Marie Christine Pouchelle
