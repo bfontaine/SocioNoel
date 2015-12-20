@@ -5994,6 +5994,17 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-11-Reading-the-Racial-Subtext-of-the-Qu-b-cois-Accommodation-Controversy-An-analytics-of-Racialized-Governmentality-Sirma-Bilge"><b class="title">Reading the Racial Subtext of the Québécois Accommodation Controversy: An analytics of Racialized Governmentality</b>, par <span class="author">Sirma Bilge</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      L’article qui m’a inspiré tout un mémoire sur les discours médiatiques québécois et la "gouvernementalité racisée"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/678247923096928256">@CamilleGinger</a></span>
+    </blockquote>
+  
+  </div>
+</article>
 <h2 id="dec15-12">12 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-12-Au-tribunal-des-couples-Enqu-te-sur-des-affaires-familiales-Le-Collectif-Onze"><b class="title">Au tribunal des couples : Enquête sur des affaires familiales</b>, par <span class="author">Le Collectif Onze</span>&nbsp;(<a href="http://www.odilejacob.fr/catalogue/sciences-humaines/droit-justice/au-tribunal-des-couples_9782738130532.php">lien</a>)</div>
@@ -6299,6 +6310,17 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       La notion de "non-recours" aux droits sociaux avec P. Warin<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/676516775199154180">@F_Bally</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-12-Non-territorial-Boundaries-of-Citizenship-Melissa-S-Williams"><b class="title">Non-territorial Boundaries of Citizenship</b>, par <span class="author">Melissa S. Williams</span>&nbsp;(<a href="http://www.cambridge.org/fr/academic/subjects/politics-international-relations/political-theory/identities-affiliations-and-allegiances">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Melissa S, Williams, « Non-territorial Boundaries of Citizenship »<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/678249356093444097">@CamilleGinger</a></span>
     </blockquote>
   
   </div>
@@ -7899,6 +7921,171 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Enquête sur la construction de stéréotypes et de lieux communs sur "la banlieue" au JT de France 2<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/678128943430565888">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-Refuser-d-tre-un-homme-Pour-en-finir-avec-la-virilit-Jogn-Stoltenberg"><b class="title">Refuser d’être un homme : Pour en finir avec la virilité</b>, par <span class="author">Jogn Stoltenberg</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Refuser d’être un homme, en finir avec la virilité<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/annielsr/status/678230537924907008">@annielsr</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-La-raison-scolaire-cole-et-pratiques-d-criture-entre-savoir-et-pouvoir-Bernard-Lahire"><b class="title">La raison scolaire : École et pratiques d’écriture, entre savoir et pouvoir</b>, par <span class="author">Bernard Lahire</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "La raison scolaire. Ecole et pratiques d’écriture, entre savoir et pouvoir" de Bernard Lahire<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CaroPsy20/status/678130849032839168">@CaroPsy20</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-Le-racing-club-de-Lens-et-les-gueules-noires-Marion-Fontaine"><b class="title">Le racing club de Lens et les « gueules noires »</b>, par <span class="author">Marion Fontaine</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Le puissant travail d’histoire sociale du football par M. Fontaine<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/678158254493560832">@lestrelin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-La-formation-de-la-classe-ouvri-re-anglaise-Edward-P-Thomson"><b class="title">La formation de la classe ouvrière anglaise</b>, par <span class="author">Edward P. Thomson</span>&nbsp;(<a href="http://www.franceculture.fr/emission-a-voix-nue-dominique-manotti-l-archeologue-du-present-15-2015-12-14">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      E. P. Thomson, La formation de la classe ouvrière anglaise.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/678162733951504384">@M_Iz_6</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-Conjurer-la-peur-Essai-sur-la-force-politique-des-images-Patrick-Boucheron"><b class="title">Conjurer la peur : Essai sur la force politique des images</b>, par <span class="author">Patrick Boucheron</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "Conjurer la peur : Sienne, 1338 : essai sur la force politique des images" de Patrick Boucheron<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/678170039766392832">@Jo14Hernandez</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-L-autre-citoyen-Silyane-Larcher"><b class="title">L’autre citoyen</b>, par <span class="author">Silyane Larcher</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Plus science politique top pour comprendre le traitement spécial des résultats du vote d’ "îles"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/678179525612716032">@LionnelleMakaya</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-Sociologie-des-religions-Max-Weber"><b class="title">Sociologie des religions</b>, par <span class="author">Max Weber</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      En particulier, la "considération intermédiaire", indispensable pour démêler les influences de différentes sphères d’activité religieuse, politique, économique, etc.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/678186107213881344">@NuteluCaine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-Le-sociologue-et-l-historien-Pierre-Bourdieu-et-Roger-Chartier"><b class="title">Le sociologue et l’historien</b>, par <span class="author">Pierre Bourdieu et Roger Chartier</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Allez, on entame la dernière ligne droite<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/678205681795776512">@sociosauvage</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-Situating-Global-Capitalisms-A-View-from-Wall-Street-Investment-Banks-Karen-Ho"><b class="title">Situating Global Capitalisms: A View from Wall Street Investment Banks</b>, par <span class="author">Karen Ho</span>&nbsp;(<a href="http://www.culanth.org/articles/185-situating-global-capitalisms-a-view-from-wall">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Encore de l’anthropologie.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/678229789132652544">@Uneheuredepeine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-La-repr-sentation-politique-Pierre-Bourdieu"><b class="title">La représentation politique</b>, par <span class="author">Pierre Bourdieu</span>&nbsp;(<a href="http://www.persee.fr/doc/arss_0335-5322_1981_num_36_1_2105">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un article que je trouve impressionnant de Bourdieu<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/678259273273581568">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-La-religion-au-mus-e-Patrick-Michel"><b class="title">La religion au musée</b>, par <span class="author">Patrick Michel</span>&nbsp;(<a href="http://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=8982">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Patrick Michel - La religion au musée<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/678264531576057856">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-Introduction-aux-tudes-sur-le-genre-Laure-Bereni-S-bastien-Chauvin-Alexandre-Jaunait-et-Anne-Revillard"><b class="title">Introduction aux études sur le genre</b>, par <span class="author">Laure Bereni, Sébastien Chauvin, Alexandre Jaunait, et Anne Revillard</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      L. Bereni, S. Chauvin, A. Jaunait, A. Revillard - Introduction aux études sur le genre<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/678266954080210944">@Silmalia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-Quoi-de-neuf-chez-les-filles-Entre-st-r-otypes-et-libert-s-Christian-Baudelot-et-Roger-Establet"><b class="title">Quoi de neuf chez les filles ? Entre stéréotypes et libertés</b>, par <span class="author">Christian Baudelot et Roger Establet</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Pour compléter le #SocioNoel 19 de @Silmalia : Quoi de neuf chez les filles ? Entre stéréotypes et libertés. Baudelot & Establet<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/HybridaTabulat/status/678270988619001858">@HybridaTabulat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-The-Palestinians-From-peasants-to-revolutionaries-Rosemary-Sayigh"><b class="title">The Palestinians: From peasants to revolutionaries</b>, par <span class="author">Rosemary Sayigh</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Rosemary Sayigh, "The Palestinians: From peasants to revolutionaries"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/678279333060980736">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-19-Socialisation-au-r-le-patronal-et-mobilisation-collective-des-chefs-d-entreprise-Micka-l-Ciccotelli"><b class="title">Socialisation au rôle patronal et mobilisation collective des chefs d’entreprise</b>, par <span class="author">Mickaël Ciccotelli</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      C'est un texte fort intéressant qui aborde un sujet trop souvent ignoré : les formes de militantisme patronal, ici au travers de la CJD.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ostpolitik/status/678284672565166080">@Ostpolitik</a></span>
     </blockquote>
   
   </div>
