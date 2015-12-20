@@ -904,7 +904,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-1-Le-moustique-fauteur-de-troubles-C-cilia-Claeys-Mekdade-et-Laurence-Nicolas"><b class="title">Le moustique fauteur de troubles</b>, par <span class="author">Cécilia Claeys-Mekdade et Laurence Nicolas</span></div>
+  <div class="ref" id="dec15-1-Le-moustique-fauteur-de-troubles-C-cilia-Claeys-Mekdade-et-Laurence-Nicolas"><b class="title">Le moustique fauteur de troubles</b>, par <span class="author">Cécilia Claeys-Mekdade et Laurence Nicolas</span>&nbsp;(<a href="https://4.bp.blogspot.com/-3mEJty-hrGE/Vl3CrcQQgiI/AAAAAAAAAlI/su6CbGtaqXk/s1600/DAY01LD.png">lien</a>)</div>
   <div class="sources">
   
     <blockquote class="comment">
@@ -2408,7 +2408,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-3-Les-r-gles-de-la-m-thode-sociologique-mile-Durkheim"><b class="title">Les règles de la méthode sociologique</b>, par <span class="author">Émile Durkheim</span></div>
+  <div class="ref" id="dec15-3-Les-r-gles-de-la-m-thode-sociologique-mile-Durkheim"><b class="title">Les règles de la méthode sociologique</b>, par <span class="author">Émile Durkheim</span>&nbsp;(<a href="https://2.bp.blogspot.com/-cT_n02PhaFo/VmALZjOVG0I/AAAAAAAAAl8/D-8hafvBuow/s1600/day03%2BLD.png">lien</a>)</div>
   <div class="sources">
   
     <blockquote class="comment">
@@ -3031,7 +3031,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-4-Le-sens-pratique-Pierre-Bourdieu"><b class="title">Le sens pratique</b>, par <span class="author">Pierre Bourdieu</span></div>
+  <div class="ref" id="dec15-4-Le-sens-pratique-Pierre-Bourdieu"><b class="title">Le sens pratique</b>, par <span class="author">Pierre Bourdieu</span>&nbsp;(<a href="https://3.bp.blogspot.com/-PM8hcKI65PU/VmG17CzArMI/AAAAAAAAAmM/Ao0ArQPkZrk/s1600/DAY04%2BLD.png">lien</a>)</div>
   <div class="sources">
   
     <blockquote class="comment">
@@ -3500,7 +3500,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-5-D-soeuvr-L-Association-Lewis-Trondheim"><b class="title">Désoeuvré, L’Association</b>, par <span class="author">Lewis Trondheim</span></div>
+  <div class="ref" id="dec15-5-D-s-uvr-L-Association-Lewis-Trondheim"><b class="title">Désœuvré, L’Association</b>, par <span class="author">Lewis Trondheim</span>&nbsp;(<a href="https://4.bp.blogspot.com/-ZLhLgctabac/VmL8uqIumgI/AAAAAAAAAmc/-Hql1R_CBPA/s1600/day05%2Bcopie%2BLD.png">lien</a>)</div>
   <div class="sources">
   
     <blockquote class="comment">
@@ -4814,7 +4814,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-8-Une-ethnologue-en-Trap-zie-sport-art-ou-spectacle-Magali-Sizorn"><b class="title">Une ethnologue en « Trapézie » : sport, art ou spectacle ?</b>, par <span class="author">Magali Sizorn</span></div>
+  <div class="ref" id="dec15-8-Une-ethnologue-en-Trap-zie-sport-art-ou-spectacle-Magali-Sizorn"><b class="title">Une ethnologue en « Trapézie » : sport, art ou spectacle ?</b>, par <span class="author">Magali Sizorn</span>&nbsp;(<a href="https://3.bp.blogspot.com/-iVltdOdaGN0/VmbCFO7Ib0I/AAAAAAAAAnc/aHdZLK4ZEXM/s1600/Day08LD.png">lien</a>)</div>
   <div class="sources">
   
     <blockquote class="comment">
@@ -6375,7 +6375,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-12-Observer-l-preuve-d-une-d-ficience-visuelle-le-r-le-des-indices-Marion-Ink"><b class="title">Observer à l’épreuve d’une déficience visuelle : le rôle des indices</b>, par <span class="author">Marion Ink</span></div>
+  <div class="ref" id="dec15-12-Observer-l-preuve-d-une-d-ficience-visuelle-le-r-le-des-indices-Marion-Ink"><b class="title">Observer à l’épreuve d’une déficience visuelle : le rôle des indices</b>, par <span class="author">Marion Ink</span>&nbsp;(<a href="https://3.bp.blogspot.com/-_MTlrIwR9VQ/VmxDpeBwoaI/AAAAAAAAApA/BcI96OXZh7c/s1600/day12%2BLD.png">lien</a>)</div>
   <div class="sources">
   
     <blockquote class="comment">
@@ -6599,7 +6599,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-13-Essais-sur-la-th-orie-de-la-science-Max-Weber"><b class="title">Essais sur la théorie de la science</b>, par <span class="author">Max Weber</span></div>
+  <div class="ref" id="dec15-13-Essais-sur-la-th-orie-de-la-science-Max-Weber"><b class="title">Essais sur la théorie de la science</b>, par <span class="author">Max Weber</span>&nbsp;(<a href="https://2.bp.blogspot.com/-ixCy1ZHWKs8/Vm2e8xXeWjI/AAAAAAAAApQ/aX49VGYcRdA/s1600/Day13%2BLD.PNG">lien</a>)</div>
   <div class="sources">
   
     <blockquote class="comment">
@@ -6717,7 +6717,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Les-mondes-de-l-art-Howard-Becker"><b class="title">Les mondes de l’art</b>, par <span class="author">Howard Becker</span></div>
+  <div class="ref" id="dec15-14-Les-mondes-de-l-art-Howard-Becker"><b class="title">Les mondes de l’art</b>, par <span class="author">Howard Becker</span>&nbsp;(<a href="https://1.bp.blogspot.com/-fUygufcpAKQ/Vm29pPJ_zYI/AAAAAAAAApg/fBMxAwduIm8/s1600/Becker-becker5.gif">lien</a>)</div>
   <div class="sources">
   
     <blockquote class="comment">
