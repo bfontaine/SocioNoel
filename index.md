@@ -896,10 +896,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-1-Devenir-anorexique-Muriel-Darmon"><b class="title">Devenir anorexique</b>, par <span class="author">Muriel Darmon</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Le premier bouquin de socio que je me rappelle avoir lu en entier !<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AAulagnier/status/671998090891665408">@AAulagnier</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Le premier bouquin de socio que je me rappelle avoir lu en entier !<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AAulagnier/status/671998090891665408">@AAulagnier</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        #SocioNoel<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/678690760858972160">@balleverte</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -3196,6 +3203,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Mon premier livre de méthode de socio. À mettre dans toutes les mains.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/671986904213102593">@sociobd</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        De la méthodo qualitative en profondeur<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/678683679841980416">@F_Bally</a></span>
       </blockquote>
     
   
@@ -7383,10 +7395,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-16-La-socialisation-Muriel-Darmon"><b class="title">La socialisation</b>, par <span class="author">Muriel Darmon</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Un super #SocioNoel à conseiller<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Morifen333/status/677154383826677760">@Morifen333</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Un super #SocioNoel à conseiller<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Morifen333/status/677154383826677760">@Morifen333</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        #SocioNoel<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/678690422827393024">@balleverte</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -8321,6 +8340,83 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Génial et toujours révolutionnaire E. P. Thompson, The making of the English Working Class.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/nathalie_jas/status/678591700747558912">@nathalie_jas</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20-Notes-sur-le-concept-d-engagement-Howard-Becker"><b class="title">Notes sur le concept d’engagement</b>, par <span class="author">Howard Becker</span>&nbsp;(<a href="http://traces.revues.org/257">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Alors pourquoi cet article ? D’abord parce que vous avez tous cité Outsiders (et parfois les Mondes de l’Art) et que je suis un rebelle. Ensuite, parce que Howie lui même dit que c’est un de ses meilleurs, et il doit savoir de quoi il parle puisqu’il l’a écrit (logique, non ?). Enfin, parce que la façon dont il propose d’utiliser la notion d’engagement correspond au genre de sociologie que j’aime faire. A ne pas confondre avec le genre de sociologie dont je parle ou le genre de sociologie que je lis. C’est compliqué.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/678625841694179328">@Uneheuredepeine</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20-Parler-politique-en-Chine-milie-Frenkiel"><b class="title">Parler politique en Chine</b>, par <span class="author">Émilie Frenkiel</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Emilie Frenkiel, Parler politique en Chine, sur les débats politiques des intellos chinois<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/678637147231035392">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20--quoi-sert-le-culturalisme-Pratiques-m-dicales-et-cat-gorisations-des-femmes-migrantes-dans-trois-maternit-s-franciliennes-Alexandra-Nacu"><b class="title">À quoi sert le culturalisme ? Pratiques médicales et catégorisations des femmes « migrantes » dans trois maternités franciliennes</b>, par <span class="author">Alexandra Nacu</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un article d’A. Nacu sur les pratiques médicales/catégorisations des "migrantes" dans les maternités<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/678640714058768384">@PaillardSimon</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20-Comment-devenir-sociologue-Henri-Mendras"><b class="title">Comment devenir sociologue</b>, par <span class="author">Henri Mendras</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Savoureux récit du Mendras à nœud pap' : Comment devenir sociologue. Souvenirs d'un vieux mandarin, 1995.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/678659174981611520">@ArSaintMartin</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20-La-confiance-un-m-canisme-de-r-duction-de-la-complexit-sociale-Niklas-Luhmann"><b class="title">La confiance, un mécanisme de réduction de la complexité sociale</b>, par <span class="author">Niklas Luhmann</span>&nbsp;(<a href="http://www.revue-interrogations.org/Niklas-Luhmann-La-confiance-un">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      N. Luhmann et les notions de confiance<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/678681538440134656">@F_Bally</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20-Classes-pr-paratoires-La-fabrique-d-une-jeunesse-dominante-Muriel-Darmon"><b class="title">Classes préparatoires : La fabrique d’une jeunesse dominante</b>, par <span class="author">Muriel Darmon</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      #SocioNoel<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/678691245812817920">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20-La-notion-de-carri-re-un-instrument-interactionniste-d-objectivation-Muriel-Darmon"><b class="title">La notion de carrière : un instrument interactionniste d’objectivation</b>, par <span class="author">Muriel Darmon</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Bonus<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/678692738691371010">@balleverte</a></span>
     </blockquote>
   
   </div>

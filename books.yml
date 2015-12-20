@@ -455,9 +455,12 @@
     link: http://agone.org/lordredeschoses/desfemmesrespectables
   - title: Devenir anorexique
     author: Muriel Darmon
-    source: https://twitter.com/AAulagnier/status/671998090891665408
-    comment: >
-      Le premier bouquin de socio que je me rappelle avoir lu en entier !
+    sources:
+      - link: https://twitter.com/AAulagnier/status/671998090891665408
+        comment: >
+          Le premier bouquin de socio que je me rappelle avoir lu en entier !
+      - link: https://twitter.com/balleverte/status/678690760858972160
+        comment: "#SocioNoel"
   - title: Le moustique fauteur de troubles
     author: Cécilia Claeys-Mekdade et Laurence Nicolas
     source: https://twitter.com/sociobd/status/671720646389428224
@@ -1661,6 +1664,8 @@
         comment: >
           Mon premier livre de méthode de socio. À mettre dans toutes les
           mains.
+      - link: https://twitter.com/F_Bally/status/678683679841980416
+        comment: De la méthodo qualitative en profondeur
   - title: Les anonymes à la radio
     author: Christophe Deleu
     source: https://twitter.com/Ostpolitik/status/673068257260212224
@@ -3866,8 +3871,11 @@
       climatique. #COP21 #climat
   - title: La socialisation
     author: Muriel Darmon
-    source: https://twitter.com/Morifen333/status/677154383826677760
-    comment: "Un super #SocioNoel à conseiller"
+    sources:
+      - link: https://twitter.com/Morifen333/status/677154383826677760
+        comment: "Un super #SocioNoel à conseiller"
+      - link: https://twitter.com/balleverte/status/678690422827393024
+        comment: "#SocioNoel"
   - title: "Les aides à domicile : Un autre monde populaire"
     author: Christelle Avril
     source: https://twitter.com/LionnelleMakaya/status/677161339891093505
@@ -4311,3 +4319,47 @@
       Génial et toujours révolutionnaire E. P. Thompson, The making of the
       English Working Class.
     link: https://mvlindsey.files.wordpress.com/2015/09/making-of-the-english-working-class-thompson-1971.pdf
+  - title: Notes sur le concept d’engagement
+    author: Howard Becker
+    source: https://twitter.com/Uneheuredepeine/status/678625841694179328
+    comment: >
+      Alors pourquoi cet article ? D’abord parce que vous avez tous cité
+      Outsiders (et parfois les Mondes de l’Art) et que je suis un rebelle.
+      Ensuite, parce que Howie lui même dit que c’est un de ses meilleurs, et
+      il doit savoir de quoi il parle puisqu’il l’a écrit (logique, non ?).
+      Enfin, parce que la façon dont il propose d’utiliser la notion
+      d’engagement correspond au genre de sociologie que j’aime faire. A ne pas
+      confondre avec le genre de sociologie dont je parle ou le genre de
+      sociologie que je lis. C’est compliqué.
+    link: http://traces.revues.org/257
+  - title: Parler politique en Chine
+    author: Émilie Frenkiel
+    source: https://twitter.com/SamuelHayat/status/678637147231035392
+    comment: >
+      Emilie Frenkiel, Parler politique en Chine, sur les débats politiques des
+      intellos chinois
+  - title: "À quoi sert le culturalisme ? Pratiques médicales et catégorisations des femmes « migrantes » dans trois maternités franciliennes"
+    author: Alexandra Nacu
+    source: https://twitter.com/PaillardSimon/status/678640714058768384
+    comment: >
+      Un article d’A. Nacu sur les pratiques médicales/catégorisations des
+      "migrantes" dans les maternités
+  - title: Comment devenir sociologue
+    author: Henri Mendras
+    source: https://twitter.com/ArSaintMartin/status/678659174981611520
+    comment: >
+      Savoureux récit du Mendras à nœud pap' : Comment devenir sociologue.
+      Souvenirs d'un vieux mandarin, 1995.
+  - title: "La confiance, un mécanisme de réduction de la complexité sociale"
+    author: Niklas Luhmann
+    source: https://twitter.com/F_Bally/status/678681538440134656
+    comment: N. Luhmann et les notions de confiance
+    link: http://www.revue-interrogations.org/Niklas-Luhmann-La-confiance-un
+  - title: "Classes préparatoires : La fabrique d’une jeunesse dominante"
+    author: Muriel Darmon
+    source: https://twitter.com/balleverte/status/678691245812817920
+    comment: "#SocioNoel"
+  - title: "La notion de carrière : un instrument interactionniste d’objectivation"
+    author: Muriel Darmon
+    source: https://twitter.com/balleverte/status/678692738691371010
+    comment: Bonus
