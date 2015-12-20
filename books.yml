@@ -1,5 +1,5 @@
 # TODO add books from http://socio-bd.blogspot.fr/p/calendrier-de-lavent.html
-# 9-11, 15-...
+# Days 11, 15-...
 1:
   - title: La misère du monde
     author: Pierre Bourdieu
@@ -821,6 +821,8 @@
           je l’ai pas encore vu passer. #SocioNoel !
       - link: https://twitter.com/Letagere/status/672354885589966849
         comment: Mon premier avant même Becker & les Outsiders
+      - link: https://twitter.com/AdrienSonnet/status/678562185736515584
+        comment: Premier contact avec la sociologie et Erving Goffman.
   - title: Identité et Contrôle
     author: Harrison C. White
     source: https://twitter.com/EmilienSchultz/status/672072215945433089
@@ -1319,7 +1321,7 @@
       - link: https://twitter.com/CamilleGinger/status/672798998672089088
         comment: Du Scorsese version observation participante
       - link: https://twitter.com/Uneheuredepeine/status/677058569221578752
-        comment: Ça fait longtemps que j'ai pas mis un classique
+        comment: Ça fait longtemps que j’ai pas mis un classique
     link: http://www.editionsladecouverte.fr/catalogue/index-Street_Corner_Society-9782707152879.html
   - title: L’économie morale des sciences modernes
     author: Lorraine Daston
@@ -1673,12 +1675,15 @@
     comment: >
       Un entretien, que je trouve génial, de Bourdieu en 2001 dans @_Vacarme_
     link: http://www.vacarme.org/article224.html
-  - title: Les forges de la fiction
+  - title: "Jeux de rôle : Les forges de la fiction"
     author: Olivier Caïra
-    source: https://twitter.com/JohnGoodMalik/status/673073302647250945
-    comment: >
-      Les forges de la fiction, de O. Caïra, pour découvrir les jeux de rôle
-      avec les outils des sciences sociales (ex : Goffman)
+    sources:
+      - link: https://twitter.com/JohnGoodMalik/status/673073302647250945
+        comment: >
+          Les forges de la fiction, de O. Caïra, pour découvrir les jeux de
+          rôle avec les outils des sciences sociales (ex : Goffman)
+      - link: https://twitter.com/sociobd/status/674983480258863104
+        comment: Sur la thématique du jeu
   - title: "La logique de l’honneur : Gestion des entreprises et traditions nationales"
     author: Philippe d’Iribarne
     source: https://twitter.com/bbarbusse/status/673077771921432576
@@ -2767,6 +2772,13 @@
     source: https://twitter.com/CamilleGinger/status/677238246280179713
     comment: Sur les whiteness studies
     link: http://www.borderlands.net.au/vol3no2_2004/ahmed_declarations.htm
+  - title: Les mots et les choses. Une archéologie des sciences humaines
+    author: Michel Foucault
+    source: https://twitter.com/sociobd/status/674508898733326336
+    comment: >
+      Je ne suis pas d’accord avec beaucoup de choses, mais c’est stimulant !
+      (À lire avec un tube d’aspirine à proximité)
+    link: https://1.bp.blogspot.com/-0YaDJZ0qQBE/VmfnB9Il5UI/AAAAAAAAAoM/9nF2QcJPyjs/s1600/Day09LD.png
 10:
   - title: Les Grecs ont-ils cru à leurs mythes ?
     author: Paul Veyne
@@ -2874,6 +2886,10 @@
           Pour poursuivre avec les relations amour/haine, les essais
           auto-réflexif d’Eribon. Des lectures plutôt faciles et agréables pour
           découvrir des aspects de la socio de Bourdieu.
+      - link: https://twitter.com/Honeyrock/status/678599767325323264
+        comment: >
+          En route pour rentrer dans la campagne familiale, lecture de
+          circonstance
   - title: Psychologie des Foules
     author: Gustave Le Bon
     source: https://twitter.com/bfontn/status/674911743513075712
@@ -2901,8 +2917,12 @@
       Des fois on peut penser que tout a déjà été écrit il y a bien longtemps.
   - title: Dans les plis singuliers du social
     author: Bernard Lahire
-    source: https://twitter.com/ruggeroparis/status/674933659254812673
-    comment: "En attendant le nouveau dans un mois #Lahire"
+    sources:
+      - link: https://twitter.com/ruggeroparis/status/674933659254812673
+        comment: "En attendant le nouveau dans un mois #Lahire"
+      - link: https://twitter.com/sociosauvage/status/678582866155032576
+        comment: >
+          Après un Bourdieu accessible hier, un Lahire aujourd’hui, avant de monter en gamme
   - title: "La vocation : conversion et reconversion des prêtres ruraux"
     author: Charles Suaud
     source: https://twitter.com/ruggeroparis/status/674934670493118464
@@ -4027,14 +4047,14 @@
     author: Marc-Henry Soulet et Vivianne Châtel
     directed: true
     source: https://twitter.com/F_Bally/status/677623022325469184
-    comment: Sur les mécanismes d'agir dans une position fragilisée.
+    comment: Sur les mécanismes d’agir dans une position fragilisée.
 18:
   - title: Soigner les exclus
     author: Isabelle Parizot
     source: https://twitter.com/Laboratoire_CMH/status/677727541252251648
     comment: Isabelle Parizot - Soigner les exclus
     link: http://www.puf.com/Autres_Collections:Soigner_les_exclus
-  - title: La dictature de Salazar face à l'émigration
+  - title: La dictature de Salazar face à l’émigration
     author: Victor Pereira
     source: https://twitter.com/EditionsScpo/status/677766476540067840
     comment: Le pouvoir d’un Etat sur ses nationaux à l’étranger
@@ -4058,7 +4078,7 @@
   - title: Sociologie
     author: Georg Simmel
     source: https://twitter.com/Gerome_Truc/status/677798246685765633
-    comment: Une mine inépuisable d'inspiration…
+    comment: Une mine inépuisable d’inspiration…
   - title: Anthropologie de la globalisation
     author: Marc Abélès
     source: https://twitter.com/Uneheuredepeine/status/677808518876000256
@@ -4121,9 +4141,12 @@
     comment: R. Wright, Black Boy
   - title: Comment pensent les institutions
     author: Mary Douglas
-    source: https://twitter.com/Jo14Hernandez/status/677848785314324480
-    comment: >
-      "Comment pensent les institutions" de l’anthropologue Mary Douglas.
+    sources:
+      - link: https://twitter.com/Jo14Hernandez/status/677848785314324480
+        comment: >
+          "Comment pensent les institutions" de l’anthropologue Mary Douglas.
+      - link: https://twitter.com/NuteluCaine/status/678585030470447104
+        comment: La place des institutions dans une société individualiste
   - title: Focus - Compter les personnes sans domicile
     author: Julien Damon
     source: https://twitter.com/bfontn/status/677844755829661696
@@ -4170,7 +4193,7 @@
     source: https://twitter.com/lestrelin/status/678158254493560832
     comment: Le puissant travail d’histoire sociale du football par M. Fontaine
   - title: "La formation de la classe ouvrière anglaise"
-    author: Edward P. Thomson
+    author: Edward P. Thompson
     source: https://twitter.com/M_Iz_6/status/678162733951504384
     comment: E. P. Thomson, La formation de la classe ouvrière anglaise.
     link: http://www.franceculture.fr/emission-a-voix-nue-dominique-manotti-l-archeologue-du-present-15-2015-12-14
@@ -4271,3 +4294,20 @@
     author: Daniel Meier
     source: https://twitter.com/CobbleAndFrame/status/678536478478176256
     comment: 'Daniel Meier, "Mariages et identité nationale au Liban"'
+  - title: Re-Imagining Economic Sociology
+    author: Patrik Aspers et Nigel Dodd
+    directed: true
+    source: https://twitter.com/frbessis/status/678566820786348032
+    comment: "#SocioNoël + #EcoNoël = Re-Imagining Economic Sociology"
+    link: https://global.oup.com/academic/product/re-imagining-economic-sociology-9780198749769?cc=fr&lang=en&#
+  - title: La sainte famille
+    author: Karl Marx et Friedrich Engels
+    source: https://twitter.com/Jo14Hernandez/status/678571355558838272
+    comment: '"La sainte famille" de Karl Marx et Friedrich Engels'
+  - title: The Making of the English Working Class
+    author: Edward P. Thompson
+    source: https://twitter.com/nathalie_jas/status/678591700747558912
+    comment: >
+      Génial et toujours révolutionnaire E. P. Thompson, The making of the
+      English Working Class.
+    link: https://mvlindsey.files.wordpress.com/2015/09/making-of-the-english-working-class-thompson-1971.pdf

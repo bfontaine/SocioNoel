@@ -1627,6 +1627,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Letagere/status/672354885589966849">@Letagere</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Premier contact avec la sociologie et Erving Goffman.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AdrienSonnet/status/678562185736515584">@AdrienSonnet</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2559,7 +2564,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Ça fait longtemps que j'ai pas mis un classique<br/>
+        Ça fait longtemps que j’ai pas mis un classique<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/677058569221578752">@Uneheuredepeine</a></span>
       </blockquote>
     
@@ -3219,13 +3224,20 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-5-Les-forges-de-la-fiction-Olivier-Ca-ra"><b class="title">Les forges de la fiction</b>, par <span class="author">Olivier Caïra</span></div>
+  <div class="ref" id="dec15-5-Jeux-de-r-le-Les-forges-de-la-fiction-Olivier-Ca-ra"><b class="title">Jeux de rôle : Les forges de la fiction</b>, par <span class="author">Olivier Caïra</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Les forges de la fiction, de O. Caïra, pour découvrir les jeux de rôle avec les outils des sciences sociales (ex : Goffman)<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/673073302647250945">@JohnGoodMalik</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Les forges de la fiction, de O. Caïra, pour découvrir les jeux de rôle avec les outils des sciences sociales (ex : Goffman)<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/673073302647250945">@JohnGoodMalik</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Sur la thématique du jeu<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/674983480258863104">@sociobd</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -5258,6 +5270,17 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-9-Les-mots-et-les-choses-Une-arch-ologie-des-sciences-humaines-Michel-Foucault"><b class="title">Les mots et les choses. Une archéologie des sciences humaines</b>, par <span class="author">Michel Foucault</span>&nbsp;(<a href="https://1.bp.blogspot.com/-0YaDJZ0qQBE/VmfnB9Il5UI/AAAAAAAAAoM/9nF2QcJPyjs/s1600/Day09LD.png">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Je ne suis pas d’accord avec beaucoup de choses, mais c’est stimulant ! (À lire avec un tube d’aspirine à proximité)<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/674508898733326336">@sociobd</a></span>
+    </blockquote>
+  
+  </div>
+</article>
 <h2 id="dec15-10">10 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-10-Les-Grecs-ont-ils-cru-leurs-mythes-Paul-Veyne"><b class="title">Les Grecs ont-ils cru à leurs mythes ?</b>, par <span class="author">Paul Veyne</span></div>
@@ -5461,6 +5484,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/674935524755431424">@sociosauvage</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        En route pour rentrer dans la campagne familiale, lecture de circonstance<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Honeyrock/status/678599767325323264">@Honeyrock</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -5523,10 +5551,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-10-Dans-les-plis-singuliers-du-social-Bernard-Lahire"><b class="title">Dans les plis singuliers du social</b>, par <span class="author">Bernard Lahire</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      En attendant le nouveau dans un mois #Lahire<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/674933659254812673">@ruggeroparis</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        En attendant le nouveau dans un mois #Lahire<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/674933659254812673">@ruggeroparis</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Après un Bourdieu accessible hier, un Lahire aujourd’hui, avant de monter en gamme<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/678582866155032576">@sociosauvage</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -7735,7 +7770,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Sur les mécanismes d'agir dans une position fragilisée.<br/>
+      Sur les mécanismes d’agir dans une position fragilisée.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/677623022325469184">@F_Bally</a></span>
     </blockquote>
   
@@ -7754,7 +7789,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-18-La-dictature-de-Salazar-face-l-migration-Victor-Pereira"><b class="title">La dictature de Salazar face à l'émigration</b>, par <span class="author">Victor Pereira</span></div>
+  <div class="ref" id="dec15-18-La-dictature-de-Salazar-face-l-migration-Victor-Pereira"><b class="title">La dictature de Salazar face à l’émigration</b>, par <span class="author">Victor Pereira</span></div>
   <div class="sources">
   
     <blockquote class="comment">
@@ -7813,7 +7848,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Une mine inépuisable d'inspiration…<br/>
+      Une mine inépuisable d’inspiration…<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/677798246685765633">@Gerome_Truc</a></span>
     </blockquote>
   
@@ -7944,10 +7979,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-18-Comment-pensent-les-institutions-Mary-Douglas"><b class="title">Comment pensent les institutions</b>, par <span class="author">Mary Douglas</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      "Comment pensent les institutions" de l’anthropologue Mary Douglas.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/677848785314324480">@Jo14Hernandez</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        "Comment pensent les institutions" de l’anthropologue Mary Douglas.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/677848785314324480">@Jo14Hernandez</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        La place des institutions dans une société individualiste<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/678585030470447104">@NuteluCaine</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -8041,7 +8083,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-19-La-formation-de-la-classe-ouvri-re-anglaise-Edward-P-Thomson"><b class="title">La formation de la classe ouvrière anglaise</b>, par <span class="author">Edward P. Thomson</span>&nbsp;(<a href="http://www.franceculture.fr/emission-a-voix-nue-dominique-manotti-l-archeologue-du-present-15-2015-12-14">lien</a>)</div>
+  <div class="ref" id="dec15-19-La-formation-de-la-classe-ouvri-re-anglaise-Edward-P-Thompson"><b class="title">La formation de la classe ouvrière anglaise</b>, par <span class="author">Edward P. Thompson</span>&nbsp;(<a href="http://www.franceculture.fr/emission-a-voix-nue-dominique-manotti-l-archeologue-du-present-15-2015-12-14">lien</a>)</div>
   <div class="sources">
   
     <blockquote class="comment">
@@ -8246,6 +8288,39 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Daniel Meier, "Mariages et identité nationale au Liban"<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/678536478478176256">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20-Re-Imagining-Economic-Sociology-Patrik-Aspers-et-Nigel-Dodd"><b class="title">Re-Imagining Economic Sociology</b>, dirigé par <span class="author">Patrik Aspers et Nigel Dodd</span>&nbsp;(<a href="https://global.oup.com/academic/product/re-imagining-economic-sociology-9780198749769?cc=fr&lang=en&#">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      #SocioNoël + #EcoNoël = Re-Imagining Economic Sociology<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/frbessis/status/678566820786348032">@frbessis</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20-La-sainte-famille-Karl-Marx-et-Friedrich-Engels"><b class="title">La sainte famille</b>, par <span class="author">Karl Marx et Friedrich Engels</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      "La sainte famille" de Karl Marx et Friedrich Engels<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/678571355558838272">@Jo14Hernandez</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20-The-Making-of-the-English-Working-Class-Edward-P-Thompson"><b class="title">The Making of the English Working Class</b>, par <span class="author">Edward P. Thompson</span>&nbsp;(<a href="https://mvlindsey.files.wordpress.com/2015/09/making-of-the-english-working-class-thompson-1971.pdf">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Génial et toujours révolutionnaire E. P. Thompson, The making of the English Working Class.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/nathalie_jas/status/678591700747558912">@nathalie_jas</a></span>
     </blockquote>
   
   </div>
