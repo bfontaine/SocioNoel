@@ -764,6 +764,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/675053385742200832">@CamilleGinger</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        C’est drôle, intelligent, drôle et intelligent. Et plus encore !<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/673575657281101824">@sociobd</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -894,6 +899,17 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Le premier bouquin de socio que je me rappelle avoir lu en entier !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AAulagnier/status/671998090891665408">@AAulagnier</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-1-Le-moustique-fauteur-de-troubles-C-cilia-Claeys-Mekdade-et-Laurence-Nicolas"><b class="title">Le moustique fauteur de troubles</b>, par <span class="author">Cécilia Claeys-Mekdade et Laurence Nicolas</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Quand j’ai cherché ma première lecture de socio, j’ai immédiatement pensé au classique Outsiders de H. Becker. Mais en fait non, c’était pas le premier ! En cherchant bien, j’ai repensé à un article lu dans le cadre d’un quelconque rendu. Un article d’ethnologie. Sur les moustiques. En camargue. Oui, oui, ça ne s’invente pas…<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/671720646389428224">@sociobd</a></span>
     </blockquote>
   
   </div>
@@ -2391,6 +2407,17 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-3-Les-r-gles-de-la-m-thode-sociologique-mile-Durkheim"><b class="title">Les règles de la méthode sociologique</b>, par <span class="author">Émile Durkheim</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Voici un livre qu’on m’a mis entre les mains dès la L1 dont je n’ai vraiment compris la puissance que plus tard (les mauvais langues diront « quand tu l’as lu ! » et elles n’auront sans doute pas tout à fait tort…). Une vraie mine d’enseignements ! Toujours aussi utilisable aujourd’hui, plus de 120 ans après sa première publication.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/672349088977940480">@sociobd</a></span>
+    </blockquote>
+  
+  </div>
+</article>
 <h2 id="dec15-4">4 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-4-Appropriations-des-id-es-f-ministes-et-transformation-de-soi-par-la-lecture-Viviane-Albenga-et-Laurence-Bachmann"><b class="title">Appropriations des idées féministes et transformation de soi par la lecture</b>, par <span class="author">Viviane Albenga et Laurence Bachmann</span>&nbsp;(<a href="http://www.cairn.info/resume.php?ID_ARTICLE=POX_109_0069">lien</a>)</div>
@@ -3003,6 +3030,17 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-4-Le-sens-pratique-Pierre-Bourdieu"><b class="title">Le sens pratique</b>, par <span class="author">Pierre Bourdieu</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Ha ! Pierre Bourdieu ! Je l’ai évidemment découvert au tout début de ma formation, notamment avec <i>Le sens pratique</i>. C’est à ce moment que j’ai découvert le potentiel explicatif de l’analyse sociologique ! Au point de réexplorer le quotidien avec cette grille de lecture bourdieusienne si efficace… Mais peut-être un peu trop efficace, justement. Ce qui m’a incité à aller regarder du côté d’autres sociologies. Malgré tout, dès que je retourne le lire dans le texte, je me prends de grandes claques !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/672805974252650496">@sociobd</a></span>
+    </blockquote>
+  
+  </div>
+</article>
 <h2 id="dec15-5">5 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-5-Surveiller-et-jouir-Anthropologie-politique-du-sexe-Gayle-Rubin"><b class="title">Surveiller et jouir : Anthropologie politique du sexe</b>, par <span class="author">Gayle Rubin</span></div>
@@ -3144,10 +3182,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-5-Les-ficelles-du-m-tier-Howard-Becker"><b class="title">Les ficelles du métier</b>, par <span class="author">Howard Becker</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Très utile pour bien démarrer un mémoire avec les conseils d’un grand<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/673066913132605441">@Jo14Hernandez</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Très utile pour bien démarrer un mémoire avec les conseils d’un grand<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/673066913132605441">@Jo14Hernandez</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Mon premier livre de méthode de socio. À mettre dans toutes les mains.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/671986904213102593">@sociobd</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -3451,6 +3496,17 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/674154075051675648">@Uneheuredepeine</a></span>
       </blockquote>
     
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-5-D-soeuvr-L-Association-Lewis-Trondheim"><b class="title">Désoeuvré, L’Association</b>, par <span class="author">Lewis Trondheim</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      On laisse un peu de côté les classiques de la socio…<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/673156769972166656">@sociobd</a></span>
+    </blockquote>
   
   </div>
 </article>
@@ -4482,10 +4538,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-8-La-sociologie-sur-le-vif-Cyril-Lemieux"><b class="title">La sociologie sur le vif</b>, par <span class="author">Cyril Lemieux</span>&nbsp;(<a href="http://www.pressesdesmines.com/media/extrait/LaSocSurVifEXtr.pdf">lien</a>)</div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Parce que l’esprit initial de socio sauvage vient aussi un peu de là. Très utile aussi pour voir comment la socio peut servir dans la vie quotidienne.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/674235194254221313">@sociosauvage</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Parce que l’esprit initial de socio sauvage vient aussi un peu de là. Très utile aussi pour voir comment la socio peut servir dans la vie quotidienne.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/674235194254221313">@sociosauvage</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Un très bon outil pour (s’)initier aux sciences sociales<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/673823792788070400">@sociobd</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -4746,6 +4809,17 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Fatima El Tayeb, European Others. Queering Ethnicity in Post National Europe<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/677237642677891072">@CamilleGinger</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-8-Une-ethnologue-en-Trap-zie-sport-art-ou-spectacle-Magali-Sizorn"><b class="title">Une ethnologue en « Trapézie » : sport, art ou spectacle ?</b>, par <span class="author">Magali Sizorn</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Super réflexions, notamment sur la posture du chercheur et de la nécessité ou non de s’impliquer sur son terrain.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/674192688170840064">@sociobd</a></span>
     </blockquote>
   
   </div>
@@ -8161,6 +8235,17 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Un sociologue au cœur du management !<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/678531452099784704">@bbarbusse</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20-Mariages-et-identit-nationale-au-Liban-Daniel-Meier"><b class="title">Mariages et identité nationale au Liban</b>, par <span class="author">Daniel Meier</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Daniel Meier, "Mariages et identité nationale au Liban"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/678536478478176256">@CobbleAndFrame</a></span>
     </blockquote>
   
   </div>

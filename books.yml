@@ -1,5 +1,5 @@
 # TODO add books from http://socio-bd.blogspot.fr/p/calendrier-de-lavent.html
-# 1-11 + 15-...
+# 9-11, 15-...
 1:
   - title: La misère du monde
     author: Pierre Bourdieu
@@ -387,6 +387,9 @@
         comment: "Bon allez j’essaie. Après une journée de cours donc plutôt light"
       - link: https://twitter.com/CamilleGinger/status/675053385742200832
         comment: Bédé à mettre entre toutes mains
+      - link: https://twitter.com/sociobd/status/673575657281101824
+        comment: >
+          C’est drôle, intelligent, drôle et intelligent. Et plus encore !
   - title: La Production des Grands Hommes
     author: Maurice Godelier
     sources:
@@ -455,6 +458,15 @@
     source: https://twitter.com/AAulagnier/status/671998090891665408
     comment: >
       Le premier bouquin de socio que je me rappelle avoir lu en entier !
+  - title: Le moustique fauteur de troubles
+    author: Cécilia Claeys-Mekdade et Laurence Nicolas
+    source: https://twitter.com/sociobd/status/671720646389428224
+    comment: >
+      Quand j’ai cherché ma première lecture de socio, j’ai immédiatement pensé
+      au classique Outsiders de H. Becker. Mais en fait non, c’était pas le
+      premier ! En cherchant bien, j’ai repensé à un article lu dans le cadre
+      d’un quelconque rendu. Un article d’ethnologie. Sur les moustiques. En
+      camargue. Oui, oui, ça ne s’invente pas…
 2:
   - title: Les réseaux sociaux
     author: Michel Forsé et Alain Degenne
@@ -1208,6 +1220,15 @@
     source: https://twitter.com/MorganeMdt/status/672687010105139202
     comment: >
       Lu juste avt le début du doctorat, histoire de se mettre dans le bain…
+  - title: Les règles de la méthode sociologique
+    author: Émile Durkheim
+    source: https://twitter.com/sociobd/status/672349088977940480
+    comment: >
+      Voici un livre qu’on m’a mis entre les mains dès la L1 dont je n’ai
+      vraiment compris la puissance que plus tard (les mauvais langues diront «
+      quand tu l’as lu ! » et elles n’auront sans doute pas tout à fait tort…).
+      Une vraie mine d’enseignements ! Toujours aussi utilisable aujourd’hui,
+      plus de 120 ans après sa première publication.
 4:
   - title: Appropriations des idées féministes et transformation de soi par la lecture
     author: Viviane Albenga et Laurence Bachmann
@@ -1544,6 +1565,18 @@
     author: Isabelle Charpentier
     source: https://twitter.com/HybridaTabulat/status/673185623826632704
     comment: Car la sociologie de la réception c’est mon truc.
+  - title: Le sens pratique
+    author: Pierre Bourdieu
+    source: https://twitter.com/sociobd/status/672805974252650496
+    comment: >
+      Ha ! Pierre Bourdieu ! Je l’ai évidemment découvert au tout début de ma
+      formation, notamment avec <i>Le sens pratique</i>. C’est à ce moment que
+      j’ai découvert le potentiel explicatif de l’analyse sociologique ! Au
+      point de réexplorer le quotidien avec cette grille de lecture
+      bourdieusienne si efficace… Mais peut-être un peu trop efficace,
+      justement. Ce qui m’a incité à aller regarder du côté d’autres
+      sociologies. Malgré tout, dès que je retourne le lire dans le texte, je
+      me prends de grandes claques !
 5:
   - title: "Surveiller et jouir : Anthropologie politique du sexe"
     author: Gayle Rubin
@@ -1615,9 +1648,14 @@
       électeurs"
   - title: Les ficelles du métier
     author: Howard Becker
-    source: https://twitter.com/Jo14Hernandez/status/673066913132605441
-    comment: >
-      Très utile pour bien démarrer un mémoire avec les conseils d’un grand
+    sources:
+      - link: https://twitter.com/Jo14Hernandez/status/673066913132605441
+        comment: >
+          Très utile pour bien démarrer un mémoire avec les conseils d’un grand
+      - link: https://twitter.com/sociobd/status/671986904213102593
+        comment: >
+          Mon premier livre de méthode de socio. À mettre dans toutes les
+          mains.
   - title: Les anonymes à la radio
     author: Christophe Deleu
     source: https://twitter.com/Ostpolitik/status/673068257260212224
@@ -1787,6 +1825,10 @@
           il faudrait aussi que je compare avec la thèse, pour voir ce que
           l’édition fait à l’écriture sociologique.
     link: https://lectures.revues.org/11945
+  - title: Désoeuvré, L’Association
+    author: Lewis Trondheim
+    source: https://twitter.com/sociobd/status/673156769972166656
+    comment: On laisse un peu de côté les classiques de la socio…
 6:
   - title: "Ce qui nous rend méchants (Spécimen)"
     author: Radio Télévision Suisse
@@ -2322,11 +2364,14 @@
     comment: "Lire ou relire Francfort pour les fêtes #classic"
   - title: La sociologie sur le vif
     author: Cyril Lemieux
-    source: https://twitter.com/sociosauvage/status/674235194254221313
-    comment: >
-      Parce que l’esprit initial de socio sauvage vient aussi un peu de là.
-      Très utile aussi pour voir comment la socio peut servir dans la vie
-      quotidienne.
+    sources:
+      - link: https://twitter.com/sociosauvage/status/674235194254221313
+        comment: >
+          Parce que l’esprit initial de socio sauvage vient aussi un peu de là.
+          Très utile aussi pour voir comment la socio peut servir dans la vie
+          quotidienne.
+      - link: https://twitter.com/sociobd/status/673823792788070400
+        comment: Un très bon outil pour (s’)initier aux sciences sociales
     link: http://www.pressesdesmines.com/media/extrait/LaSocSurVifEXtr.pdf
   - title: La rigueur du qualitatif
     author: Jean-Pierre Olivier de Sardan
@@ -2467,6 +2512,12 @@
       Fatima El Tayeb, European Others. Queering Ethnicity in Post National
       Europe
     link: https://escholarship.org/uc/item/14z3z257#page-1
+  - title: "Une ethnologue en « Trapézie » : sport, art ou spectacle ?"
+    author: Magali Sizorn
+    source: https://twitter.com/sociobd/status/674192688170840064
+    comment: >
+      Super réflexions, notamment sur la posture du chercheur et de la
+      nécessité ou non de s’impliquer sur son terrain.
 9:
   - title: Economists and Societies
     author: Marion Fourcade
@@ -4208,3 +4259,7 @@
     author: Michel Villette
     source: https://twitter.com/bbarbusse/status/678531452099784704
     comment: Un sociologue au cœur du management !
+  - title: "Mariages et identité nationale au Liban"
+    author: Daniel Meier
+    source: https://twitter.com/CobbleAndFrame/status/678536478478176256
+    comment: 'Daniel Meier, "Mariages et identité nationale au Liban"'
