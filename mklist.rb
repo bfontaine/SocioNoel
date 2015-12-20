@@ -169,10 +169,12 @@ class BooksList
     authors = []
     authors_mentions = {}
     sources = Set.new
+    days = []
 
     split_authors = /(?:,\s+(?:et\s+)?|\s+et\s+)/
 
     @days.each do |day, books|
+      days << [day, books.size]
       books.each_with_index do |h, i|
         b = Book.new(h, day, i)
         books_count += 1
@@ -204,6 +206,7 @@ class BooksList
       :sources_count => sources.size,
       :most_common_authors => authors[0..2],
       :most_mentioned_authors => authors_mentions[0..2],
+      :days => days,
     }
   end
 
