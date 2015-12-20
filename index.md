@@ -8109,6 +8109,17 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-19-La-FNAC-la-distribution-culturelle-entre-le-march-et-le-consommateur-Vincent-Chabault"><b class="title">La FNAC : la distribution culturelle entre le marché et le consommateur</b>, par <span class="author">Vincent Chabault</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      “La FNAC : la distribution culturelle entre le marché et le consommateur”, V. Chabault<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/678531909039874048">@bfontn</a></span>
+    </blockquote>
+  
+  </div>
+</article>
 <h2 id="dec15-20">20 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-20-Le-March-Laurence-Fontaine"><b class="title">Le Marché</b>, par <span class="author">Laurence Fontaine</span>&nbsp;(<a href="http://www.gallimard.fr/Catalogue/GALLIMARD/NRF-Essais/Le-Marche">lien</a>)</div>
@@ -8128,6 +8139,28 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       L’hôpital corps et âme -Marie Christine Pouchelle<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Alisxtp/status/678487407273054208">@Alisxtp</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20-Sociologie-des-lites-d-linquantes-De-la-criminalit-en-col-blanc-la-corruption-politique-Pierre-Lascoumes-et-Carla-Nagels"><b class="title">Sociologie des élites délinquantes : De la criminalité en col blanc à la corruption politique</b>, par <span class="author">Pierre Lascoumes et Carla Nagels</span>&nbsp;(<a href="http://www.armand-colin.com/sociologie-des-elites-delinquantes-de-la-criminalite-en-col-blanc-la-corruption-politique">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Très éclairant : Sociologie des élites délinquantes. Ce livre répondra à toutes vos questions : pourquoi la délinquance financière/politique n’est pas/mal punie ? etc. Comment et pourquoi les élites enfreignent les lois ?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/caro_ligne/status/678530680695992320">@caro_ligne</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20-L-homme-qui-croyait-au-management-Michel-Villette"><b class="title">L’homme qui croyait au management</b>, par <span class="author">Michel Villette</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Un sociologue au cœur du management !<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/678531452099784704">@bbarbusse</a></span>
     </blockquote>
   
   </div>
