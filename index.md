@@ -1181,6 +1181,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/678852451529793536">@M_Iz_6</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        De la sociologie (bour)divine ;)<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/678942470072369152">@sociosauvage</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -6542,6 +6547,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/marvinrouge/status/675948746836979713">@marvinrouge</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Pour sa notion de "communauté imaginée"<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/678903207486205952">@lestrelin</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -8618,6 +8628,28 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Quand on parle objet et sociologie, on évoque souvent Latour et Cie. Pour ma part, j’aime beaucoup l’article de L. Thévenot, « Le régime de familiarité : Des choses en personne », Genèses n<sup>o</sup>17, 1994, p. 72-101.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/678895173749891073">@sociobd</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-Sociologie-des-ges-de-la-vie-C-cile-Van-De-Velde"><b class="title">Sociologie des âges de la vie</b>, par <span class="author">Cécile Van De Velde</span>&nbsp;(<a href="http://www.armand-colin.com/sociologie-des-ages-de-la-vie-9782200600501">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      @cecile_vdv - Sociologie des âges de la vie<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/678912051562070016">@Laboratoire_CMH</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-L-motion-en-politique-Philippe-Braud"><b class="title">L’émotion en politique</b>, par <span class="author">Philippe Braud</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Les émotions, un tabou de la sociologie<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/EditionsScpo/status/678931650764517377">@EditionsScpo</a></span>
     </blockquote>
   
   </div>
