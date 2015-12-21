@@ -22,14 +22,16 @@ class Book
 <article class="book">
   <div class="ref" id="<%= anchor %>"><b class="title"><%= title %></b><%= author_html %><% if link %>&nbsp;(<a href="<%= link %>">lien</a>)<% end %></div>
   <div class="sources">
-  <% for s in sources %>
-    <blockquote class="comment">
-      <%= s["comment"].strip.gsub("\n", "<br/>") %><br/>
-      <span class="comment-author">—&nbsp;&nbsp;<%= s["author"] %></span>
-    </blockquote>
+  <% if sources %>
+    <% for s in sources %>
+      <blockquote class="comment">
+        <%= s["comment"] %><br/>
+        <span class="comment-author">—&nbsp;&nbsp;<%= s["author"] %></span>
+      </blockquote>
+    <% end %>
   <% end %>
   <% if recommenders %>
-    <p class="recommenders">Recommandé par <%= recommenders %>.</p>
+    <p class="recommenders"><% if sources %>Également recommandé<% else %>Recommandé<% end %> par <%= recommenders %>.</p>
   <% end %>
   </div>
 </article>
@@ -57,12 +59,12 @@ class Book
   end
 
   def sources
-    sources_array.select { |s| s.has_key? "comment" }
+    @sources || @sources = sources_array.select { |s| s.has_key? "comment" }
   end
 
   def recommenders
     # A recommender is a source without a comment.
-    sources_array.reject { |s| s.has_key? "comment" }
+    @recommenders || @recommenders = sources_array.reject { |s| s.has_key? "comment" }
   end
 
   def validate!
@@ -115,7 +117,7 @@ class Book
 
   def to_binding
     attrs = @attrs.clone
-    attrs["sources"] = sources.map { |s| s["author"] = html_source_author s; s } || []
+    attrs["sources"] = html_sources
     attrs["recommenders"] = html_recommenders
     # ERB wants bindings; not hashs. See https://bugs.ruby-lang.org/issues/8643
     OpenStruct.new(attrs).instance_eval { binding }
@@ -139,10 +141,12 @@ class Book
     raise "Book '#{self}' must #{s}"
   end
 
-  def html_source_author(s)
-    source = s["source"]
-    author = source.split("/")[3]
-    %(<a class="handle" href="#{source}">@#{author}</a>)
+  def html_sources
+    sources.empty? ? nil : sources.map do |s|
+      s["comment"] = s["comment"].strip.gsub("\n", "<br/>")
+      s["author"] = html_source_author s
+      s
+    end
   end
 
   def html_recommenders
@@ -153,6 +157,12 @@ class Book
     else
       "#{rs[0..-2].join(", ")}, et #{rs[-1]}"
     end
+  end
+
+  def html_source_author(s)
+    source = s["source"]
+    author = source.split("/")[3]
+    %(<a class="handle" href="#{source}">@#{author}</a>)
   end
 end
 
