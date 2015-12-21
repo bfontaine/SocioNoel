@@ -31,7 +31,7 @@ class Book
     <% for s in sources %>
       <blockquote class="comment">
         <%= s["comment"].strip.gsub("\n", "<br/>") %><br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="<%= s["link"] %>">@<%= s["link"].split("/")[3] %></a></span>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="<%= s["source"] %>">@<%= s["source"].split("/")[3] %></a></span>
       </blockquote>
     <% end %>
   <% end %>
@@ -62,7 +62,7 @@ class Book
 
   def sources
     if has? "source"
-      [{"link" => @attrs["source"], "comment" => @attrs["comment"]}]
+      [{"source" => @attrs["source"], "comment" => @attrs["comment"]}]
     else
       @attrs["sources"]
     end
@@ -76,9 +76,10 @@ class Book
       must "have sources" if sources.nil? || sources.empty?
       must "use 'source' instead of 'sources' if there's only one" if sources.is_a? String
       sources.each_with_index do |s, i|
-        %w[link comment].each do |attr|
-          must "have a #{attr} for its source #{i}" unless s.has_key? attr
+        %w[source comment].each do |attr|
+          must "have a '#{attr}' for its source #{i}" unless s.has_key? attr
         end
+        must "use 'source' instead of 'link' for its source #{i}" if s.has_key? "link"
       end
     elsif !has? "source"
       must "have a source"
@@ -183,7 +184,7 @@ class BooksList
         book_sources.each do |source|
           mentions_count += 1
 
-          source["link"] =~ %r{^https?://twitter\.com/([^/]+)/}
+          source["source"] =~ %r{^https?://twitter\.com/([^/]+)/}
           sources << $1
         end
 
