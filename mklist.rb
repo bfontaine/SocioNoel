@@ -22,18 +22,14 @@ class Book
 <article class="book">
   <div class="ref" id="<%= anchor %>"><b class="title"><%= title %></b><%= author_html %><% if link %>&nbsp;(<a href="<%= link %>">lien</a>)<% end %></div>
   <div class="sources">
-  <% if source %>
+  <% for s in sources %>
     <blockquote class="comment">
-      <%= comment.strip.gsub("\n", "<br/>") %><br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="<%= source %>">@<%= source.split("/")[3] %></a></span>
+      <%= s["comment"].strip.gsub("\n", "<br/>") %><br/>
+      <span class="comment-author">—&nbsp;&nbsp;<%= s["author"] %></span>
     </blockquote>
-  <% elsif sources %>
-    <% for s in sources %>
-      <blockquote class="comment">
-        <%= s["comment"].strip.gsub("\n", "<br/>") %><br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="<%= s["source"] %>">@<%= s["source"].split("/")[3] %></a></span>
-      </blockquote>
-    <% end %>
+  <% end %>
+  <% if recommenders %>
+    <p class="recommenders">Recommandé par <%= recommenders %>.</p>
   <% end %>
   </div>
 </article>
@@ -61,11 +57,12 @@ class Book
   end
 
   def sources
-    if has? "source"
-      [{"source" => @attrs["source"], "comment" => @attrs["comment"]}]
-    else
-      @attrs["sources"]
-    end
+    sources_array.select { |s| s.has_key? "comment" }
+  end
+
+  def recommenders
+    # A recommender is a source without a comment.
+    sources_array.reject { |s| s.has_key? "comment" }
   end
 
   def validate!
@@ -76,9 +73,7 @@ class Book
       must "have sources" if sources.nil? || sources.empty?
       must "use 'source' instead of 'sources' if there's only one" if sources.is_a? String
       sources.each_with_index do |s, i|
-        %w[source comment].each do |attr|
-          must "have a '#{attr}' for its source #{i}" unless s.has_key? attr
-        end
+        must "have a 'source' attr for its source #{i}" unless s.has_key? "source"
         must "use 'source' instead of 'link' for its source #{i}" if s.has_key? "link"
       end
     elsif !has? "source"
@@ -86,8 +81,7 @@ class Book
     else
       source = @attrs["source"]
       must "use 'sources' instead of 'source'" if source.is_a? Array
-      must "have a comment" unless has? "comment"
-      must "use Twitter for the source" if source !~ %r{^https?://twitter\.com/[^/]+/}
+      must "use Twitter for its source" if source !~ %r{^https?://twitter\.com/[^/]+/}
     end
   end
 
@@ -120,8 +114,21 @@ class Book
   private
 
   def to_binding
+    attrs = @attrs.clone
+    attrs["sources"] = sources.map { |s| s["author"] = html_source_author s; s } || []
+    attrs["recommenders"] = html_recommenders
     # ERB wants bindings; not hashs. See https://bugs.ruby-lang.org/issues/8643
-    OpenStruct.new(@attrs).instance_eval { binding }
+    OpenStruct.new(attrs).instance_eval { binding }
+  end
+
+  def sources_array
+    if has? "source"
+      s = {"source" => @attrs["source"]}
+      s["comment"] = @attrs["comment"] if @attrs.has_key? "comment"
+      [s]
+    else
+      @attrs["sources"]
+    end
   end
 
   def has?(k)
@@ -130,6 +137,22 @@ class Book
 
   def must(s)
     raise "Book '#{self}' must #{s}"
+  end
+
+  def html_source_author(s)
+    source = s["source"]
+    author = source.split("/")[3]
+    %(<a class="handle" href="#{source}">@#{author}</a>)
+  end
+
+  def html_recommenders
+    rs = recommenders.map { |r| html_source_author r }
+    case rs.size
+    when 0 then nil
+    when 1 then rs.first
+    else
+      "#{rs[0..-2].join(", ")}, et #{rs[-1]}"
+    end
   end
 end
 
