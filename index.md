@@ -32,6 +32,7 @@ Accès direct à un jour :<br/>
 17. [18 Décembre](#dec15-18)
 18. [19 Décembre](#dec15-19)
 19. [20 Décembre](#dec15-20)
+20. [21 Décembre](#dec15-21)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -1175,6 +1176,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/676415890787868672">@PaillardSimon</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Indispensable<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/678852451529793536">@M_Iz_6</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -1200,10 +1206,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-2-Imperium-Fr-d-ric-Lordon"><b class="title">Imperium</b>, par <span class="author">Frédéric Lordon</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Parce qu’il est plus socio qu’éco, #socionoel c’est forcément Imperium de F Lordon !<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Blogageco/status/671992624325242881">@Blogageco</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Parce qu’il est plus socio qu’éco, #socionoel c’est forcément Imperium de F Lordon !<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Blogageco/status/671992624325242881">@Blogageco</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Frédéric Lordon, Imperium. Structures et affects des corps politiques, La Fabrique éd., 2015.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JeffreyTallane/status/678873949229445120">@JeffreyTallane</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2092,10 +2105,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-3-La-Souffrance-distance-Luc-Boltanski"><b class="title">La Souffrance à distance</b>, par <span class="author">Luc Boltanski</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Boltanski, La Souffrance à distance<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lasimoneditnon/status/672316832095805440">@Lasimoneditnon</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Boltanski, La Souffrance à distance<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lasimoneditnon/status/672316832095805440">@Lasimoneditnon</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Peut-être le meilleur Boltanski, toujours d’une triste actualité<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/678872995495075840">@Gerome_Truc</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -2635,6 +2655,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Vous ai-je déjà parlé de ma grande admiration pour Mathieu Trachman ?<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Politriste/status/673855861404606465">@Politriste</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Un #SocioNoel que je ne crois pas avoir vu passer et qui est passionnant<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/caro_ligne/status/678890587500736513">@caro_ligne</a></span>
       </blockquote>
     
   
@@ -7557,10 +7582,17 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-17-Du-ketchup-dans-les-veines-H-l-ne-Weber"><b class="title">Du ketchup dans les veines</b>, par <span class="author">Hélène Weber</span></div>
   <div class="sources">
   
-    <blockquote class="comment">
-      De la socio des organisations sur… McDo. Facile et intéressant.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/677382236308692992">@Lil_RoXaNe</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        De la socio des organisations sur… McDo. Facile et intéressant.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/677382236308692992">@Lil_RoXaNe</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Dans le cœur des dispositifs RH de McDo !<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/678849456859684864">@bbarbusse</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -8382,7 +8414,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
     <blockquote class="comment">
-      Savoureux récit du Mendras à nœud pap' : Comment devenir sociologue. Souvenirs d'un vieux mandarin, 1995.<br/>
+      Savoureux récit du Mendras à nœud pap’ : Comment devenir sociologue. Souvenirs d’un vieux mandarin, 1995.<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/678659174981611520">@ArSaintMartin</a></span>
     </blockquote>
   
@@ -8417,6 +8449,150 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Bonus<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/678692738691371010">@balleverte</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20-Culture-Geek-David-Peyron"><b class="title">Culture Geek</b>, par <span class="author">David Peyron</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      D. Peyron @kitsunegari13 - Culture Geek<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/678717772562604032">@Silmalia</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<h2 id="dec15-21">21 Décembre</h2>
+<article class="book">
+  <div class="ref" id="dec15-21-Refugees-of-the-revolution-Experiences-of-Palestinian-exile-Diana-Allan"><b class="title">Refugees of the revolution, Experiences of Palestinian exile</b>, par <span class="author">Diana Allan</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Diana Allan, "Refugees of the revolution, Experiences of Palestinian exile"<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/678844280618790912">@CobbleAndFrame</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-Profession-instituteurs-Bertrand-Geay"><b class="title">Profession : instituteurs</b>, par <span class="author">Bertrand Geay</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      B. Geay, Profession : instituteurs<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/678850365912178689">@M_Iz_6</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-G-n-alogie-de-la-morale-familiale-Remi-Lenoir"><b class="title">Généalogie de la morale familiale</b>, par <span class="author">Remi Lenoir</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      R. Lenoir, Généalogie de la morale familiale<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/678850644405583872">@M_Iz_6</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-Les-agences-de-la-pr-carit-Journaliers-Chicago-S-bastien-Chauvin"><b class="title">Les agences de la précarité : Journaliers à Chicago</b>, par <span class="author">Sébastien Chauvin</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      S. Chauvin @sebas_chauvin, Les agences de la précarité. Journaliers à Chicago<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/678851789521879040">@M_Iz_6</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-L-chec-d-une-proph-tie-Leon-Festinger-Hank-Riecken-et-Stanley-Schachter"><b class="title">L’échec d’une prophétie</b>, par <span class="author">Leon Festinger, Hank Riecken, et Stanley Schachter</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Que se passe-t-il quand un groupe qui croit à la fin du monde voit que rien ne se produit ?<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/678858696433246208">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-Introduction-John-Dewey-Jo-lle-Zask"><b class="title">Introduction à John Dewey</b>, par <span class="author">Joëlle Zask</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Joëlle Zask, Introduction à John Dewey, @Ed_LaDecouverte, 2015. #pragmatisme #critique<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JeffreyTallane/status/678876305895608320">@JeffreyTallane</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-L-app-t-des-possibles-Reprise-de-Whitehead-Didier-Debaise"><b class="title">L’appât des possibles : Reprise de Whitehead</b>, par <span class="author">Didier Debaise</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Didier Debaise, L’appât des possibles. Reprise de Whitehead, Les presses du réel, 2015.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JeffreyTallane/status/678879479134093312">@JeffreyTallane</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-Fortune-et-infortune-de-la-femme-mari-e-Fran-ois-de-Singly"><b class="title">Fortune et infortune de la femme mariée</b>, par <span class="author">François de Singly</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Du coup ça ferait un chouette #SocioNoel bis<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/678885701765750784">@Lil_RoXaNe</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-Bourdieu-Entretien-pour-Chercheurs-de-notre-temps-Philippe-Miquel"><b class="title">Bourdieu - Entretien pour "Chercheurs de notre temps"</b>, par <span class="author">Philippe Miquel</span>&nbsp;(<a href="https://www.youtube.com/watch?v=ZRGOxuxB_3A&feature=youtu.be">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Bourdieu - Entretien pour "Chercheurs de notre temps" (1991). Sur l’éducation<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Alisxtp/status/678891945674993664">@Alisxtp</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-The-Will-to-Improve-Tania-Murray-Li"><b class="title">The Will to Improve</b>, par <span class="author">Tania Murray Li</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Une contribution majeure à la sociologie du développement<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jacobo_Grajales/status/678893391598456832">@Jacobo_Grajales</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-La-dynamique-de-l-Occident-Norbert-Elias"><b class="title">La dynamique de l’Occident</b>, par <span class="author">Norbert Elias</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Sociogenèse de l’Etat, contrition des violences nobiliaires, une analyse marquante.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ogermiyan/status/678893965932953600">@ogermiyan</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-La-Fabrique-de-l-opinion-Une-histoire-sociale-des-sondages-Lo-c-Blondiaux"><b class="title">La Fabrique de l'opinion : Une histoire sociale des sondages</b>, par <span class="author">Loïc Blondiaux</span></div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Lu sur le tard, extra<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/678901128285831168">@SamuelHayat</a></span>
     </blockquote>
   
   </div>

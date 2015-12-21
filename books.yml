@@ -592,6 +592,8 @@
       - link: https://twitter.com/PaillardSimon/status/676415890787868672
         comment: >
           Aujourd’hui, #SocioNoel spécial "Relire Bourdieu"
+      - link: https://twitter.com/M_Iz_6/status/678852451529793536
+        comment: Indispensable
   - title: Stigmate
     author: Erving Goffman
     sources:
@@ -605,10 +607,15 @@
           connaît tous
   - title: Imperium
     author: Frédéric Lordon
-    source: https://twitter.com/Blogageco/status/671992624325242881
-    comment: >
-      Parce qu’il est plus socio qu’éco, #socionoel c’est forcément Imperium de F
-      Lordon !
+    sources:
+      - link: https://twitter.com/Blogageco/status/671992624325242881
+        comment: >
+          Parce qu’il est plus socio qu’éco, #socionoel c’est forcément
+          Imperium de F Lordon !
+      - link: https://twitter.com/JeffreyTallane/status/678873949229445120
+        comment: >
+          Frédéric Lordon, Imperium. Structures et affects des corps
+          politiques, La Fabrique éd., 2015.
   - title: Statistique et Expérience
     author: François Simiand
     source: https://twitter.com/Comtesse_Leia/status/671992745158922240
@@ -1055,8 +1062,12 @@
     comment: De quoi réfléchir sur la notion fuyante de "classe moyenne"
   - title: La Souffrance à distance
     author: Luc Boltanski
-    source: https://twitter.com/Lasimoneditnon/status/672316832095805440
-    comment: Boltanski, La Souffrance à distance
+    sources:
+      - link: https://twitter.com/Lasimoneditnon/status/672316832095805440
+        comment: Boltanski, La Souffrance à distance
+      - link: https://twitter.com/Gerome_Truc/status/678872995495075840
+        comment: >
+          Peut-être le meilleur Boltanski, toujours d’une triste actualité
   - title: La haine de l’Occident
     author: Jean Ziegler
     source: https://twitter.com/Ostpolitik/status/672313375012069376
@@ -1355,11 +1366,15 @@
     sources:
       - link: https://twitter.com/mquijoux/status/672697326524358656
         comment: >
-          Place à la nouvelle génération avec Mathieu Trachman et son ouvrage sur
-          le travail pornographique
+          Place à la nouvelle génération avec Mathieu Trachman et son ouvrage
+          sur le travail pornographique
       - link: https://twitter.com/Politriste/status/673855861404606465
         comment: >
           Vous ai-je déjà parlé de ma grande admiration pour Mathieu Trachman ?
+      - link: https://twitter.com/caro_ligne/status/678890587500736513
+        comment: >
+          Un #SocioNoel que je ne crois pas avoir vu passer et qui est
+          passionnant
     link: http://www.editionsladecouverte.fr/catalogue/index-Le_travail_pornographique-9782707175441.html
   - title: No such thing as a free gift
     author: Linsey McGoey
@@ -3948,8 +3963,12 @@
     link: http://editions.flammarion.com/Albums_Detail.cfm?ID=46277&levelCode=sciences
   - title: Du ketchup dans les veines
     author: Hélène Weber
-    source: https://twitter.com/Lil_RoXaNe/status/677382236308692992
-    comment: De la socio des organisations sur… McDo. Facile et intéressant.
+    sources:
+      - link: https://twitter.com/Lil_RoXaNe/status/677382236308692992
+        comment: >
+          De la socio des organisations sur… McDo. Facile et intéressant.
+      - link: https://twitter.com/bbarbusse/status/678849456859684864
+        comment: Dans le cœur des dispositifs RH de McDo !
   - title: "Introduction à une sociologie critique : Lire Pierre Bourdieu"
     author: Alain Accardo
     source: https://twitter.com/Jo14Hernandez/status/677392767975350272
@@ -4348,8 +4367,8 @@
     author: Henri Mendras
     source: https://twitter.com/ArSaintMartin/status/678659174981611520
     comment: >
-      Savoureux récit du Mendras à nœud pap' : Comment devenir sociologue.
-      Souvenirs d'un vieux mandarin, 1995.
+      Savoureux récit du Mendras à nœud pap’ : Comment devenir sociologue.
+      Souvenirs d’un vieux mandarin, 1995.
   - title: "La confiance, un mécanisme de réduction de la complexité sociale"
     author: Niklas Luhmann
     source: https://twitter.com/F_Bally/status/678681538440134656
@@ -4363,3 +4382,71 @@
     author: Muriel Darmon
     source: https://twitter.com/balleverte/status/678692738691371010
     comment: Bonus
+  - title: Culture Geek
+    author: David Peyron
+    source: https://twitter.com/Silmalia/status/678717772562604032
+    comment: D. Peyron @kitsunegari13 - Culture Geek
+21:
+  - title: "Refugees of the revolution, Experiences of Palestinian exile"
+    author: Diana Allan
+    source: https://twitter.com/CobbleAndFrame/status/678844280618790912
+    comment: >
+      Diana Allan, "Refugees of the revolution, Experiences of Palestinian
+      exile"
+  - title: "Profession : instituteurs"
+    author: Bertrand Geay
+    source: https://twitter.com/M_Iz_6/status/678850365912178689
+    comment: "B. Geay, Profession : instituteurs"
+  - title: "Généalogie de la morale familiale"
+    author: Remi Lenoir
+    source: https://twitter.com/M_Iz_6/status/678850644405583872
+    comment: R. Lenoir, Généalogie de la morale familiale
+  - title: "Les agences de la précarité : Journaliers à Chicago"
+    author: Sébastien Chauvin
+    source: https://twitter.com/M_Iz_6/status/678851789521879040
+    comment: >
+      S. Chauvin @sebas_chauvin, Les agences de la précarité. Journaliers à
+      Chicago
+  - title: L’échec d’une prophétie
+    author: Leon Festinger, Hank Riecken, et Stanley Schachter
+    source: https://twitter.com/Lil_RoXaNe/status/678858696433246208
+    comment: >
+      Que se passe-t-il quand un groupe qui croit à la fin du monde voit que
+      rien ne se produit ?
+  - title: Introduction à John Dewey
+    author: Joëlle Zask
+    source: https://twitter.com/JeffreyTallane/status/678876305895608320
+    comment: >
+      Joëlle Zask, Introduction à John Dewey, @Ed_LaDecouverte, 2015.
+      #pragmatisme #critique
+  - title: "L’appât des possibles : Reprise de Whitehead"
+    author: Didier Debaise
+    source: https://twitter.com/JeffreyTallane/status/678879479134093312
+    comment: >
+      Didier Debaise, L’appât des possibles. Reprise de Whitehead, Les presses
+      du réel, 2015.
+  - title: Fortune et infortune de la femme mariée
+    author: François de Singly
+    source: https://twitter.com/Lil_RoXaNe/status/678885701765750784
+    comment: "Du coup ça ferait un chouette #SocioNoel bis"
+  - title: 'Bourdieu - Entretien pour "Chercheurs de notre temps"'
+    author: Philippe Miquel
+    source: https://twitter.com/Alisxtp/status/678891945674993664
+    comment: >
+      Bourdieu - Entretien pour "Chercheurs de notre temps" (1991). Sur
+      l’éducation
+    link: https://www.youtube.com/watch?v=ZRGOxuxB_3A&feature=youtu.be
+  - title: The Will to Improve
+    author: Tania Murray Li
+    source: https://twitter.com/Jacobo_Grajales/status/678893391598456832
+    comment: Une contribution majeure à la sociologie du développement
+  - title: La dynamique de l’Occident
+    author: Norbert Elias
+    source: https://twitter.com/ogermiyan/status/678893965932953600
+    comment: >
+      Sociogenèse de l’Etat, contrition des violences nobiliaires, une analyse
+      marquante.
+  - title: "La Fabrique de l'opinion : Une histoire sociale des sondages"
+    author: Loïc Blondiaux
+    source: https://twitter.com/SamuelHayat/status/678901128285831168
+    comment: Lu sur le tard, extra
