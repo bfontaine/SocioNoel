@@ -2514,13 +2514,20 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-4-L-exp-rience-concentrationnaire-Michael-Pollak"><b class="title">L’expérience concentrationnaire</b>, par <span class="author">Michael Pollak</span></div>
+  <div class="ref" id="dec15-4-L-exp-rience-concentrationnaire-Michael-Pollak"><b class="title">L’expérience concentrationnaire</b>, par <span class="author">Michael Pollak</span>&nbsp;(<a href="https://2.bp.blogspot.com/-oKWclUXZo5o/VnUaf7JH5kI/AAAAAAAAAvI/vHD4Oq2HgVA/s1600/day19%2BLD.png">lien</a>)</div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Pas très Noël spirit mais le génial M.Pollak avec L’expérience concentrationnaire, publi récente en poche<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/persovinz/status/672681003056545792">@persovinz</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Pas très Noël spirit mais le génial M.Pollak avec L’expérience concentrationnaire, publi récente en poche<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/persovinz/status/672681003056545792">@persovinz</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Très impressionnant dans sa méthodologie et son analyse, le tout servi par une écriture fine. En plus, il vient d’être réédité en poche : aucune excuse ! :)<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/678136201094815745">@sociobd</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -5973,13 +5980,20 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-11-Les-cadres-la-formation-d-un-groupe-social-Luc-Boltanski"><b class="title">Les cadres : la formation d’un groupe social</b>, par <span class="author">Luc Boltanski</span></div>
+  <div class="ref" id="dec15-11-Les-cadres-la-formation-d-un-groupe-social-Luc-Boltanski"><b class="title">Les cadres : la formation d’un groupe social</b>, par <span class="author">Luc Boltanski</span>&nbsp;(<a href="https://1.bp.blogspot.com/-N0kwJoPnfbA/VnQ0lefCTNI/AAAAAAAAAu4/P8xYOPMsqjE/s1600/Day%2B18LD.png">lien</a>)</div>
   <div class="sources">
   
-    <blockquote class="comment">
-      Groupe social, principe d’identité, identification.<br/>
-      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ludemain/status/675271236251992065">@ludemain</a></span>
-    </blockquote>
+    
+      <blockquote class="comment">
+        Groupe social, principe d’identité, identification.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ludemain/status/675271236251992065">@ludemain</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Le livre est pour moi d’une grande aide<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/677889252466761729">@sociobd</a></span>
+      </blockquote>
+    
   
   </div>
 </article>
@@ -8593,6 +8607,17 @@ Accès direct à un jour :<br/>
     <blockquote class="comment">
       Lu sur le tard, extra<br/>
       <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/678901128285831168">@SamuelHayat</a></span>
+    </blockquote>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-Le-r-gime-de-familiarit-Des-choses-en-personne-Laurent-Th-venot"><b class="title">Le régime de familiarité : Des choses en personne</b>, par <span class="author">Laurent Thévenot</span>&nbsp;(<a href="https://1.bp.blogspot.com/-gmNtvE84wlY/Vnfc3E6AUnI/AAAAAAAAAvo/g5NI8M2otpg/s1600/day21LD.png">lien</a>)</div>
+  <div class="sources">
+  
+    <blockquote class="comment">
+      Quand on parle objet et sociologie, on évoque souvent Latour et Cie. Pour ma part, j’aime beaucoup l’article de L. Thévenot, « Le régime de familiarité : Des choses en personne », Genèses n<sup>o</sup>17, 1994, p. 72-101.<br/>
+      <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/678895173749891073">@sociobd</a></span>
     </blockquote>
   
   </div>
