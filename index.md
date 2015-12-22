@@ -3522,11 +3522,13 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Christian Beaudelot Roger Establet - Allez les filles<br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/673030122543439872">@Laboratoire_CMH</a></span>
+        Baudelot et Establet expliquent les raisons des inégalités sexuées sur le marché de travail.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ValGuery/status/678983645378514944">@ValGuery</a></span>
       </blockquote>
     
   
+  
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/Laboratoire_CMH/status/673030122543439872">@Laboratoire_CMH</a>.</p>
   
   </div>
 </article>
@@ -7297,7 +7299,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-12-La-violence-des-riches-Michel-Pin-on-et-Monique-Pin-on-Charlot"><b class="title">La violence des riches</b>, par <span class="author">Michel Pinçon et Monique Pinçon-Charlot</span></div>
+  <div class="ref" id="dec15-12-La-violence-des-riches-Michel-Pin-on-et-Monique-Pin-on-Charlot"><b class="title">La violence des riches</b>, par <span class="author">Michel Pinçon et Monique Pinçon-Charlot</span>&nbsp;(<a href="https://www.youtube.com/watch?v=Ys3cjJlTcDE">lien</a>)</div>
   <div class="sources">
   
     
@@ -7307,6 +7309,8 @@ Accès direct à un jour :<br/>
       </blockquote>
     
   
+  
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/GOne132/status/679016915310899200">@GOne132</a>.</p>
   
   </div>
 </article>

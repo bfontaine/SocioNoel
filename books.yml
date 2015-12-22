@@ -1512,8 +1512,12 @@
       de Michel Foucault
   - title: "Allez les filles !"
     author: Christian Beaudelot et Roger Establet
-    source: https://twitter.com/Laboratoire_CMH/status/673030122543439872
-    comment: Christian Beaudelot Roger Establet - Allez les filles
+    sources:
+      - source: https://twitter.com/Laboratoire_CMH/status/673030122543439872
+      - source: https://twitter.com/ValGuery/status/678983645378514944
+        comment: >
+          Baudelot et Establet expliquent les raisons des inégalités sexuées
+          sur le marché de travail.
     link: http://www.seuil.com/livre-9782020146197.htm
   - title: "Anticapitalistes : une sociologie historique de l’engagement"
     author: Florence Johsua
@@ -3131,10 +3135,13 @@
     link: http://www.cairn.info/resume.php?ID_ARTICLE=RES_188_0201
   - title: La violence des riches
     author: Michel Pinçon et Monique Pinçon-Charlot
-    source: https://twitter.com/ValGuery/status/675685433871884288
-    comment: >
-      Pas vu beaucoup de bouquins des Pinçon-Charlot dans ce #SocioNoel. Livre
-      dédicacé par Michel Pinçon à l’huma 2013.
+    sources:
+      - source: https://twitter.com/ValGuery/status/675685433871884288
+        comment: >
+          Pas vu beaucoup de bouquins des Pinçon-Charlot dans ce #SocioNoel.
+          Livre dédicacé par Michel Pinçon à l’huma 2013.
+      - source: https://twitter.com/GOne132/status/679016915310899200
+    link: https://www.youtube.com/watch?v=Ys3cjJlTcDE
   - title: Repères pour résister à l’idéologie dominante
     author: Gérard Mauger
     source: https://twitter.com/Phangere/status/675685560086827008
