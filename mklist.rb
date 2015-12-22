@@ -154,6 +154,7 @@ class Book
     case rs.size
     when 0 then nil
     when 1 then rs.first
+    when 2 then "#{rs.first} et #{rs.last}"
     else
       "#{rs[0..-2].join(", ")}, et #{rs[-1]}"
     end
