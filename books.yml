@@ -715,7 +715,9 @@
       d’entretiens
   - title: Le père Noël supplicié
     author: Claude Lévi-Strauss
-    source: https://twitter.com/AurelieLeLievre/status/672019936613695488
+    sources:
+      - source: https://twitter.com/AurelieLeLievre/status/672019936613695488
+      - source: https://twitter.com/Vanaa_Moussala/status/679326573615542273
   - title: 80% au bac… et après ?
     author: Stéphane Beaud
     sources:
@@ -3118,10 +3120,12 @@
     link: https://www.cairn.info/load_pdf.php?download=1&ID_ARTICLE=RFS_532_0195
   - title: "Les hommes dans les mouvements féministes : Socio-histoire d’un engagement improbable"
     author: Alban Jacquemart
-    source: https://twitter.com/RaphCann/status/675681171364315136
-    comment: >
-      Alban Jacquemart sur la question de l’engagement des hommes dans le
-      féminisme
+    sources:
+      - source: https://twitter.com/RaphCann/status/675681171364315136
+        comment: >
+          Alban Jacquemart sur la question de l’engagement des hommes dans le
+          féminisme
+      - source: https://twitter.com/Laboratoire_CMH/status/679324138675314690
     link: http://www.laviedesidees.fr/Hommes-et-feministes.html
   - title: Carnets de thèse
     author: Tiphaine Rivière
@@ -4239,6 +4243,9 @@
     author: Anne Muxel
     source: https://twitter.com/Silmalia/status/679085811413848065
     link: http://www.liberation.fr/france/2010/02/11/les-jeunes-sont-toujours-mobilises-mais-autrement_609290
+  - title: "Les réfugiés palestiniens du Liban : Une géographie de l’exil"
+    author: Mohamed Kamel Doraï
+    source: https://twitter.com/CobbleAndFrame/status/679349889185226756
 22:
   - title: "La sociologie excuse-t-elle les terroristes ?"
     author: Xavier Molénat
@@ -4296,3 +4303,57 @@
       l’organisation sociale des rassemblements, Paris, Économica, coll. «
       Études sociologiques », 2013.
     link: https://3.bp.blogspot.com/-YNNrJHjOOEk/VnkeKiamfgI/AAAAAAAAAv4/G9CvKSLUFKU/s1600/Day22.png
+  - title: L’esprit sociologique
+    author: Bernard Lahire
+    source: https://twitter.com/sociosauvage/status/679269145708511232
+    comment: >
+      Mon premier Lahire, probablement l’un des livres qui m’a le plus marqué
+  - title: "Comment lutter ? Sociologie et mouvements sociaux"
+    author: Lilian Mathieu
+    source: https://twitter.com/ruggeroparis/status/679277981051854848
+    link: https://halshs.archives-ouvertes.fr/halshs-00851628/document
+  - title: Entre les murs
+    author: Laurent Cantet
+    type: movie
+    source: https://twitter.com/bfontn/status/679296206195916800
+  - title: Les temps du cancer
+    author: Marie Ménoret
+    source: https://twitter.com/jbiaudet/status/679331592175796224
+    comment: J’en ai entamé la relecture
+  - title: "Le règne des entourages : Cabinets et conseillers de l’exécutif"
+    author: Jean-Michel Eymeri-Douzans, Xavier Bioy, et Stéphane Mouton
+    directed: true
+    source: https://twitter.com/ogermiyan/status/679336054692831232
+    comment: >
+      Sur la sociologie des élites en France dont un chapitre remarquable sur
+      l’entourage élyséen d’Hollande.
+  - title: Genre et pouvoir à la lumière de l’histoire du féminisme
+    author: Christine Bard
+    source: https://twitter.com/Phangere/status/679336086217351168
+    comment: Article cool, posey, pas compliquey.
+    link: http://abpo.revues.org/1743
+  - title: On the Problem of Over-researched Communities
+    author: Mayssun Sukarieh et Stuart Tannock
+    source: https://twitter.com/CobbleAndFrame/status/679350948758712320
+  - title: "Femmes et politique en Inde et au Népal : Image et présence"
+    author: Stéphanie Tawa Lama-Rewal
+    source: https://twitter.com/SamuelHayat/status/679351122071527424
+  - title: "Le métier des armes au Tchad : Le gouvernement de l’entre-guerres"
+    author: Marielle Debos
+    source: https://twitter.com/SamuelHayat/status/679351122071527424
+  - title: "Des identités politiques: Jeux et enjeux du genre et de la race dans les primaires démocrates aux États-Unis en 2008"
+    author: Éric Fassin
+    source: https://twitter.com/Silmalia/status/679353841184333828
+    comment: >
+      Un article publié dans un Raisons Politiques sur le corps présidentiable
+      et notamment sur la virilité comme ressource politique. Tout le numéro
+      est plutôt intéressant (mais j'ai pas encore tout lu)
+    link: http://www.cairn.info/revue-raisons-politiques-2008-3.htm
+  - title: "La quête des féministes : Techniques et enjeux de reconstruction d’un mouvement social"
+    author: Camille Masclet
+    source: https://twitter.com/balleverte/status/679354607500451840
+    comment: De la méthodologie pour aborder les mouvements féministes.
+    link: https://www.cairn.info/resume.php?ID_ARTICLE=GEN_095_0120
+  - title: Science de la science et réflexivité
+    author: Pierre Bourdieu
+    source: https://twitter.com/Jo14Hernandez/status/679355574182658049

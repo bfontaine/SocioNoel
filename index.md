@@ -1712,7 +1712,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
   
-    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/AurelieLeLievre/status/672019936613695488">@AurelieLeLievre</a>.</p>
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/AurelieLeLievre/status/672019936613695488">@AurelieLeLievre</a> et <a class="handle" href="https://twitter.com/Vanaa_Moussala/status/679326573615542273">@Vanaa_Moussala</a>.</p>
   
   </div>
 </article>
@@ -7252,6 +7252,8 @@ Accès direct à un jour :<br/>
     
   
   
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/Laboratoire_CMH/status/679324138675314690">@Laboratoire_CMH</a>.</p>
+  
   </div>
 </article>
 <article class="book">
@@ -10095,6 +10097,15 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-21-Les-r-fugi-s-palestiniens-du-Liban-Une-g-ographie-de-l-exil-Mohamed-Kamel-Dora-"><b class="title">Les réfugiés palestiniens du Liban : Une géographie de l’exil</b>, par <span class="author">Mohamed Kamel Doraï</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/CobbleAndFrame/status/679349889185226756">@CobbleAndFrame</a>.</p>
+  
+  </div>
+</article>
 <h2 id="dec15-22">22 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-22-La-sociologie-excuse-t-elle-les-terroristes-Xavier-Mol-nat"><b class="title">La sociologie excuse-t-elle les terroristes ?</b>, par <span class="author">Xavier Molénat</span>&nbsp;(<a href="http://www.alterecoplus.fr/en-direct-de-la-recherche/la-sociologie-excuse-t-elle-les-terroristes-201512011020-00002614.html">lien</a>)</div>
@@ -10233,6 +10244,144 @@ Accès direct à un jour :<br/>
       </blockquote>
     
   
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-L-esprit-sociologique-Bernard-Lahire"><b class="title">L’esprit sociologique</b>, par <span class="author">Bernard Lahire</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Mon premier Lahire, probablement l’un des livres qui m’a le plus marqué<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/679269145708511232">@sociosauvage</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Comment-lutter-Sociologie-et-mouvements-sociaux-Lilian-Mathieu"><b class="title">Comment lutter ? Sociologie et mouvements sociaux</b>, par <span class="author">Lilian Mathieu</span>&nbsp;(<a href="https://halshs.archives-ouvertes.fr/halshs-00851628/document">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/ruggeroparis/status/679277981051854848">@ruggeroparis</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Entre-les-murs-Laurent-Cantet"><b class="title">Entre les murs</b>, réalisé par <span class="author">Laurent Cantet</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/bfontn/status/679296206195916800">@bfontn</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Les-temps-du-cancer-Marie-M-noret"><b class="title">Les temps du cancer</b>, par <span class="author">Marie Ménoret</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        J’en ai entamé la relecture<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jbiaudet/status/679331592175796224">@jbiaudet</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Le-r-gne-des-entourages-Cabinets-et-conseillers-de-l-ex-cutif-Jean-Michel-Eymeri-Douzans-Xavier-Bioy-et-St-phane-Mouton"><b class="title">Le règne des entourages : Cabinets et conseillers de l’exécutif</b>, dirigé par <span class="author">Jean-Michel Eymeri-Douzans, Xavier Bioy, et Stéphane Mouton</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Sur la sociologie des élites en France dont un chapitre remarquable sur l’entourage élyséen d’Hollande.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ogermiyan/status/679336054692831232">@ogermiyan</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Genre-et-pouvoir-la-lumi-re-de-l-histoire-du-f-minisme-Christine-Bard"><b class="title">Genre et pouvoir à la lumière de l’histoire du féminisme</b>, par <span class="author">Christine Bard</span>&nbsp;(<a href="http://abpo.revues.org/1743">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Article cool, posey, pas compliquey.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Phangere/status/679336086217351168">@Phangere</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-On-the-Problem-of-Over-researched-Communities-Mayssun-Sukarieh-et-Stuart-Tannock"><b class="title">On the Problem of Over-researched Communities</b>, par <span class="author">Mayssun Sukarieh et Stuart Tannock</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/CobbleAndFrame/status/679350948758712320">@CobbleAndFrame</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Femmes-et-politique-en-Inde-et-au-N-pal-Image-et-pr-sence-St-phanie-Tawa-Lama-Rewal"><b class="title">Femmes et politique en Inde et au Népal : Image et présence</b>, par <span class="author">Stéphanie Tawa Lama-Rewal</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/SamuelHayat/status/679351122071527424">@SamuelHayat</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Le-m-tier-des-armes-au-Tchad-Le-gouvernement-de-l-entre-guerres-Marielle-Debos"><b class="title">Le métier des armes au Tchad : Le gouvernement de l’entre-guerres</b>, par <span class="author">Marielle Debos</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/SamuelHayat/status/679351122071527424">@SamuelHayat</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Des-identit-s-politiques-Jeux-et-enjeux-du-genre-et-de-la-race-dans-les-primaires-d-mocrates-aux-tats-Unis-en-2008-ric-Fassin"><b class="title">Des identités politiques: Jeux et enjeux du genre et de la race dans les primaires démocrates aux États-Unis en 2008</b>, par <span class="author">Éric Fassin</span>&nbsp;(<a href="http://www.cairn.info/revue-raisons-politiques-2008-3.htm">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Un article publié dans un Raisons Politiques sur le corps présidentiable et notamment sur la virilité comme ressource politique. Tout le numéro est plutôt intéressant (mais j'ai pas encore tout lu)<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/679353841184333828">@Silmalia</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-La-qu-te-des-f-ministes-Techniques-et-enjeux-de-reconstruction-d-un-mouvement-social-Camille-Masclet"><b class="title">La quête des féministes : Techniques et enjeux de reconstruction d’un mouvement social</b>, par <span class="author">Camille Masclet</span>&nbsp;(<a href="https://www.cairn.info/resume.php?ID_ARTICLE=GEN_095_0120">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        De la méthodologie pour aborder les mouvements féministes.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/679354607500451840">@balleverte</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Science-de-la-science-et-r-flexivit-Pierre-Bourdieu"><b class="title">Science de la science et réflexivité</b>, par <span class="author">Pierre Bourdieu</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Jo14Hernandez/status/679355574182658049">@Jo14Hernandez</a>.</p>
   
   </div>
 </article>
