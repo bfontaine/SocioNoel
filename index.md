@@ -27,12 +27,14 @@ Accès direct à un jour :<br/>
 12. [12 Décembre](#dec15-12)
 13. [13 Décembre](#dec15-13)
 14. [14 Décembre](#dec15-14)
-15. [16 Décembre](#dec15-16)
-16. [17 Décembre](#dec15-17)
-17. [18 Décembre](#dec15-18)
-18. [19 Décembre](#dec15-19)
-19. [20 Décembre](#dec15-20)
-20. [21 Décembre](#dec15-21)
+15. [15 Décembre](#dec15-15)
+16. [16 Décembre](#dec15-16)
+17. [17 Décembre](#dec15-17)
+18. [18 Décembre](#dec15-18)
+19. [19 Décembre](#dec15-19)
+20. [20 Décembre](#dec15-20)
+21. [21 Décembre](#dec15-21)
+22. [22 Décembre](#dec15-22)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -1729,6 +1731,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/673178768421224448">@Uneheuredepeine</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Je ne lis pas tant de socio que ça, mais j’ai deux références ultimes sur les inégalités sociales/scolaires : 80% au bac de S. Beaud et "Pays de Malheur" du même auteur. Puissants et très révélateurs. La force de la sociologie.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sarahdrb/status/679020454061973504">@sarahdrb</a></span>
+      </blockquote>
+    
   
   
   </div>
@@ -2110,6 +2117,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Un livre toujours d’actualité !<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AmelTig/status/676112037999677441">@AmelTig</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Je ne lis pas tant de socio que ça, mais j’ai deux références ultimes sur les inégalités sociales/scolaires : 80% au bac de S. Beaud et "Pays de Malheur" du même auteur. Puissants et très révélateurs. La force de la sociologie.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sarahdrb/status/679020454061973504">@sarahdrb</a></span>
       </blockquote>
     
   
@@ -3974,7 +3986,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-5-Les-f-ministes-et-le-gar-on-arabe-Nacira-Gu-nif-Souilamas-et-Eric-Mac-"><b class="title">Les féministes et le garçon arabe</b>, par <span class="author">Nacira Guénif Souilamas et Eric Macé</span></div>
+  <div class="ref" id="dec15-5-Les-f-ministes-et-le-gar-on-arabe-Nacira-Gu-nif-Souilamas-et-ric-Mac-"><b class="title">Les féministes et le garçon arabe</b>, par <span class="author">Nacira Guénif Souilamas et Éric Macé</span></div>
   <div class="sources">
   
     
@@ -7759,6 +7771,20 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-13-Sauver-la-vie-donner-la-mort-Une-sociologie-de-l-thique-en-r-animation-n-onatale-Anne-Paillet"><b class="title">Sauver la vie, donner la mort : Une sociologie de l’éthique en réanimation néonatale</b>, par <span class="author">Anne Paillet</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Démonstration réussie de ce que l’ethnographie permet. Et l’ambition d’analyser l’éthique en acte d’un point de vue sociologique &lt;3<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/679224206912061440">@CamilleGinger</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
 <h2 id="dec15-14">14 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-14-Corps-de-femmes-regards-d-hommes-Jean-Claude-Kaufmann"><b class="title">Corps de femmes, regards d’hommes</b>, par <span class="author">Jean-Claude Kaufmann</span></div>
@@ -8042,7 +8068,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-a-domination-adulte-Yves-Bonnardel"><b class="title">a domination adulte</b>, par <span class="author">Yves Bonnardel</span>&nbsp;(<a href="http://lmsi.net/La-domination-adulte,1703">lien</a>)</div>
+  <div class="ref" id="dec15-14-La-domination-adulte-Yves-Bonnardel"><b class="title">La domination adulte</b>, par <span class="author">Yves Bonnardel</span>&nbsp;(<a href="http://lmsi.net/La-domination-adulte,1703">lien</a>)</div>
   <div class="sources">
   
     
@@ -8126,7 +8152,22 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Le-culte-de-l-urgence-La-soci-t-malade-du-temps-Nicole-Aubert"><b class="title">Le culte de l’urgence : La société malade du temps</b>, par <span class="author">Nicole Aubert</span></div>
+  <div class="ref" id="dec15-14-Les-usages-sociaux-du-corps-Luc-Boltanski"><b class="title">Les usages sociaux du corps</b>, par <span class="author">Luc Boltanski</span>&nbsp;(<a href="http://www.persee.fr/doc/ahess_0395-2649_1971_num_26_1_422470">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Une analyse dialectique comme on l’aime de ce que la classe fait au rapport au corps et au biomédical. Même si certaines analyses ne valent plus telles quelles (notamment rapport homogame classe bourgeoise et professionnels de santé)<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/679225394969624576">@CamilleGinger</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<h2 id="dec15-15">15 Décembre</h2>
+<article class="book">
+  <div class="ref" id="dec15-15-Le-culte-de-l-urgence-La-soci-t-malade-du-temps-Nicole-Aubert"><b class="title">Le culte de l’urgence : La société malade du temps</b>, par <span class="author">Nicole Aubert</span></div>
   <div class="sources">
   
     
@@ -8140,7 +8181,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Genre-et-sexualit-dans-le-rapport-p-dagogique-ethnographie-d-un-lyc-e-de-banlieue-Zo-Rollin"><b class="title">Genre et sexualité dans le rapport pédagogique : ethnographie d’un lycée « de banlieue »</b>, par <span class="author">Zoé Rollin</span>&nbsp;(<a href="https://gss.revues.org/2350">lien</a>)</div>
+  <div class="ref" id="dec15-15-Genre-et-sexualit-dans-le-rapport-p-dagogique-ethnographie-d-un-lyc-e-de-banlieue-Zo-Rollin"><b class="title">Genre et sexualité dans le rapport pédagogique : ethnographie d’un lycée « de banlieue »</b>, par <span class="author">Zoé Rollin</span>&nbsp;(<a href="https://gss.revues.org/2350">lien</a>)</div>
   <div class="sources">
   
   
@@ -8149,7 +8190,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Maman-noire-et-invisible-Diariatou-Kebe"><b class="title">Maman noire et invisible</b>, par <span class="author">Diariatou Kebe</span>&nbsp;(<a href="http://www.huffingtonpost.fr/diariatou-kebe/moi-maman-noire-et-invisible_b_8803372.html">lien</a>)</div>
+  <div class="ref" id="dec15-15-Maman-noire-et-invisible-Diariatou-Kebe"><b class="title">Maman noire et invisible</b>, par <span class="author">Diariatou Kebe</span>&nbsp;(<a href="http://www.huffingtonpost.fr/diariatou-kebe/moi-maman-noire-et-invisible_b_8803372.html">lien</a>)</div>
   <div class="sources">
   
   
@@ -8158,7 +8199,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Peut-on-aimer-le-football-collectif"><b class="title">Peut-on aimer le football ?</b> (collectif)&nbsp;(<a href="http://www.cairn.info/revue-mouvements-2014-2.htm">lien</a>)</div>
+  <div class="ref" id="dec15-15-Peut-on-aimer-le-football-collectif"><b class="title">Peut-on aimer le football ?</b> (collectif)&nbsp;(<a href="http://www.cairn.info/revue-mouvements-2014-2.htm">lien</a>)</div>
   <div class="sources">
   
     
@@ -8172,7 +8213,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-L-engagement-dans-le-travail-Alexandra-Bidet"><b class="title">L’engagement dans le travail</b>, par <span class="author">Alexandra Bidet</span></div>
+  <div class="ref" id="dec15-15-L-engagement-dans-le-travail-Alexandra-Bidet"><b class="title">L’engagement dans le travail</b>, par <span class="author">Alexandra Bidet</span></div>
   <div class="sources">
   
   
@@ -8181,7 +8222,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Carnal-knowledge-and-imperial-power-Ann-Laura-Stoler"><b class="title">Carnal knowledge and imperial power</b>, par <span class="author">Ann Laura Stoler</span></div>
+  <div class="ref" id="dec15-15-Carnal-knowledge-and-imperial-power-Ann-Laura-Stoler"><b class="title">Carnal knowledge and imperial power</b>, par <span class="author">Ann Laura Stoler</span></div>
   <div class="sources">
   
     
@@ -8195,7 +8236,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-De-la-justification-les-conomies-de-la-grandeur-Luc-Boltanski-et-Laurent-Th-venot"><b class="title">De la justification : les économies de la grandeur</b>, par <span class="author">Luc Boltanski et Laurent Thévenot</span></div>
+  <div class="ref" id="dec15-15-De-la-justification-les-conomies-de-la-grandeur-Luc-Boltanski-et-Laurent-Th-venot"><b class="title">De la justification : les économies de la grandeur</b>, par <span class="author">Luc Boltanski et Laurent Thévenot</span></div>
   <div class="sources">
   
   
@@ -8204,7 +8245,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Culture-d-en-haut-culture-d-en-bas-L-mergence-des-hi-rarchies-culturelles-aux-Etats-Unis-Lawrence-W-Levine"><b class="title">Culture d’en haut, culture d’en bas : L’émergence des hiérarchies culturelles aux Etats-Unis</b>, par <span class="author">Lawrence W. Levine</span></div>
+  <div class="ref" id="dec15-15-Culture-d-en-haut-culture-d-en-bas-L-mergence-des-hi-rarchies-culturelles-aux-Etats-Unis-Lawrence-W-Levine"><b class="title">Culture d’en haut, culture d’en bas : L’émergence des hiérarchies culturelles aux Etats-Unis</b>, par <span class="author">Lawrence W. Levine</span></div>
   <div class="sources">
   
   
@@ -8213,7 +8254,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-La-Voie-cheyennne-Conflit-et-jurisprudence-dans-la-science-primitive-du-droit-Karl-N-Llewellyn-et-E-Adamson-Hoebel"><b class="title">La Voie cheyennne. Conflit et jurisprudence dans la science primitive du droit</b>, par <span class="author">Karl N. Llewellyn et E. Adamson Hoebel</span></div>
+  <div class="ref" id="dec15-15-La-Voie-cheyennne-Conflit-et-jurisprudence-dans-la-science-primitive-du-droit-Karl-N-Llewellyn-et-E-Adamson-Hoebel"><b class="title">La Voie cheyennne. Conflit et jurisprudence dans la science primitive du droit</b>, par <span class="author">Karl N. Llewellyn et E. Adamson Hoebel</span></div>
   <div class="sources">
   
     
@@ -8227,7 +8268,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-The-Wire-L-Am-rique-sur-coute-Marie-H-l-ne-Bacqu-Am-lie-Flamand-Anne-Marie-Paquet-Deyris-Julien-Talpin"><b class="title">The Wire : L’Amérique sur écoute</b>, dirigé par <span class="author">Marie-Hélène Bacqué, Amélie Flamand, Anne-Marie Paquet-Deyris, Julien Talpin</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-The_Wire-9782707182593.html">lien</a>)</div>
+  <div class="ref" id="dec15-15-The-Wire-L-Am-rique-sur-coute-Marie-H-l-ne-Bacqu-Am-lie-Flamand-Anne-Marie-Paquet-Deyris-Julien-Talpin"><b class="title">The Wire : L’Amérique sur écoute</b>, dirigé par <span class="author">Marie-Hélène Bacqué, Amélie Flamand, Anne-Marie Paquet-Deyris, Julien Talpin</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-The_Wire-9782707182593.html">lien</a>)</div>
   <div class="sources">
   
     
@@ -8241,7 +8282,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Hooliganisme-ultras-et-ambigu-tes-en-France-Nicolas-Hourcade"><b class="title">Hooliganisme, ultras et ambiguïtes en France</b>, par <span class="author">Nicolas Hourcade</span>&nbsp;(<a href="http://www.uff.br/esportesociedade/pdf/es70h.pdf">lien</a>)</div>
+  <div class="ref" id="dec15-15-Hooliganisme-ultras-et-ambigu-tes-en-France-Nicolas-Hourcade"><b class="title">Hooliganisme, ultras et ambiguïtes en France</b>, par <span class="author">Nicolas Hourcade</span>&nbsp;(<a href="http://www.uff.br/esportesociedade/pdf/es70h.pdf">lien</a>)</div>
   <div class="sources">
   
     
@@ -8255,7 +8296,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Penser-l-invisible-la-sexualit-dans-les-s-ries-anim-es-fran-aises-pour-enfants-M-lanie-Lallet"><b class="title">Penser l’invisible : la sexualité dans les séries animées françaises pour enfants</b>, par <span class="author">Mélanie Lallet</span>&nbsp;(<a href="https://www.cairn.info/revue-hermes-la-revue-2014-2-page-42.htm">lien</a>)</div>
+  <div class="ref" id="dec15-15-Penser-l-invisible-la-sexualit-dans-les-s-ries-anim-es-fran-aises-pour-enfants-M-lanie-Lallet"><b class="title">Penser l’invisible : la sexualité dans les séries animées françaises pour enfants</b>, par <span class="author">Mélanie Lallet</span>&nbsp;(<a href="https://www.cairn.info/revue-hermes-la-revue-2014-2-page-42.htm">lien</a>)</div>
   <div class="sources">
   
     
@@ -8269,7 +8310,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Droit-et-bon-droit-Un-droit-des-ouvriers-instaur-puis-vinc-par-le-droit-du-travail-France-XIXe-si-cle-Alain-Cottereau"><b class="title">Droit et bon droit : Un droit des ouvriers instauré, puis évincé par le droit du travail (France, XIXe siècle)</b>, par <span class="author">Alain Cottereau</span>&nbsp;(<a href="http://www.cairn.info/revue-annales-2002-6-page-1521.htm">lien</a>)</div>
+  <div class="ref" id="dec15-15-Droit-et-bon-droit-Un-droit-des-ouvriers-instaur-puis-vinc-par-le-droit-du-travail-France-XIXe-si-cle-Alain-Cottereau"><b class="title">Droit et bon droit : Un droit des ouvriers instauré, puis évincé par le droit du travail (France, XIXe siècle)</b>, par <span class="author">Alain Cottereau</span>&nbsp;(<a href="http://www.cairn.info/revue-annales-2002-6-page-1521.htm">lien</a>)</div>
   <div class="sources">
   
     
@@ -8283,7 +8324,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Les-sociologues-ont-ils-des-comptes-rendre-Enqu-ter-et-publier-sur-le-front-national-Daniel-Bizeul"><b class="title">Les sociologues ont-ils des comptes à rendre ? Enquêter et publier sur le front national</b>, par <span class="author">Daniel Bizeul</span></div>
+  <div class="ref" id="dec15-15-Les-sociologues-ont-ils-des-comptes-rendre-Enqu-ter-et-publier-sur-le-front-national-Daniel-Bizeul"><b class="title">Les sociologues ont-ils des comptes à rendre ? Enquêter et publier sur le front national</b>, par <span class="author">Daniel Bizeul</span></div>
   <div class="sources">
   
     
@@ -8297,7 +8338,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Habitus-Roc-"><b class="title">Habitus</b>, par <span class="author">Rocé</span>&nbsp;(<a href="https://www.youtube.com/watch?v=nO3JkL5NVcU">lien</a>)</div>
+  <div class="ref" id="dec15-15-Habitus-Roc-"><b class="title">Habitus</b>, par <span class="author">Rocé</span>&nbsp;(<a href="https://www.youtube.com/watch?v=nO3JkL5NVcU">lien</a>)</div>
   <div class="sources">
   
     
@@ -8311,7 +8352,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-The-Language-of-Law-School-Learning-to-think-like-a-lawyer-Elizabeth-Mertz"><b class="title">The Language of Law School : Learning to “think like a lawyer”</b>, par <span class="author">Elizabeth Mertz</span></div>
+  <div class="ref" id="dec15-15-The-Language-of-Law-School-Learning-to-think-like-a-lawyer-Elizabeth-Mertz"><b class="title">The Language of Law School : Learning to “think like a lawyer”</b>, par <span class="author">Elizabeth Mertz</span></div>
   <div class="sources">
   
     
@@ -8325,7 +8366,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Vivre-avec-le-handicap-Adeline-Beyrie"><b class="title">Vivre avec le handicap</b>, par <span class="author">Adeline Beyrie</span></div>
+  <div class="ref" id="dec15-15-Vivre-avec-le-handicap-Adeline-Beyrie"><b class="title">Vivre avec le handicap</b>, par <span class="author">Adeline Beyrie</span></div>
   <div class="sources">
   
     
@@ -8339,7 +8380,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Histoire-des-pens-es-sociologiques-Bruno-Milly-et-Jean-Pierre-Delas"><b class="title">Histoire des pensées sociologiques</b>, par <span class="author">Bruno Milly et Jean-Pierre Delas</span></div>
+  <div class="ref" id="dec15-15-Histoire-des-pens-es-sociologiques-Bruno-Milly-et-Jean-Pierre-Delas"><b class="title">Histoire des pensées sociologiques</b>, par <span class="author">Bruno Milly et Jean-Pierre Delas</span></div>
   <div class="sources">
   
     
@@ -8353,7 +8394,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-L-homosexualit-en-Afrique-sens-et-variations-d-hirer-nos-jours-Charles-Gueboguo"><b class="title">L’homosexualité en Afrique : sens et variations d’hirer à nos jours</b>, par <span class="author">Charles Gueboguo</span>&nbsp;(<a href="https://socio-logos.revues.org/37">lien</a>)</div>
+  <div class="ref" id="dec15-15-L-homosexualit-en-Afrique-sens-et-variations-d-hirer-nos-jours-Charles-Gueboguo"><b class="title">L’homosexualité en Afrique : sens et variations d’hirer à nos jours</b>, par <span class="author">Charles Gueboguo</span>&nbsp;(<a href="https://socio-logos.revues.org/37">lien</a>)</div>
   <div class="sources">
   
     
@@ -8367,7 +8408,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14--conomie-des-partis-et-logiques-du-militantisme-Daniel-Gaxie"><b class="title">Économie des partis et logiques du militantisme</b>, par <span class="author">Daniel Gaxie</span></div>
+  <div class="ref" id="dec15-15--conomie-des-partis-et-logiques-du-militantisme-Daniel-Gaxie"><b class="title">Économie des partis et logiques du militantisme</b>, par <span class="author">Daniel Gaxie</span></div>
   <div class="sources">
   
   
@@ -8376,7 +8417,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Manuel-d-analyse-qualitative-Analyser-sans-compter-ni-classer-Christophe-Lejeune"><b class="title">Manuel d’analyse qualitative : Analyser sans compter ni classer</b>, par <span class="author">Christophe Lejeune</span></div>
+  <div class="ref" id="dec15-15-Manuel-d-analyse-qualitative-Analyser-sans-compter-ni-classer-Christophe-Lejeune"><b class="title">Manuel d’analyse qualitative : Analyser sans compter ni classer</b>, par <span class="author">Christophe Lejeune</span></div>
   <div class="sources">
   
     
@@ -8390,7 +8431,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Culture-sentimentale-et-jeux-vid-o-le-renforcement-des-identit-s-de-sexe-Dominique-Pasquier"><b class="title">Culture sentimentale et jeux vidéo : le renforcement des identités de sexe</b>, par <span class="author">Dominique Pasquier</span>&nbsp;(<a href="http://www.cairn.info/revue-ethnologie-francaise-2010-1-page-93.htm">lien</a>)</div>
+  <div class="ref" id="dec15-15-Culture-sentimentale-et-jeux-vid-o-le-renforcement-des-identit-s-de-sexe-Dominique-Pasquier"><b class="title">Culture sentimentale et jeux vidéo : le renforcement des identités de sexe</b>, par <span class="author">Dominique Pasquier</span>&nbsp;(<a href="http://www.cairn.info/revue-ethnologie-francaise-2010-1-page-93.htm">lien</a>)</div>
   <div class="sources">
   
     
@@ -9921,7 +9962,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-21-La-Fabrique-de-l-opinion-Une-histoire-sociale-des-sondages-Lo-c-Blondiaux"><b class="title">La Fabrique de l'opinion : Une histoire sociale des sondages</b>, par <span class="author">Loïc Blondiaux</span></div>
+  <div class="ref" id="dec15-21-La-Fabrique-de-l-opinion-Une-histoire-sociale-des-sondages-Lo-c-Blondiaux"><b class="title">La Fabrique de l’opinion : Une histoire sociale des sondages</b>, par <span class="author">Loïc Blondiaux</span></div>
   <div class="sources">
   
     
@@ -9965,6 +10006,216 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Les émotions, un tabou de la sociologie<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/EditionsScpo/status/678931650764517377">@EditionsScpo</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-Fuck-Nuance-Kieran-Healy"><b class="title">Fuck Nuance</b>, par <span class="author">Kieran Healy</span>&nbsp;(<a href="http://kieranhealy.org/files/papers/fuck-nuance.pdf">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Alors pourquoi cet article ? PARCE QUE. QU’EST-CE QUE T’AS ? T’ES PAS JOUASSE ? TU VEUX D’LA NUANCE P’TET ?<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/678957271380979712">@Uneheuredepeine</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-Importer-Berlusconi-Le-d-chiffrement-de-l-exp-rience-politique-de-Bernard-Tapie-la-lumi-re-du-populisme-italien-Philippe-Riutort"><b class="title">Importer Berlusconi : Le déchiffrement de l’expérience politique de Bernard Tapie à la lumière du « populisme » italien</b>, par <span class="author">Philippe Riutort</span>&nbsp;(<a href="http://www.cairn.info/revue-politix-2007-1-page-153.htm">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Bernard Tapie, un Berlusconi français ? Un article toujours d’actualité<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/678963319894601728">@Gerome_Truc</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21--quoi-sert-la-sociologie-Bernard-Lahire"><b class="title">À quoi sert la sociologie ?</b>, par <span class="author">Bernard Lahire</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Jo14Hernandez/status/678972223290523652">@Jo14Hernandez</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-Les-Vacances-de-Monsieur-Hulot-Jacques-Tati"><b class="title">Les Vacances de Monsieur Hulot</b>, par <span class="author">Jacques Tati</span>&nbsp;(<a href="http://television.telerama.fr/television/programme-tv-du-21-decembre-ce-soir-on-regarde-les-vacances-de-monsieur-hulot-sur-arte,135860.php">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/ArSaintMartin/status/679020710942089216">@ArSaintMartin</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-Les-maux-mots-de-l-immigration-Entretien-avec-Jean-Leca-Abdelmalek-Sayad"><b class="title">Les maux-à-mots de l’immigration. Entretien avec Jean Leca</b>, par <span class="author">Abdelmalek Sayad</span>&nbsp;(<a href="http://www.persee.fr/doc/polix_0295-2319_1990_num_3_12_1420">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Entretien très riche de Sayad avec Jean Leca<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/679024318513340416">@PaillardSimon</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-Les-sombres-pr-curseurs-Francis-Chateauraynaud-et-Didier-Torny"><b class="title">Les sombres précurseurs</b>, par <span class="author">Francis Chateauraynaud et Didier Torny</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        L’alerte, construction d’une prise sur le futur<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/679061417769746432">@NuteluCaine</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-21-Avoir-20-ans-en-politique-les-enfants-du-d-senchantement-Anne-Muxel"><b class="title">Avoir 20 ans en politique : les enfants du désenchantement</b>, par <span class="author">Anne Muxel</span>&nbsp;(<a href="http://www.liberation.fr/france/2010/02/11/les-jeunes-sont-toujours-mobilises-mais-autrement_609290">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Silmalia/status/679085811413848065">@Silmalia</a>.</p>
+  
+  </div>
+</article>
+<h2 id="dec15-22">22 Décembre</h2>
+<article class="book">
+  <div class="ref" id="dec15-22-La-sociologie-excuse-t-elle-les-terroristes-Xavier-Mol-nat"><b class="title">La sociologie excuse-t-elle les terroristes ?</b>, par <span class="author">Xavier Molénat</span>&nbsp;(<a href="http://www.alterecoplus.fr/en-direct-de-la-recherche/la-sociologie-excuse-t-elle-les-terroristes-201512011020-00002614.html">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Parfait pour les non-initiés à la socio<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Katyusha_vins/status/679166412418600960">@Katyusha_vins</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-H-misph-re-gauche-Une-cartographie-des-nouvelles-pens-es-critiques-Razmig-Keucheyan"><b class="title">Hémisphère gauche : Une cartographie des nouvelles pensées critiques</b>, par <span class="author">Razmig Keucheyan</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Pour ces forces progressistes qu’on a tou.t.es du mal à reconstruire du nord au sud<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/679188370845773824">@LionnelleMakaya</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Le-management-d-sincarn-Enqu-te-sur-les-nouveaux-cadres-du-travail-Marie-Anne-Dujarier"><b class="title">Le management désincarné : Enquête sur les nouveaux cadres du travail</b>, par <span class="author">Marie-Anne Dujarier</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Excellente enquête sur un management qui a évacué l’humain au point de devenir inhumain… Éclairant !<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/679218073266728960">@bbarbusse</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Des-beurettes-Nacira-Gu-nif-Souilamas"><b class="title">Des beurettes</b>, par <span class="author">Nacira Guénif-Souilamas</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Un peu dur au début mais vaut le coup largement ==> une socio des jeunes filles d’origine maghrébine<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/679224205397925888">@Lil_RoXaNe</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-The-System-of-Professions-Andrew-Abbott"><b class="title">The System of Professions</b>, par <span class="author">Andrew Abbott</span>&nbsp;(<a href="http://www.press.uchicago.edu/ucp/books/book/chicago/S/bo5965590.html">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Du solide, du lourd, du classique<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/679239436341788673">@ArSaintMartin</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Keynes-ou-l-conomiste-citoyen-Bernard-Maris"><b class="title">Keynes ou l’économiste citoyen</b>, par <span class="author">Bernard Maris</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        B. Maris sur la psychologie des hommes et leurs rapports à l’argent<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/EditionsScpo/status/679225778391920640">@EditionsScpo</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-10-concepts-sociologiques-en-relations-internationales-Guillaume-Devin"><b class="title">10 concepts sociologiques en relations internationales</b>, par <span class="author">Guillaume Devin</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Comment appliquer Weber, Hirschman ou Elias en relations internationales<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ogermiyan/status/679228304713478144">@ogermiyan</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-La-d-mocratie-impossible-Politique-et-modernit-chez-Weber-et-Habermas-Yves-Sintomer"><b class="title">La démocratie impossible ? : Politique et modernité chez Weber et Habermas</b>, par <span class="author">Yves Sintomer</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Yves Sintomer, sa somme sur Weber/Habermas<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/679240604442841091">@SamuelHayat</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Petite-histoire-de-l-exp-rimentation-d-mocratique-Tirage-au-sort-et-politique-d-Ath-nes-nos-jours-Yves-Sintomer"><b class="title">Petite histoire de l’expérimentation démocratique : Tirage au sort et politique d’Athènes à nos jours</b>, par <span class="author">Yves Sintomer</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Un super petit bouquin histoire/socio sur la démocratie<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/679240604442841091">@SamuelHayat</a></span>
       </blockquote>
     
   
