@@ -10222,3 +10222,17 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-22-Comment-se-conduire-dans-les-lieux-publics-Notes-sur-l-organisation-sociale-des-rassemblements-Erving-Goffman"><b class="title">Comment se conduire dans les lieux publics : Notes sur l’organisation sociale des rassemblements</b>, par <span class="author">Erving Goffman</span>&nbsp;(<a href="https://3.bp.blogspot.com/-YNNrJHjOOEk/VnkeKiamfgI/AAAAAAAAAv4/G9CvKSLUFKU/s1600/Day22.png">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        E. Goffman est un grand classique parmi les sociologues, tout comme la plupart de ses ouvrages. Pour n’en citer qu’un, j’évoquerais le récemment traduit : Comment se conduire dans les lieux publics. Notes sur l’organisation sociale des rassemblements, Paris, Économica, coll. « Études sociologiques », 2013.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/679240022424494080">@sociobd</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
