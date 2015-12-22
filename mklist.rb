@@ -213,7 +213,7 @@ class BooksList
         b = Book.new(h, day, i)
         books_count += 1
 
-        book_sources = b.sources
+        book_sources = b.sources + b.recommenders
         book_sources.each do |source|
           mentions_count += 1
 
