@@ -35,6 +35,7 @@ Accès direct à un jour :<br/>
 20. [20 Décembre](#dec15-20)
 21. [21 Décembre](#dec15-21)
 22. [22 Décembre](#dec15-22)
+23. [23 Décembre](#dec15-23)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -935,6 +936,16 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         C’était notre bible en cours de socio du racisme.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Morifen333/status/674901885841723392">@Morifen333</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Tellement en avance. Un bouquin important.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/679411180797042688">@PaillardSimon</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Ça fait un moment que je veux le lire, #SocioNoel me l’a rappelé. Je profite des vacances pour faire des lectures perso<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MissaAndriana/status/679603920918986752">@MissaAndriana</a></span>
       </blockquote>
     
   
@@ -8446,6 +8457,20 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-15-Jeunes-descendants-d-immigrants-ouest-africains-en-consultations-ethnocliniques-migrations-en-h-ritage-et-m-moires-des-origines-Lila-Belkacem"><b class="title">Jeunes descendants d’immigrants ouest-africains en consultations ethnocliniques migrations en héritage et mémoires des origines</b>, par <span class="author">Lila Belkacem</span>&nbsp;(<a href="https://remi.revues.org/6277">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Indispensable sur l’ethnopsychiatrie.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/679592883234684929">@CamilleGinger</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
 <h2 id="dec15-16">16 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-16-Les-illusions-du-management-Jean-Pierre-Le-Goff"><b class="title">Les illusions du management</b>, par <span class="author">Jean-Pierre Le Goff</span></div>
@@ -8802,6 +8827,20 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-16-Des-fictions-cr-atrices-les-identit-s-nationales-Anne-Marie-Thiesse"><b class="title">Des fictions créatrices : les identités nationales</b>, par <span class="author">Anne-Marie Thiesse</span>&nbsp;(<a href="http://www.persee.fr/doc/roman_0048-8593_2000_num_30_110_953">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Un peu d’histoire et de littérature<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/679603459830755328">@CamilleGinger</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
 <h2 id="dec15-17">17 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-17-Devenir-adulte-Sociologie-compar-e-de-la-jeunesse-en-Europe-C-cile-Van-de-Velde"><b class="title">Devenir adulte : Sociologie comparée de la jeunesse en Europe</b>, par <span class="author">Cécile Van de Velde</span></div>
@@ -9115,6 +9154,20 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-17-La-cit-et-libert-de-conscience-Charles-Taylor-et-Jocelyn-Maclure"><b class="title">Laïcité et liberté de conscience</b>, par <span class="author">Charles Taylor et Jocelyn Maclure</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Laicite_et_liberte_de_conscience-9782707166470.html">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        INDISPENSABLE sur les débats autour de la laïcité par deux canadiens communautariens. Clair et précis, un régal<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/679604166025678848">@CamilleGinger</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
 <h2 id="dec15-18">18 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-18-Soigner-les-exclus-Isabelle-Parizot"><b class="title">Soigner les exclus</b>, par <span class="author">Isabelle Parizot</span>&nbsp;(<a href="http://www.puf.com/Autres_Collections:Soigner_les_exclus">lien</a>)</div>
@@ -9400,6 +9453,20 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         O. Galland sur sa conceptualisation intéressante de la jeunesse (période de vie structurée et structurante vs gr social).<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/677890070599307264">@sociosauvage</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-Penser-l-am-nagement-de-la-diversit-ethnoculturelle-au-Qu-bec-Mythes-limites-et-possibles-de-l-interculturalisme-Daniel-Sal-e"><b class="title">Penser l’aménagement de la diversité ethnoculturelle au Québec. Mythes, limites et possibles de l’interculturalisme</b>, par <span class="author">Daniel Salée</span>&nbsp;(<a href="http://www.erudit.org/revue/ps/2010/v29/n1/039959ar.html?vue=resume">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Sur les questions du multi/inter-culturalisme au Québec et au Canada. Une grosse claque<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CamilleGinger/status/679605303558705152">@CamilleGinger</a></span>
       </blockquote>
     
   
@@ -10354,7 +10421,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Un article publié dans un Raisons Politiques sur le corps présidentiable et notamment sur la virilité comme ressource politique. Tout le numéro est plutôt intéressant (mais j'ai pas encore tout lu)<br/>
+        Un article publié dans un Raisons Politiques sur le corps présidentiable et notamment sur la virilité comme ressource politique. Tout le numéro est plutôt intéressant (mais j’ai pas encore tout lu)<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/679353841184333828">@Silmalia</a></span>
       </blockquote>
     
@@ -10382,6 +10449,225 @@ Accès direct à un jour :<br/>
   
   
     <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Jo14Hernandez/status/679355574182658049">@Jo14Hernandez</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Sociologie-du-client-lisme-H-l-ne-Combes-et-Gabriel-Vommaro"><b class="title">Sociologie du clientélisme</b>, par <span class="author">Hélène Combes et Gabriel Vommaro</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Synthèse riche et comparative doublée d’un programme de recherche fort<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jacobo_Grajales/status/679409301123948544">@Jacobo_Grajales</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Enqu-te-sur-les-modes-d-existence-Arnaud-Saint-Martin"><b class="title">Enquête sur les modes d’existence</b>, par <span class="author">Arnaud Saint-Martin</span>&nbsp;(<a href="https://sociologie.revues.org/1573?lang=en">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Sans doute très double click mais je dois être double click aussi<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/679413218217959424">@Uneheuredepeine</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-22-Sociologie-des-mobilit-s-John-Urry"><b class="title">Sociologie des mobilités</b>, par <span class="author">John Urry</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Les transformations matérielles et leur influence sur le social<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/679565812655632384">@F_Bally</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<h2 id="dec15-23">23 Décembre</h2>
+<article class="book">
+  <div class="ref" id="dec15-23-Le-viol-aspects-sociologiques-d-un-crime-V-ronique-Le-Goaziou"><b class="title">Le viol, aspects sociologiques d’un crime</b>, par <span class="author">Véronique Le Goaziou</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Une enquête sur des données judiciaires qui met en lumière les impensés de ce crime par la socio<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/679576399871655936">@Lil_RoXaNe</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-Le-match-de-football-Ethnologie-d-une-passion-partisane-Marseilles-Naples-et-Turin-Christian-Bromberger"><b class="title">Le match de football : Ethnologie d’une passion partisane à Marseilles, Naples et Turin</b>, par <span class="author">Christian Bromberger</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        De l’ethnologie avec ce classique sur le football (comment ça on peut travailler sur le foot ?)<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/679576408256024577">@lestrelin</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-L-urbanit-des-marges-Nicolas-Puig-et-Kamel-Dora-"><b class="title">L’urbanité des marges</b>, dirigé par <span class="author">Nicolas Puig et Kamel Doraï</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/CobbleAndFrame/status/679592380522082304">@CobbleAndFrame</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-G-ographie-de-la-domination-David-Harvey"><b class="title">Géographie de la domination</b>, par <span class="author">David Harvey</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Il y a plein de raisons de choisir ce bouquin. J’en garderais une : l’excellence de l’écriture. Le style presque mathématique tout en étant accessible et même agréable de Harvey peut servir de modèle même sans partager ses thèses.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/679593574422429696">@Uneheuredepeine</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-La-faillite-de-la-pens-e-manag-riale-Fran-ois-Dupuy"><b class="title">La faillite de la pensée managériale</b>, par <span class="author">François Dupuy</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Un livre sur l’inculture en sciences humaines des #managers d’aujourd’hui ! Indispensable<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/679596574008328192">@bbarbusse</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-Les-jeux-et-les-hommes-Roger-Caillois"><b class="title">Les jeux et les hommes</b>, par <span class="author">Roger Caillois</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Indeed ! déconstruction en règle d’une notion pas si simple… le JEU<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/679599577482276864">@dan_maku</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-L-envie-du-monde-Jean-Didier-Urbain"><b class="title">L’envie du monde</b>, par <span class="author">Jean-Didier Urbain</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/AdrienSonnet/status/679620360002793472">@AdrienSonnet</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-Socialisations-masculines-de-l-enfance-l-ge-adulte-collectif"><b class="title">Socialisations masculines, de l'enfance à l'âge adulte</b> (collectif)&nbsp;(<a href="http://www.cairn.info/revue-terrains-et-travaux-2015-2.htm">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/vanessa0jerome1/status/679645601567510528">@vanessa0jerome1</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-Camps-d-trangers-Marc-Bernardot"><b class="title">Camps d’étrangers</b>, par <span class="author">Marc Bernardot</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Quand Guantanamo-sur-Seine nous guette version camp d'attente indéterminée parce que les bleds ne vont pas nous accueillir<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/679673850947334145">@LionnelleMakaya</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-Ceci-n-est-pas-qu-un-tableau-Essai-sur-l-art-la-domination-la-magie-et-le-sacr-Bernard-Lahire"><b class="title">Ceci n’est pas qu’un tableau : Essai sur l’art, la domination, la magie et le sacré</b>, par <span class="author">Bernard Lahire</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Jo14Hernandez/status/679704539805650945">@Jo14Hernandez</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-Les-Am-ricaines-Histoire-des-femmes-aux-Etats-Unis-Sara-M-Evans"><b class="title">Les Américaines : Histoire des femmes aux Etats-Unis</b>, par <span class="author">Sara M. Evans</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        C’est plutôt de l’histoire que de la socio mais c’est un chouette bouquin/manuel pour mieux comprendre la place des femmes dans l’espace public américain au cours des années. Il y a une très grande attention portée à bien intégrer les femmes de couleurs, classes et régions diverses<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Silmalia/status/679718439171264512">@Silmalia</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-De-la-critique-Pr-cis-de-sociologie-de-l-mancipation-Luc-Boltanski"><b class="title">De la critique : Précis de sociologie de l’émancipation</b>, par <span class="author">Luc Boltanski</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Jour 23 déjà, il faut du lourd. Bim.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/679738819122479104">@SamuelHayat</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-Modern-Romance-Aziz-Ansari"><b class="title">Modern Romance</b>, par <span class="author">Aziz Ansari</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        J’ai fini L’Essentiel d’Alice Miller, j’attaque Modern Romance d’Aziz Ansari ! #lecturedumoment<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/BleuKobalt/status/679748293799317506">@BleuKobalt</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-Invitation-la-sociologie-r-flexive-Pierre-Bourdieu-et-Lo-c-Wacquant"><b class="title">Invitation à la sociologie réflexive</b>, par <span class="author">Pierre Bourdieu et Loïc Wacquant</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        En attendant le 24, et pour finir en beauté, Un joli Bourdieu/Wacquant qui n’est je crois pas passé…<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/679749565025771521">@balleverte</a></span>
+      </blockquote>
+    
+  
   
   </div>
 </article>
