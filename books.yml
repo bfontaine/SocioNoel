@@ -101,8 +101,11 @@
           même temps. Not bad.
   - title: Tristes tropiques
     author: Claude Lévi-Strauss
-    source: https://twitter.com/ylloPytterP/status/671602324436099072
-    comment: Le premier livre que j’ai lu en arrivant en fac d’anthropologie
+    sources:
+      - source: https://twitter.com/ylloPytterP/status/671602324436099072
+        comment: Le premier livre que j’ai lu en arrivant en fac d’anthropologie
+      - source: https://twitter.com/Uneheuredepeine/status/679993640073203712
+    link: https://fr.wikipedia.org/wiki/Tristes_Tropiques
   - title: "Les nounous sortent enfin de l’ombre : Qui gardera nos enfants ?"
     author: Caroline Ibos
     sources:
@@ -681,6 +684,8 @@
           Un livre que j’ai découvert sur le tard mais recommande chaudement !
       - source: https://twitter.com/sociosauvage/status/673865418218545152
         comment: Déjà passé, mais je le remet parce qu’il est vraiment bien ;)
+      - source: https://twitter.com/Uneheuredepeine/status/679990634967646208
+    link: https://lectures.revues.org/333
   - title: Bonheur privé, action publique
     author: Albert O. Hirschman
     source: https://twitter.com/elsaaa_f/status/672009496311537664
@@ -711,6 +716,7 @@
     sources:
       - source: https://twitter.com/AurelieLeLievre/status/672019936613695488
       - source: https://twitter.com/Vanaa_Moussala/status/679326573615542273
+      - source: https://twitter.com/JPatarinJossec/status/679940799711309824
   - title: 80% au bac… et après ?
     author: Stéphane Beaud
     sources:
@@ -769,6 +775,8 @@
         comment: Mon premier avant même Becker & les Outsiders
       - source: https://twitter.com/AdrienSonnet/status/678562185736515584
         comment: Premier contact avec la sociologie et Erving Goffman.
+      - source: https://twitter.com/Uneheuredepeine/status/679992876126892032
+    link: https://fr.wikipedia.org/wiki/La_Mise_en_sc%C3%A8ne_de_la_vie_quotidienne
   - title: Identité et Contrôle
     author: Harrison C. White
     source: https://twitter.com/EmilienSchultz/status/672072215945433089
@@ -1087,10 +1095,13 @@
       par la sociologie de l’école en général
   - title: En quête de respect. Le crack à New York
     author: Philippe Bourgois
-    source: https://twitter.com/MyleneSantana/status/672429349212168197
-    comment: >
-      Si je devais conseiller un bouquin : "En quête de respect. Le crack à New
-      York". Philippe Bourgois. Se lit comme un roman !
+    sources:
+      - source: https://twitter.com/MyleneSantana/status/672429349212168197
+        comment: >
+          Si je devais conseiller un bouquin : "En quête de respect. Le crack à
+          New York". Philippe Bourgois. Se lit comme un roman !
+      - source: https://twitter.com/Uneheuredepeine/status/679993799666495488
+    link: http://www.amazon.fr/En-qu%C3%AAte-respect-crack-York/dp/202111385X
   - title: La contre démocratie
     author: Pierre Rosanvallon
     source: https://twitter.com/AgentOnAMission/status/672433240607744000
@@ -1576,6 +1587,7 @@
           mains.
       - source: https://twitter.com/F_Bally/status/678683679841980416
         comment: De la méthodo qualitative en profondeur
+      - source: https://twitter.com/Uneheuredepeine/status/679990634967646208
   - title: Les anonymes à la radio
     author: Christophe Deleu
     source: https://twitter.com/Ostpolitik/status/673068257260212224
@@ -1830,8 +1842,13 @@
     source: https://twitter.com/CobbleAndFrame/status/673468762583117824
   - title: De la division du travail social
     author: Émile Durkheim
-    source: https://twitter.com/Gerome_Truc/status/673473115192717312
-    comment: Le livre de socio que j’ai le plus lu et relu
+    sources:
+      - source: https://twitter.com/Gerome_Truc/status/673473115192717312
+        comment: Le livre de socio que j’ai le plus lu et relu
+      - source: https://twitter.com/bbarbusse/status/679942917570596868
+        comment: >
+          Mes premières lectures qui m’ont donné envie de lire, d’étudier et de
+          faire de la sociologie !
   - title: Le vote
     author: Patrick Lehingue
     source: https://twitter.com/Gerome_Truc/status/673475227150626816
@@ -3688,6 +3705,8 @@
       - source: https://twitter.com/Morifen333/status/677154383826677760
         comment: "Un super #SocioNoel à conseiller"
       - source: https://twitter.com/balleverte/status/678690422827393024
+      - source: https://twitter.com/Jo14Hernandez/status/679992260159782912
+        comment: Livre de chevet et boîte à outils du petit sociologue
   - title: "Les aides à domicile : Un autre monde populaire"
     author: Christelle Avril
     source: https://twitter.com/LionnelleMakaya/status/677161339891093505
@@ -3717,8 +3736,11 @@
     link: http://utpress.utexas.edu/index.php/books/wrid2p
   - title: La montée des incertitudes
     author: Robert Castel
-    source: https://twitter.com/Lulle1/status/677208333430951940
-    comment: Essentiel sur la question salariale
+    sources:
+      - source: https://twitter.com/Lulle1/status/677208333430951940
+        comment: Essentiel sur la question salariale
+      - source: https://twitter.com/Ostpolitik/status/679974958328582144
+        comment: Sur la précarisation du travail.
     link: https://lectures.revues.org/766
   - title: Paris, ville ouvrière
     author: Maurizio Gribaudi
@@ -4244,7 +4266,10 @@
     link: http://www.cairn.info/revue-politix-2007-1-page-153.htm
   - title: "À quoi sert la sociologie ?"
     author: Bernard Lahire
-    source: https://twitter.com/Jo14Hernandez/status/678972223290523652
+    sources:
+      - source: https://twitter.com/Jo14Hernandez/status/678972223290523652
+      - source: https://twitter.com/Uneheuredepeine/status/679992876126892032
+    link: http://www.editionsladecouverte.fr/catalogue/index-___quoi_sert_la_sociologie__-9782707144218.html
   - title: Les Vacances de Monsieur Hulot
     author: Jacques Tati
     source: https://twitter.com/ArSaintMartin/status/679020710942089216
@@ -4500,3 +4525,146 @@
   - title: La peur des barbares
     author: Tzvetan Todorov
     source: https://twitter.com/bfontn/status/679830856140242946
+  - title: Methods of Discovery
+    author: Andrew Abbott
+    source: https://twitter.com/ArSaintMartin/status/679927108089548801
+  - title: La tradition sociologique
+    author: Robert A. Nisbet
+    source: https://twitter.com/bbarbusse/status/679942917570596868
+    comment: >
+      Mes premières lectures qui m’ont donné envie de lire, d’étudier et de
+      faire de la sociologie !
+  - title: "Violences urbaines, violence sociale : Genèse des nouvelles classes dangereuses"
+    author: Stéphane Beaud et Michel Pialoux
+    source: https://twitter.com/Lil_RoXaNe/status/679945318264385537
+    comment: >
+      Analyse brillante de la révolte de Montbéliard en 2000. La fabrique des
+      insurgés.
+  - title: Brève histoire du néolibéralisme
+    author: David Harvey
+    source: https://twitter.com/CristinaNizzoli/status/679948151697051648
+    link: http://www.contretemps.eu/lectures/lire-extrait-br%C3%A8ve-histoire-n%C3%A9olib%C3%A9ralisme-david-harvey
+  - title: "Sociologie du tennis : Genèse d’une crise (1960-1990)"
+    author: Anne Marie Waser
+    source: https://twitter.com/balleverte/status/679953824086360064
+    comment: >
+      En tant que sociologue et joueur de tennis, je ne pouvais que finir par
+      ce très joli travail
+  - title: L’enquête de terrain
+    author: Daniel Cefaï
+    directed: true
+    source: https://twitter.com/sociobd/status/680001151073447940
+    link: https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG
+  - title: Conditions of successful degradation of ceremonies
+    author: Harold Garfinkel
+    source: https://twitter.com/sociobd/status/680001151073447940
+    link: https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG
+  - title: Le devoir et la grâce
+    author: Cyril Lemieux
+    source: https://twitter.com/sociobd/status/680001151073447940
+    link: https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG
+  - title: La fin des bêtes
+    author: Catherine Rémy
+    source: https://twitter.com/sociobd/status/680001151073447940
+    link: https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG
+  - title: Le chercheur et le quotidien
+    author: Alfred Schütz
+    source: https://twitter.com/sociobd/status/680001151073447940
+    link: https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG
+  - title: Être affecté
+    author: Jeanne Favret-Saada
+    source: https://twitter.com/sociobd/status/680001151073447940
+    link: https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG
+  - title: La trame de la négociation
+    author: Anselm Strauss
+    source: https://twitter.com/sociobd/status/680001151073447940
+    link: https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG
+  - title: Le cœur à l’ouvrage
+    author: Jean-Claude Kaufmann
+    source: https://twitter.com/NuteluCaine/status/679959600251146240
+    comment: Parce que c'est Noël…
+  - title: "Palestinian Refugees and Identity : Nationalism, Politics and the Everyday"
+    author: Luigi Achilli
+    source: https://twitter.com/CobbleAndFrame/status/679975754734645248
+  - title: "L’école de Chicago : Naissance de l’écologie urbaine"
+    author: Isaac Joseph et Yves Grafmeyer
+    source: https://twitter.com/CobbleAndFrame/status/679975754734645248
+  - title: L’institution imaginaire de la société
+    author: Cornelius Castoriadis
+    source: https://twitter.com/SamuelHayat/status/679976192716476416
+    comment: La théorie du social la plus aboutie
+  - title: L’assassinat de Maurice Halbwachs
+    author: Pierre Bourdieu
+    source: https://twitter.com/CobbleAndFrame/status/679977326839463936
+    comment: >
+      Je voudrais me fendre d’une petite postface à cette liste de #SocioNoël
+      pour qu’elle soit entière avec un texte qui me fait pas sourire.
+  - title: La société du risque. Sur la voie d’une autre modernité
+    author: Ulrich Beck
+    source: https://twitter.com/F_Bally/status/679977372754546688
+    comment: Indispensable
+    link: https://questionsdecommunication.revues.org/7281
+  - title: "Un air de radicalisme : Sur quelques tendances récentes en sociologie de la science et de la technologie"
+    author: Yves Gingras
+    source: https://twitter.com/Uneheuredepeine/status/679990289591865344
+    link: http://www.persee.fr/doc/arss_0335-5322_1995_num_108_1_3144
+  - title: The Strength of Weak Ties
+    author: Mark S. Granovetter
+    source: https://twitter.com/Uneheuredepeine/status/679990289591865344
+    link: https://sociology.stanford.edu/sites/default/files/publications/the_strength_of_weak_ties_and_exch_w-gans.pdf
+  - title: "De la vocation artistique à la précarité : devenir professeur de danse jazz"
+    author: Sébastien Fleuriel
+    source: https://twitter.com/Uneheuredepeine/status/679991428232142849
+  - title: "Vie et mort des institutions marchandes"
+    author: Pierre François
+    source: https://twitter.com/Uneheuredepeine/status/679991428232142849
+    link: http://www.pressesdesciencespo.fr/fr/livre/?GCOI=27246100522220
+  - title: Trois leçons sur l’État-providence
+    author: Gosta Esping-Andersen et Bruno Palier
+    source: https://twitter.com/Uneheuredepeine/status/679992083743141888
+    link: https://lectures.revues.org/549
+  - title: "Les évolutions de l’homogamie de diplômes, de classe et d’origine sociale en France (1969-2011) : ouverture d’ensemble, repli des élites"
+    author: Milan Bouchet-Valat
+    source: https://twitter.com/Uneheuredepeine/status/679992083743141888
+    link: http://www.scienceshumaines.com/vers-la-fin-de-l-homogamie_fr_33881.html
+  - title: "Changer de société, refaire de la sociologie"
+    author: Bruno Latour
+    source: https://twitter.com/Uneheuredepeine/status/679992083743141888
+    link: http://www.editionsladecouverte.fr/catalogue/index-Changer_de_soci__t____refaire_de_la_sociologie-9782707153272.html
+  - title: Le déclin de l’institution
+    author: François Dubet
+    source: https://twitter.com/Uneheuredepeine/status/679992876126892032
+    link: http://www.scienceshumaines.com/le-declin-de-l-institution_fr_2796.html
+  - title: Essais
+    author: Karl Polanyi
+    source: https://twitter.com/Uneheuredepeine/status/679993640073203712
+    link: http://www.seuil.com/livre-9782020528474.htm
+  - title: "Automobilités postmodernes : quand l’Autolib’ fait sensation à Paris"
+    author: Jean-Pierre Tremblay
+    source: https://twitter.com/Uneheuredepeine/status/679993640073203712
+    link: http://www.cairn.info/revue-societes-2014-4-page-115.htm
+  - title: États et révolutions sociales
+    author: Theda Skocpol
+    source: https://twitter.com/Uneheuredepeine/status/679994463599628288
+    link: http://www.fayard.fr/etats-et-revolutions-sociales-9782213014012
+  - title: "Statistiques sans maths pour psychologues : SPSS pour Windows QCM et exercices corrigés"
+    author: Christine P. Dancey et John Reidy 
+    source: https://twitter.com/Uneheuredepeine/status/679994463599628288
+    link: http://www.amazon.fr/Statistiques-sans-maths-pour-psychologues/dp/2804153843
+  - title: "Suicide : L’envers de notre monde"
+    author: Christian Baudelot et Roger Establet
+    source: https://twitter.com/Uneheuredepeine/status/679994848276037632
+    link: https://lectures.revues.org/302
+  - title: "La foire aux illuminés : Ésotérisme, théorie du complot, extrémisme"
+    author: Pierre-André Taguieff
+    source: https://twitter.com/A_Moatti/status/679995137917894656
+    comment: A ouvert mon champ.
+    link: https://assr.revues.org/7272
+  - title: Le baroque des biographies
+    author: Olivier Schwartz
+    source: https://twitter.com/ruggeroparis/status/679998941132419074
+    comment: Sur les récits biographiques
+    link: http://sociodutravail.is.free.fr/fichiers/L3_PARADIGMES/TEXTES/2_SCHWARTZ%201990%20SCHWARTZ%20BAROQUE%20DES%20BIOGRAPHIES.pdf
+  - title: La réforme de l’Université
+    author: Gérald Antoine et Jean-Claude Passeron
+    source: https://twitter.com/ruggeroparis/status/679999855847145472

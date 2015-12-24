@@ -257,7 +257,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-1-Tristes-tropiques-Claude-L-vi-Strauss"><b class="title">Tristes tropiques</b>, par <span class="author">Claude Lévi-Strauss</span></div>
+  <div class="ref" id="dec15-1-Tristes-tropiques-Claude-L-vi-Strauss"><b class="title">Tristes tropiques</b>, par <span class="author">Claude Lévi-Strauss</span>&nbsp;(<a href="https://fr.wikipedia.org/wiki/Tristes_Tropiques">lien</a>)</div>
   <div class="sources">
   
     
@@ -267,6 +267,8 @@ Accès direct à un jour :<br/>
       </blockquote>
     
   
+  
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679993640073203712">@Uneheuredepeine</a>.</p>
   
   </div>
 </article>
@@ -1635,7 +1637,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-2-Invitation-la-sociologie-Peter-L-Berger"><b class="title">Invitation à la sociologie</b>, par <span class="author">Peter L. Berger</span></div>
+  <div class="ref" id="dec15-2-Invitation-la-sociologie-Peter-L-Berger"><b class="title">Invitation à la sociologie</b>, par <span class="author">Peter L. Berger</span>&nbsp;(<a href="https://lectures.revues.org/333">lien</a>)</div>
   <div class="sources">
   
     
@@ -1655,6 +1657,8 @@ Accès direct à un jour :<br/>
       </blockquote>
     
   
+  
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679990634967646208">@Uneheuredepeine</a>.</p>
   
   </div>
 </article>
@@ -1719,7 +1723,7 @@ Accès direct à un jour :<br/>
   <div class="sources">
   
   
-    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/AurelieLeLievre/status/672019936613695488">@AurelieLeLievre</a> et <a class="handle" href="https://twitter.com/Vanaa_Moussala/status/679326573615542273">@Vanaa_Moussala</a>.</p>
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/AurelieLeLievre/status/672019936613695488">@AurelieLeLievre</a>, <a class="handle" href="https://twitter.com/Vanaa_Moussala/status/679326573615542273">@Vanaa_Moussala</a>, et <a class="handle" href="https://twitter.com/JPatarinJossec/status/679940799711309824">@JPatarinJossec</a>.</p>
   
   </div>
 </article>
@@ -1836,7 +1840,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-2-La-mise-en-sc-ne-de-la-vie-quotidienne-Erving-Goffman"><b class="title">La mise en scène de la vie quotidienne</b>, par <span class="author">Erving Goffman</span></div>
+  <div class="ref" id="dec15-2-La-mise-en-sc-ne-de-la-vie-quotidienne-Erving-Goffman"><b class="title">La mise en scène de la vie quotidienne</b>, par <span class="author">Erving Goffman</span>&nbsp;(<a href="https://fr.wikipedia.org/wiki/La_Mise_en_sc%C3%A8ne_de_la_vie_quotidienne">lien</a>)</div>
   <div class="sources">
   
     
@@ -1856,6 +1860,8 @@ Accès direct à un jour :<br/>
       </blockquote>
     
   
+  
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679992876126892032">@Uneheuredepeine</a>.</p>
   
   </div>
 </article>
@@ -2611,7 +2617,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-3-En-qu-te-de-respect-Le-crack-New-York-Philippe-Bourgois"><b class="title">En quête de respect. Le crack à New York</b>, par <span class="author">Philippe Bourgois</span></div>
+  <div class="ref" id="dec15-3-En-qu-te-de-respect-Le-crack-New-York-Philippe-Bourgois"><b class="title">En quête de respect. Le crack à New York</b>, par <span class="author">Philippe Bourgois</span>&nbsp;(<a href="http://www.amazon.fr/En-qu%C3%AAte-respect-crack-York/dp/202111385X">lien</a>)</div>
   <div class="sources">
   
     
@@ -2621,6 +2627,8 @@ Accès direct à un jour :<br/>
       </blockquote>
     
   
+  
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679993799666495488">@Uneheuredepeine</a>.</p>
   
   </div>
 </article>
@@ -3680,6 +3688,8 @@ Accès direct à un jour :<br/>
     
   
   
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679990634967646208">@Uneheuredepeine</a>.</p>
+  
   </div>
 </article>
 <article class="book">
@@ -4265,6 +4275,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Le livre de socio que j’ai le plus lu et relu<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/673473115192717312">@Gerome_Truc</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Mes premières lectures qui m’ont donné envie de lire, d’étudier et de faire de la sociologie !<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/679942917570596868">@bbarbusse</a></span>
       </blockquote>
     
   
@@ -8685,6 +8700,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Morifen333/status/677154383826677760">@Morifen333</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Livre de chevet et boîte à outils du petit sociologue<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/679992260159782912">@Jo14Hernandez</a></span>
+      </blockquote>
+    
   
   
     <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/balleverte/status/678690422827393024">@balleverte</a>.</p>
@@ -8769,6 +8789,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Essentiel sur la question salariale<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lulle1/status/677208333430951940">@Lulle1</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Sur la précarisation du travail.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ostpolitik/status/679974958328582144">@Ostpolitik</a></span>
       </blockquote>
     
   
@@ -10136,11 +10161,11 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-21--quoi-sert-la-sociologie-Bernard-Lahire"><b class="title">À quoi sert la sociologie ?</b>, par <span class="author">Bernard Lahire</span></div>
+  <div class="ref" id="dec15-21--quoi-sert-la-sociologie-Bernard-Lahire"><b class="title">À quoi sert la sociologie ?</b>, par <span class="author">Bernard Lahire</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-___quoi_sert_la_sociologie__-9782707144218.html">lien</a>)</div>
   <div class="sources">
   
   
-    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Jo14Hernandez/status/678972223290523652">@Jo14Hernandez</a>.</p>
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Jo14Hernandez/status/678972223290523652">@Jo14Hernandez</a> et <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679992876126892032">@Uneheuredepeine</a>.</p>
   
   </div>
 </article>
@@ -10769,6 +10794,357 @@ Accès direct à un jour :<br/>
   
   
     <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/bfontn/status/679830856140242946">@bfontn</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Methods-of-Discovery-Andrew-Abbott"><b class="title">Methods of Discovery</b>, par <span class="author">Andrew Abbott</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/ArSaintMartin/status/679927108089548801">@ArSaintMartin</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-La-tradition-sociologique-Robert-A-Nisbet"><b class="title">La tradition sociologique</b>, par <span class="author">Robert A. Nisbet</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Mes premières lectures qui m’ont donné envie de lire, d’étudier et de faire de la sociologie !<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bbarbusse/status/679942917570596868">@bbarbusse</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Violences-urbaines-violence-sociale-Gen-se-des-nouvelles-classes-dangereuses-St-phane-Beaud-et-Michel-Pialoux"><b class="title">Violences urbaines, violence sociale : Genèse des nouvelles classes dangereuses</b>, par <span class="author">Stéphane Beaud et Michel Pialoux</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Analyse brillante de la révolte de Montbéliard en 2000. La fabrique des insurgés.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/679945318264385537">@Lil_RoXaNe</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Br-ve-histoire-du-n-olib-ralisme-David-Harvey"><b class="title">Brève histoire du néolibéralisme</b>, par <span class="author">David Harvey</span>&nbsp;(<a href="http://www.contretemps.eu/lectures/lire-extrait-br%C3%A8ve-histoire-n%C3%A9olib%C3%A9ralisme-david-harvey">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/CristinaNizzoli/status/679948151697051648">@CristinaNizzoli</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Sociologie-du-tennis-Gen-se-d-une-crise-1960-1990-Anne-Marie-Waser"><b class="title">Sociologie du tennis : Genèse d’une crise (1960-1990)</b>, par <span class="author">Anne Marie Waser</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        En tant que sociologue et joueur de tennis, je ne pouvais que finir par ce très joli travail<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/679953824086360064">@balleverte</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-L-enqu-te-de-terrain-Daniel-Cefa-"><b class="title">L’enquête de terrain</b>, dirigé par <span class="author">Daniel Cefaï</span>&nbsp;(<a href="https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/sociobd/status/680001151073447940">@sociobd</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Conditions-of-successful-degradation-of-ceremonies-Harold-Garfinkel"><b class="title">Conditions of successful degradation of ceremonies</b>, par <span class="author">Harold Garfinkel</span>&nbsp;(<a href="https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/sociobd/status/680001151073447940">@sociobd</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Le-devoir-et-la-gr-ce-Cyril-Lemieux"><b class="title">Le devoir et la grâce</b>, par <span class="author">Cyril Lemieux</span>&nbsp;(<a href="https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/sociobd/status/680001151073447940">@sociobd</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-La-fin-des-b-tes-Catherine-R-my"><b class="title">La fin des bêtes</b>, par <span class="author">Catherine Rémy</span>&nbsp;(<a href="https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/sociobd/status/680001151073447940">@sociobd</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Le-chercheur-et-le-quotidien-Alfred-Sch-tz"><b class="title">Le chercheur et le quotidien</b>, par <span class="author">Alfred Schütz</span>&nbsp;(<a href="https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/sociobd/status/680001151073447940">@sociobd</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24--tre-affect-Jeanne-Favret-Saada"><b class="title">Être affecté</b>, par <span class="author">Jeanne Favret-Saada</span>&nbsp;(<a href="https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/sociobd/status/680001151073447940">@sociobd</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-La-trame-de-la-n-gociation-Anselm-Strauss"><b class="title">La trame de la négociation</b>, par <span class="author">Anselm Strauss</span>&nbsp;(<a href="https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/sociobd/status/680001151073447940">@sociobd</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Le-c-ur-l-ouvrage-Jean-Claude-Kaufmann"><b class="title">Le cœur à l’ouvrage</b>, par <span class="author">Jean-Claude Kaufmann</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Parce que c'est Noël…<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/679959600251146240">@NuteluCaine</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Palestinian-Refugees-and-Identity-Nationalism-Politics-and-the-Everyday-Luigi-Achilli"><b class="title">Palestinian Refugees and Identity : Nationalism, Politics and the Everyday</b>, par <span class="author">Luigi Achilli</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/CobbleAndFrame/status/679975754734645248">@CobbleAndFrame</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-L-cole-de-Chicago-Naissance-de-l-cologie-urbaine-Isaac-Joseph-et-Yves-Grafmeyer"><b class="title">L’école de Chicago : Naissance de l’écologie urbaine</b>, par <span class="author">Isaac Joseph et Yves Grafmeyer</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/CobbleAndFrame/status/679975754734645248">@CobbleAndFrame</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-L-institution-imaginaire-de-la-soci-t-Cornelius-Castoriadis"><b class="title">L’institution imaginaire de la société</b>, par <span class="author">Cornelius Castoriadis</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        La théorie du social la plus aboutie<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/679976192716476416">@SamuelHayat</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-L-assassinat-de-Maurice-Halbwachs-Pierre-Bourdieu"><b class="title">L’assassinat de Maurice Halbwachs</b>, par <span class="author">Pierre Bourdieu</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Je voudrais me fendre d’une petite postface à cette liste de #SocioNoël pour qu’elle soit entière avec un texte qui me fait pas sourire.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/CobbleAndFrame/status/679977326839463936">@CobbleAndFrame</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-La-soci-t-du-risque-Sur-la-voie-d-une-autre-modernit-Ulrich-Beck"><b class="title">La société du risque. Sur la voie d’une autre modernité</b>, par <span class="author">Ulrich Beck</span>&nbsp;(<a href="https://questionsdecommunication.revues.org/7281">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Indispensable<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/679977372754546688">@F_Bally</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Un-air-de-radicalisme-Sur-quelques-tendances-r-centes-en-sociologie-de-la-science-et-de-la-technologie-Yves-Gingras"><b class="title">Un air de radicalisme : Sur quelques tendances récentes en sociologie de la science et de la technologie</b>, par <span class="author">Yves Gingras</span>&nbsp;(<a href="http://www.persee.fr/doc/arss_0335-5322_1995_num_108_1_3144">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679990289591865344">@Uneheuredepeine</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-The-Strength-of-Weak-Ties-Mark-S-Granovetter"><b class="title">The Strength of Weak Ties</b>, par <span class="author">Mark S. Granovetter</span>&nbsp;(<a href="https://sociology.stanford.edu/sites/default/files/publications/the_strength_of_weak_ties_and_exch_w-gans.pdf">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679990289591865344">@Uneheuredepeine</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-De-la-vocation-artistique-la-pr-carit-devenir-professeur-de-danse-jazz-S-bastien-Fleuriel"><b class="title">De la vocation artistique à la précarité : devenir professeur de danse jazz</b>, par <span class="author">Sébastien Fleuriel</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679991428232142849">@Uneheuredepeine</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Vie-et-mort-des-institutions-marchandes-Pierre-Fran-ois"><b class="title">Vie et mort des institutions marchandes</b>, par <span class="author">Pierre François</span>&nbsp;(<a href="http://www.pressesdesciencespo.fr/fr/livre/?GCOI=27246100522220">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679991428232142849">@Uneheuredepeine</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Trois-le-ons-sur-l-tat-providence-Gosta-Esping-Andersen-et-Bruno-Palier"><b class="title">Trois leçons sur l’État-providence</b>, par <span class="author">Gosta Esping-Andersen et Bruno Palier</span>&nbsp;(<a href="https://lectures.revues.org/549">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679992083743141888">@Uneheuredepeine</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Les-volutions-de-l-homogamie-de-dipl-mes-de-classe-et-d-origine-sociale-en-France-1969-2011-ouverture-d-ensemble-repli-des-lites-Milan-Bouchet-Valat"><b class="title">Les évolutions de l’homogamie de diplômes, de classe et d’origine sociale en France (1969-2011) : ouverture d’ensemble, repli des élites</b>, par <span class="author">Milan Bouchet-Valat</span>&nbsp;(<a href="http://www.scienceshumaines.com/vers-la-fin-de-l-homogamie_fr_33881.html">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679992083743141888">@Uneheuredepeine</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Changer-de-soci-t-refaire-de-la-sociologie-Bruno-Latour"><b class="title">Changer de société, refaire de la sociologie</b>, par <span class="author">Bruno Latour</span>&nbsp;(<a href="http://www.editionsladecouverte.fr/catalogue/index-Changer_de_soci__t____refaire_de_la_sociologie-9782707153272.html">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679992083743141888">@Uneheuredepeine</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Le-d-clin-de-l-institution-Fran-ois-Dubet"><b class="title">Le déclin de l’institution</b>, par <span class="author">François Dubet</span>&nbsp;(<a href="http://www.scienceshumaines.com/le-declin-de-l-institution_fr_2796.html">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679992876126892032">@Uneheuredepeine</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Essais-Karl-Polanyi"><b class="title">Essais</b>, par <span class="author">Karl Polanyi</span>&nbsp;(<a href="http://www.seuil.com/livre-9782020528474.htm">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679993640073203712">@Uneheuredepeine</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Automobilit-s-postmodernes-quand-l-Autolib-fait-sensation-Paris-Jean-Pierre-Tremblay"><b class="title">Automobilités postmodernes : quand l’Autolib’ fait sensation à Paris</b>, par <span class="author">Jean-Pierre Tremblay</span>&nbsp;(<a href="http://www.cairn.info/revue-societes-2014-4-page-115.htm">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679993640073203712">@Uneheuredepeine</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24--tats-et-r-volutions-sociales-Theda-Skocpol"><b class="title">États et révolutions sociales</b>, par <span class="author">Theda Skocpol</span>&nbsp;(<a href="http://www.fayard.fr/etats-et-revolutions-sociales-9782213014012">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679994463599628288">@Uneheuredepeine</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Statistiques-sans-maths-pour-psychologues-SPSS-pour-Windows-QCM-et-exercices-corrig-s-Christine-P-Dancey-et-John-Reidy"><b class="title">Statistiques sans maths pour psychologues : SPSS pour Windows QCM et exercices corrigés</b>, par <span class="author">Christine P. Dancey et John Reidy</span>&nbsp;(<a href="http://www.amazon.fr/Statistiques-sans-maths-pour-psychologues/dp/2804153843">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679994463599628288">@Uneheuredepeine</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Suicide-L-envers-de-notre-monde-Christian-Baudelot-et-Roger-Establet"><b class="title">Suicide : L’envers de notre monde</b>, par <span class="author">Christian Baudelot et Roger Establet</span>&nbsp;(<a href="https://lectures.revues.org/302">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679994848276037632">@Uneheuredepeine</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-La-foire-aux-illumin-s-sot-risme-th-orie-du-complot-extr-misme-Pierre-Andr-Taguieff"><b class="title">La foire aux illuminés : Ésotérisme, théorie du complot, extrémisme</b>, par <span class="author">Pierre-André Taguieff</span>&nbsp;(<a href="https://assr.revues.org/7272">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        A ouvert mon champ.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/A_Moatti/status/679995137917894656">@A_Moatti</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Le-baroque-des-biographies-Olivier-Schwartz"><b class="title">Le baroque des biographies</b>, par <span class="author">Olivier Schwartz</span>&nbsp;(<a href="http://sociodutravail.is.free.fr/fichiers/L3_PARADIGMES/TEXTES/2_SCHWARTZ%201990%20SCHWARTZ%20BAROQUE%20DES%20BIOGRAPHIES.pdf">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Sur les récits biographiques<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/679998941132419074">@ruggeroparis</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-La-r-forme-de-l-Universit-G-rald-Antoine-et-Jean-Claude-Passeron"><b class="title">La réforme de l’Université</b>, par <span class="author">Gérald Antoine et Jean-Claude Passeron</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/ruggeroparis/status/679999855847145472">@ruggeroparis</a>.</p>
   
   </div>
 </article>
