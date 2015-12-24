@@ -1403,6 +1403,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Politriste/status/672687173888565248">@Politriste</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Pas de la socio mais une grosse claque, sûrement mon livre préféré<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/680074320559902720">@PaillardSimon</a></span>
+      </blockquote>
+    
   
   
   </div>
