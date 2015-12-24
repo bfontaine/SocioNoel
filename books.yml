@@ -2053,8 +2053,11 @@
     link: http://travail-emploi.gouv.fr/publications/Revue_Travail-et-Emploi/pdf/83_1229.pdf
   - title: "Manet : une révolution symbolique"
     author: Pierre Bourdieu
-    source: https://twitter.com/younesamrani2/status/673886158380769280
-    comment: Un très beau cadeau à offrir.
+    sources:
+      - source: https://twitter.com/younesamrani2/status/673886158380769280
+        comment: Un très beau cadeau à offrir.
+      - source: https://twitter.com/sociosauvage/status/679792622110642176
+        comment: Le Bourdieu que j’aimerais avoir le temps de lire en ce moment
     link: https://www.monde-diplomatique.fr/2013/11/BOURDIEU/49770
   - title: "Une révolution symbolique : l’iconoclasme huguenot et la reconstruction catholique"
     author: Olivier Christin
@@ -4478,3 +4481,8 @@
     comment: >
       En attendant le 24, et pour finir en beauté, Un joli Bourdieu/Wacquant
       qui n’est je crois pas passé…
+  - title: "Enquêter : de quel droit ?"
+    author: Sylvain Laurens et Frédéric Neyrat
+    source: https://twitter.com/ArSaintMartin/status/679778224390406144
+    comment: Une lecture indispensable
+    link: http://croquant.atheles.org/horscollection/enqueterdequeldroit/

@@ -4779,6 +4779,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/younesamrani2/status/673886158380769280">@younesamrani2</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Le Bourdieu que j’aimerais avoir le temps de lire en ce moment<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/679792622110642176">@sociosauvage</a></span>
+      </blockquote>
+    
   
   
   </div>
@@ -10665,6 +10670,20 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         En attendant le 24, et pour finir en beauté, Un joli Bourdieu/Wacquant qui n’est je crois pas passé…<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/679749565025771521">@balleverte</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-Enqu-ter-de-quel-droit-Sylvain-Laurens-et-Fr-d-ric-Neyrat"><b class="title">Enquêter : de quel droit ?</b>, par <span class="author">Sylvain Laurens et Frédéric Neyrat</span>&nbsp;(<a href="http://croquant.atheles.org/horscollection/enqueterdequeldroit/">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Une lecture indispensable<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/679778224390406144">@ArSaintMartin</a></span>
       </blockquote>
     
   
