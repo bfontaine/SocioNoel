@@ -119,6 +119,7 @@ class Book
     attrs = @attrs.clone
     attrs["sources"] = html_sources
     attrs["recommenders"] = html_recommenders
+    attrs["title"] = htmlize attrs["title"]
     # ERB wants bindings; not hashs. See https://bugs.ruby-lang.org/issues/8643
     OpenStruct.new(attrs).instance_eval { binding }
   end
@@ -143,7 +144,7 @@ class Book
 
   def html_sources
     sources.empty? ? nil : sources.map do |s|
-      s["comment"] = s["comment"].strip.gsub("\n", "<br/>")
+      s["comment"] = htmlize s["comment"].strip.gsub("\n", "<br/>")
       s["author"] = html_source_author s
       s
     end
@@ -164,6 +165,10 @@ class Book
     source = s["source"]
     author = source.split("/")[3]
     %(<a class="handle" href="#{source}">@#{author}</a>)
+  end
+
+  def htmlize(s)
+    s.gsub(/« /, "«&nbsp;").gsub(/ »/, "&nbsp;»")
   end
 end
 
