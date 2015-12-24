@@ -36,6 +36,7 @@ Accès direct à un jour :<br/>
 21. [21 Décembre](#dec15-21)
 22. [22 Décembre](#dec15-22)
 23. [23 Décembre](#dec15-23)
+24. [24 Décembre](#dec15-24)
 
 <h2 id="dec15-1">1er Décembre</h2>
 <article class="book">
@@ -10160,6 +10161,15 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-21-Vie-et-mort-des-croyances-collectives-G-rard-Bronner"><b class="title">Vie et mort des croyances collectives</b>, par <span class="author">Gérard Bronner</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/bfontn/status/679829492655853568">@bfontn</a>.</p>
+  
+  </div>
+</article>
 <h2 id="dec15-22">22 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-22-La-sociologie-excuse-t-elle-les-terroristes-Xavier-Mol-nat"><b class="title">La sociologie excuse-t-elle les terroristes ?</b>, par <span class="author">Xavier Molénat</span>&nbsp;(<a href="http://www.alterecoplus.fr/en-direct-de-la-recherche/la-sociologie-excuse-t-elle-les-terroristes-201512011020-00002614.html">lien</a>)</div>
@@ -10481,6 +10491,20 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-22-Global-Gay-Fr-d-ric-Martel"><b class="title">Global Gay</b>, par <span class="author">Frédéric Martel</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Situation des gays à travers le monde. Pas académique du tout mais intéressant.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/679830104231526402">@bfontn</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
 <h2 id="dec15-23">23 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-23-Le-viol-aspects-sociologiques-d-un-crime-V-ronique-Le-Goaziou"><b class="title">Le viol, aspects sociologiques d’un crime</b>, par <span class="author">Véronique Le Goaziou</span></div>
@@ -10669,6 +10693,30 @@ Accès direct à un jour :<br/>
       </blockquote>
     
   
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-Les-identit-s-meurtri-res-Amin-Maalouf"><b class="title">Les identités meurtrières</b>, par <span class="author">Amin Maalouf</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Essai d’actualité<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/679830430351273985">@bfontn</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<h2 id="dec15-24">24 Décembre</h2>
+<article class="book">
+  <div class="ref" id="dec15-24-La-peur-des-barbares-Tzvetan-Todorov"><b class="title">La peur des barbares</b>, par <span class="author">Tzvetan Todorov</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/bfontn/status/679830856140242946">@bfontn</a>.</p>
   
   </div>
 </article>
