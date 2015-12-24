@@ -1,5 +1,3 @@
-# TODO add books from http://socio-bd.blogspot.fr/p/calendrier-de-lavent.html
-# Days 11, 15-17, 20, 23-24
 1:
   - title: La misère du monde
     author: Pierre Bourdieu
@@ -1219,6 +1217,7 @@
           mes études pour comprendre ce que ça voulait dire) et "L’écriture
           sociologique". Ou encore celui de Julien Duval pour enfin comprendre
           ces ACM/ACP/ACTrucs qui traînent partout.
+      - source: https://twitter.com/sociobd/status/677443370210500608
   - title: Sociologie du journalisme
     author: Érik Neveu
     source: https://twitter.com/M_Iz_6/status/672682252694851584
@@ -3051,6 +3050,10 @@
     comment: >
       L’article qui m’a inspiré tout un mémoire sur les discours médiatiques
       québécois et la "gouvernementalité racisée"
+  - title: Petites leçons de sociologie des sciences
+    author: Bruno Latour
+    source: https://twitter.com/sociobd/status/675278226835439617
+    link: https://1.bp.blogspot.com/-zy0RMYBm8Mc/Vmq06vswPAI/AAAAAAAAAow/4-zfqz1RTPI/s1600/DAY%2B11LD.png
 12:
   - title: "Au tribunal des couples : Enquête sur des affaires familiales"
     author: Le Collectif Onze
@@ -3599,6 +3602,10 @@
     source: https://twitter.com/CamilleGinger/status/679592883234684929
     comment: Indispensable sur l’ethnopsychiatrie.
     link: https://remi.revues.org/6277
+  - title: Comment sauvegarder la liberté des personnes agées dépendantes en établissement ?
+    author: Pierre Nocerino
+    source: https://twitter.com/sociobd/status/676825591874719748
+    link: http://socio-bd.blogspot.fr/2015/12/la-construction-sociale-de-lautonomie.html
 16:
   - title: Les illusions du management
     author: Jean-Pierre Le Goff
@@ -3742,6 +3749,10 @@
     source: https://twitter.com/CamilleGinger/status/679603459830755328
     comment: Un peu d’histoire et de littérature
     link: http://www.persee.fr/doc/roman_0048-8593_2000_num_30_110_953
+  - title: "Le bonheur comme rétribution du travail artistique : De l’injonction à l’incorporation d’une norme"
+    author: Jérémy Sinigaglia
+    source: https://twitter.com/sociobd/status/677417739728904192
+    link: https://3.bp.blogspot.com/-8N2WYKhV70I/VnJ9inCUPAI/AAAAAAAAAtw/sdkcy2-1LGo/s1600/DAY16%2BLD.png
 17:
   - title: "Devenir adulte : Sociologie comparée de la jeunesse en Europe"
     author: Cécile Van de Velde
@@ -4143,6 +4154,10 @@
   - title: Culture Geek
     author: David Peyron
     source: https://twitter.com/Silmalia/status/678717772562604032
+  - title: "Le Regard sociologique. Essais choisis"
+    author: Everett C. Hughes
+    source: https://twitter.com/sociobd/status/678517181114679296
+    link: https://2.bp.blogspot.com/-LwvtaLVg8fs/VnZ85R3_f8I/AAAAAAAAAvY/eRub37T90GY/s1600/Day20LD.png
 21:
   - title: "Refugees of the revolution, Experiences of Palestinian exile"
     author: Diana Allan
@@ -4470,6 +4485,17 @@
     author: Amin Maalouf
     source: https://twitter.com/bfontn/status/679830430351273985
     comment: Essai d’actualité
+  - title: "Du comment au pourquoi : Description lumineuse et inférence causale en ethnographie"
+    author: Jack Katz
+    source: https://twitter.com/sociobd/status/679681201918087168
+    comment: >
+      Je suis un grand défenseur de l’ethnographie. Ceci est notamment dû à la
+      découverte de certains écrits qui m’ont fait prendre conscience des
+      points forts de cette méthode. Parmi ces texte, je conseille plus que
+      fortement l’article de J. Katz (dans l’indispensable D. Cefaï (éd.),
+      <i>L’engagement ethnographique</i>, Paris, éditions de l’EHESS, coll. «
+      En Temps & Lieux », 2010, p. 43-105).
+    link: https://1.bp.blogspot.com/-IEOhrerOp7o/Vnq5CN6i-xI/AAAAAAAAAwI/F6Axd4H36xo/s1600/Day%2B23%2BLD.PNG
 24:
   - title: La peur des barbares
     author: Tzvetan Todorov

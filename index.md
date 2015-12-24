@@ -2904,6 +2904,8 @@ Accès direct à un jour :<br/>
     
   
   
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/sociobd/status/677443370210500608">@sociobd</a>.</p>
+  
   </div>
 </article>
 <article class="book">
@@ -7117,6 +7119,15 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-11-Petites-le-ons-de-sociologie-des-sciences-Bruno-Latour"><b class="title">Petites leçons de sociologie des sciences</b>, par <span class="author">Bruno Latour</span>&nbsp;(<a href="https://1.bp.blogspot.com/-zy0RMYBm8Mc/Vmq06vswPAI/AAAAAAAAAow/4-zfqz1RTPI/s1600/DAY%2B11LD.png">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/sociobd/status/675278226835439617">@sociobd</a>.</p>
+  
+  </div>
+</article>
 <h2 id="dec15-12">12 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-12-Au-tribunal-des-couples-Enqu-te-sur-des-affaires-familiales-Le-Collectif-Onze"><b class="title">Au tribunal des couples : Enquête sur des affaires familiales</b>, par <span class="author">Le Collectif Onze</span>&nbsp;(<a href="http://www.odilejacob.fr/catalogue/sciences-humaines/droit-justice/au-tribunal-des-couples_9782738130532.php">lien</a>)</div>
@@ -8459,6 +8470,15 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-15-Comment-sauvegarder-la-libert-des-personnes-ag-es-d-pendantes-en-tablissement-Pierre-Nocerino"><b class="title">Comment sauvegarder la liberté des personnes agées dépendantes en établissement ?</b>, par <span class="author">Pierre Nocerino</span>&nbsp;(<a href="http://socio-bd.blogspot.fr/2015/12/la-construction-sociale-de-lautonomie.html">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/sociobd/status/676825591874719748">@sociobd</a>.</p>
+  
+  </div>
+</article>
 <h2 id="dec15-16">16 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-16-Les-illusions-du-management-Jean-Pierre-Le-Goff"><b class="title">Les illusions du management</b>, par <span class="author">Jean-Pierre Le Goff</span></div>
@@ -8826,6 +8846,15 @@ Accès direct à un jour :<br/>
       </blockquote>
     
   
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-16-Le-bonheur-comme-r-tribution-du-travail-artistique-De-l-injonction-l-incorporation-d-une-norme-J-r-my-Sinigaglia"><b class="title">Le bonheur comme rétribution du travail artistique : De l’injonction à l’incorporation d’une norme</b>, par <span class="author">Jérémy Sinigaglia</span>&nbsp;(<a href="https://3.bp.blogspot.com/-8N2WYKhV70I/VnJ9inCUPAI/AAAAAAAAAtw/sdkcy2-1LGo/s1600/DAY16%2BLD.png">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/sociobd/status/677417739728904192">@sociobd</a>.</p>
   
   </div>
 </article>
@@ -9883,6 +9912,15 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-20-Le-Regard-sociologique-Essais-choisis-Everett-C-Hughes"><b class="title">Le Regard sociologique. Essais choisis</b>, par <span class="author">Everett C. Hughes</span>&nbsp;(<a href="https://2.bp.blogspot.com/-LwvtaLVg8fs/VnZ85R3_f8I/AAAAAAAAAvY/eRub37T90GY/s1600/Day20LD.png">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/sociobd/status/678517181114679296">@sociobd</a>.</p>
+  
+  </div>
+</article>
 <h2 id="dec15-21">21 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-21-Refugees-of-the-revolution-Experiences-of-Palestinian-exile-Diana-Allan"><b class="title">Refugees of the revolution, Experiences of Palestinian exile</b>, par <span class="author">Diana Allan</span></div>
@@ -10704,6 +10742,20 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Essai d’actualité<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/679830430351273985">@bfontn</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-Du-comment-au-pourquoi-Description-lumineuse-et-inf-rence-causale-en-ethnographie-Jack-Katz"><b class="title">Du comment au pourquoi : Description lumineuse et inférence causale en ethnographie</b>, par <span class="author">Jack Katz</span>&nbsp;(<a href="https://1.bp.blogspot.com/-IEOhrerOp7o/Vnq5CN6i-xI/AAAAAAAAAwI/F6Axd4H36xo/s1600/Day%2B23%2BLD.PNG">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Je suis un grand défenseur de l’ethnographie. Ceci est notamment dû à la découverte de certains écrits qui m’ont fait prendre conscience des points forts de cette méthode. Parmi ces texte, je conseille plus que fortement l’article de J. Katz (dans l’indispensable D. Cefaï (éd.), <i>L’engagement ethnographique</i>, Paris, éditions de l’EHESS, coll. «&nbsp;En Temps & Lieux&nbsp;», 2010, p. 43-105).<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/679681201918087168">@sociobd</a></span>
       </blockquote>
     
   
