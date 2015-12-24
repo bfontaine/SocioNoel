@@ -11148,3 +11148,12 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-24-Portraits-sociologiques-Bernard-Lahire"><b class="title">Portraits sociologiques</b>, par <span class="author">Bernard Lahire</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/sociosauvage/status/680010697821057025">@sociosauvage</a>.</p>
+  
+  </div>
+</article>
