@@ -10684,8 +10684,15 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-23-Ceci-n-est-pas-qu-un-tableau-Essai-sur-l-art-la-domination-la-magie-et-le-sacr-Bernard-Lahire"><b class="title">Ceci n’est pas qu’un tableau : Essai sur l’art, la domination, la magie et le sacré</b>, par <span class="author">Bernard Lahire</span></div>
   <div class="sources">
   
+    
+      <blockquote class="comment">
+        Un peu de répit avant la fuite en Égypte : Joyeux Noël ! (lire en particulier les pages 244 et 245 :-))<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelChagnard/status/680037392372334593">@SamuelChagnard</a></span>
+      </blockquote>
+    
   
-    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Jo14Hernandez/status/679704539805650945">@Jo14Hernandez</a>.</p>
+  
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/Jo14Hernandez/status/679704539805650945">@Jo14Hernandez</a>.</p>
   
   </div>
 </article>
@@ -10753,6 +10760,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Une lecture indispensable<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/679778224390406144">@ArSaintMartin</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Droits et devoirs dans les enquêtes en sciences sociales. De nombreuses questions dans l'air du temps…<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/vanessa0jerome1/status/680017751080103940">@vanessa0jerome1</a></span>
       </blockquote>
     
   
@@ -10861,8 +10873,15 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-24-L-enqu-te-de-terrain-Daniel-Cefa-"><b class="title">L’enquête de terrain</b>, dirigé par <span class="author">Daniel Cefaï</span>&nbsp;(<a href="https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG">lien</a>)</div>
   <div class="sources">
   
+    
+      <blockquote class="comment">
+        Parce que faire de la sociologie, c’est faire des investigations empiriques<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/lestrelin/status/680072899248676864">@lestrelin</a></span>
+      </blockquote>
+    
   
-    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/sociobd/status/680001151073447940">@sociobd</a>.</p>
+  
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/sociobd/status/680001151073447940">@sociobd</a>.</p>
   
   </div>
 </article>
@@ -11154,6 +11173,20 @@ Accès direct à un jour :<br/>
   
   
     <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/sociosauvage/status/680010697821057025">@sociosauvage</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Sacr-No-l-Richard-Ladwein-et-ric-R-my"><b class="title">Sacré Noël !</b>, par <span class="author">Richard Ladwein et Éric Rémy</span>&nbsp;(<a href="http://www.cairn.info/resume.php?ID_ARTICLE=RDM_044_0229">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        THE #SocioNoel !<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/vanessa0jerome1/status/680040955974692864">@vanessa0jerome1</a></span>
+      </blockquote>
+    
+  
   
   </div>
 </article>

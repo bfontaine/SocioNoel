@@ -4475,7 +4475,12 @@
     source: https://twitter.com/LionnelleMakaya/status/679673850947334145
   - title: "Ceci n’est pas qu’un tableau : Essai sur l’art, la domination, la magie et le sacré"
     author: Bernard Lahire
-    source: https://twitter.com/Jo14Hernandez/status/679704539805650945
+    sources:
+      - source: https://twitter.com/Jo14Hernandez/status/679704539805650945
+      - source: https://twitter.com/SamuelChagnard/status/680037392372334593
+        comment: >
+          Un peu de répit avant la fuite en Égypte : Joyeux Noël ! (lire en
+          particulier les pages 244 et 245 :-))
   - title: "Les Américaines : Histoire des femmes aux Etats-Unis"
     author: Sara M. Evans
     source: https://twitter.com/Silmalia/status/679718439171264512
@@ -4503,8 +4508,13 @@
       qui n’est je crois pas passé…
   - title: "Enquêter : de quel droit ?"
     author: Sylvain Laurens et Frédéric Neyrat
-    source: https://twitter.com/ArSaintMartin/status/679778224390406144
-    comment: Une lecture indispensable
+    sources:
+      - source: https://twitter.com/ArSaintMartin/status/679778224390406144
+        comment: Une lecture indispensable
+      - source: https://twitter.com/vanessa0jerome1/status/680017751080103940
+        comment: >
+          Droits et devoirs dans les enquêtes en sciences sociales. De
+          nombreuses questions dans l'air du temps…
     link: http://croquant.atheles.org/horscollection/enqueterdequeldroit/
   - title: Les identités meurtrières
     author: Amin Maalouf
@@ -4553,7 +4563,12 @@
   - title: L’enquête de terrain
     author: Daniel Cefaï
     directed: true
-    source: https://twitter.com/sociobd/status/680001151073447940
+    sources:
+      - source: https://twitter.com/sociobd/status/680001151073447940
+      - source: https://twitter.com/lestrelin/status/680072899248676864
+        comment: >
+          Parce que faire de la sociologie, c’est faire des investigations
+          empiriques
     link: https://2.bp.blogspot.com/-b6vi0Av6Q-s/VnvjbcW-xXI/AAAAAAAAAwY/swqJAOqEA2U/s1600/Day%2B24texte%2Bcopie.PNG
   - title: Conditions of successful degradation of ceremonies
     author: Harold Garfinkel
@@ -4671,3 +4686,8 @@
   - title: Portraits sociologiques
     author: Bernard Lahire
     source: https://twitter.com/sociosauvage/status/680010697821057025
+  - title: Sacré Noël !
+    author: Richard Ladwein et Éric Rémy
+    source: https://twitter.com/vanessa0jerome1/status/680040955974692864
+    comment: "THE #SocioNoel !"
+    link: http://www.cairn.info/resume.php?ID_ARTICLE=RDM_044_0229
