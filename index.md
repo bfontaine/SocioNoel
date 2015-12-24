@@ -538,13 +538,8 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-1-D-soccidentaliser-la-sociologie-L-Europe-au-miroir-de-la-Chine-Laurence-Roulleau-Berger"><b class="title">Désoccidentaliser la sociologie - L’Europe au miroir de la Chine</b>, par <span class="author">Laurence Roulleau Berger</span></div>
   <div class="sources">
   
-    
-      <blockquote class="comment">
-        Désoccidentaliser la sociologie - L’Europe au miroir de la Chine de Laurence Roulleau Berger<br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Bad_Sociologist/status/671740546461904896">@Bad_Sociologist</a></span>
-      </blockquote>
-    
   
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Bad_Sociologist/status/671740546461904896">@Bad_Sociologist</a>.</p>
   
   </div>
 </article>
@@ -586,7 +581,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Le Don de Marcel Mauss parce que les conclusions ont blow my mind et que c’est le premier ouvrage que j’ai étudié en entier<br/>
+        Parce que les conclusions ont blow my mind et que c’est le premier ouvrage que j’ai étudié en entier<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/671741263482363904">@Pyrate_Jenni</a></span>
       </blockquote>
     
@@ -735,7 +730,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Pour le #socionoël vraie proposition (Anthropologie / Cosmologie) sur notamment les cosmogonies<br/>
+        Vraie proposition (Anthropologie / Cosmologie) sur notamment les cosmogonies<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/x_AcidRain/status/671748321007042561">@x_AcidRain</a></span>
       </blockquote>
     
@@ -891,12 +886,12 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Le livre qui m’a convaincu de faire de la socio "La double absence" de Sayad. La base.<br/>
+        Le livre qui m’a convaincu de faire de la socio. La base.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/671821166114312193">@PaillardSimon</a></span>
       </blockquote>
     
       <blockquote class="comment">
-        Mais bon, On ne lit jamais assez Sayad. Lecture de train de retour.<br/>
+        On ne lit jamais assez Sayad. Lecture de train de retour.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/673542991252987904">@balleverte</a></span>
       </blockquote>
     
@@ -1167,7 +1162,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-2-De-l-usage-des-cat-gories-de-droite-et-de-gauche-dans-le-champ-litt-raire-Gis-le-Sapiro"><b class="title">De l’usage des catégories de « droite » et de « gauche » dans le champ littéraire </b>, par <span class="author">Gisèle Sapiro</span>&nbsp;(<a href="https://www.cairn.info/revue-societes-et-representations-2001-1-page-19.htm">lien</a>)</div>
+  <div class="ref" id="dec15-2-De-l-usage-des-cat-gories-de-droite-et-de-gauche-dans-le-champ-litt-raire-Gis-le-Sapiro"><b class="title">De l’usage des catégories de «&nbsp;droite&nbsp;» et de «&nbsp;gauche&nbsp;» dans le champ littéraire </b>, par <span class="author">Gisèle Sapiro</span>&nbsp;(<a href="https://www.cairn.info/revue-societes-et-representations-2001-1-page-19.htm">lien</a>)</div>
   <div class="sources">
   
     
@@ -1251,7 +1246,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        "L’Identité au travail"sur les effets culturels de l’organisation se lit comme un roman-de sociologue<br/>
+        "L’Identité au travail" sur les effets culturels de l’organisation se lit comme un roman de sociologue<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/EditionsScpo/status/671978317352992768">@EditionsScpo</a></span>
       </blockquote>
     
@@ -1279,7 +1274,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Original et passionnant pour son objet & sa méthode<br/>
+        Original et passionnant pour son objet et sa méthode<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/671990210339696640">@M_Iz_6</a></span>
       </blockquote>
     
@@ -1583,7 +1578,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Des extraits de "Mœurs et sexualité en Océanie" de Margaret Mead : j’en ai retenu l’importance du culturel, les rôles genrés…<br/>
+        J’en ai retenu l’importance du culturel, les rôles genrés…<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ms_BethGreene/status/671996925382696960">@Ms_BethGreene</a></span>
       </blockquote>
     
@@ -1597,7 +1592,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Puisqu’on parle de sciences sociales et pas que de socio, mon #SocioNoel d’aujourd’hui est Naissance de la Biopolitique, cours de Foucault.<br/>
+        Puisqu’on parle de sciences sociales et pas que de socio<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Blinis/status/671998569126060035">@Blinis</a></span>
       </blockquote>
     
@@ -1682,7 +1677,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        La double absence de Sayad, qui m’a foutu les larmes aux yeux tant les drames de l’immigré/émigré y sont décrits avec justesse<br/>
+        M’a foutu les larmes aux yeux tant les drames de l’immigré/émigré y sont décrits avec justesse<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/672023768139567106">@JohnGoodMalik</a></span>
       </blockquote>
     
@@ -1845,7 +1840,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        J’ai raté le #day1, tant pis on commence au #day2 avec Erving bien sûr, je l’ai pas encore vu passer. #SocioNoel !<br/>
+        On commence au #day2 avec Erving bien sûr, je l’ai pas encore vu passer.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PierreM/status/672066434340663296">@PierreM</a></span>
       </blockquote>
     
@@ -1899,7 +1894,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        C’est parti pour le #day2 de #SocioNoel avec une récente réédition. #streetlevelgifts #noelauguichet<br/>
+        Une récente réédition. #streetlevelgifts #noelauguichet<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/672089630423011328">@ruggeroparis</a></span>
       </blockquote>
     
@@ -2082,14 +2077,9 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-3-Islamophobie-Abdellali-Hajjat-et-Marwan-Mohammed"><b class="title">Islamophobie</b>, par <span class="author">Abdellali Hajjat et Marwan Mohammed</span></div>
+  <div class="ref" id="dec15-3-Islamophobie-Comment-les-lites-fran-aises-fabriquent-le-probl-me-musulman-Abdellali-Hajjat-et-Marwan-Mohammed"><b class="title">Islamophobie : Comment les élites françaises fabriquent le «&nbsp;problème musulman&nbsp;»</b>, par <span class="author">Abdellali Hajjat et Marwan Mohammed</span></div>
   <div class="sources">
   
-    
-      <blockquote class="comment">
-        Islamophobie Comment les élites françaises fabriquent le « problème musulman »<br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Laboratoire_CMH/status/672339885118889984">@Laboratoire_CMH</a></span>
-      </blockquote>
     
       <blockquote class="comment">
         En vrai tous le monde devrait avoir ça pour son #SocioNoel<br/>
@@ -2108,6 +2098,8 @@ Accès direct à un jour :<br/>
     
   
   
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/Laboratoire_CMH/status/672339885118889984">@Laboratoire_CMH</a>.</p>
+  
   </div>
 </article>
 <article class="book">
@@ -2116,7 +2108,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Un clin d’oeil à l’ #EcoleDeJourdan pour #SocioNoel #Day3 : objet sociologique de 2004, juste quelques mois avant les émeutes.<br/>
+        Un clin d’oeil à l’ #EcoleDeJourdan : objet sociologique de 2004, juste quelques mois avant les émeutes.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PierreM/status/672340477010714624">@PierreM</a></span>
       </blockquote>
     
@@ -2173,7 +2165,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Max Weber, La Domination, tiré d’Economie & Société, traduit sur la base de l’édition de réf allemande<br/>
+        Tiré d’Economie & Société, traduit sur la base de l’édition de réf allemande<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/672344244871405568">@SamuelHayat</a></span>
       </blockquote>
     
@@ -2217,7 +2209,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        <a href="https://twitter.com/SamuelHayat/status/672344244871405568">#LT</a> A compléter avec "Les trois types purs de la domination légitime", suivi d’intéressantes analyses<br/>
+        <a href="https://twitter.com/SamuelHayat/status/672344244871405568">#LT</a> À compléter avec "Les trois types purs de la domination légitime", suivi d’intéressantes analyses<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/672350485911871488">@SamuelHayat</a></span>
       </blockquote>
     
@@ -2231,7 +2223,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Pour #SocioNoel un peu de socio-histoire et de controverse<br/>
+        Un peu de socio-histoire et de controverse<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mel_picard/status/672351458445103104">@mel_picard</a></span>
       </blockquote>
     
@@ -2259,7 +2251,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Un peu de socio du travail et du genre avec "Une relation enchantée" de Josiane Pinto. Une analyse du travail de secrétaire où l’on voit comment la performance de genre est constituée en compétence professionnelle et où l’on peut donc comprendre l’attachement au genre quand celui-ci est la principale condition d’accès au marché du travail.<br/>
+        Un peu de socio du travail et du genre. Une analyse du travail de secrétaire où l’on voit comment la performance de genre est constituée en compétence professionnelle et où l’on peut donc comprendre l’attachement au genre quand celui-ci est la principale condition d’accès au marché du travail.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Uneheuredepeine/status/672352629490630656">@Uneheuredepeine</a></span>
       </blockquote>
     
@@ -2273,7 +2265,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Andrew Abbott, "Time Matters: On Theory and Method", 2001, ft. le stimulant chap. "Things of Boundaries".<br/>
+        ft. le stimulant chapitre "Things of Boundaries".<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/672334830969991168">@ArSaintMartin</a></span>
       </blockquote>
     
@@ -2328,7 +2320,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Interview à P Bourdieu "Défataliser le monde social" sur @lesinrocks en 2002 par @bourmeau (où le retrouver par ailleurs ?)<br/>
+        Interview à Pierre Bourdieu "Défataliser le monde social" sur @lesinrocks en 2002 par @bourmeau (où le retrouver par ailleurs ?)<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ruggeroparis/status/672332065489231873">@ruggeroparis</a></span>
       </blockquote>
     
@@ -2455,17 +2447,17 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Le toujours d’actualité « Sur la télévision » de Bourdieu<br/>
+        Le toujours d’actualité «&nbsp;Sur la télévision&nbsp;» de Bourdieu<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/bfontn/status/672363344230264832">@bfontn</a></span>
       </blockquote>
     
       <blockquote class="comment">
-        Pour le #jour4 de #SocioNoel les deux branches d’un dévoilement (personnel) : Bourdieu et Neveu @Ed_LaDecouverte<br/>
+        Les deux branches d’un dévoilement (personnel) : Bourdieu et Neveu @Ed_LaDecouverte<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/672682252694851584">@M_Iz_6</a></span>
       </blockquote>
     
       <blockquote class="comment">
-        Pas de sport aujourd’hui. Le premier livre que j’ai lu de Bourdieu.<br/>
+        Le premier livre que j’ai lu de Bourdieu.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ValGuery/status/673204751354503168">@ValGuery</a></span>
       </blockquote>
     
@@ -2479,7 +2471,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        10 ans de marche des beurs. Parce que #BOUAMAMA n’a rien lâché et nous a instruit au passage. Gros big up.<br/>
+        10 ans de marche des beurs. Parce que Bouamama n’a rien lâché et nous a instruit au passage. Gros big up.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/672363693875818497">@LionnelleMakaya</a></span>
       </blockquote>
     
@@ -2519,13 +2511,8 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-3-L-anatomie-politique-Cat-gorisations-et-id-ologies-du-sexe-Nicole-Claude-Mathieu"><b class="title">L’anatomie politique. Catégorisations et idéologies du sexe</b>, par <span class="author">Nicole-Claude Mathieu</span></div>
   <div class="sources">
   
-    
-      <blockquote class="comment">
-        Pour le jour 3 de #SocioNoel : L’anatomie politique. Catégorisations et idéologies du sexe - Nicole-Claude Mathieu<br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Comtesse_Leia/status/672403705174597632">@Comtesse_Leia</a></span>
-      </blockquote>
-    
   
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Comtesse_Leia/status/672403705174597632">@Comtesse_Leia</a>.</p>
   
   </div>
 </article>
@@ -2563,7 +2550,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Pour #SocioNoel je voudrais decouvrir des femmes écrivains. Simone Weil, < L’enracinement > . Des autres ?<br/>
+        Pour #SocioNoel je voudrais decouvrir des femmes écrivains. Simone Weil, «&nbsp;L’enracinement.&nbsp;» Des autres ?<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AnthCasanova2/status/672365017778405376">@AnthCasanova2</a></span>
       </blockquote>
     
@@ -2642,7 +2629,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        La Contre Démocratie de Pierre Rosanvallon, sur la défiance du peuple.<br/>
+        Sur la défiance du peuple.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/AgentOnAMission/status/672433240607744000">@AgentOnAMission</a></span>
       </blockquote>
     
@@ -2670,7 +2657,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        « Avec le temps, tout poste sera occupé par un employé incapable d’en assumer la responsabilité »<br/>
+        «&nbsp;Avec le temps, tout poste sera occupé par un employé incapable d’en assumer la responsabilité&nbsp;»<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ylloPytterP/status/672465704277397504">@ylloPytterP</a></span>
       </blockquote>
     
@@ -2684,7 +2671,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Un peu de sociologie de la famille avec De Singly "Le soi, le couple et la famille" (mon premier lu)<br/>
+        Un peu de sociologie de la famille avec De Singly «&nbsp;Le soi, le couple et la famille&nbsp;» (mon premier lu)<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F_Bally/status/672464941480321024">@F_Bally</a></span>
       </blockquote>
     
@@ -2726,7 +2713,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Tout frais : "A quoi rêvent les algorithmes" de @Karmacoma. Sous les calculs, le politique.<br/>
+        Sous les calculs, le politique.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/F__Casta/status/672451555388473345">@F__Casta</a></span>
       </blockquote>
     
@@ -2768,7 +2755,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Lu juste avt le début du doctorat, histoire de se mettre dans le bain…<br/>
+        Lu juste avant le début du doctorat, histoire de se mettre dans le bain…<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/672687010105139202">@MorganeMdt</a></span>
       </blockquote>
     
@@ -2782,7 +2769,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Voici un livre qu’on m’a mis entre les mains dès la L1 dont je n’ai vraiment compris la puissance que plus tard (les mauvais langues diront « quand tu l’as lu ! » et elles n’auront sans doute pas tout à fait tort…). Une vraie mine d’enseignements ! Toujours aussi utilisable aujourd’hui, plus de 120 ans après sa première publication.<br/>
+        Voici un livre qu’on m’a mis entre les mains dès la L1 dont je n’ai vraiment compris la puissance que plus tard (les mauvais langues diront «&nbsp;quand tu l’as lu !&nbsp;» et elles n’auront sans doute pas tout à fait tort…). Une vraie mine d’enseignements ! Toujours aussi utilisable aujourd’hui, plus de 120 ans après sa première publication.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/672349088977940480">@sociobd</a></span>
       </blockquote>
     
@@ -2924,7 +2911,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Pour le #jour4 de #SocioNoel les deux branches d’un dévoilement (personnel) : Bourdieu et Neveu @Ed_LaDecouverte<br/>
+        Les deux branches d’un dévoilement (personnel) : Bourdieu et Neveu @Ed_LaDecouverte<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/M_Iz_6/status/672682252694851584">@M_Iz_6</a></span>
       </blockquote>
     
@@ -3062,7 +3049,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-4-Le-Populisme-du-FN-un-dangereux-contresens-Annie-Collovald"><b class="title">Le « Populisme du FN, » un dangereux contresens</b>, par <span class="author">Annie Collovald</span></div>
+  <div class="ref" id="dec15-4-Le-Populisme-du-FN-un-dangereux-contresens-Annie-Collovald"><b class="title">Le «&nbsp;Populisme du FN,&nbsp;» un dangereux contresens</b>, par <span class="author">Annie Collovald</span></div>
   <div class="sources">
   
     
@@ -3132,7 +3119,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Un des premiers livre que j’ai lu en socio : "L’invention de la violence" de Mucchielli. Eclairant.<br/>
+        Un des premiers livre que j’ai lu en socio. Eclairant.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/672718198911930369">@PaillardSimon</a></span>
       </blockquote>
     
@@ -3446,7 +3433,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-4-Classer-dominer-Qui-sont-les-autres-Christine-Delphy"><b class="title">Classer, dominer : Qui sont les « autres » ?</b>, par <span class="author">Christine Delphy</span>&nbsp;(<a href="https://infinit.io/_/wNQ8amE">lien</a>)</div>
+  <div class="ref" id="dec15-4-Classer-dominer-Qui-sont-les-autres-Christine-Delphy"><b class="title">Classer, dominer : Qui sont les «&nbsp;autres&nbsp;» ?</b>, par <span class="author">Christine Delphy</span>&nbsp;(<a href="https://infinit.io/_/wNQ8amE">lien</a>)</div>
   <div class="sources">
   
     
@@ -3726,7 +3713,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Les forges de la fiction, de O. Caïra, pour découvrir les jeux de rôle avec les outils des sciences sociales (ex : Goffman)<br/>
+        Pour découvrir les jeux de rôle avec les outils des sciences sociales<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/673073302647250945">@JohnGoodMalik</a></span>
       </blockquote>
     
@@ -3768,7 +3755,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Souvenir marquant de licence : "la socio, là aussi !…"<br/>
+        Souvenir marquant de licence : «&nbsp;la socio, là aussi !…&nbsp;»<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/jbiaudet/status/673119234277433344">@jbiaudet</a></span>
       </blockquote>
     
@@ -3828,7 +3815,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-5--l-cole-du-salariat-Les-tudiants-et-leurs-petits-boulots-Vanessa-Pinto"><b class="title">À l’école du salariat. Les étudiants et leurs « petits boulots »</b>, par <span class="author">Vanessa Pinto</span>&nbsp;(<a href="http://www.laviedesidees.fr/Des-etudiants-entre-etudes-et.html">lien</a>)</div>
+  <div class="ref" id="dec15-5--l-cole-du-salariat-Les-tudiants-et-leurs-petits-boulots-Vanessa-Pinto"><b class="title">À l’école du salariat. Les étudiants et leurs «&nbsp;petits boulots&nbsp;»</b>, par <span class="author">Vanessa Pinto</span>&nbsp;(<a href="http://www.laviedesidees.fr/Des-etudiants-entre-etudes-et.html">lien</a>)</div>
   <div class="sources">
   
     
@@ -3955,7 +3942,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Adapté au &lt;climat> actuel.<br/>
+        Adapté au «&nbsp;climat&nbsp;» actuel.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/673217472980459520">@thefugitive_</a></span>
       </blockquote>
     
@@ -3983,7 +3970,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-5-La-France-a-peur-Une-histoire-sociale-de-l-ins-curit-Laurent-Bonelli"><b class="title">La France a peur : Une histoire sociale de l’« insécurité »</b>, par <span class="author">Laurent Bonelli</span></div>
+  <div class="ref" id="dec15-5-La-France-a-peur-Une-histoire-sociale-de-l-ins-curit-Laurent-Bonelli"><b class="title">La France a peur : Une histoire sociale de l’«&nbsp;insécurité&nbsp;»</b>, par <span class="author">Laurent Bonelli</span></div>
   <div class="sources">
   
     
@@ -4441,7 +4428,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Sur les conditionnements sociaux & la petite enfance.<br/>
+        Sur les conditionnements sociaux et la petite enfance.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/673579573704065024">@thefugitive_</a></span>
       </blockquote>
     
@@ -4474,7 +4461,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Dur de choisir un seul livre de Charles Tilly pour #SocioNoel. Disons Coercion, capital, and European states.<br/>
+        Dur de choisir un seul livre de Charles Tilly. Disons Coercion, capital, and European states.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/674907138091819008">@SamuelHayat</a></span>
       </blockquote>
     
@@ -4486,13 +4473,8 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-6-Homoparentalit-s-approches-scientifiques-et-politiques-Anne-Cadoret-Martine-Gross-Caroline-M-cary-et-Bruno-Perreau"><b class="title">Homoparentalités : approches scientifiques et politiques</b>, par <span class="author">Anne Cadoret, Martine Gross, Caroline Mécary, et Bruno Perreau</span></div>
   <div class="sources">
   
-    
-      <blockquote class="comment">
-        Homoparentalités : approches scientifiques et politiques - Cadoret, Gross, Mecary & Perreau<br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/TookyTsuki/status/673800151430012928">@TookyTsuki</a></span>
-      </blockquote>
-    
   
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/TookyTsuki/status/673800151430012928">@TookyTsuki</a>.</p>
   
   </div>
 </article>
@@ -4582,7 +4564,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Étrangement adapté au &lt;climat> actuel.<br/>
+        Étrangement adapté au «&nbsp;climat&nbsp;» actuel.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/675405037045227520">@thefugitive_</a></span>
       </blockquote>
     
@@ -4605,7 +4587,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-7--Race-et-colonialit-du-pouvoir-An-bal-Quijano"><b class="title">« Race » et colonialité du pouvoir</b>, par <span class="author">Aníbal Quijano</span>&nbsp;(<a href="http://www.cairn.info/revue-mouvements-2007-3-page-111.htm">lien</a>)</div>
+  <div class="ref" id="dec15-7--Race-et-colonialit-du-pouvoir-An-bal-Quijano"><b class="title">«&nbsp;Race&nbsp;» et colonialité du pouvoir</b>, par <span class="author">Aníbal Quijano</span>&nbsp;(<a href="http://www.cairn.info/revue-mouvements-2007-3-page-111.htm">lien</a>)</div>
   <div class="sources">
   
     
@@ -4689,7 +4671,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-7-Les-martyrs-jihadistes-veulent-ils-forc-ment-mourir-Am-lie-Blom"><b class="title">Les « martyrs » jihadistes veulent-ils forcément mourir ?</b>, par <span class="author">Amélie Blom</span>&nbsp;(<a href="http://www.cairn.info/resume.php?ID_ARTICLE=RFSP_615_0867">lien</a>)</div>
+  <div class="ref" id="dec15-7-Les-martyrs-jihadistes-veulent-ils-forc-ment-mourir-Am-lie-Blom"><b class="title">Les «&nbsp;martyrs&nbsp;» jihadistes veulent-ils forcément mourir ?</b>, par <span class="author">Amélie Blom</span>&nbsp;(<a href="http://www.cairn.info/resume.php?ID_ARTICLE=RFSP_615_0867">lien</a>)</div>
   <div class="sources">
   
     
@@ -4756,7 +4738,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-7--tudiants-en-fast-food-les-usages-sociaux-d-un-petit-boulot-Vanessa-Pinto-Damien-Cartron-et-Guillaume-Burnod"><b class="title">Étudiants en fast-food : les usages sociaux d’un « petit boulot »</b>, par <span class="author">Vanessa Pinto, Damien Cartron, et Guillaume Burnod</span>&nbsp;(<a href="http://travail-emploi.gouv.fr/publications/Revue_Travail-et-Emploi/pdf/83_1229.pdf">lien</a>)</div>
+  <div class="ref" id="dec15-7--tudiants-en-fast-food-les-usages-sociaux-d-un-petit-boulot-Vanessa-Pinto-Damien-Cartron-et-Guillaume-Burnod"><b class="title">Étudiants en fast-food : les usages sociaux d’un «&nbsp;petit boulot&nbsp;»</b>, par <span class="author">Vanessa Pinto, Damien Cartron, et Guillaume Burnod</span>&nbsp;(<a href="http://travail-emploi.gouv.fr/publications/Revue_Travail-et-Emploi/pdf/83_1229.pdf">lien</a>)</div>
   <div class="sources">
   
     
@@ -5160,7 +5142,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        L’homme « un animal suspendu dans des toiles de signification qu’il a lui-même tissées »<br/>
+        L’homme «&nbsp;un animal suspendu dans des toiles de signification qu’il a lui-même tissées&nbsp;»<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/dan_maku/status/674174854808096768">@dan_maku</a></span>
       </blockquote>
     
@@ -5491,7 +5473,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Aujourd’hui pour #SocioNoel, un peu d’histoire.<br/>
+        Aujourd’hui, un peu d’histoire.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Ostpolitik/status/674305038014091264">@Ostpolitik</a></span>
       </blockquote>
     
@@ -5584,7 +5566,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-8-Distinctions-culturelles-et-lutte-de-soi-contre-soi-d-tester-la-part-populaire-de-soi-Bernard-Lahire"><b class="title">Distinctions culturelles et lutte de soi contre soi : « détester la part populaire de soi »</b>, par <span class="author">Bernard Lahire</span>&nbsp;(<a href="https://www.cairn.info/revue-hermes-la-revue-2005-2-page-137.htm">lien</a>)</div>
+  <div class="ref" id="dec15-8-Distinctions-culturelles-et-lutte-de-soi-contre-soi-d-tester-la-part-populaire-de-soi-Bernard-Lahire"><b class="title">Distinctions culturelles et lutte de soi contre soi : «&nbsp;détester la part populaire de soi&nbsp;»</b>, par <span class="author">Bernard Lahire</span>&nbsp;(<a href="https://www.cairn.info/revue-hermes-la-revue-2005-2-page-137.htm">lien</a>)</div>
   <div class="sources">
   
   
@@ -5602,7 +5584,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-8-Une-ethnologue-en-Trap-zie-sport-art-ou-spectacle-Magali-Sizorn"><b class="title">Une ethnologue en « Trapézie » : sport, art ou spectacle ?</b>, par <span class="author">Magali Sizorn</span>&nbsp;(<a href="https://3.bp.blogspot.com/-iVltdOdaGN0/VmbCFO7Ib0I/AAAAAAAAAnc/aHdZLK4ZEXM/s1600/Day08LD.png">lien</a>)</div>
+  <div class="ref" id="dec15-8-Une-ethnologue-en-Trap-zie-sport-art-ou-spectacle-Magali-Sizorn"><b class="title">Une ethnologue en «&nbsp;Trapézie&nbsp;» : sport, art ou spectacle ?</b>, par <span class="author">Magali Sizorn</span>&nbsp;(<a href="https://3.bp.blogspot.com/-iVltdOdaGN0/VmbCFO7Ib0I/AAAAAAAAAnc/aHdZLK4ZEXM/s1600/Day08LD.png">lien</a>)</div>
   <div class="sources">
   
     
@@ -5696,7 +5678,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        C’est aussi un portrait de la &lt;méritocratie>.<br/>
+        C’est aussi un portrait de la «&nbsp;méritocratie.&nbsp;»<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/676129891507699716">@thefugitive_</a></span>
       </blockquote>
     
@@ -5917,7 +5899,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Pour poursuivre avec les sociologues avec lesquels j’ai une relation amour/haine. Je suis pas convaincu par tout, mais je trouve que c’est une synthèse très agréable à lire qui aborde pas mal de débats théoriques et politiques qui ont traversé le XX<sup>e</sup>. Corcuff a publié une version ultra-condensée en tout petit format : « La gauche est-elle en état de mort cérébrale ? »<br/>
+        Pour poursuivre avec les sociologues avec lesquels j’ai une relation amour/haine. Je suis pas convaincu par tout, mais je trouve que c’est une synthèse très agréable à lire qui aborde pas mal de débats théoriques et politiques qui ont traversé le XX<sup>e</sup>. Corcuff a publié une version ultra-condensée en tout petit format : «&nbsp;La gauche est-elle en état de mort cérébrale ?&nbsp;»<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/674585846834679808">@sociosauvage</a></span>
       </blockquote>
     
@@ -6078,7 +6060,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Allez un manuel de sociologie politique pour #SocioNoel #j9, celui de Cohen, Lacroix et Riutort, très complet.<br/>
+        Allez un manuel de sociologie politique, celui de Cohen, Lacroix et Riutort, très complet.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/674716025976258560">@SamuelHayat</a></span>
       </blockquote>
     
@@ -6218,7 +6200,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-10-Lectures-l-eau-de-rose-Femmes-patriarcat-et-litt-rature-populaire-Janice-A-Radway"><b class="title">Lectures à « l’eau de rose ». Femmes, patriarcat et littérature populaire</b>, par <span class="author">Janice A. Radway</span>&nbsp;(<a href="http://www.persee.fr/doc/polix_0295-2319_2000_num_13_51_1108?h=radway&h=janice">lien</a>)</div>
+  <div class="ref" id="dec15-10-Lectures-l-eau-de-rose-Femmes-patriarcat-et-litt-rature-populaire-Janice-A-Radway"><b class="title">Lectures à «&nbsp;l’eau de rose&nbsp;». Femmes, patriarcat et littérature populaire</b>, par <span class="author">Janice A. Radway</span>&nbsp;(<a href="http://www.persee.fr/doc/polix_0295-2319_2000_num_13_51_1108?h=radway&h=janice">lien</a>)</div>
   <div class="sources">
   
     
@@ -6986,7 +6968,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-11-L-approche-constructiviste-des-probl-mes-publics-Un-aper-u-des-travaux-anglo-saxons-Erik-Neveu"><b class="title">L’approche constructiviste des « problèmes publics ». Un aperçu des travaux anglo-saxons</b>, par <span class="author">Erik Neveu</span></div>
+  <div class="ref" id="dec15-11-L-approche-constructiviste-des-probl-mes-publics-Un-aper-u-des-travaux-anglo-saxons-Erik-Neveu"><b class="title">L’approche constructiviste des «&nbsp;problèmes publics&nbsp;». Un aperçu des travaux anglo-saxons</b>, par <span class="author">Erik Neveu</span></div>
   <div class="sources">
   
     
@@ -7079,7 +7061,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-11-Logiques-pratiques-le-faire-et-le-dire-sur-le-faire-Bernard-Lahire"><b class="title">Logiques pratiques : le « faire » et le « dire sur le faire »</b>, par <span class="author">Bernard Lahire</span>&nbsp;(<a href="http://ife.ens-lyon.fr/publications/edition-electronique/recherche-et-formation/RR027-02.pdf">lien</a>)</div>
+  <div class="ref" id="dec15-11-Logiques-pratiques-le-faire-et-le-dire-sur-le-faire-Bernard-Lahire"><b class="title">Logiques pratiques : le «&nbsp;faire&nbsp;» et le «&nbsp;dire sur le faire&nbsp;»</b>, par <span class="author">Bernard Lahire</span>&nbsp;(<a href="http://ife.ens-lyon.fr/publications/edition-electronique/recherche-et-formation/RR027-02.pdf">lien</a>)</div>
   <div class="sources">
   
     
@@ -7461,7 +7443,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-12-Passer-les-fronti-res-sociales-Comment-les-fili-res-d-lite-entrouvrent-leurs-portes-Paul-Pasquali"><b class="title">Passer les frontières sociales : Comment les « filières d’élite » entrouvrent leurs portes</b>, par <span class="author">Paul Pasquali</span></div>
+  <div class="ref" id="dec15-12-Passer-les-fronti-res-sociales-Comment-les-fili-res-d-lite-entrouvrent-leurs-portes-Paul-Pasquali"><b class="title">Passer les frontières sociales : Comment les «&nbsp;filières d’élite&nbsp;» entrouvrent leurs portes</b>, par <span class="author">Paul Pasquali</span></div>
   <div class="sources">
   
   
@@ -8199,7 +8181,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-15-Genre-et-sexualit-dans-le-rapport-p-dagogique-ethnographie-d-un-lyc-e-de-banlieue-Zo-Rollin"><b class="title">Genre et sexualité dans le rapport pédagogique : ethnographie d’un lycée « de banlieue »</b>, par <span class="author">Zoé Rollin</span>&nbsp;(<a href="https://gss.revues.org/2350">lien</a>)</div>
+  <div class="ref" id="dec15-15-Genre-et-sexualit-dans-le-rapport-p-dagogique-ethnographie-d-un-lyc-e-de-banlieue-Zo-Rollin"><b class="title">Genre et sexualité dans le rapport pédagogique : ethnographie d’un lycée «&nbsp;de banlieue&nbsp;»</b>, par <span class="author">Zoé Rollin</span>&nbsp;(<a href="https://gss.revues.org/2350">lien</a>)</div>
   <div class="sources">
   
   
@@ -8492,7 +8474,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-16-Le-scandale-des-tournantes-D-rives-m-diatiques-contre-enqu-te-sociologique-Laurent-Mucchielli"><b class="title">Le scandale des « tournantes » : Dérives médiatiques, contre-enquête sociologique</b>, par <span class="author">Laurent Mucchielli</span></div>
+  <div class="ref" id="dec15-16-Le-scandale-des-tournantes-D-rives-m-diatiques-contre-enqu-te-sociologique-Laurent-Mucchielli"><b class="title">Le scandale des «&nbsp;tournantes&nbsp;» : Dérives médiatiques, contre-enquête sociologique</b>, par <span class="author">Laurent Mucchielli</span></div>
   <div class="sources">
   
     
@@ -9034,7 +9016,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-17-Des-h-ritiers-en-chec-scolaire-Ga-lle-Henri-Panabi-re"><b class="title">Des « héritiers » en échec scolaire</b>, par <span class="author">Gaëlle Henri-Panabière</span></div>
+  <div class="ref" id="dec15-17-Des-h-ritiers-en-chec-scolaire-Ga-lle-Henri-Panabi-re"><b class="title">Des «&nbsp;héritiers&nbsp;» en échec scolaire</b>, par <span class="author">Gaëlle Henri-Panabière</span></div>
   <div class="sources">
   
     
@@ -9494,7 +9476,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-19-La-banlieue-du-20-heures-Ethnographie-de-la-production-d-un-lieu-commun-journalistique-J-r-me-Berthaut"><b class="title">La banlieue du « 20 heures » : Ethnographie de la production d’un lieu commun journalistique</b>, par <span class="author">Jérôme Berthaut</span></div>
+  <div class="ref" id="dec15-19-La-banlieue-du-20-heures-Ethnographie-de-la-production-d-un-lieu-commun-journalistique-J-r-me-Berthaut"><b class="title">La banlieue du «&nbsp;20 heures&nbsp;» : Ethnographie de la production d’un lieu commun journalistique</b>, par <span class="author">Jérôme Berthaut</span></div>
   <div class="sources">
   
     
@@ -9526,7 +9508,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-19-Le-racing-club-de-Lens-et-les-gueules-noires-Marion-Fontaine"><b class="title">Le racing club de Lens et les « gueules noires »</b>, par <span class="author">Marion Fontaine</span></div>
+  <div class="ref" id="dec15-19-Le-racing-club-de-Lens-et-les-gueules-noires-Marion-Fontaine"><b class="title">Le racing club de Lens et les «&nbsp;gueules noires&nbsp;»</b>, par <span class="author">Marion Fontaine</span></div>
   <div class="sources">
   
     
@@ -9827,7 +9809,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-20--quoi-sert-le-culturalisme-Pratiques-m-dicales-et-cat-gorisations-des-femmes-migrantes-dans-trois-maternit-s-franciliennes-Alexandra-Nacu"><b class="title">À quoi sert le culturalisme ? Pratiques médicales et catégorisations des femmes « migrantes » dans trois maternités franciliennes</b>, par <span class="author">Alexandra Nacu</span></div>
+  <div class="ref" id="dec15-20--quoi-sert-le-culturalisme-Pratiques-m-dicales-et-cat-gorisations-des-femmes-migrantes-dans-trois-maternit-s-franciliennes-Alexandra-Nacu"><b class="title">À quoi sert le culturalisme ? Pratiques médicales et catégorisations des femmes «&nbsp;migrantes&nbsp;» dans trois maternités franciliennes</b>, par <span class="author">Alexandra Nacu</span></div>
   <div class="sources">
   
     
@@ -10055,7 +10037,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Quand on parle objet et sociologie, on évoque souvent Latour et Cie. Pour ma part, j’aime beaucoup l’article de L. Thévenot, « Le régime de familiarité : Des choses en personne », Genèses n<sup>o</sup>17, 1994, p. 72-101.<br/>
+        Quand on parle objet et sociologie, on évoque souvent Latour et Cie. Pour ma part, j’aime beaucoup l’article de L. Thévenot, «&nbsp;Le régime de familiarité : Des choses en personne&nbsp;», Genèses n<sup>o</sup>17, 1994, p. 72-101.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/678895173749891073">@sociobd</a></span>
       </blockquote>
     
@@ -10101,7 +10083,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-21-Importer-Berlusconi-Le-d-chiffrement-de-l-exp-rience-politique-de-Bernard-Tapie-la-lumi-re-du-populisme-italien-Philippe-Riutort"><b class="title">Importer Berlusconi : Le déchiffrement de l’expérience politique de Bernard Tapie à la lumière du « populisme » italien</b>, par <span class="author">Philippe Riutort</span>&nbsp;(<a href="http://www.cairn.info/revue-politix-2007-1-page-153.htm">lien</a>)</div>
+  <div class="ref" id="dec15-21-Importer-Berlusconi-Le-d-chiffrement-de-l-exp-rience-politique-de-Bernard-Tapie-la-lumi-re-du-populisme-italien-Philippe-Riutort"><b class="title">Importer Berlusconi : Le déchiffrement de l’expérience politique de Bernard Tapie à la lumière du «&nbsp;populisme&nbsp;» italien</b>, par <span class="author">Philippe Riutort</span>&nbsp;(<a href="http://www.cairn.info/revue-politix-2007-1-page-153.htm">lien</a>)</div>
   <div class="sources">
   
     
@@ -10311,7 +10293,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        E. Goffman est un grand classique parmi les sociologues, tout comme la plupart de ses ouvrages. Pour n’en citer qu’un, j’évoquerais le récemment traduit : Comment se conduire dans les lieux publics. Notes sur l’organisation sociale des rassemblements, Paris, Économica, coll. « Études sociologiques », 2013.<br/>
+        E. Goffman est un grand classique parmi les sociologues, tout comme la plupart de ses ouvrages. Pour n’en citer qu’un, j’évoquerais le récemment traduit : Comment se conduire dans les lieux publics. Notes sur l’organisation sociale des rassemblements, Paris, Économica, coll. «&nbsp;Études sociologiques&nbsp;», 2013.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/679240022424494080">@sociobd</a></span>
       </blockquote>
     
