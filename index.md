@@ -772,8 +772,15 @@ Accès direct à un jour :<br/>
   <div class="ref" id="dec15-1-Pourquoi-les-pauvres-votent-droite-Thomas-Frank"><b class="title">Pourquoi les pauvres votent à droite</b>, par <span class="author">Thomas Frank</span></div>
   <div class="sources">
   
+    
+      <blockquote class="comment">
+        Analyse politique et sociale d’un vote contradictoire<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/676329927902412800">@Jo14Hernandez</a></span>
+      </blockquote>
+    
   
-    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/leblognoteur/status/671765810986287108">@leblognoteur</a>.</p>
+  
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/leblognoteur/status/671765810986287108">@leblognoteur</a>.</p>
   
   </div>
 </article>
@@ -900,6 +907,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         On ne lit jamais assez Sayad. Lecture de train de retour.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/balleverte/status/673542991252987904">@balleverte</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        M’a foutu les larmes aux yeux tant les drames de l’immigré/émigré y sont décrits avec justesse<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/672023768139567106">@JohnGoodMalik</a></span>
       </blockquote>
     
   
@@ -1665,6 +1677,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociosauvage/status/673865418218545152">@sociosauvage</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Invitation hilarante & percutante (presque) pour tous.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/672511628689211392">@thefugitive_</a></span>
+      </blockquote>
+    
   
   
     <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/Uneheuredepeine/status/679990634967646208">@Uneheuredepeine</a>.</p>
@@ -1679,20 +1696,6 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Vous aussi vous ressentez un besoin de repli sur la sphère privée? Des clés pour comprendre dans ce livre<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/elsaaa_f/status/672009496311537664">@elsaaa_f</a></span>
-      </blockquote>
-    
-  
-  
-  </div>
-</article>
-<article class="book">
-  <div class="ref" id="dec15-2-La-double-absence-Abdelmalek-Sayad"><b class="title">La double absence</b>, par <span class="author">Abdelmalek Sayad</span></div>
-  <div class="sources">
-  
-    
-      <blockquote class="comment">
-        M’a foutu les larmes aux yeux tant les drames de l’immigré/émigré y sont décrits avec justesse<br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/JohnGoodMalik/status/672023768139567106">@JohnGoodMalik</a></span>
       </blockquote>
     
   
@@ -2761,20 +2764,6 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-3-Invitation-la-sociologie-Peter-L-Berger"><b class="title">Invitation à la sociologie</b>, par <span class="author">Peter L. Berger</span></div>
-  <div class="sources">
-  
-    
-      <blockquote class="comment">
-        Invitation hilarante & percutante (presque) pour tous.<br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/672511628689211392">@thefugitive_</a></span>
-      </blockquote>
-    
-  
-  
-  </div>
-</article>
-<article class="book">
   <div class="ref" id="dec15-3-Le-monde-v-cu-des-universitaires-Laurence-Viry"><b class="title">Le monde vécu des universitaires</b>, par <span class="author">Laurence Viry</span></div>
   <div class="sources">
   
@@ -3304,6 +3293,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Petit cadeau avant l’heure, "Les mondes de l’art" en anglais<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelChagnard/status/672777027607490561">@SamuelChagnard</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Allez, commençons la semaine de #SocioNoel par un socio-gif qui rappellera à certains un meme bien connu…<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/676312831197884416">@sociobd</a></span>
       </blockquote>
     
   
@@ -7899,20 +7893,6 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-14-Pourquoi-les-pauvres-votent-droite-Thomas-Frank"><b class="title">Pourquoi les pauvres votent à droite</b>, par <span class="author">Thomas Frank</span></div>
-  <div class="sources">
-  
-    
-      <blockquote class="comment">
-        Analyse politique et sociale d’un vote contradictoire<br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Jo14Hernandez/status/676329927902412800">@Jo14Hernandez</a></span>
-      </blockquote>
-    
-  
-  
-  </div>
-</article>
-<article class="book">
   <div class="ref" id="dec15-14-Le-spectre-du-communautarisme-Laurent-L-vy"><b class="title">Le spectre du communautarisme</b>, par <span class="author">Laurent Lévy</span></div>
   <div class="sources">
   
@@ -7920,20 +7900,6 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Une petite dédicace à la DILCRA avec cet ouvrage sur le "communautarisme".<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/676336255437787136">@Lil_RoXaNe</a></span>
-      </blockquote>
-    
-  
-  
-  </div>
-</article>
-<article class="book">
-  <div class="ref" id="dec15-14-Les-mondes-de-l-art-Howard-Becker"><b class="title">Les mondes de l’art</b>, par <span class="author">Howard Becker</span>&nbsp;(<a href="https://1.bp.blogspot.com/-fUygufcpAKQ/Vm29pPJ_zYI/AAAAAAAAApg/fBMxAwduIm8/s1600/Becker-becker5.gif">lien</a>)</div>
-  <div class="sources">
-  
-    
-      <blockquote class="comment">
-        Allez, commençons la semaine de #SocioNoel par un socio-gif qui rappellera à certains un meme bien connu…<br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/676312831197884416">@sociobd</a></span>
       </blockquote>
     
   
@@ -8258,11 +8224,18 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-15-L-engagement-dans-le-travail-Alexandra-Bidet"><b class="title">L’engagement dans le travail</b>, par <span class="author">Alexandra Bidet</span></div>
+  <div class="ref" id="dec15-15-L-engagement-dans-le-travail-Alexandra-Bidet"><b class="title">L’engagement dans le travail</b>, par <span class="author">Alexandra Bidet</span>&nbsp;(<a href="http://www.humanite.fr/08_04_2011-dun-%C2%AB-vrai-boulot-%C2%BB-%C3%A0-lheure-du-travail-en-miettes-469620">lien</a>)</div>
   <div class="sources">
   
+    
+      <blockquote class="comment">
+        Ré-explorer l’activité professionnelle<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/677437667198541824">@ArSaintMartin</a></span>
+      </blockquote>
+    
   
-    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Laboratoire_CMH/status/676712116305403904">@Laboratoire_CMH</a>.</p>
+  
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/Laboratoire_CMH/status/676712116305403904">@Laboratoire_CMH</a>.</p>
   
   </div>
 </article>
@@ -9002,20 +8975,6 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Concept du “corps d’exception” très intéressant<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/_Holidayre/status/677435820219965441">@_Holidayre</a></span>
-      </blockquote>
-    
-  
-  
-  </div>
-</article>
-<article class="book">
-  <div class="ref" id="dec15-17-L-engagement-dans-le-travail-Alexandra-Bidet"><b class="title">L’engagement dans le travail</b>, par <span class="author">Alexandra Bidet</span>&nbsp;(<a href="http://www.humanite.fr/08_04_2011-dun-%C2%AB-vrai-boulot-%C2%BB-%C3%A0-lheure-du-travail-en-miettes-469620">lien</a>)</div>
-  <div class="sources">
-  
-    
-      <blockquote class="comment">
-        Ré-explorer l’activité professionnelle<br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ArSaintMartin/status/677437667198541824">@ArSaintMartin</a></span>
       </blockquote>
     
   

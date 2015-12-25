@@ -313,7 +313,10 @@
     source: https://twitter.com/M_Iz_6/status/671754952629424128
   - title: Pourquoi les pauvres votent à droite
     author: Thomas Frank
-    source: https://twitter.com/leblognoteur/status/671765810986287108
+    sources:
+      - source: https://twitter.com/leblognoteur/status/671765810986287108
+      - source: https://twitter.com/Jo14Hernandez/status/676329927902412800
+        comment: Analyse politique et sociale d’un vote contradictoire
   - title: Carbon Democracy
     author: Tim Mitchell
     source: https://twitter.com/marvinrouge/status/671766475171041286
@@ -371,6 +374,10 @@
         comment: Le livre qui m’a convaincu de faire de la socio. La base.
       - source: https://twitter.com/balleverte/status/673542991252987904
         comment: On ne lit jamais assez Sayad. Lecture de train de retour.
+      - source: https://twitter.com/JohnGoodMalik/status/672023768139567106
+        comment: >
+          M’a foutu les larmes aux yeux tant les drames de l’immigré/émigré y
+          sont décrits avec justesse
   - title: Basses Oeuvres. Une ethnologie du travail dans les égouts
     author: Agnès Jeanjean
     source: https://twitter.com/TaniaLaura03/status/671821492150263809
@@ -690,6 +697,8 @@
       - source: https://twitter.com/sociosauvage/status/673865418218545152
         comment: Déjà passé, mais je le remet parce qu’il est vraiment bien ;)
       - source: https://twitter.com/Uneheuredepeine/status/679990634967646208
+      - source: https://twitter.com/thefugitive_/status/672511628689211392
+        comment: Invitation hilarante & percutante (presque) pour tous.
     link: https://lectures.revues.org/333
   - title: Bonheur privé, action publique
     author: Albert O. Hirschman
@@ -698,12 +707,6 @@
       Vous aussi vous ressentez un besoin de repli sur la sphère privée? Des
       clés pour comprendre dans ce livre
     link: http://www.fayard.fr/sites/default/files/images/livres/9782818503690-X_0.jpg
-  - title: La double absence
-    author: Abdelmalek Sayad
-    source: https://twitter.com/JohnGoodMalik/status/672023768139567106
-    comment: >
-      M’a foutu les larmes aux yeux tant les drames de l’immigré/émigré y sont
-      décrits avec justesse
   - title: Black feminism
     author: Elsa Dorlin
     source: https://twitter.com/LionnelleMakaya/status/672021556776804352
@@ -1154,10 +1157,6 @@
     comment: >
       Un régal de lire Janine Pierret (et Philippe Artières) revenir sur ses
       enquêtes années 80 #VIH #SCsocial
-  - title: Invitation à la sociologie
-    author: Peter L. Berger
-    source: https://twitter.com/thefugitive_/status/672511628689211392
-    comment: Invitation hilarante & percutante (presque) pour tous.
   - title: Le monde vécu des universitaires
     author: Laurence Viry
     source: https://twitter.com/MorganeMdt/status/672687010105139202
@@ -1414,8 +1413,13 @@
       syndicaliste.
   - title: Les mondes de l’art
     author: Howard Becker
-    source: https://twitter.com/SamuelChagnard/status/672777027607490561
-    comment: Petit cadeau avant l’heure, "Les mondes de l’art" en anglais
+    sources:
+      - source: https://twitter.com/SamuelChagnard/status/672777027607490561
+        comment: Petit cadeau avant l’heure, "Les mondes de l’art" en anglais
+      - source: https://twitter.com/sociobd/status/676312831197884416
+        comment: >
+          Allez, commençons la semaine de #SocioNoel par un socio-gif qui
+          rappellera à certains un meme bien connu…
     link: http://www.monoskop.org/images/1/17/Becker_Howard_S_Art_Worlds.pdf
   - title: Phénomènes sociaux totaux et dynamique sociale
     author: George Balandier
@@ -3389,23 +3393,12 @@
       - source: https://twitter.com/ludemain/status/676323040989470720
         comment: Winston Parva, established and outsiders
       - source: https://twitter.com/Silmalia/status/676441342118133760
-  - title: Pourquoi les pauvres votent à droite
-    author: Thomas Frank
-    source: https://twitter.com/Jo14Hernandez/status/676329927902412800
-    comment: Analyse politique et sociale d’un vote contradictoire
   - title: Le spectre du communautarisme
     author: Laurent Lévy
     source: https://twitter.com/Lil_RoXaNe/status/676336255437787136
     comment: >
       Une petite dédicace à la DILCRA avec cet ouvrage sur le
       "communautarisme".
-  - title: Les mondes de l’art
-    author: Howard Becker
-    source: https://twitter.com/sociobd/status/676312831197884416
-    comment: >
-      Allez, commençons la semaine de #SocioNoel par un socio-gif qui
-      rappellera à certains un meme bien connu…
-    link: https://1.bp.blogspot.com/-fUygufcpAKQ/Vm29pPJ_zYI/AAAAAAAAApg/fBMxAwduIm8/s1600/Becker-becker5.gif
   - title: Langage et classes sociales
     author: Basil Bernstein
     source: https://twitter.com/ruggeroparis/status/676344188225593345
@@ -3533,7 +3526,11 @@
     link: http://www.cairn.info/revue-mouvements-2014-2.htm
   - title: L’engagement dans le travail
     author: Alexandra Bidet
-    source: https://twitter.com/Laboratoire_CMH/status/676712116305403904
+    sources:
+      - source: https://twitter.com/Laboratoire_CMH/status/676712116305403904
+      - source: https://twitter.com/ArSaintMartin/status/677437667198541824
+        comment: Ré-explorer l’activité professionnelle
+    link: http://www.humanite.fr/08_04_2011-dun-%C2%AB-vrai-boulot-%C2%BB-%C3%A0-lheure-du-travail-en-miettes-469620
   - title: Carnal knowledge and imperial power
     author: Ann Laura Stoler
     source: https://twitter.com/Jacobo_Grajales/status/676713548240826368
@@ -3822,11 +3819,6 @@
     author: Pierre Tevanian
     source: https://twitter.com/_Holidayre/status/677435820219965441
     comment: Concept du “corps d’exception” très intéressant
-  - title: L’engagement dans le travail
-    author: Alexandra Bidet
-    source: https://twitter.com/ArSaintMartin/status/677437667198541824
-    comment: Ré-explorer l’activité professionnelle
-    link: http://www.humanite.fr/08_04_2011-dun-%C2%AB-vrai-boulot-%C2%BB-%C3%A0-lheure-du-travail-en-miettes-469620
   - title: Savoir faire et pouvoir transmettre
     author: Denis Chevallier
     directed: true
