@@ -6,7 +6,6 @@ layout: default
 
 <b>#SocioNoel</b> est une idée originale de [@CobbleAndFrame](https://twitter.com/CobbleAndFrame/status/671360041136558081), qui a également créé l’image ci-dessus (utilisée sans aucune permission).
 La liste ci-dessous est compilée à la main à partir des tweets qui ont le hashtag [#SocioNoel](https://twitter.com/search?f=tweets&vertical=default&q=socionoel).
-Il n’y a pas d’ordre particulier.
 
 Le <a href="https://github.com/bfontaine/SocioNoel">code de cette page</a> est libre et la liste est dans le domaine public.
 Contactez-moi sur Twitter (<a href="https://twitter.com/bfontn">@bfontn</a>) si vous la voulez dans un autre format (CSV/Excel, PDF, etc).
@@ -52,6 +51,11 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Parole donnée à ceux qui vivent la misère sociale, sous toutes ses formes. A offrir car accessible.<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Lil_RoXaNe/status/678516609879777280">@Lil_RoXaNe</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Pavé d’enquêtes passionnantes.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/680138513434689536">@thefugitive_</a></span>
       </blockquote>
     
   
@@ -2445,11 +2449,18 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-3-Un-si-fragile-vernis-d-humanit-Michel-Terestchenko"><b class="title">Un si fragile vernis d’humanité</b>, par <span class="author">Michel Terestchenko</span></div>
+  <div class="ref" id="dec15-3-Un-si-fragile-vernis-d-humanit-Banalit-du-mal-banalit-du-bien-Michel-Terestchenko"><b class="title">Un si fragile vernis d’humanité : Banalité du mal, banalité du bien</b>, par <span class="author">Michel Terestchenko</span></div>
   <div class="sources">
   
+    
+      <blockquote class="comment">
+        Si je ne devais qu’avoir un seul livre…<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/680142590969298944">@thefugitive_</a></span>
+      </blockquote>
+    
   
-    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Silmalia/status/672355392823951360">@Silmalia</a>.</p>
+  
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/Silmalia/status/672355392823951360">@Silmalia</a>.</p>
   
   </div>
 </article>
@@ -3065,7 +3076,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-4-Le-Populisme-du-FN-un-dangereux-contresens-Annie-Collovald"><b class="title">Le «&nbsp;Populisme du FN,&nbsp;» un dangereux contresens</b>, par <span class="author">Annie Collovald</span></div>
+  <div class="ref" id="dec15-4-Le-Populisme-du-FN-un-dangereux-contresens-Annie-Collovald"><b class="title">Le «&nbsp;Populisme du FN&nbsp;», un dangereux contresens</b>, par <span class="author">Annie Collovald</span></div>
   <div class="sources">
   
     
@@ -3214,7 +3225,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-4-Capitalisme-d-sir-et-servitude-Fr-d-ric-Lordon"><b class="title">Capitalisme, désir et servitude</b>, par <span class="author">Frédéric Lordon</span></div>
+  <div class="ref" id="dec15-4-Capitalisme-d-sir-et-servitude-Marx-et-Spinoza-Fr-d-ric-Lordon"><b class="title">Capitalisme, désir et servitude : Marx et Spinoza</b>, par <span class="author">Frédéric Lordon</span></div>
   <div class="sources">
   
     
@@ -3224,6 +3235,8 @@ Accès direct à un jour :<br/>
       </blockquote>
     
   
+  
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/thefugitive_/status/680136233759158274">@thefugitive_</a>.</p>
   
   </div>
 </article>
@@ -8499,6 +8512,15 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-15-Peau-noire-cheveu-cr-pu-L-histoire-d-une-ali-nation-Juliette-Sm-ralda"><b class="title">Peau noire, cheveu crépu : L’histoire d’une aliénation</b>, par <span class="author">Juliette Sméralda</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/thefugitive_/status/680129913576402946">@thefugitive_</a>.</p>
+  
+  </div>
+</article>
 <h2 id="dec15-16">16 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-16-Les-illusions-du-management-Jean-Pierre-Le-Goff"><b class="title">Les illusions du management</b>, par <span class="author">Jean-Pierre Le Goff</span></div>
@@ -8888,6 +8910,15 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-16-We-Real-Cool-Black-Men-and-Masculinity-bell-hooks"><b class="title">We Real Cool: Black Men and Masculinity</b>, par <span class="author">bell hooks</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/thefugitive_/status/680130621738475520">@thefugitive_</a>.</p>
+  
+  </div>
+</article>
 <h2 id="dec15-17">17 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-17-Devenir-adulte-Sociologie-compar-e-de-la-jeunesse-en-Europe-C-cile-Van-de-Velde"><b class="title">Devenir adulte : Sociologie comparée de la jeunesse en Europe</b>, par <span class="author">Cécile Van de Velde</span></div>
@@ -9215,6 +9246,20 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-17-M-dias-et-classes-populaires-Les-usages-ordinaires-des-informations-Vincent-Goulet"><b class="title">Médias et classes populaires : Les usages ordinaires des informations</b>, par <span class="author">Vincent Goulet</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Dans mon top 10<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/680131848723369984">@thefugitive_</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
 <h2 id="dec15-18">18 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-18-Soigner-les-exclus-Isabelle-Parizot"><b class="title">Soigner les exclus</b>, par <span class="author">Isabelle Parizot</span>&nbsp;(<a href="http://www.puf.com/Autres_Collections:Soigner_les_exclus">lien</a>)</div>
@@ -9517,6 +9562,15 @@ Accès direct à un jour :<br/>
       </blockquote>
     
   
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-18-L-Islam-imaginaire-La-construction-m-diatique-de-l-islamophobie-en-France-1975-2005-Thomas-Deltombe"><b class="title">L’Islam imaginaire : La construction médiatique de l’islamophobie en France, 1975-2005</b>, par <span class="author">Thomas Deltombe</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/thefugitive_/status/680133707584421889">@thefugitive_</a>.</p>
   
   </div>
 </article>
@@ -9948,6 +10002,20 @@ Accès direct à un jour :<br/>
   
   
     <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/sociobd/status/678517181114679296">@sociobd</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-20-Guerre-de-mouvement-et-guerre-de-position-Antonio-Gramsci"><b class="title">Guerre de mouvement et guerre de position</b>, par <span class="author">Antonio Gramsci</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Textes de Gramsci réunis par R. Keucheyan.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/680137229142994944">@thefugitive_</a></span>
+      </blockquote>
+    
+  
   
   </div>
 </article>
@@ -10573,6 +10641,15 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-22-Je-chante-le-corps-critique-Les-usages-politiques-du-corps-Claude-Guillon"><b class="title">Je chante le corps critique : Les usages politiques du corps</b>, par <span class="author">Claude Guillon</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/thefugitive_/status/680139780403937280">@thefugitive_</a>.</p>
+  
+  </div>
+</article>
 <h2 id="dec15-23">23 Décembre</h2>
 <article class="book">
   <div class="ref" id="dec15-23-Le-viol-aspects-sociologiques-d-un-crime-V-ronique-Le-Goaziou"><b class="title">Le viol, aspects sociologiques d’un crime</b>, par <span class="author">Véronique Le Goaziou</span></div>
@@ -10663,7 +10740,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-23-Socialisations-masculines-de-l-enfance-l-ge-adulte-collectif"><b class="title">Socialisations masculines, de l'enfance à l'âge adulte</b> (collectif)&nbsp;(<a href="http://www.cairn.info/revue-terrains-et-travaux-2015-2.htm">lien</a>)</div>
+  <div class="ref" id="dec15-23-Socialisations-masculines-de-l-enfance-l-ge-adulte-collectif"><b class="title">Socialisations masculines, de l’enfance à l’âge adulte</b> (collectif)&nbsp;(<a href="http://www.cairn.info/revue-terrains-et-travaux-2015-2.htm">lien</a>)</div>
   <div class="sources">
   
   
@@ -10677,7 +10754,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Quand Guantanamo-sur-Seine nous guette version camp d'attente indéterminée parce que les bleds ne vont pas nous accueillir<br/>
+        Quand Guantanamo-sur-Seine nous guette version camp d’attente indéterminée parce que les bleds ne vont pas nous accueillir<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/679673850947334145">@LionnelleMakaya</a></span>
       </blockquote>
     
@@ -10768,7 +10845,7 @@ Accès direct à un jour :<br/>
       </blockquote>
     
       <blockquote class="comment">
-        Droits et devoirs dans les enquêtes en sciences sociales. De nombreuses questions dans l'air du temps…<br/>
+        Droits et devoirs dans les enquêtes en sciences sociales. De nombreuses questions dans l’air du temps…<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/vanessa0jerome1/status/680017751080103940">@vanessa0jerome1</a></span>
       </blockquote>
     
@@ -10798,6 +10875,20 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Je suis un grand défenseur de l’ethnographie. Ceci est notamment dû à la découverte de certains écrits qui m’ont fait prendre conscience des points forts de cette méthode. Parmi ces texte, je conseille plus que fortement l’article de J. Katz (dans l’indispensable D. Cefaï (éd.), <i>L’engagement ethnographique</i>, Paris, éditions de l’EHESS, coll. «&nbsp;En Temps & Lieux&nbsp;», 2010, p. 43-105).<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/sociobd/status/679681201918087168">@sociobd</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-23-Le-mythe-de-l-individu-Miguel-Benasayag"><b class="title">Le mythe de l’individu</b>, par <span class="author">Miguel Benasayag</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        La philosophie produit d’excellentes sciences sociales.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/680141516396978176">@thefugitive_</a></span>
       </blockquote>
     
   
@@ -10950,7 +11041,7 @@ Accès direct à un jour :<br/>
   
     
       <blockquote class="comment">
-        Parce que c'est Noël…<br/>
+        Parce que c’est Noël…<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NuteluCaine/status/679959600251146240">@NuteluCaine</a></span>
       </blockquote>
     
@@ -11192,6 +11283,75 @@ Accès direct à un jour :<br/>
       </blockquote>
     
   
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Immigration-et-pens-e-d-tat-Abdelmalek-Sayad"><b class="title">Immigration et «&nbsp;pensée d’État&nbsp;»</b>, par <span class="author">Abdelmalek Sayad</span>&nbsp;(<a href="http://www.persee.fr/doc/arss_0335-5322_1999_num_129_1_3299">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Chef d’œuvre de la socio<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/PaillardSimon/status/680076235838517248">@PaillardSimon</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-L-invention-du-quotidien-Michel-de-Certeau"><b class="title">L’invention du quotidien</b>, par <span class="author">Michel de Certeau</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/F_Bally/status/680078980167413760">@F_Bally</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-La-topographie-l-gendaire-des-vangiles-en-Terre-sainte-Maurice-Halbwachs"><b class="title">La topographie légendaire des évangiles en Terre sainte</b>, par <span class="author">Maurice Halbwachs</span></div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Un sociologue sur les traces de la vie de Jésus en Palestine<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Gerome_Truc/status/680121113788157952">@Gerome_Truc</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24--spist-micides-Fatima-Khemilat"><b class="title">Éspistémicides</b>, par <span class="author">Fatima Khemilat</span>&nbsp;(<a href="https://www.youtube.com/watch?v=zK6hegi_wHE">lien</a>)</div>
+  <div class="sources">
+  
+    
+      <blockquote class="comment">
+        Sur la notion d’épistémicide de Sousa de Santos<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/thefugitive_/status/680144069079773184">@thefugitive_</a></span>
+      </blockquote>
+    
+  
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Au-bonheur-des-morts-R-cits-de-ceux-qui-restent-Vinciane-Despret"><b class="title">Au bonheur des morts : Récits de ceux qui restent</b>, par <span class="author">Vinciane Despret</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/JeffreyTallane/status/680164333213597696">@JeffreyTallane</a>.</p>
+  
+  </div>
+</article>
+<article class="book">
+  <div class="ref" id="dec15-24-Pourquoi-lire-les-philosophes-arabes-L-h-ritage-oubli-Ali-Benmakhlouf"><b class="title">Pourquoi lire les philosophes arabes? : L’héritage oublié</b>, par <span class="author">Ali Benmakhlouf</span></div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/JeffreyTallane/status/680166388711997442">@JeffreyTallane</a>.</p>
   
   </div>
 </article>

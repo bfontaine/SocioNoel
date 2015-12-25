@@ -10,6 +10,8 @@
         comment: >
           Parole donnée à ceux qui vivent la misère sociale, sous toutes ses
           formes. A offrir car accessible.
+      - source: https://twitter.com/thefugitive_/status/680138513434689536
+        comment: Pavé d’enquêtes passionnantes.
   - title: Les mots, la mort, les sorts
     author: Jeanne Favret-Saada
     sources:
@@ -1018,9 +1020,12 @@
   - title: Sociologie des crises politiques
     author: Michel Dobry
     source: https://twitter.com/EditionsScpo/status/672360817107607554
-  - title: Un si fragile vernis d’humanité
+  - title: "Un si fragile vernis d’humanité : Banalité du mal, banalité du bien"
     author: Michel Terestchenko
-    source: https://twitter.com/Silmalia/status/672355392823951360
+    sources:
+      - source: https://twitter.com/Silmalia/status/672355392823951360
+      - source: https://twitter.com/thefugitive_/status/680142590969298944
+        comment: Si je ne devais qu’avoir un seul livre…
   - title: Sur la télévision
     author: Pierre Bourdieu
     sources:
@@ -1308,7 +1313,7 @@
       Avec #SocioNoel, je crois que nous sommes entrés dans une logique de don
       agonistique. À propos : Linsey McGoey, No such thing as a free gift.
       Fondations philanthropique et capitalisme
-  - title: Le « Populisme du FN, » un dangereux contresens
+  - title: Le « Populisme du FN », un dangereux contresens
     author: Annie Collovald
     sources:
       - source: https://twitter.com/ruggeroparis/status/672698650854846464
@@ -1378,10 +1383,12 @@
       et bla bla bla. Il y a presque un refus de l’exceptionalisme qui me plaît
       bien dans ce papier.
     link: https://www.cairn.info/revue-francaise-de-science-politique-2006-1-page-5.htm
-  - title: Capitalisme, désir et servitude
+  - title: "Capitalisme, désir et servitude : Marx et Spinoza"
     author: Frédéric Lordon
-    source: https://twitter.com/IsawaGreg/status/672753088449613824
-    comment: "Hâte de le lire !"
+    sources:
+      - source: https://twitter.com/IsawaGreg/status/672753088449613824
+        comment: "Hâte de le lire !"
+      - source: https://twitter.com/thefugitive_/status/680136233759158274
   - title: Écrire les sciences sociales
     author: Howard Becker
     source: https://twitter.com/F_Bally/status/672754907838070786
@@ -3626,6 +3633,9 @@
     author: Pierre Nocerino
     source: https://twitter.com/sociobd/status/676825591874719748
     link: http://socio-bd.blogspot.fr/2015/12/la-construction-sociale-de-lautonomie.html
+  - title: "Peau noire, cheveu crépu : L’histoire d’une aliénation"
+    author: Juliette Sméralda
+    source: https://twitter.com/thefugitive_/status/680129913576402946
 16:
   - title: Les illusions du management
     author: Jean-Pierre Le Goff
@@ -3778,6 +3788,9 @@
     author: Jérémy Sinigaglia
     source: https://twitter.com/sociobd/status/677417739728904192
     link: https://3.bp.blogspot.com/-8N2WYKhV70I/VnJ9inCUPAI/AAAAAAAAAtw/sdkcy2-1LGo/s1600/DAY16%2BLD.png
+  - title: "We Real Cool: Black Men and Masculinity"
+    author: bell hooks
+    source: https://twitter.com/thefugitive_/status/680130621738475520
 17:
   - title: "Devenir adulte : Sociologie comparée de la jeunesse en Europe"
     author: Cécile Van de Velde
@@ -3899,6 +3912,10 @@
       INDISPENSABLE sur les débats autour de la laïcité par deux canadiens
       communautariens. Clair et précis, un régal
     link: http://www.editionsladecouverte.fr/catalogue/index-Laicite_et_liberte_de_conscience-9782707166470.html
+  - title: "Médias et classes populaires : Les usages ordinaires des informations"
+    author: Vincent Goulet
+    source: https://twitter.com/thefugitive_/status/680131848723369984
+    comment: Dans mon top 10
 18:
   - title: Soigner les exclus
     author: Isabelle Parizot
@@ -4016,6 +4033,9 @@
       Sur les questions du multi/inter-culturalisme au Québec et au Canada. Une
       grosse claque
     link: http://www.erudit.org/revue/ps/2010/v29/n1/039959ar.html?vue=resume
+  - title: "L’Islam imaginaire : La construction médiatique de l’islamophobie en France, 1975-2005"
+    author: Thomas Deltombe
+    source: https://twitter.com/thefugitive_/status/680133707584421889
 19:
   - title: Le manager et le sociologue
     author: Norbert Alter et Christian Dubonnet
@@ -4183,6 +4203,10 @@
     author: Everett C. Hughes
     source: https://twitter.com/sociobd/status/678517181114679296
     link: https://2.bp.blogspot.com/-LwvtaLVg8fs/VnZ85R3_f8I/AAAAAAAAAvY/eRub37T90GY/s1600/Day20LD.png
+  - title: "Guerre de mouvement et guerre de position"
+    author: Antonio Gramsci
+    source: https://twitter.com/thefugitive_/status/680137229142994944
+    comment: Textes de Gramsci réunis par R. Keucheyan.
 21:
   - title: "Refugees of the revolution, Experiences of Palestinian exile"
     author: Diana Allan
@@ -4427,6 +4451,9 @@
     comment: >
       Situation des gays à travers le monde. Pas académique du tout mais
       intéressant.
+  - title: "Je chante le corps critique : Les usages politiques du corps"
+    author: Claude Guillon
+    source: https://twitter.com/thefugitive_/status/680139780403937280
 23:
   - title: Le viol, aspects sociologiques d’un crime
     author: Véronique Le Goaziou
@@ -4466,15 +4493,15 @@
   - title: L’envie du monde
     author: Jean-Didier Urbain
     source: https://twitter.com/AdrienSonnet/status/679620360002793472
-  - title: "Socialisations masculines, de l'enfance à l'âge adulte"
+  - title: "Socialisations masculines, de l’enfance à l’âge adulte"
     author: collectif
     source: https://twitter.com/vanessa0jerome1/status/679645601567510528
     link: http://www.cairn.info/revue-terrains-et-travaux-2015-2.htm
   - title: Camps d’étrangers
     author: Marc Bernardot
     comment: >
-      Quand Guantanamo-sur-Seine nous guette version camp d'attente
-      indéterminée parce que les bleds ne vont pas nous accueillir 
+      Quand Guantanamo-sur-Seine nous guette version camp d’attente
+      indéterminée parce que les bleds ne vont pas nous accueillir
     source: https://twitter.com/LionnelleMakaya/status/679673850947334145
   - title: "Ceci n’est pas qu’un tableau : Essai sur l’art, la domination, la magie et le sacré"
     author: Bernard Lahire
@@ -4517,7 +4544,7 @@
       - source: https://twitter.com/vanessa0jerome1/status/680017751080103940
         comment: >
           Droits et devoirs dans les enquêtes en sciences sociales. De
-          nombreuses questions dans l'air du temps…
+          nombreuses questions dans l’air du temps…
     link: http://croquant.atheles.org/horscollection/enqueterdequeldroit/
   - title: Les identités meurtrières
     author: Amin Maalouf
@@ -4534,6 +4561,10 @@
       <i>L’engagement ethnographique</i>, Paris, éditions de l’EHESS, coll. «
       En Temps & Lieux », 2010, p. 43-105).
     link: https://1.bp.blogspot.com/-IEOhrerOp7o/Vnq5CN6i-xI/AAAAAAAAAwI/F6Axd4H36xo/s1600/Day%2B23%2BLD.PNG
+  - title: Le mythe de l’individu
+    author: Miguel Benasayag
+    source: https://twitter.com/thefugitive_/status/680141516396978176
+    comment: La philosophie produit d’excellentes sciences sociales.
 24:
   - title: La peur des barbares
     author: Tzvetan Todorov
@@ -4600,7 +4631,7 @@
   - title: Le cœur à l’ouvrage
     author: Jean-Claude Kaufmann
     source: https://twitter.com/NuteluCaine/status/679959600251146240
-    comment: Parce que c'est Noël…
+    comment: Parce que c’est Noël…
   - title: "Palestinian Refugees and Identity : Nationalism, Politics and the Everyday"
     author: Luigi Achilli
     source: https://twitter.com/CobbleAndFrame/status/679975754734645248
@@ -4666,7 +4697,7 @@
     source: https://twitter.com/Uneheuredepeine/status/679994463599628288
     link: http://www.fayard.fr/etats-et-revolutions-sociales-9782213014012
   - title: "Statistiques sans maths pour psychologues : SPSS pour Windows QCM et exercices corrigés"
-    author: Christine P. Dancey et John Reidy 
+    author: Christine P. Dancey et John Reidy
     source: https://twitter.com/Uneheuredepeine/status/679994463599628288
     link: http://www.amazon.fr/Statistiques-sans-maths-pour-psychologues/dp/2804153843
   - title: "Suicide : L’envers de notre monde"
@@ -4694,3 +4725,26 @@
     source: https://twitter.com/vanessa0jerome1/status/680040955974692864
     comment: "THE #SocioNoel !"
     link: http://www.cairn.info/resume.php?ID_ARTICLE=RDM_044_0229
+  - title: Immigration et « pensée d’État »
+    author: Abdelmalek Sayad
+    source: https://twitter.com/PaillardSimon/status/680076235838517248
+    comment: Chef d’œuvre de la socio
+    link: http://www.persee.fr/doc/arss_0335-5322_1999_num_129_1_3299
+  - title: L’invention du quotidien
+    author: Michel de Certeau
+    source: https://twitter.com/F_Bally/status/680078980167413760
+  - title: La topographie légendaire des évangiles en Terre sainte
+    author: Maurice Halbwachs
+    source: https://twitter.com/Gerome_Truc/status/680121113788157952
+    comment: Un sociologue sur les traces de la vie de Jésus en Palestine
+  - title: Éspistémicides
+    author: Fatima Khemilat
+    comment: Sur la notion d’épistémicide de Sousa de Santos
+    source: https://twitter.com/thefugitive_/status/680144069079773184
+    link: https://www.youtube.com/watch?v=zK6hegi_wHE
+  - title: "Au bonheur des morts : Récits de ceux qui restent"
+    author: Vinciane Despret
+    source: https://twitter.com/JeffreyTallane/status/680164333213597696
+  - title: "Pourquoi lire les philosophes arabes? : L’héritage oublié"
+    author: Ali Benmakhlouf
+    source: https://twitter.com/JeffreyTallane/status/680166388711997442
