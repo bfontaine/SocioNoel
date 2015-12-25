@@ -58,6 +58,10 @@ class Book
     @attrs["author"]
   end
 
+  def ref
+    "#{title}, #{author}"
+  end
+
   def sources
     @sources || @sources = sources_array.select { |s| s.has_key? "comment" }
   end
@@ -94,22 +98,7 @@ class Book
   def to_html
     id = "#{@attrs["title"]} #{@attrs["author"]}".gsub(/[^A-Za-z0-9]+/, "-")
     @attrs["anchor"] = "#{day_anchor @day}-#{id}"
-    @attrs["author_html"] = if @attrs["author"] == "collectif"
-                              " (collectif)"
-                            else
-                              prefix = if @attrs["directed"]
-                                         "dirigé par"
-                                       elsif @attrs["coordinated"]
-                                         "coordonné par"
-                                       elsif @attrs["type"] == "movie"
-                                         "réalisé par"
-                                       else
-                                         "par"
-                                       end
-
-                              %(, #{prefix} <span class="author">#{@attrs["author"]}</span>)
-                            end
-
+    @attrs["author_html"] = author_html
     @@renderer.result to_binding
   end
 
@@ -140,6 +129,21 @@ class Book
 
   def must(s)
     raise "Book '#{self}' must #{s}"
+  end
+
+  def author_html
+    return " (collectif)" if @attrs["author"] == "collectif"
+    prefix = if @attrs["directed"]
+                "dirigé par"
+              elsif @attrs["coordinated"]
+                "coordonné par"
+              elsif @attrs["type"] == "movie"
+                "réalisé par"
+              else
+                "par"
+              end
+
+    %(, #{prefix} <span class="author">#{@attrs["author"]}</span>)
   end
 
   def html_sources
@@ -175,6 +179,7 @@ end
 class BooksList
   def initialize(source)
     @days = YAML.load_file(source)
+    validate!
   end
 
   def write_jekyll(target)
@@ -192,14 +197,29 @@ class BooksList
     end
   end
 
+  def each_book
+    @days.each do |day, books|
+      books.each_with_index do |h, i|
+        yield Book.new(h, day, i)
+      end
+    end
+  end
+
   def write_compact_markdown(target)
     File.open(target, "w") do |f|
-      @days.each do |day, books|
-        books.each_with_index do |h, i|
-          book = Book.new(h, day, i)
-          f.write "- *#{book.title}* (#{book.author})\n"
-        end
+      each_book do |book|
+        f.write "- *#{book.title}* (#{book.author})\n"
       end
+    end
+  end
+
+  def validate!
+    refs = Set.new
+    each_book do |book|
+      if refs.include? book.ref
+        puts "#{book} might be duplicated"
+      end
+      refs << book.ref
     end
   end
 
