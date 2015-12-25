@@ -6,6 +6,7 @@ require "ostruct"
 require "yaml"
 require "fileutils"
 require "set"
+require "levenshtein"
 
 def day_title(day)
   "#{day == 1 ? "1er" : day} Décembre"
@@ -13,6 +14,24 @@ end
 
 def day_anchor(day)
   "dec15-#{day}"
+end
+
+# Find (possible) duplicates in a strings sequence. This is an expensive
+# computation for long sequences of long strings
+def duplicates(seq)
+  pairs = []
+  seq.each_with_index do |e1, i1|
+    seq.each_with_index do |e2, i2|
+      next if i1 == i2 || e1 > e2
+      # don't modify in-place
+      e1 = e1.downcase
+      e2 = e2.downcase
+
+      pairs << [e1, e2] if e1 == e2 || Levenshtein.distance(e1, e2) < 3
+    end
+  end
+
+  pairs
 end
 
 class Book
@@ -56,6 +75,10 @@ class Book
 
   def author
     @attrs["author"]
+  end
+
+  def authors
+    author.split(/(?:,\s+(?:et\s+)?|\s+et\s+)/)
   end
 
   def ref
@@ -214,12 +237,22 @@ class BooksList
   end
 
   def validate!
-    refs = Set.new
+    titles = Set.new
+    authors = Set.new
     each_book do |book|
-      if refs.include? book.ref
-        puts "#{book} might be duplicated"
-      end
-      refs << book.ref
+      # find duplicated books
+      titles << book.title
+      authors += book.authors
+    end
+
+    return unless ARGV.include? "--strict"
+
+    duplicates(authors).each do |(a1, a2)|
+      puts "'#{a1}' and '#{a2}' might be the same authors"
+    end
+
+    duplicates(titles).each do |(t1, t2)|
+      puts "'#{t1}' and '#{t2}' might be the same books"
     end
   end
 
@@ -230,8 +263,6 @@ class BooksList
     authors_mentions = {}
     sources = Set.new
     days = []
-
-    split_authors = /(?:,\s+(?:et\s+)?|\s+et\s+)/
 
     @days.each do |day, books|
       days << [day, books.size]
@@ -247,7 +278,7 @@ class BooksList
           sources << $1
         end
 
-        b.author.split(split_authors).each do |a|
+        b.authors.each do |a|
           authors << a
 
           authors_mentions[a] ||= 0
