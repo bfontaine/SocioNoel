@@ -11271,3 +11271,12 @@ Accès direct à un jour :<br/>
   
   </div>
 </article>
+<article class="book">
+  <div class="ref" id="dec15-24-Bourdieu-et-les-sciences-sociales-R-ception-et-usages-Catherine-Leclercq-Wenceslas-Liz-et-H-l-ne-Stevens"><b class="title">Bourdieu et les sciences sociales. Réception et usages</b>, dirigé par <span class="author">Catherine Leclercq, Wenceslas Lizé, et Hélène Stevens</span>&nbsp;(<a href="http://www.humanite.fr/bourdieu-continue-de-secouer-593895">lien</a>)</div>
+  <div class="sources">
+  
+  
+    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/ArSaintMartin/status/680348661671419904">@ArSaintMartin</a>.</p>
+  
+  </div>
+</article>
