@@ -356,6 +356,11 @@ Accès direct à un jour :<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/NLapeyroux/status/676724910924898304">@NLapeyroux</a></span>
       </blockquote>
     
+      <blockquote class="comment">
+        Parce que de ce qu’on m’en a dit je *-*<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/672047331517317120">@Pyrate_Jenni</a></span>
+      </blockquote>
+    
   
   
     <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/mquijoux/status/671707874180128768">@mquijoux</a>.</p>
@@ -386,9 +391,14 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-1-Allez-les-filles-Christian-Baudelot-et-Roger-Establet"><b class="title">Allez les filles !</b>, par <span class="author">Christian Baudelot et Roger Establet</span></div>
+  <div class="ref" id="dec15-1-Allez-les-filles-Christian-Baudelot-et-Roger-Establet"><b class="title">Allez les filles !</b>, par <span class="author">Christian Baudelot et Roger Establet</span>&nbsp;(<a href="http://www.seuil.com/livre-9782020146197.htm">lien</a>)</div>
   <div class="sources">
   
+    
+      <blockquote class="comment">
+        Baudelot et Establet expliquent les raisons des inégalités sexuées sur le marché de travail.<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ValGuery/status/678983645378514944">@ValGuery</a></span>
+      </blockquote>
     
       <blockquote class="comment">
         Le 2<sup>ème</sup> dans la même veine :<br/>- Allez les filles ! Christian Baudelot & Roger Establet<br/>
@@ -396,6 +406,8 @@ Accès direct à un jour :<br/>
       </blockquote>
     
   
+  
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/Laboratoire_CMH/status/673030122543439872">@Laboratoire_CMH</a>.</p>
   
   </div>
 </article>
@@ -1527,7 +1539,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-2-Ne-suis-je-pas-une-femme-Bell-Hooks"><b class="title">Ne suis-je pas une femme ?</b>, par <span class="author">Bell Hooks</span>&nbsp;(<a href="http://www.cambourakis.com/spip.php?article625">lien</a>)</div>
+  <div class="ref" id="dec15-2-Ne-suis-je-pas-une-femme-bell-hooks"><b class="title">Ne suis-je pas une femme ?</b>, par <span class="author">bell hooks</span>&nbsp;(<a href="http://www.cambourakis.com/spip.php?article625">lien</a>)</div>
   <div class="sources">
   
     
@@ -1824,20 +1836,6 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-2-La-Culture-du-pauvre-Richard-Hoggart"><b class="title">La Culture du pauvre</b>, par <span class="author">Richard Hoggart</span></div>
-  <div class="sources">
-  
-    
-      <blockquote class="comment">
-        Parce que de ce qu’on m’en a dit je *-*<br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/Pyrate_Jenni/status/672047331517317120">@Pyrate_Jenni</a></span>
-      </blockquote>
-    
-  
-  
-  </div>
-</article>
-<article class="book">
   <div class="ref" id="dec15-2-Forg-par-l-preuve-Danilo-Martuccelli"><b class="title">Forgé par l’épreuve</b>, par <span class="author">Danilo Martuccelli</span></div>
   <div class="sources">
   
@@ -1969,7 +1967,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-2-La-sociologie-des-sciences-Yves-Gringas"><b class="title">La sociologie des sciences</b>, par <span class="author">Yves Gringas</span>&nbsp;(<a href="http://www.uqam.ca/entrevues/entrevue.php?id=1237">lien</a>)</div>
+  <div class="ref" id="dec15-2-La-sociologie-des-sciences-Yves-Gingras"><b class="title">La sociologie des sciences</b>, par <span class="author">Yves Gingras</span>&nbsp;(<a href="http://www.uqam.ca/entrevues/entrevue.php?id=1237">lien</a>)</div>
   <div class="sources">
   
   
@@ -2922,7 +2920,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-4-Sociologie-du-journalisme-rik-Neveu"><b class="title">Sociologie du journalisme</b>, par <span class="author">Érik Neveu</span></div>
+  <div class="ref" id="dec15-4-Sociologie-du-journalisme-Erik-Neveu"><b class="title">Sociologie du journalisme</b>, par <span class="author">Erik Neveu</span></div>
   <div class="sources">
   
     
@@ -3149,7 +3147,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-4-La-mesure-de-l-Etat-Eric-Brian"><b class="title">La mesure de l’Etat</b>, par <span class="author">Eric Brian</span></div>
+  <div class="ref" id="dec15-4-La-mesure-de-l-Etat-ric-Brian"><b class="title">La mesure de l’Etat</b>, par <span class="author">Éric Brian</span></div>
   <div class="sources">
   
     
@@ -3407,7 +3405,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-4-La-grande-arnaque-Sexualit-des-femmes-et-change-conomico-sexuel-Paola-Tanet"><b class="title">La grande arnaque : Sexualité des femmes et échange économico-sexuel</b>, par <span class="author">Paola Tanet</span></div>
+  <div class="ref" id="dec15-4-La-grande-arnaque-Sexualit-des-femmes-et-change-conomico-sexuel-Paola-Tabet"><b class="title">La grande arnaque : Sexualité des femmes et échange économico-sexuel</b>, par <span class="author">Paola Tabet</span></div>
   <div class="sources">
   
     
@@ -3546,22 +3544,6 @@ Accès direct à un jour :<br/>
       </blockquote>
     
   
-  
-  </div>
-</article>
-<article class="book">
-  <div class="ref" id="dec15-5-Allez-les-filles-Christian-Beaudelot-et-Roger-Establet"><b class="title">Allez les filles !</b>, par <span class="author">Christian Beaudelot et Roger Establet</span>&nbsp;(<a href="http://www.seuil.com/livre-9782020146197.htm">lien</a>)</div>
-  <div class="sources">
-  
-    
-      <blockquote class="comment">
-        Baudelot et Establet expliquent les raisons des inégalités sexuées sur le marché de travail.<br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/ValGuery/status/678983645378514944">@ValGuery</a></span>
-      </blockquote>
-    
-  
-  
-    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/Laboratoire_CMH/status/673030122543439872">@Laboratoire_CMH</a>.</p>
   
   </div>
 </article>
@@ -4009,13 +3991,18 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-5-Les-f-ministes-et-le-gar-on-arabe-Nacira-Gu-nif-Souilamas-et-ric-Mac-"><b class="title">Les féministes et le garçon arabe</b>, par <span class="author">Nacira Guénif Souilamas et Éric Macé</span></div>
+  <div class="ref" id="dec15-5-Les-f-ministes-et-le-gar-on-arabe-Nacira-Gu-nif-Souilamas-et-ric-Mac-"><b class="title">Les féministes et le garçon arabe</b>, par <span class="author">Nacira Guénif-Souilamas et Éric Macé</span></div>
   <div class="sources">
   
     
       <blockquote class="comment">
         Nacéra Guenif-Souilamas pour TOUTE son œuvre (pas finie) son engagement et son puissant concept #antisexismepatriarcal<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/LionnelleMakaya/status/673412482971602944">@LionnelleMakaya</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Pour comprendre le fémonationalisme et la racialisation du sexisme<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/674322170777108481">@pa_prika_m</a></span>
       </blockquote>
     
   
@@ -5049,13 +5036,18 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-8-Le-Communisme-d-sarm-Julian-Mischi"><b class="title">Le Communisme désarmé</b>, par <span class="author">Julian Mischi</span>&nbsp;(<a href="http://agone.org/contrefeux/lecommunismedesarme/">lien</a>)</div>
+  <div class="ref" id="dec15-8-Le-communisme-d-sarm-Julian-Mischi"><b class="title">Le communisme désarmé</b>, par <span class="author">Julian Mischi</span>&nbsp;(<a href="http://agone.org/contrefeux/lecommunismedesarme/">lien</a>)</div>
   <div class="sources">
   
     
       <blockquote class="comment">
         Une des vraies clés pour comprendre la mort actuelle de la gauche<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/mquijoux/status/674142053526323200">@mquijoux</a></span>
+      </blockquote>
+    
+      <blockquote class="comment">
+        Le diptyque de Julian Mischi sur le PCF, Servir la classe ouvrière et Le communisme désarmé<br/>
+        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/675735261096079361">@SamuelHayat</a></span>
       </blockquote>
     
   
@@ -5495,6 +5487,8 @@ Accès direct à un jour :<br/>
     
   
   
+    <p class="recommenders">Également recommandé par <a class="handle" href="https://twitter.com/Silmalia/status/678717772562604032">@Silmalia</a>.</p>
+  
   </div>
 </article>
 <article class="book">
@@ -5561,20 +5555,6 @@ Accès direct à un jour :<br/>
       <blockquote class="comment">
         Bourdieu, Esquisse pour une auto analyse<br/>
         <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/MorganeMdt/status/674316199019356161">@MorganeMdt</a></span>
-      </blockquote>
-    
-  
-  
-  </div>
-</article>
-<article class="book">
-  <div class="ref" id="dec15-8-Les-f-ministes-et-le-gar-on-arabe-Nacira-Gu-nif-Souilamas-et-ric-Mac-"><b class="title">Les féministes et le garçon arabe</b>, par <span class="author">Nacira Guénif-Souilamas et Éric Macé</span></div>
-  <div class="sources">
-  
-    
-      <blockquote class="comment">
-        Pour comprendre le fémonationalisme et la racialisation du sexisme<br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/pa_prika_m/status/674322170777108481">@pa_prika_m</a></span>
       </blockquote>
     
   
@@ -6459,7 +6439,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-10-Jeunesse-et-classes-sociales-Jean-CLaude-Chamboredon"><b class="title">Jeunesse et classes sociales</b>, par <span class="author">Jean-CLaude Chamboredon</span></div>
+  <div class="ref" id="dec15-10-Jeunesse-et-classes-sociales-Jean-Claude-Chamboredon"><b class="title">Jeunesse et classes sociales</b>, par <span class="author">Jean-Claude Chamboredon</span></div>
   <div class="sources">
   
     
@@ -7454,20 +7434,6 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-12-Le-communisme-d-sarm-Julian-Mischi"><b class="title">Le communisme désarmé</b>, par <span class="author">Julian Mischi</span></div>
-  <div class="sources">
-  
-    
-      <blockquote class="comment">
-        Le diptyque de Julian Mischi sur le PCF, Servir la classe ouvrière et Le communisme désarmé<br/>
-        <span class="comment-author">—&nbsp;&nbsp;<a class="handle" href="https://twitter.com/SamuelHayat/status/675735261096079361">@SamuelHayat</a></span>
-      </blockquote>
-    
-  
-  
-  </div>
-</article>
-<article class="book">
   <div class="ref" id="dec15-12-Dictionnaire-des-mouvements-sociaux-Olivier-Fillieule-Lilian-Mathieu-et-C-cile-P-chu"><b class="title">Dictionnaire des mouvements sociaux</b>, par <span class="author">Olivier Fillieule, Lilian Mathieu, et Cécile Péchu</span></div>
   <div class="sources">
   
@@ -7709,7 +7675,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-13-D-construire-l-identit-nationale-ric-Hobsbawn-B-n-dict-Anderson-et-Anne-Marie-Thiesse"><b class="title">Déconstruire l’identité nationale</b>, par <span class="author">Éric Hobsbawn, Bénédict Anderson, et Anne-Marie Thiesse</span></div>
+  <div class="ref" id="dec15-13-D-construire-l-identit-nationale-ric-Hobsbawn-Benedict-Anderson-et-Anne-Marie-Thiesse"><b class="title">Déconstruire l’identité nationale</b>, par <span class="author">Éric Hobsbawn, Benedict Anderson, et Anne-Marie Thiesse</span></div>
   <div class="sources">
   
     
@@ -9947,15 +9913,6 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-20-Culture-Geek-David-Peyron"><b class="title">Culture Geek</b>, par <span class="author">David Peyron</span></div>
-  <div class="sources">
-  
-  
-    <p class="recommenders">Recommandé par <a class="handle" href="https://twitter.com/Silmalia/status/678717772562604032">@Silmalia</a>.</p>
-  
-  </div>
-</article>
-<article class="book">
   <div class="ref" id="dec15-20-Le-Regard-sociologique-Essais-choisis-Everett-C-Hughes"><b class="title">Le Regard sociologique. Essais choisis</b>, par <span class="author">Everett C. Hughes</span>&nbsp;(<a href="https://2.bp.blogspot.com/-LwvtaLVg8fs/VnZ85R3_f8I/AAAAAAAAAvY/eRub37T90GY/s1600/Day20LD.png">lien</a>)</div>
   <div class="sources">
   
@@ -10142,7 +10099,7 @@ Accès direct à un jour :<br/>
   </div>
 </article>
 <article class="book">
-  <div class="ref" id="dec15-21-Sociologie-des-ges-de-la-vie-C-cile-Van-De-Velde"><b class="title">Sociologie des âges de la vie</b>, par <span class="author">Cécile Van De Velde</span>&nbsp;(<a href="http://www.armand-colin.com/sociologie-des-ages-de-la-vie-9782200600501">lien</a>)</div>
+  <div class="ref" id="dec15-21-Sociologie-des-ges-de-la-vie-C-cile-Van-de-Velde"><b class="title">Sociologie des âges de la vie</b>, par <span class="author">Cécile Van de Velde</span>&nbsp;(<a href="http://www.armand-colin.com/sociologie-des-ages-de-la-vie-9782200600501">lien</a>)</div>
   <div class="sources">
   
   

@@ -152,6 +152,8 @@
       - source: https://twitter.com/mquijoux/status/671707874180128768
       - source: https://twitter.com/NLapeyroux/status/676724910924898304
         comment: La genèse des Cultural Studies
+      - source: https://twitter.com/Pyrate_Jenni/status/672047331517317120
+        comment: Parce que de ce qu’on m’en a dit je *-*
   - title: La fabrique des garçons
     author: Sylvie Ayral
     source: https://twitter.com/hvqoi/status/671705969311789056
@@ -162,10 +164,17 @@
     comment: Un 1er livre qui m’a ouvert l’esprit & inspiré
   - title: Allez les filles !
     author: Christian Baudelot et Roger Establet
-    source: https://twitter.com/TookyTsuki/status/671710102710300672
-    comment: |
-      Le 2<sup>ème</sup> dans la même veine :
-      - Allez les filles ! Christian Baudelot & Roger Establet
+    sources:
+      - source: https://twitter.com/Laboratoire_CMH/status/673030122543439872
+      - source: https://twitter.com/ValGuery/status/678983645378514944
+        comment: >
+          Baudelot et Establet expliquent les raisons des inégalités sexuées
+          sur le marché de travail.
+      - source: https://twitter.com/TookyTsuki/status/671710102710300672
+        comment: |
+          Le 2<sup>ème</sup> dans la même veine :
+          - Allez les filles ! Christian Baudelot & Roger Establet
+    link: http://www.seuil.com/livre-9782020146197.htm
   - title: >
       Cartographies des marges : intersectionnalité, politique de l’identité et
       violences contre les femmes de couleur
@@ -636,7 +645,7 @@
       TOUT Chauvier chez @EditionsAllia Mention spéciale pour la notion de
       fiction thérorique !
   - title: Ne suis-je pas une femme ?
-    author: Bell Hooks
+    author: bell hooks
     source: https://twitter.com/CristinaNizzoli/status/672006095653728256
     comment: Un livre majeur du black feminism enfin traduit en français
     link: http://www.cambourakis.com/spip.php?article625
@@ -764,10 +773,6 @@
     source: https://twitter.com/F__Casta/status/672047269353553920
     comment: >
       Beau classique contre la suprême-théorie et l’empirisme abstrait
-  - title: La Culture du pauvre
-    author: Richard Hoggart
-    source: https://twitter.com/Pyrate_Jenni/status/672047331517317120
-    comment: Parce que de ce qu’on m’en a dit je *-*
   - title: Forgé par l’épreuve
     author: Danilo Martuccelli
     source: https://twitter.com/IdealTyp/status/672065257985155072
@@ -818,7 +823,7 @@
     source: https://twitter.com/joliraton/status/672119426343428097
     comment: Aride, mais parler de beauté fallait oser !
   - title: La sociologie des sciences
-    author: Yves Gringas
+    author: Yves Gingras
     source: https://twitter.com/gcabanac/status/672120337992167424
     link: http://www.uqam.ca/entrevues/entrevue.php?id=1237
   - title: "Le travail : une valeur en voie de disparition ?"
@@ -1237,7 +1242,7 @@
           ces ACM/ACP/ACTrucs qui traînent partout.
       - source: https://twitter.com/sociobd/status/677443370210500608
   - title: Sociologie du journalisme
-    author: Érik Neveu
+    author: Erik Neveu
     source: https://twitter.com/M_Iz_6/status/672682252694851584
     comment: >
       Les deux branches d’un dévoilement (personnel) : Bourdieu et Neveu
@@ -1346,7 +1351,7 @@
       - source: https://twitter.com/Lil_RoXaNe/status/675232531613130752
         comment: Un de mes préférés (super accessible)
   - title: La mesure de l’Etat
-    author: Eric Brian
+    author: Éric Brian
     source: https://twitter.com/Comtesse_Leia/status/672720585164738560
     comment: >
       Sur la genèse de la statistique et les rapports entre sciences et
@@ -1462,7 +1467,7 @@
       Le livre qui m’a donné envie de m’intéresser à la sociologie du sport.
       L’un des rares consacrés au tennis
   - title: "La grande arnaque : Sexualité des femmes et échange économico-sexuel"
-    author: Paola Tanet
+    author: Paola Tabet
     sources:
       - source: https://twitter.com/RaphCann/status/672815608761876480
         comment: >
@@ -1528,15 +1533,6 @@
     comment: >
       Souvenir d’avant l’interdiction officielle de tous les titres pastiches
       de Michel Foucault
-  - title: "Allez les filles !"
-    author: Christian Beaudelot et Roger Establet
-    sources:
-      - source: https://twitter.com/Laboratoire_CMH/status/673030122543439872
-      - source: https://twitter.com/ValGuery/status/678983645378514944
-        comment: >
-          Baudelot et Establet expliquent les raisons des inégalités sexuées
-          sur le marché de travail.
-    link: http://www.seuil.com/livre-9782020146197.htm
   - title: "Anticapitalistes : une sociologie historique de l’engagement"
     author: Florence Johsua
     sources:
@@ -1731,12 +1727,16 @@
     author: Laurent Bonelli
     source: https://twitter.com/Jacobo_Grajales/status/673262327651790848
     comment: Utile lecture par ces temps de panique
-  - title: "Les féministes et le garçon arabe"
-    author: Nacira Guénif Souilamas et Éric Macé
-    source: https://twitter.com/LionnelleMakaya/status/673412482971602944
-    comment: >
-      Nacéra Guenif-Souilamas pour TOUTE son œuvre (pas finie) son engagement
-      et son puissant concept #antisexismepatriarcal
+  - title: Les féministes et le garçon arabe
+    author: Nacira Guénif-Souilamas et Éric Macé
+    sources:
+      - source: https://twitter.com/LionnelleMakaya/status/673412482971602944
+        comment: >
+          Nacéra Guenif-Souilamas pour TOUTE son œuvre (pas finie) son engagement
+          et son puissant concept #antisexismepatriarcal
+      - source: https://twitter.com/pa_prika_m/status/674322170777108481
+        comment: >
+          Pour comprendre le fémonationalisme et la racialisation du sexisme
   - title: "La tradition sociologique de Chicago"
     author: Jean-Michel Chapoulie
     source: https://twitter.com/lestrelin/status/673426483050881024
@@ -2169,10 +2169,16 @@
     comment: >
       Quelques éléments dans ce classique pour comprendre les 64% d’abstentions
       chez les 18-25 ans…
-  - title: Le Communisme désarmé
+  - title: Le communisme désarmé
     author: Julian Mischi
-    source: https://twitter.com/mquijoux/status/674142053526323200
-    comment: Une des vraies clés pour comprendre la mort actuelle de la gauche
+    sources:
+      - source: https://twitter.com/mquijoux/status/674142053526323200
+        comment: >
+          Une des vraies clés pour comprendre la mort actuelle de la gauche
+      - source: https://twitter.com/SamuelHayat/status/675735261096079361
+        comment: >
+          Le diptyque de Julian Mischi sur le PCF, Servir la classe ouvrière et
+          Le communisme désarmé
     link: http://agone.org/contrefeux/lecommunismedesarme/
   - title: La frénésie sécuritaire
     author: Laurent Mucchielli
@@ -2361,9 +2367,11 @@
     link: https://vimeo.com/114535365
   - title: Culture geek
     author: David Peyron
-    source: https://twitter.com/RaphCann/status/674295800718061568
-    comment: >
-      Agréable et intéressant pour comprendre pleins d’aspects de cette culture
+    sources:
+      - source: https://twitter.com/RaphCann/status/674295800718061568
+        comment: >
+          Agréable et intéressant pour comprendre pleins d’aspects de cette culture
+      - source: https://twitter.com/Silmalia/status/678717772562604032
   - title: Histoire des ouvriers en France au XX<sup>e</sup> siècle
     author: Xavier Vigna
     source: https://twitter.com/Ostpolitik/status/674305038014091264
@@ -2391,11 +2399,6 @@
     author: Pierre Bourdieu
     source: https://twitter.com/MorganeMdt/status/674316199019356161
     comment: Bourdieu, Esquisse pour une auto analyse
-  - title: Les féministes et le garçon arabe
-    author: Nacira Guénif-Souilamas et Éric Macé
-    source: https://twitter.com/pa_prika_m/status/674322170777108481
-    comment: >
-      Pour comprendre le fémonationalisme et la racialisation du sexisme
   - title: La souveraineté alimentaire comme cause transnationale
     author: Delphine Thivet
     source: https://twitter.com/NuteluCaine/status/674330709310504960
@@ -2780,7 +2783,7 @@
     comment: >
       Encore un petit peu de sociologie politique (avec une belle intro)
   - title: Jeunesse et classes sociales
-    author: Jean-CLaude Chamboredon
+    author: Jean-Claude Chamboredon
     source: https://twitter.com/younesamrani2/status/674932732061962240
     comment: >
       Des fois on peut penser que tout a déjà été écrit il y a bien longtemps.
@@ -3207,12 +3210,6 @@
   - title: Visages et usages de l’“extrême droite” en Italie
     author: Stéphanie Dechezelles
     source: https://twitter.com/CobbleAndFrame/status/675718649974497280
-  - title: "Le communisme désarmé"
-    author: Julian Mischi
-    source: https://twitter.com/SamuelHayat/status/675735261096079361
-    comment: >
-      Le diptyque de Julian Mischi sur le PCF, Servir la classe ouvrière et Le
-      communisme désarmé
   - title: "Dictionnaire des mouvements sociaux"
     author: Olivier Fillieule, Lilian Mathieu, et Cécile Péchu
     source: https://twitter.com/Silmalia/status/675737419975680001
@@ -3322,7 +3319,7 @@
       "Danser. Enquête dans les coulisses d’une vocation" de Pierre-Emmanuel
       Sorignet.
   - title: Déconstruire l’identité nationale
-    author: Éric Hobsbawn, Bénédict Anderson, et Anne-Marie Thiesse
+    author: Éric Hobsbawn, Benedict Anderson, et Anne-Marie Thiesse
     source: https://twitter.com/Ianonim/status/676054796055535616
     comment: RIP Anderson mort hier
   - title: "Les femmes politiques à la télévision. Quel accès à la parole légitime ?"
@@ -4188,9 +4185,6 @@
     author: Muriel Darmon
     source: https://twitter.com/balleverte/status/678692738691371010
     comment: Bonus
-  - title: Culture Geek
-    author: David Peyron
-    source: https://twitter.com/Silmalia/status/678717772562604032
   - title: "Le Regard sociologique. Essais choisis"
     author: Everett C. Hughes
     source: https://twitter.com/sociobd/status/678517181114679296
@@ -4263,7 +4257,7 @@
       72-101.
     link: https://1.bp.blogspot.com/-gmNtvE84wlY/Vnfc3E6AUnI/AAAAAAAAAvo/g5NI8M2otpg/s1600/day21LD.png
   - title: Sociologie des âges de la vie
-    author: Cécile Van De Velde
+    author: Cécile Van de Velde
     source: https://twitter.com/Laboratoire_CMH/status/678912051562070016
     link: http://www.armand-colin.com/sociologie-des-ages-de-la-vie-9782200600501
   - title: L’émotion en politique
