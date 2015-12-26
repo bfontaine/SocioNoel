@@ -24,10 +24,11 @@ def duplicates(seq)
     seq.each_with_index do |e2, i2|
       next if i1 == i2 || e1 > e2
       # don't modify in-place
+      pair = [e1, e2]
       e1 = e1.downcase
       e2 = e2.downcase
 
-      pairs << [e1, e2] if e1 == e2 || Levenshtein.distance(e1, e2) < 3
+      pairs << pair if e1 == e2 || Levenshtein.distance(e1, e2) < 3
     end
   end
 
@@ -289,6 +290,10 @@ class BooksList
 
     authors = authors.sort.group_by { |a| a }.map { |a, x| [a, x.size]}.sort_by(&:last).reverse
     authors_mentions = authors_mentions.entries.sort_by(&:last).reverse
+
+    if ARGV.include? "--sources"
+      puts sources.to_a.sort_by { |s| s.downcase.gsub(/^[^a-z0-9]/, "") }.map { |s| "@#{s}" }.join ", "
+    end
 
     {
       :books_count => books_count,
